@@ -1,0 +1,69 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Steven Marshall"
+      },
+      "id": "Q7615025",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7615025"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Cabinet of South Australia"
+      },
+      "id": "Q24185541",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24185541"
+        }
+      ],
+      "area_id": "Q35715"
+    },
+    {
+      "name": {
+        "lang:en": "Liberal Party of Australia (South Australian Division)"
+      },
+      "id": "Q23198434",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23198434"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7615025-00885dcc-4c16-1758-09f6-7407dc9adba1",
+      "person_id": "Q7615025",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q24185541",
+      "area_id": "Q35715",
+      "start_date": "2018-03-19",
+      "role_superclass_code": "Q27230596",
+      "role_superclass": {
+        "lang:en": "Premier of South Australia"
+      },
+      "role_code": "Q27230596",
+      "role": {
+        "lang:en": "Premier of South Australia"
+      }
+    }
+  ]
+}

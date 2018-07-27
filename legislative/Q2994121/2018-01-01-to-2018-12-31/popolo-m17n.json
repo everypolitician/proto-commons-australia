@@ -1,0 +1,593 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Robert Officer"
+      },
+      "id": "Q16063480",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16063480"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Leonie Hiscutt"
+      },
+      "id": "Q16193151",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16193151"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robert Armstrong"
+      },
+      "id": "Q16769632",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16769632"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Race Allison"
+      },
+      "id": "Q21539590",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21539590"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Josh Willie"
+      },
+      "id": "Q24038521",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24038521"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sarah Lovell"
+      },
+      "id": "Q29843100",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29843100"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jo Siejka"
+      },
+      "id": "Q42711706",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42711706"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Craig Farrell"
+      },
+      "id": "Q5180952",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5180952"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jane Howlett"
+      },
+      "id": "Q53547591",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53547591"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Greg Hall"
+      },
+      "id": "Q5605645",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5605645"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ivan Dean"
+      },
+      "id": "Q6096127",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6096127"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jim Wilkinson"
+      },
+      "id": "Q6198934",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6198934"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kerry Finch"
+      },
+      "id": "Q6394521",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6394521"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mike Gaffney"
+      },
+      "id": "Q6846936",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6846936"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rob Valentine"
+      },
+      "id": "Q7340615",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7340615"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rosemary Armitage"
+      },
+      "id": "Q7368305",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7368305"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ruth Forrest"
+      },
+      "id": "Q7382988",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7382988"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Stafford Bird"
+      },
+      "id": "Q7596600",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7596600"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tania Rattray"
+      },
+      "id": "Q7683259",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7683259"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Tasmanian Legislative Council"
+      },
+      "id": "Q2994121",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2994121"
+        }
+      ],
+      "area_id": "Q34366",
+      "seat_counts": {
+        "Q19299542": "15"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16063480-c07730bc-4079-b643-8051-e295df7078f3",
+      "person_id": "Q16063480",
+      "organization_id": "Q2994121",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19299542",
+      "role": {
+        "lang:en": "Member of the Tasmanian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16193151-d2040ed3-4603-0cee-8ba9-09bb8c3bcb0d",
+      "person_id": "Q16193151",
+      "organization_id": "Q2994121",
+      "area_id": "Q5356234",
+      "start_date": "2013-05-04",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19299542",
+      "role": {
+        "lang:en": "Member of the Tasmanian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16769632-876106a1-4dd3-2cbe-3e40-d95e5cf5addc",
+      "person_id": "Q16769632",
+      "organization_id": "Q2994121",
+      "area_id": "Q5356221",
+      "start_date": "2014-05-03",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19299542",
+      "role": {
+        "lang:en": "Member of the Tasmanian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21539590-12affe29-498e-df2b-2d93-c4cee476390c",
+      "person_id": "Q21539590",
+      "organization_id": "Q2994121",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19299542",
+      "role": {
+        "lang:en": "Member of the Tasmanian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24038521-cf8143f9-4ce2-8580-8ee0-98a3dbdf58b0",
+      "person_id": "Q24038521",
+      "organization_id": "Q2994121",
+      "area_id": "Q5356212",
+      "start_date": "2016-05-07",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19299542",
+      "role": {
+        "lang:en": "Member of the Tasmanian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29843100-aa82ff13-4a8d-353d-9bde-d7c43a1d7ce1",
+      "person_id": "Q29843100",
+      "organization_id": "Q2994121",
+      "area_id": "Q5356249",
+      "start_date": "2017-05-06",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19299542",
+      "role": {
+        "lang:en": "Member of the Tasmanian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42711706-d697c6a0-4608-a9de-e808-3af5077b4b3a",
+      "person_id": "Q42711706",
+      "organization_id": "Q2994121",
+      "area_id": "Q17021056",
+      "start_date": "2017-11-04",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19299542",
+      "role": {
+        "lang:en": "Member of the Tasmanian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5180952-fbd9c29c-4847-4baa-223f-1b386ede33dd",
+      "person_id": "Q5180952",
+      "organization_id": "Q2994121",
+      "area_id": "Q5356208",
+      "start_date": "2011-05-07",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19299542",
+      "role": {
+        "lang:en": "Member of the Tasmanian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53547591-9f386d0b-4e97-e107-2d86-88e01c742a21",
+      "person_id": "Q53547591",
+      "organization_id": "Q2994121",
+      "area_id": "Q38251649",
+      "start_date": "2018-05-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19299542",
+      "role": {
+        "lang:en": "Member of the Tasmanian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5605645-711f2b0f-42cb-5d83-42bb-5a858cb62f06",
+      "person_id": "Q5605645",
+      "organization_id": "Q2994121",
+      "area_id": "Q38251647",
+      "start_date": "2017-08-05",
+      "end_date": "2018-05-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19299542",
+      "role": {
+        "lang:en": "Member of the Tasmanian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6096127-827ae96a-4674-5699-dbfd-f619d466b924",
+      "person_id": "Q6096127",
+      "organization_id": "Q2994121",
+      "area_id": "Q5356261",
+      "start_date": "2003-05-03",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19299542",
+      "role": {
+        "lang:en": "Member of the Tasmanian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6198934-16b970d4-4075-23fb-0b83-4fdd8534053d",
+      "person_id": "Q6198934",
+      "organization_id": "Q2994121",
+      "area_id": "Q5356240",
+      "start_date": "1999-07-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19299542",
+      "role": {
+        "lang:en": "Member of the Tasmanian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6394521-e38e4721-4d02-2407-67d6-fc21f3141cad",
+      "person_id": "Q6394521",
+      "organization_id": "Q2994121",
+      "area_id": "Q5356247",
+      "start_date": "2002-05-04",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19299542",
+      "role": {
+        "lang:en": "Member of the Tasmanian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6846936-39a04a49-406f-1b22-cd6d-c798ac825190",
+      "person_id": "Q6846936",
+      "organization_id": "Q2994121",
+      "area_id": "Q5356232",
+      "start_date": "2009-05-02",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19299542",
+      "role": {
+        "lang:en": "Member of the Tasmanian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7340615-50e1d5b2-4f00-9973-365e-59a8b5b80b19",
+      "person_id": "Q7340615",
+      "organization_id": "Q2994121",
+      "area_id": "Q5356220",
+      "start_date": "2012-05-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19299542",
+      "role": {
+        "lang:en": "Member of the Tasmanian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7368305-1d5dc10b-441b-c410-4c1f-8ae00be08a08",
+      "person_id": "Q7368305",
+      "organization_id": "Q2994121",
+      "area_id": "Q5356227",
+      "start_date": "2011-05-07",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19299542",
+      "role": {
+        "lang:en": "Member of the Tasmanian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7382988-20dc6368-46b2-c8fb-48ba-e1b3df34b5a1",
+      "person_id": "Q7382988",
+      "organization_id": "Q2994121",
+      "area_id": "Q5356235",
+      "start_date": "2005-05-07",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19299542",
+      "role": {
+        "lang:en": "Member of the Tasmanian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7596600-aa06329d-4ce8-4e25-7d9b-a467bace02da",
+      "person_id": "Q7596600",
+      "organization_id": "Q2994121",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19299542",
+      "role": {
+        "lang:en": "Member of the Tasmanian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7683259-264b7491-4218-9e01-4072-ca3d9dc02f10",
+      "person_id": "Q7683259",
+      "organization_id": "Q2994121",
+      "area_id": "Q38251647",
+      "start_date": "2017-08-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19299542",
+      "role": {
+        "lang:en": "Member of the Tasmanian Legislative Council"
+      }
+    }
+  ]
+}

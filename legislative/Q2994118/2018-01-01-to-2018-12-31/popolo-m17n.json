@@ -1,0 +1,888 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Henry Saunders"
+      },
+      "id": "Q16043809",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16043809"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Martin Aldridge"
+      },
+      "id": "Q16149405",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16149405"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alanna Clohesy"
+      },
+      "id": "Q16194482",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16194482"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Darren West"
+      },
+      "id": "Q16196330",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16196330"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Martin Pritchard"
+      },
+      "id": "Q19877271",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19877271"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "David Wordsworth"
+      },
+      "id": "Q24206361",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24206361"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Laine McDonald"
+      },
+      "id": "Q27450624",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27450624"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kyle McGinn"
+      },
+      "id": "Q29021086",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29021086"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Matthew Swinbourn"
+      },
+      "id": "Q29021088",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29021088"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Colin de Grussa"
+      },
+      "id": "Q29021089",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29021089"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aaron Stonehouse"
+      },
+      "id": "Q29021191",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29021191"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pierre Yang"
+      },
+      "id": "Q29021193",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29021193"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tjorn Sibma"
+      },
+      "id": "Q29021194",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29021194"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Colin Tincknell"
+      },
+      "id": "Q29021199",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29021199"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Elise Irwin"
+      },
+      "id": "Q29167607",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29167607"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bill Leadbetter"
+      },
+      "id": "Q29167608",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29167608"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tim Clifford"
+      },
+      "id": "Q30122081",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30122081"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Charles Smith"
+      },
+      "id": "Q30122082",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30122082"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robin Scott"
+      },
+      "id": "Q30122084",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30122084"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Laurie Graham"
+      },
+      "id": "Q30122085",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30122085"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Diane Evers"
+      },
+      "id": "Q30122086",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30122086"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alison Xamon"
+      },
+      "id": "Q4727226",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4727226"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Charles Williams"
+      },
+      "id": "Q5083596",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5083596"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Donna Faragher"
+      },
+      "id": "Q5296343",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5296343"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Davis"
+      },
+      "id": "Q6228781",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6228781"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kate Doust"
+      },
+      "id": "Q6375471",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6375471"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ross Lightfoot"
+      },
+      "id": "Q7369472",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7369472"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sally Talbot"
+      },
+      "id": "Q7405306",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7405306"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Stephen Dawson"
+      },
+      "id": "Q7609029",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7609029"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Western Australian Legislative Council"
+      },
+      "id": "Q2994118",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2994118"
+        }
+      ],
+      "area_id": "Q3206",
+      "seat_counts": {
+        "Q19627913": "36"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16043809-decf9f0c-4220-c7b8-7396-9fe11e93fc09",
+      "person_id": "Q16043809",
+      "organization_id": "Q2994118",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16149405-2ccc6b61-4923-9304-6850-d88037b4cd71",
+      "person_id": "Q16149405",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356428",
+      "start_date": "2013-04-05",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16194482-b9497420-4c20-2577-1a13-fd7a296f56ee",
+      "person_id": "Q16194482",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356429",
+      "start_date": "2013-05-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16196330-d8793f4a-4365-5dec-6805-8aab1064318a",
+      "person_id": "Q16196330",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356428",
+      "start_date": "2013-05-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19877271-9a7651db-4156-77d3-5cfd-e18b2f904d41",
+      "person_id": "Q19877271",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356431",
+      "start_date": "2015-04-21",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24206361-20d1a354-45bd-b7a1-2830-d61cd6d52740",
+      "person_id": "Q24206361",
+      "organization_id": "Q2994118",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27450624-df509b80-46b3-fa7c-e30e-535590f95268",
+      "person_id": "Q27450624",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356431",
+      "start_date": "2016-09-27",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29021086-d4d82b8f-4a86-b604-44f7-4388262541ab",
+      "person_id": "Q29021086",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356430",
+      "start_date": "2017-05-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29021088-b82feef1-495a-cbf5-ddc4-eb7f872ae2d3",
+      "person_id": "Q29021088",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356429",
+      "start_date": "2017-05-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29021089-ec991b25-47a4-58eb-5d5d-fc1d100349f7",
+      "person_id": "Q29021089",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356428",
+      "start_date": "2017-05-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29021191-7565d822-4d64-0c7a-d614-004c5922e307",
+      "person_id": "Q29021191",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356432",
+      "start_date": "2017-05-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29021193-b1265908-46cf-68c2-882c-0b6327acf276",
+      "person_id": "Q29021193",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356432",
+      "start_date": "2017-05-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29021194-6d6341f4-4491-5ebd-f88e-6a2ef7d4428b",
+      "person_id": "Q29021194",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356431",
+      "start_date": "2017-05-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29021199-e165b77a-47e1-db3d-dc29-17deee1ca211",
+      "person_id": "Q29021199",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356433",
+      "start_date": "2017-05-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29167607-e0fb5cfd-4597-73c9-e49f-6cdcd7026bcd",
+      "person_id": "Q29167607",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356431",
+      "start_date": "2017-04-04",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29167608-d744a40b-4b22-9c44-4c13-86259639b317",
+      "person_id": "Q29167608",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356429",
+      "start_date": "2017-04-04",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30122081-427214be-4f05-1394-4534-214e6a96eb59",
+      "person_id": "Q30122081",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356429",
+      "start_date": "2017-05-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30122082-5a36ad0f-487a-4f6b-ab07-7abd6344576d",
+      "person_id": "Q30122082",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356429",
+      "start_date": "2017-05-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30122084-6f6654c5-4c17-4eb4-4212-2ecc32f4106c",
+      "person_id": "Q30122084",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356430",
+      "start_date": "2017-05-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30122085-f10c844a-4bea-e9e7-f7c6-93f2143ce7b9",
+      "person_id": "Q30122085",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356428",
+      "start_date": "2017-05-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30122086-509378f4-4e1f-ced3-3695-4427d868daec",
+      "person_id": "Q30122086",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356433",
+      "start_date": "2017-05-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4727226-8824ae6a-42e5-c0f5-60e8-add7748c1f10",
+      "person_id": "Q4727226",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356431",
+      "start_date": "2017-05-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5083596-c57c077e-4d0b-7581-588c-4f8b67770210",
+      "person_id": "Q5083596",
+      "organization_id": "Q2994118",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5296343-cd6ca388-443e-17fd-4b70-8f3adc2baa1b",
+      "person_id": "Q5296343",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356429",
+      "start_date": "2005-05-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6228781-E832C0BC-0DCC-4C06-830B-767907F148B7",
+      "person_id": "Q6228781",
+      "organization_id": "Q2994118",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6375471-b8c9a558-4f76-09e1-0b98-0775f5458165",
+      "person_id": "Q6375471",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356432",
+      "start_date": "2001-05-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7369472-21714640-49e1-8dad-0993-35d9d33d8391",
+      "person_id": "Q7369472",
+      "organization_id": "Q2994118",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7405306-6ea09811-4419-1bd2-385f-cc40e5c8783e",
+      "person_id": "Q7405306",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356433",
+      "start_date": "2005-05-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7609029-82cfdba7-4ec1-6be4-1f6c-60834793172b",
+      "person_id": "Q7609029",
+      "organization_id": "Q2994118",
+      "area_id": "Q5356430",
+      "start_date": "2013-05-22",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19627913",
+      "role": {
+        "lang:en": "Member of the Western Australian Legislative Council"
+      }
+    }
+  ]
+}

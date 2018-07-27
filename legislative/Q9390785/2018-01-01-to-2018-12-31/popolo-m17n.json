@@ -1,0 +1,645 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Gerry McCarthy"
+      },
+      "id": "Q16192834",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16192834"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Lauren Moss"
+      },
+      "id": "Q18345430",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18345430"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kate Worden"
+      },
+      "id": "Q26709293",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26709293"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jeff Collins"
+      },
+      "id": "Q26709562",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26709562"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chansey Paech"
+      },
+      "id": "Q26709567",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26709567"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tony Sievers"
+      },
+      "id": "Q26721591",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26721591"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Selena Uibo"
+      },
+      "id": "Q26721593",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26721593"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Lawrence Costa"
+      },
+      "id": "Q26721597",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26721597"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ngaree Ah Kit"
+      },
+      "id": "Q26732186",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26732186"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dale Wakefield"
+      },
+      "id": "Q26842901",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26842901"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sandra Nelson"
+      },
+      "id": "Q26844627",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26844627"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paul Kirby"
+      },
+      "id": "Q26845711",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26845711"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Yingiya Mark Guyula"
+      },
+      "id": "Q26845735",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26845735"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/yingiya.guyula"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Scott McConnell"
+      },
+      "id": "Q26852924",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26852924"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Eva Lawler"
+      },
+      "id": "Q26923342",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26923342"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gary Higgins"
+      },
+      "id": "Q5525238",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5525238"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Lia Finocchiaro"
+      },
+      "id": "Q6539377",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6539377"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Gunner"
+      },
+      "id": "Q6830839",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6830839"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robyn Lambley"
+      },
+      "id": "Q7353604",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7353604"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Terry Mills"
+      },
+      "id": "Q7704806",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7704806"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Northern Territory Legislative Assembly"
+      },
+      "id": "Q9390785",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9390785"
+        }
+      ],
+      "area_id": "Q3235",
+      "seat_counts": {
+        "Q26998278": "25"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "crossbencher"
+      },
+      "id": "Q125047",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q125047"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16192834-1c5f15c0-4513-5a7d-c756-23303a0c61bd",
+      "person_id": "Q16192834",
+      "organization_id": "Q9390785",
+      "area_id": "Q5356198",
+      "start_date": "2008-08-09",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q26998278",
+      "role": {
+        "lang:en": "member of the Northern Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18345430-c95f0b75-411d-3e98-5e8d-4108022752a8",
+      "person_id": "Q18345430",
+      "organization_id": "Q9390785",
+      "area_id": "Q5356204",
+      "start_date": "2014-10-18",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q26998278",
+      "role": {
+        "lang:en": "member of the Northern Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26709293-995798fa-45f6-f009-dfc5-5bbcbb0e47a4",
+      "person_id": "Q26709293",
+      "organization_id": "Q9390785",
+      "area_id": "Q5356251",
+      "start_date": "2016-08-27",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q26998278",
+      "role": {
+        "lang:en": "member of the Northern Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26709562-65a9f331-40d4-13bb-6269-a6ba5082f326",
+      "person_id": "Q26709562",
+      "organization_id": "Q9390785",
+      "area_id": "Q5356215",
+      "start_date": "2016-08-27",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q26998278",
+      "role": {
+        "lang:en": "member of the Northern Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26709567-f4462d52-468d-c6b0-eec5-2ac0581d1dab",
+      "person_id": "Q26709567",
+      "organization_id": "Q9390785",
+      "area_id": "Q5356237",
+      "start_date": "2016-08-27",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q26998278",
+      "role": {
+        "lang:en": "member of the Northern Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26721591-696ff8a0-4f7a-233a-76b3-ab0913513020",
+      "person_id": "Q26721591",
+      "organization_id": "Q9390785",
+      "area_id": "Q5356202",
+      "start_date": "2016-08-27",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q26998278",
+      "role": {
+        "lang:en": "member of the Northern Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26721593-f60e51a2-484d-da10-9bee-0f8e086da7fd",
+      "person_id": "Q26721593",
+      "organization_id": "Q9390785",
+      "area_id": "Q5356197",
+      "start_date": "2016-08-27",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q26998278",
+      "role": {
+        "lang:en": "member of the Northern Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26721597-cbb25e71-4ad6-1879-0fa3-ca91021c3aaa",
+      "person_id": "Q26721597",
+      "organization_id": "Q9390785",
+      "area_id": "Q5356195",
+      "start_date": "2016-08-27",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q26998278",
+      "role": {
+        "lang:en": "member of the Northern Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26732186-6f7a1355-4a53-bdff-2b12-24e64c9f98ad",
+      "person_id": "Q26732186",
+      "organization_id": "Q9390785",
+      "area_id": "Q5356224",
+      "start_date": "2016-08-27",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q26998278",
+      "role": {
+        "lang:en": "member of the Northern Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26842901-8ca333e9-45be-adb6-c7ec-92a2f34032f9",
+      "person_id": "Q26842901",
+      "organization_id": "Q9390785",
+      "area_id": "Q5356201",
+      "start_date": "2016-08-27",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q26998278",
+      "role": {
+        "lang:en": "member of the Northern Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26844627-586c446d-4ee8-11cb-4b12-5e3962a4eb8c",
+      "person_id": "Q26844627",
+      "organization_id": "Q9390785",
+      "area_id": "Q5356225",
+      "start_date": "2016-08-27",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q26998278",
+      "role": {
+        "lang:en": "member of the Northern Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26845711-f4f7f677-4c21-a4db-5533-d886dae0dc62",
+      "person_id": "Q26845711",
+      "organization_id": "Q9390785",
+      "area_id": "Q5356246",
+      "start_date": "2016-08-27",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q26998278",
+      "role": {
+        "lang:en": "member of the Northern Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26845735-c2399a3c-4dc9-0a75-21d1-48f686100430",
+      "person_id": "Q26845735",
+      "organization_id": "Q9390785",
+      "area_id": "Q5356241",
+      "start_date": "2016-08-27",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q26998278",
+      "role": {
+        "lang:en": "member of the Northern Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26852924-85948bdb-4e3e-853c-d720-90df97888280",
+      "person_id": "Q26852924",
+      "organization_id": "Q9390785",
+      "area_id": "Q5356252",
+      "start_date": "2016-08-27",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q26998278",
+      "role": {
+        "lang:en": "member of the Northern Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26923342-7201aff7-4c66-ee22-be91-cc3966361428",
+      "person_id": "Q26923342",
+      "organization_id": "Q9390785",
+      "area_id": "Q5356210",
+      "start_date": "2016-08-27",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q26998278",
+      "role": {
+        "lang:en": "member of the Northern Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5525238-2eadc996-4961-4e22-937a-ed2e20a3acb8",
+      "person_id": "Q5525238",
+      "organization_id": "Q9390785",
+      "area_id": "Q5356206",
+      "start_date": "2012-08-25",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q26998278",
+      "role": {
+        "lang:en": "member of the Northern Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6539377-92ccc299-4f9c-f38b-7797-80af59a3669f",
+      "person_id": "Q6539377",
+      "organization_id": "Q9390785",
+      "area_id": "Q26267294",
+      "start_date": "2016-08-27",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q26998278",
+      "role": {
+        "lang:en": "member of the Northern Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6830839-c823ff47-4a0d-046e-ee95-febf8b3fc30c",
+      "person_id": "Q6830839",
+      "organization_id": "Q9390785",
+      "area_id": "Q5356213",
+      "start_date": "2008-08-09",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q26998278",
+      "role": {
+        "lang:en": "member of the Northern Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7353604-3c5ddb14-4a0a-9546-a80e-ebcc90853aa0",
+      "person_id": "Q7353604",
+      "organization_id": "Q9390785",
+      "area_id": "Q5356196",
+      "start_date": "2010-10-09",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q26998278",
+      "role": {
+        "lang:en": "member of the Northern Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7704806-bec9c438-4bd2-4779-b0ef-c40cf44b2e98",
+      "person_id": "Q7704806",
+      "on_behalf_of_id": "Q125047",
+      "organization_id": "Q9390785",
+      "area_id": "Q5356200",
+      "start_date": "2016-08-27",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q26998278",
+      "role": {
+        "lang:en": "member of the Northern Territory Legislative Assembly"
+      }
+    }
+  ]
+}

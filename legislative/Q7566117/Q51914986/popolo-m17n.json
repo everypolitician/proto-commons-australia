@@ -1,0 +1,1556 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Jay Weatherill"
+      },
+      "id": "Q1446178",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1446178"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Rau"
+      },
+      "id": "Q16193316",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16193316"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Troy Bell"
+      },
+      "id": "Q16727446",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16727446"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Corey Wingard"
+      },
+      "id": "Q16728204",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16728204"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jon Gee"
+      },
+      "id": "Q16729224",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16729224"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Katrine Hildyard"
+      },
+      "id": "Q16729821",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16729821"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Eddie Hughes"
+      },
+      "id": "Q16729961",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16729961"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Stephan Knoll"
+      },
+      "id": "Q16730936",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16730936"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Stephen Mullighan"
+      },
+      "id": "Q16732988",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16732988"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chris Picton"
+      },
+      "id": "Q16734515",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16734515"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "David Speirs"
+      },
+      "id": "Q16885817",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16885817"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Vincent Tarzia"
+      },
+      "id": "Q16886350",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16886350"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nat Cook"
+      },
+      "id": "Q18685498",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18685498"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sam Duluk"
+      },
+      "id": "Q19519272",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19519272"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Matt Cowdrey"
+      },
+      "id": "Q3299692",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3299692"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Adrian Pederick"
+      },
+      "id": "Q4685267",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4685267"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Blair Boyer"
+      },
+      "id": "Q50728309",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50728309"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jayne Stinson"
+      },
+      "id": "Q50728716",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50728716"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Josh Teague"
+      },
+      "id": "Q50729197",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50729197"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "David Basham"
+      },
+      "id": "Q50729203",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50729203"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Carolyn Habib"
+      },
+      "id": "Q50729207",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50729207"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paula Luethen"
+      },
+      "id": "Q50729679",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50729679"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dan Cregan"
+      },
+      "id": "Q50729685",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50729685"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fraser Ellis"
+      },
+      "id": "Q50730184",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50730184"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Brown"
+      },
+      "id": "Q50978985",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50978985"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Richard Harvey"
+      },
+      "id": "Q50980311",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50980311"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Steve Murray"
+      },
+      "id": "Q50981090",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50981090"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nick McBride"
+      },
+      "id": "Q51013441",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51013441"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dan van Holst Pellekaan"
+      },
+      "id": "Q5214641",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5214641"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dana Wortley"
+      },
+      "id": "Q5214871",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5214871"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "David Pisoni"
+      },
+      "id": "Q5238597",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5238597"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Frances Bedford"
+      },
+      "id": "Q5478519",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5478519"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Geoff Brock"
+      },
+      "id": "Q5534059",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5534059"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Gardner"
+      },
+      "id": "Q6234870",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6234870"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Lee Odenwalder"
+      },
+      "id": "Q6514674",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6514674"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Leon Bignell"
+      },
+      "id": "Q6524523",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6524523"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Peter Malinauskas"
+      },
+      "id": "Q7175622",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7175622"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Peter Treloar"
+      },
+      "id": "Q7177375",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7177375"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rachel Sanderson"
+      },
+      "id": "Q7279386",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7279386"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Stephen Patterson"
+      },
+      "id": "Q7610204",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7610204"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Steven Marshall"
+      },
+      "id": "Q7615025",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7615025"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Susan Close"
+      },
+      "id": "Q7647681",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7647681"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tim Whetstone"
+      },
+      "id": "Q7804478",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7804478"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tom Koutsantonis"
+      },
+      "id": "Q7816502",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7816502"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tony Piccolo"
+      },
+      "id": "Q7823174",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7823174"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Vickie Chapman"
+      },
+      "id": "Q7925455",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7925455"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Zoe Bettison"
+      },
+      "id": "Q8073256",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8073256"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "South Australian House of Assembly"
+      },
+      "id": "Q7566117",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7566117"
+        }
+      ],
+      "area_id": "Q35715",
+      "seat_counts": {
+        "Q18220900": "47"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "Australian Labor Party (South Australian Branch)"
+      },
+      "id": "Q21003570",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21003570"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Liberal Party of Australia (South Australian Division)"
+      },
+      "id": "Q23198434",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23198434"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "independent politician"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1446178-9662C38F-4FB9-4BDD-82ED-7288ECD68F7C",
+      "person_id": "Q1446178",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355234",
+      "start_date": "2002-02-09",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16193316-6FA33A74-6240-41E9-A2CB-5E1BEE1A7DB5",
+      "person_id": "Q16193316",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355377",
+      "start_date": "2002-02-09",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16727446-FF721561-7351-4A5E-BAAB-FE56C5C59AC8",
+      "person_id": "Q16727446",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355709",
+      "start_date": "2014-03-15",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16727446-FF721561-7351-4A5E-BAAB-FE56C5C59AC8",
+      "person_id": "Q16727446",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355709",
+      "start_date": "2014-03-15",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16728204-18cc2fb8-45b1-d80b-5fd9-da24cc67087d",
+      "person_id": "Q16728204",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q38250827",
+      "start_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16729224-4758bdb0-46d9-ca8a-f110-1dc07edcd525",
+      "person_id": "Q16729224",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566117",
+      "area_id": "Q5356021",
+      "start_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16729821-E7855C8B-FA8A-4F0C-B351-3F704FAB9269",
+      "person_id": "Q16729821",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355892",
+      "start_date": "2014-03-15",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16729961-A421ED94-ACC3-4C7C-BE57-30BF44EB7392",
+      "person_id": "Q16729961",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355432",
+      "start_date": "2014-03-15",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16730936-BBC9CD20-3E78-449C-958A-521F326774B6",
+      "person_id": "Q16730936",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355929",
+      "start_date": "2014-03-15",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16732988-001FEEA9-0408-4105-9A00-CBB91E89061E",
+      "person_id": "Q16732988",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355592",
+      "start_date": "2014-03-15",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16734515-61D2C223-E05E-486D-BF3F-CF7BDB13D462",
+      "person_id": "Q16734515",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355552",
+      "start_date": "2014-03-15",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16885817-83397b5a-471f-c8e9-2959-0930637c4464",
+      "person_id": "Q16885817",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q38250839",
+      "start_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16886350-2D9409B0-5844-4301-A796-5AF3AA97CEAB",
+      "person_id": "Q16886350",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355492",
+      "start_date": "2014-03-15",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18685498-d60c071f-4024-a351-cfa5-b36c296e5c69",
+      "person_id": "Q18685498",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566117",
+      "area_id": "Q38250838",
+      "start_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19519272-77965584-41d9-7275-6e83-19124b63a4c4",
+      "person_id": "Q19519272",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q5356062",
+      "start_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3299692-a120ed77-4c25-5b0e-8f99-392a6657d4c1",
+      "person_id": "Q3299692",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355261",
+      "start_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4685267-64AFFCBD-E428-4FE7-A286-BD8E83784D06",
+      "person_id": "Q4685267",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355487",
+      "start_date": "2006-03-18",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50728309-cdb4860c-4eb8-4725-dee0-ae53ac30eb8d",
+      "person_id": "Q50728309",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566117",
+      "area_id": "Q5356154",
+      "start_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50728716-8a625c82-44b1-045d-48bb-7547cdcb6e1a",
+      "person_id": "Q50728716",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566117",
+      "area_id": "Q38250841",
+      "start_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50729197-be5695cb-436e-372c-ab58-5dfcbac8fceb",
+      "person_id": "Q50729197",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355511",
+      "start_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50729203-fd85d7f9-4988-0b89-256c-f05fa23a4c59",
+      "person_id": "Q50729203",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355397",
+      "start_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50729207-295b2525-4cf1-419f-992b-3097280a10bc",
+      "person_id": "Q50729207",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355369",
+      "start_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50729679-c3a690fa-4699-0fc9-823a-f9f0c0dc585a",
+      "person_id": "Q50729679",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q28429886",
+      "start_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50729685-90c0c0ce-4b99-22b2-bfed-30a58ced704d",
+      "person_id": "Q50729685",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355553",
+      "start_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50730184-7600de59-4a0d-c8eb-2c3e-75c8c050c6da",
+      "person_id": "Q50730184",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q28943085",
+      "start_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50978985-99dc40c2-4f6f-bb3e-785a-f069049ae600",
+      "person_id": "Q50978985",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355860",
+      "start_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50980311-babe990a-4765-0258-f119-4592ef1602b9",
+      "person_id": "Q50980311",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355773",
+      "start_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50981090-a1fa8967-4c81-5dc6-abbf-a8aa0df3cb89",
+      "person_id": "Q50981090",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355315",
+      "start_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51013441-002d374d-465c-fc32-fbba-407891ff95ec",
+      "person_id": "Q51013441",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355616",
+      "start_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5214641-8F3ECEC8-9D9F-4F40-8061-57C3BD7780FB",
+      "person_id": "Q5214641",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355986",
+      "start_date": "2010-03-20",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5214871-ba028f9f-44e6-6657-ee64-4b7198df0d5a",
+      "person_id": "Q5214871",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566117",
+      "area_id": "Q5356039",
+      "start_date": "2014-03-15",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5238597-F483A6DE-43BE-42BE-BA40-96D34C9C74C5",
+      "person_id": "Q5238597",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q5356053",
+      "start_date": "2006-03-18",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5478519-D2C1FDE4-82A2-4B4A-A1A4-D2B1A0A852B4",
+      "person_id": "Q5478519",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355407",
+      "start_date": "1997-10-11",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5478519-D2C1FDE4-82A2-4B4A-A1A4-D2B1A0A852B4",
+      "person_id": "Q5478519",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355407",
+      "start_date": "1997-10-11",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5534059-B79A1306-1406-43DA-B860-B1DED39C2BE3",
+      "person_id": "Q5534059",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355421",
+      "start_date": "2009-01-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6234870-87AF0E43-B401-464C-A43E-23658ED48CA2",
+      "person_id": "Q6234870",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355696",
+      "start_date": "2010-03-20",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6514674-0cc9d76a-4c55-76ef-6454-d634906739f0",
+      "person_id": "Q6514674",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355372",
+      "start_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6524523-63156A49-056D-41E9-BC55-3D398D12C258",
+      "person_id": "Q6524523",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355642",
+      "start_date": "2006-03-18",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7175622-e96c6ba7-4f1b-f185-f010-3079090859f3",
+      "person_id": "Q7175622",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355288",
+      "start_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7177375-AED4434C-2F00-49DD-AAC0-9314A22A1C3C",
+      "person_id": "Q7177375",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355404",
+      "start_date": "2010-03-20",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7279386-51F0F97C-2965-4AC1-B49B-4A1882A65300",
+      "person_id": "Q7279386",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355018",
+      "start_date": "2010-03-20",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7610204-454264e8-4eb9-ba5d-0a99-fd3bb402497c",
+      "person_id": "Q7610204",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355700",
+      "start_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7615025-0a4eae6a-48a1-744c-1505-327f8bdd371d",
+      "person_id": "Q7615025",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q17003410",
+      "start_date": "2014-03-15",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7647681-38C72203-2D16-4B7D-80C4-3D9A2CC05B25",
+      "person_id": "Q7647681",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355862",
+      "start_date": "2012-02-11",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7804478-2EDB66A4-5B54-48B6-B2F5-92B72CBB3468",
+      "person_id": "Q7804478",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355229",
+      "start_date": "2010-03-20",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7816502-05B1BED2-A4BB-4C15-806A-F6DB102DF86D",
+      "person_id": "Q7816502",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566117",
+      "area_id": "Q5356115",
+      "start_date": "2002-02-09",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7823174-3837A9B6-E31E-4645-BB44-5A4C48C557B0",
+      "person_id": "Q7823174",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355599",
+      "start_date": "2006-03-18",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7925455-6ACA1F35-8811-43B2-A923-1588FA98BEEE",
+      "person_id": "Q7925455",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355144",
+      "start_date": "2002-02-09",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8073256-094F8B2C-0511-4117-A2AB-C4FDC61B4964",
+      "person_id": "Q8073256",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566117",
+      "area_id": "Q5355885",
+      "start_date": "2012-02-11",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18220900",
+      "role": {
+        "lang:en": "Member of the South Australian House of Assembly"
+      }
+    }
+  ]
+}
