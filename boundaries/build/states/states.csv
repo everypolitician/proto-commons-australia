@@ -1,0 +1,9 @@
+STATE_PID,STATE_NAME,MS_FB_PARE,MS_FB,WIKIDATA
+1,New South Wales,country:au,country:au/state:nsw,Q3224
+2,Victoria,country:au,country:au/state:vic,Q36687
+3,Queensland,country:au,country:au/state:qld,Q36074
+4,South Australia,country:au,country:au/state:sa,Q35715
+5,Western Australia,country:au,country:au/state:wa,Q3206
+6,Tasmania,country:au,country:au/state:tas,Q34366
+7,Northern Territory,country:au,country:au/territory:nt,Q3235
+8,Australian Capital Territory,country:au,country:au/territory:act,Q3258
