@@ -1,0 +1,10 @@
+STATE_PID,STATE_NAME,MS_FB_PARE,MS_FB,WIKIDATA
+1,NEW SOUTH WALES,country:au,country:au/state:nsw,Q3224
+2,VICTORIA,country:au,country:au/state:vic,Q36687
+3,QUEENSLAND,country:au,country:au/state:qld,Q36074
+4,SOUTH AUSTRALIA,country:au,country:au/state:sa,Q35715
+5,WESTERN AUSTRALIA,country:au,country:au/state:wa,Q3206
+6,TASMANIA,country:au,country:au/state:tas,Q34366
+7,NORTHERN TERRITORY,country:au,country:au/state:nt,Q3235
+8,AUSTRALIAN CAPITAL TERRITORY,country:au,country:au/state:act,Q3258
+9,OTHER TERRITORIES,country:au,country:au/state:ot,
