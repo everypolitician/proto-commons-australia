@@ -1,0 +1,236 @@
+<OGRVRTDataSource>
+  <OGRVRTLayer name="QLD_STATE_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2016-05-11</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Boundaries MAY 2016/Standard/</SrcDataSource>
+    <SrcLayer>QLD_STATE_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="ST_PLY_PID" type="String" src="ST_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="NSW_STATE_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2014-03-24</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Boundaries MAY 2016/Standard/</SrcDataSource>
+    <SrcLayer>NSW_STATE_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="ST_PLY_PID" type="String" src="ST_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="TAS_STATE_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2011-09-02</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Boundaries MAY 2016/Standard/</SrcDataSource>
+    <SrcLayer>TAS_STATE_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="ST_PLY_PID" type="String" src="ST_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="VIC_STATE_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2011-11-10</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Boundaries MAY 2016/Standard/</SrcDataSource>
+    <SrcLayer>VIC_STATE_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="ST_PLY_PID" type="String" src="ST_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="WA_STATE_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2012-04-26</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Boundaries MAY 2016/Standard/</SrcDataSource>
+    <SrcLayer>WA_STATE_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="ST_PLY_PID" type="String" src="ST_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="NT_STATE_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2012-04-26</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Boundaries MAY 2016/Standard/</SrcDataSource>
+    <SrcLayer>NT_STATE_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="ST_PLY_PID" type="String" src="ST_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="OT_STATE_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2015-03-02</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Boundaries MAY 2016/Standard/</SrcDataSource>
+    <SrcLayer>OT_STATE_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="ST_PLY_PID" type="String" src="ST_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="SA_STATE_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2011-09-02</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Boundaries MAY 2016/Standard/</SrcDataSource>
+    <SrcLayer>SA_STATE_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="ST_PLY_PID" type="String" src="ST_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="ACT_STATE_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2012-04-26</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Boundaries MAY 2016/Standard/</SrcDataSource>
+    <SrcLayer>ACT_STATE_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="ST_PLY_PID" type="String" src="ST_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="QLD_STATE_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2016-05-11</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Boundaries MAY 2016/Standard/</SrcDataSource>
+    <SrcLayer>QLD_STATE_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="STATE_NAME" type="String" src="STATE_NAME" width="50"/>
+    <Field name="ST_ABBREV" type="String" src="ST_ABBREV" width="3"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="TAS_STATE_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2011-09-02</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Boundaries MAY 2016/Standard/</SrcDataSource>
+    <SrcLayer>TAS_STATE_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="STATE_NAME" type="String" src="STATE_NAME" width="50"/>
+    <Field name="ST_ABBREV" type="String" src="ST_ABBREV" width="3"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="OT_STATE_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2015-03-02</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Boundaries MAY 2016/Standard/</SrcDataSource>
+    <SrcLayer>OT_STATE_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="STATE_NAME" type="String" src="STATE_NAME" width="50"/>
+    <Field name="ST_ABBREV" type="String" src="ST_ABBREV" width="3"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="ACT_STATE_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2012-04-26</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Boundaries MAY 2016/Standard/</SrcDataSource>
+    <SrcLayer>ACT_STATE_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="STATE_NAME" type="String" src="STATE_NAME" width="50"/>
+    <Field name="ST_ABBREV" type="String" src="ST_ABBREV" width="3"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="WA_STATE_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2012-04-26</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Boundaries MAY 2016/Standard/</SrcDataSource>
+    <SrcLayer>WA_STATE_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="STATE_NAME" type="String" src="STATE_NAME" width="50"/>
+    <Field name="ST_ABBREV" type="String" src="ST_ABBREV" width="3"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="NSW_STATE_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2014-03-24</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Boundaries MAY 2016/Standard/</SrcDataSource>
+    <SrcLayer>NSW_STATE_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="STATE_NAME" type="String" src="STATE_NAME" width="50"/>
+    <Field name="ST_ABBREV" type="String" src="ST_ABBREV" width="3"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="NT_STATE_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2012-04-26</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Boundaries MAY 2016/Standard/</SrcDataSource>
+    <SrcLayer>NT_STATE_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="STATE_NAME" type="String" src="STATE_NAME" width="50"/>
+    <Field name="ST_ABBREV" type="String" src="ST_ABBREV" width="3"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="SA_STATE_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2011-09-02</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Boundaries MAY 2016/Standard/</SrcDataSource>
+    <SrcLayer>SA_STATE_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="STATE_NAME" type="String" src="STATE_NAME" width="50"/>
+    <Field name="ST_ABBREV" type="String" src="ST_ABBREV" width="3"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="VIC_STATE_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2011-11-10</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Boundaries MAY 2016/Standard/</SrcDataSource>
+    <SrcLayer>VIC_STATE_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="STATE_NAME" type="String" src="STATE_NAME" width="50"/>
+    <Field name="ST_ABBREV" type="String" src="ST_ABBREV" width="3"/>
+  </OGRVRTLayer>
+</OGRVRTDataSource>
