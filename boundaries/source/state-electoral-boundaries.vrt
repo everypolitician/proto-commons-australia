@@ -1,0 +1,255 @@
+<OGRVRTDataSource>
+
+  <OGRVRTLayer name="Authority_Code_STATE_ELECTORAL_CLASS_AUT_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-02-09</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Electoral Boundaries FEBRUARY 2018/Authority Code/</SrcDataSource>
+    <SrcLayer>Authority_Code_STATE_ELECTORAL_CLASS_AUT_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="CODE_AUT" type="String" src="CODE_AUT" width="10"/>
+    <Field name="NAME_AUT" type="String" src="NAME_AUT" width="50"/>
+    <Field name="DSCPN_AUT" type="String" src="DSCPN_AUT" width="200"/>
+  </OGRVRTLayer>
+
+  <OGRVRTLayer name="QLD_STATE_ELECTORAL_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2017-08-09</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Electoral Boundaries FEBRUARY 2018/Standard/</SrcDataSource>
+    <SrcLayer>QLD_STATE_ELECTORAL_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="SE_PLY_PID" type="String" src="SE_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="SE_PID" type="String" src="SE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="VIC_STATE_ELECTORAL_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2015-05-14</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Electoral Boundaries FEBRUARY 2018/Standard/</SrcDataSource>
+    <SrcLayer>VIC_STATE_ELECTORAL_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="SE_PLY_PID" type="String" src="SE_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="SE_PID" type="String" src="SE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="WA_STATE_ELECTORAL_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2016-02-22</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Electoral Boundaries FEBRUARY 2018/Standard/</SrcDataSource>
+    <SrcLayer>WA_STATE_ELECTORAL_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="SE_PLY_PID" type="String" src="SE_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="SE_PID" type="String" src="SE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="TAS_STATE_ELECTORAL_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-02-09</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Electoral Boundaries FEBRUARY 2018/Standard/</SrcDataSource>
+    <SrcLayer>TAS_STATE_ELECTORAL_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="SE_PLY_PID" type="String" src="SE_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="SE_PID" type="String" src="SE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="SA_STATE_ELECTORAL_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2015-05-14</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Electoral Boundaries FEBRUARY 2018/Standard/</SrcDataSource>
+    <SrcLayer>SA_STATE_ELECTORAL_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="SE_PLY_PID" type="String" src="SE_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="SE_PID" type="String" src="SE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="NSW_STATE_ELECTORAL_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2015-05-14</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Electoral Boundaries FEBRUARY 2018/Standard/</SrcDataSource>
+    <SrcLayer>NSW_STATE_ELECTORAL_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="SE_PLY_PID" type="String" src="SE_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="SE_PID" type="String" src="SE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="NT_STATE_ELECTORAL_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2017-07-19</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Electoral Boundaries FEBRUARY 2018/Standard/</SrcDataSource>
+    <SrcLayer>NT_STATE_ELECTORAL_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="SE_PLY_PID" type="String" src="SE_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="SE_PID" type="String" src="SE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="ACT_STATE_ELECTORAL_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2015-10-26</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Electoral Boundaries FEBRUARY 2018/Standard/</SrcDataSource>
+    <SrcLayer>ACT_STATE_ELECTORAL_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="SE_PLY_PID" type="String" src="SE_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="SE_PID" type="String" src="SE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="TAS_STATE_ELECTORAL_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-02-09</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Electoral Boundaries FEBRUARY 2018/Standard/</SrcDataSource>
+    <SrcLayer>TAS_STATE_ELECTORAL_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="SE_PID" type="String" src="SE_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="NAME" type="String" src="NAME" width="50"/>
+    <Field name="DT_GAZETD" type="Date" src="DT_GAZETD" width="10"/>
+    <Field name="EFF_START" type="Date" src="EFF_START" width="10"/>
+    <Field name="EFF_END" type="Date" src="EFF_END" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+    <Field name="SECL_CODE" type="String" src="SECL_CODE" width="10"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="ACT_STATE_ELECTORAL_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2015-10-26</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Electoral Boundaries FEBRUARY 2018/Standard/</SrcDataSource>
+    <SrcLayer>ACT_STATE_ELECTORAL_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="SE_PID" type="String" src="SE_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="NAME" type="String" src="NAME" width="50"/>
+    <Field name="DT_GAZETD" type="Date" src="DT_GAZETD" width="10"/>
+    <Field name="EFF_START" type="Date" src="EFF_START" width="10"/>
+    <Field name="EFF_END" type="Date" src="EFF_END" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+    <Field name="SECL_CODE" type="String" src="SECL_CODE" width="10"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="SA_STATE_ELECTORAL_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2015-05-14</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Electoral Boundaries FEBRUARY 2018/Standard/</SrcDataSource>
+    <SrcLayer>SA_STATE_ELECTORAL_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="SE_PID" type="String" src="SE_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="NAME" type="String" src="NAME" width="50"/>
+    <Field name="DT_GAZETD" type="Date" src="DT_GAZETD" width="10"/>
+    <Field name="EFF_START" type="Date" src="EFF_START" width="10"/>
+    <Field name="EFF_END" type="Date" src="EFF_END" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+    <Field name="SECL_CODE" type="String" src="SECL_CODE" width="10"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="NT_STATE_ELECTORAL_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2017-07-19</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Electoral Boundaries FEBRUARY 2018/Standard/</SrcDataSource>
+    <SrcLayer>NT_STATE_ELECTORAL_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="SE_PID" type="String" src="SE_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="NAME" type="String" src="NAME" width="50"/>
+    <Field name="DT_GAZETD" type="Date" src="DT_GAZETD" width="10"/>
+    <Field name="EFF_START" type="Date" src="EFF_START" width="10"/>
+    <Field name="EFF_END" type="Date" src="EFF_END" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+    <Field name="SECL_CODE" type="String" src="SECL_CODE" width="10"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="VIC_STATE_ELECTORAL_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2015-05-14</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Electoral Boundaries FEBRUARY 2018/Standard/</SrcDataSource>
+    <SrcLayer>VIC_STATE_ELECTORAL_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="SE_PID" type="String" src="SE_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="NAME" type="String" src="NAME" width="50"/>
+    <Field name="DT_GAZETD" type="Date" src="DT_GAZETD" width="10"/>
+    <Field name="EFF_START" type="Date" src="EFF_START" width="10"/>
+    <Field name="EFF_END" type="Date" src="EFF_END" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+    <Field name="SECL_CODE" type="String" src="SECL_CODE" width="10"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="NSW_STATE_ELECTORAL_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2015-05-14</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Electoral Boundaries FEBRUARY 2018/Standard/</SrcDataSource>
+    <SrcLayer>NSW_STATE_ELECTORAL_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="SE_PID" type="String" src="SE_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="NAME" type="String" src="NAME" width="50"/>
+    <Field name="DT_GAZETD" type="Date" src="DT_GAZETD" width="10"/>
+    <Field name="EFF_START" type="Date" src="EFF_START" width="10"/>
+    <Field name="EFF_END" type="Date" src="EFF_END" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+    <Field name="SECL_CODE" type="String" src="SECL_CODE" width="10"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="WA_STATE_ELECTORAL_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2016-01-05</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Electoral Boundaries FEBRUARY 2018/Standard/</SrcDataSource>
+    <SrcLayer>WA_STATE_ELECTORAL_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="SE_PID" type="String" src="SE_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="NAME" type="String" src="NAME" width="50"/>
+    <Field name="DT_GAZETD" type="Date" src="DT_GAZETD" width="10"/>
+    <Field name="EFF_START" type="Date" src="EFF_START" width="10"/>
+    <Field name="EFF_END" type="Date" src="EFF_END" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+    <Field name="SECL_CODE" type="String" src="SECL_CODE" width="10"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="QLD_STATE_ELECTORAL_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2017-08-09</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">State Electoral Boundaries FEBRUARY 2018/Standard/</SrcDataSource>
+    <SrcLayer>QLD_STATE_ELECTORAL_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="SE_PID" type="String" src="SE_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="NAME" type="String" src="NAME" width="50"/>
+    <Field name="DT_GAZETD" type="Date" src="DT_GAZETD" width="10"/>
+    <Field name="EFF_START" type="Date" src="EFF_START" width="10"/>
+    <Field name="EFF_END" type="Date" src="EFF_END" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+    <Field name="SECL_CODE" type="String" src="SECL_CODE" width="10"/>
+  </OGRVRTLayer>
+</OGRVRTDataSource>
