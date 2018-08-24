@@ -1,0 +1,330 @@
+<OGRVRTDataSource>
+  <OGRVRTLayer name="NSW_LGA_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-03-05</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>NSW_LGA_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="LG_PLY_PID" type="String" src="LG_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="NT_LGA_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-02-21</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>NT_LGA_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="LG_PLY_PID" type="String" src="LG_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="TAS_LGA_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-02-21</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>TAS_LGA_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="LG_PLY_PID" type="String" src="LG_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="VIC_LGA_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-03-05</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>VIC_LGA_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="LG_PLY_PID" type="String" src="LG_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="WA_LGA_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-02-21</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>WA_LGA_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="LG_PLY_PID" type="String" src="LG_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="SA_LGA_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-02-26</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>SA_LGA_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="LG_PLY_PID" type="String" src="LG_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="OT_LGA_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2013-07-08</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>OT_LGA_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="LG_PLY_PID" type="String" src="LG_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="QLD_LGA_POLYGON_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-03-22</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>QLD_LGA_POLYGON_shp</SrcLayer>
+    <GeometryType>wkbPolygon</GeometryType>
+    <LayerSRS>GEOGCS[&quot;GCS_GDA_1994&quot;,DATUM[&quot;Geocentric_Datum_of_Australia_1994&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]]</LayerSRS>
+    <Field name="LG_PLY_PID" type="String" src="LG_PLY_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="NSW_LGA_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-03-05</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>NSW_LGA_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_NAME" type="String" src="LGA_NAME" width="100"/>
+    <Field name="ABB_NAME" type="String" src="ABB_NAME" width="100"/>
+    <Field name="DT_GAZETD" type="Date" src="DT_GAZETD" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="WA_LGA_LOCALITY_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-02-21</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>WA_LGA_LOCALITY_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="LG_LOC_PID" type="String" src="LG_LOC_PID" width="20"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+    <Field name="LOC_PID" type="String" src="LOC_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="TAS_LGA_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-02-21</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>TAS_LGA_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_NAME" type="String" src="LGA_NAME" width="100"/>
+    <Field name="ABB_NAME" type="String" src="ABB_NAME" width="100"/>
+    <Field name="DT_GAZETD" type="Date" src="DT_GAZETD" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="OT_LGA_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2013-07-08</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>OT_LGA_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_NAME" type="String" src="LGA_NAME" width="100"/>
+    <Field name="ABB_NAME" type="String" src="ABB_NAME" width="100"/>
+    <Field name="DT_GAZETD" type="Date" src="DT_GAZETD" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="QLD_LGA_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-03-22</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>QLD_LGA_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_NAME" type="String" src="LGA_NAME" width="100"/>
+    <Field name="ABB_NAME" type="String" src="ABB_NAME" width="100"/>
+    <Field name="DT_GAZETD" type="Date" src="DT_GAZETD" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="VIC_LGA_LOCALITY_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-03-05</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>VIC_LGA_LOCALITY_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="LG_LOC_PID" type="String" src="LG_LOC_PID" width="20"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+    <Field name="LOC_PID" type="String" src="LOC_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="SA_LGA_LOCALITY_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-02-26</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>SA_LGA_LOCALITY_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="LG_LOC_PID" type="String" src="LG_LOC_PID" width="20"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+    <Field name="LOC_PID" type="String" src="LOC_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="NSW_LGA_LOCALITY_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-03-05</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>NSW_LGA_LOCALITY_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="LG_LOC_PID" type="String" src="LG_LOC_PID" width="20"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+    <Field name="LOC_PID" type="String" src="LOC_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="WA_LGA_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-02-21</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>WA_LGA_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_NAME" type="String" src="LGA_NAME" width="100"/>
+    <Field name="ABB_NAME" type="String" src="ABB_NAME" width="100"/>
+    <Field name="DT_GAZETD" type="Date" src="DT_GAZETD" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="TAS_LGA_LOCALITY_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-02-21</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>TAS_LGA_LOCALITY_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="LG_LOC_PID" type="String" src="LG_LOC_PID" width="20"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+    <Field name="LOC_PID" type="String" src="LOC_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="QLD_LGA_LOCALITY_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-03-22</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>QLD_LGA_LOCALITY_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="LG_LOC_PID" type="String" src="LG_LOC_PID" width="20"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+    <Field name="LOC_PID" type="String" src="LOC_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="NT_LGA_LOCALITY_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-02-21</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>NT_LGA_LOCALITY_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="LG_LOC_PID" type="String" src="LG_LOC_PID" width="20"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+    <Field name="LOC_PID" type="String" src="LOC_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="VIC_LGA_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-03-05</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>VIC_LGA_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_NAME" type="String" src="LGA_NAME" width="100"/>
+    <Field name="ABB_NAME" type="String" src="ABB_NAME" width="100"/>
+    <Field name="DT_GAZETD" type="Date" src="DT_GAZETD" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="OT_LGA_LOCALITY_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2013-07-08</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>OT_LGA_LOCALITY_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="LG_LOC_PID" type="String" src="LG_LOC_PID" width="20"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+    <Field name="LOC_PID" type="String" src="LOC_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="SA_LGA_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-02-26</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>SA_LGA_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_NAME" type="String" src="LGA_NAME" width="100"/>
+    <Field name="ABB_NAME" type="String" src="ABB_NAME" width="100"/>
+    <Field name="DT_GAZETD" type="Date" src="DT_GAZETD" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+  </OGRVRTLayer>
+  <OGRVRTLayer name="NT_LGA_shp">
+    <Metadata>
+      <MDI key="DBF_DATE_LAST_UPDATE">2018-02-21</MDI>
+    </Metadata>
+    <SrcDataSource relativeToVRT="1" shared="1">Local Government Areas MAY 2018/Standard/</SrcDataSource>
+    <SrcLayer>NT_LGA_shp</SrcLayer>
+    <GeometryType>wkbNone</GeometryType>
+    <Field name="LGA_PID" type="String" src="LGA_PID" width="15"/>
+    <Field name="DT_CREATE" type="Date" src="DT_CREATE" width="10"/>
+    <Field name="DT_RETIRE" type="Date" src="DT_RETIRE" width="10"/>
+    <Field name="LGA_NAME" type="String" src="LGA_NAME" width="100"/>
+    <Field name="ABB_NAME" type="String" src="ABB_NAME" width="100"/>
+    <Field name="DT_GAZETD" type="Date" src="DT_GAZETD" width="10"/>
+    <Field name="STATE_PID" type="String" src="STATE_PID" width="15"/>
+  </OGRVRTLayer>
+</OGRVRTDataSource>
