@@ -1,3 +1,15 @@
 [
-
+  {
+    "directory": "country",
+    "area_type_wikidata_item_id": "Q6256",
+    "associations": [
+      {
+        "comment": "Prime Minister of Australia",
+        "position_item_id": "Q319145"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    }
+  }
 ]
