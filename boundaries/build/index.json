@@ -11,5 +11,141 @@
     "name_columns": {
       "lang:en": "NAME"
     }
+  },
+    {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q5852411",
+    "associations": [
+      {
+        "comment": "premier of new south wales",
+        "position_item_id": "Q13527950"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "STATE_NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q5852411",
+    "associations": [
+      {
+        "comment": "governor",
+        "position_item_id": "Q132050"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "STATE_NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q5852411",
+    "associations": [
+      {
+        "comment": "governor",
+        "position_item_id": "Q132050"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "STATE_NAME"
+    },
+    "filter": {
+      "match": "country:au/state:qld",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q5852411",
+    "associations": [
+      {
+        "comment": "premier of south australia",
+        "position_item_id": "Q27230596"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "STATE_NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q5852411",
+    "associations": [
+      {
+        "comment": "governor",
+        "position_item_id": "Q132050"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "STATE_NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q5852411",
+    "associations": [
+      {
+        "comment": "premier of tasmania",
+        "position_item_id": "Q13527933"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "STATE_NAME"
+    },
+    "filter": {
+      "match": "country:au/state:tas",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q14192199",
+    "associations": [
+      {
+        "comment": "chief minister of the northern territory",
+        "position_item_id": "Q1072341"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "STATE_NAME"
+    },
+    "filter": {
+      "match": "country:au/territory:nt",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q14192199",
+    "associations": [
+      {
+        "comment": "chief minister of the australian capital territory",
+        "position_item_id": "Q493649"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "STATE_NAME"
+    },
+    "filter": {
+      "match": "country:au/territory:act",
+      "column": "MS_FB"
+    }
   }
 ]
