@@ -309,5 +309,1790 @@
     "name_columns": {
       "lang:en": "NAME"
     }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of waverley municipal council",
+        "position_item_id": "Q56477509"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw175",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of lane cove council",
+        "position_item_id": "Q56477514"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw177",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of woollahra municipal council",
+        "position_item_id": "Q56477519"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw180",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of the city of ryde",
+        "position_item_id": "Q56477524"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw181",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of strathfield municipal council",
+        "position_item_id": "Q56477529"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw196",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "lord mayor of sidney",
+        "position_item_id": "Q56477534"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw200",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of the city of lake macquarie council",
+        "position_item_id": "Q56477538"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw206",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "lord mayor of city of newcastle council",
+        "position_item_id": "Q56477544"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw207",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of the council of the municipality of kiama",
+        "position_item_id": "Q56477548"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw212",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of north sydney council",
+        "position_item_id": "Q56477554"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw213",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of the city of randwick",
+        "position_item_id": "Q56477558"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw216",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of the city of penrith",
+        "position_item_id": "Q56477562"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw217",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of hunter's hill",
+        "position_item_id": "Q56477566"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw229",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of the mosman council",
+        "position_item_id": "Q56477572"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw232",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of hornsby shire",
+        "position_item_id": "Q56477577"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw234",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of ku-ring-gai council",
+        "position_item_id": "Q56477582"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw258",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of camden",
+        "position_item_id": "Q56477586"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw264",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of the municipality of burwood",
+        "position_item_id": "Q56477590"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw268",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of the city of campbelltown",
+        "position_item_id": "Q56477594"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw272",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of the city of liverpool",
+        "position_item_id": "Q56477598"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw275",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of the city of canada bay council",
+        "position_item_id": "Q56477602"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw282",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of the city of blacktown",
+        "position_item_id": "Q56477606"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw283",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of the city of willoughby",
+        "position_item_id": "Q56477610"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw294",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of the city of fairfield",
+        "position_item_id": "Q56477615"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw295",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of sutherland shire",
+        "position_item_id": "Q56477619"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw298",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of the city of shellharbour",
+        "position_item_id": "Q56477624"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw306",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of the city of wollongong",
+        "position_item_id": "Q56477628"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw310",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of the city of parramatta council",
+        "position_item_id": "Q56477634"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw314",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of cumberland council",
+        "position_item_id": "Q56477638"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw315",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of georges river council",
+        "position_item_id": "Q56477642"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw325",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of northern beaches council",
+        "position_item_id": "Q56477646"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw329",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of inner west council",
+        "position_item_id": "Q56477650"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw331",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of canterbury-bankstown council",
+        "position_item_id": "Q56477654"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw332",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558200",
+    "associations": [
+      {
+        "comment": "mayor of bayside council",
+        "position_item_id": "Q56477658"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw335",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55593624",
+    "associations": [
+      {
+        "comment": "lord mayor of brisbane",
+        "position_item_id": "Q56477662"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:qld/lga:qld21",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55593624",
+    "associations": [
+      {
+        "comment": "mayor of sunshine coast region",
+        "position_item_id": "Q56477666"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:qld/lga:qld295",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55593624",
+    "associations": [
+      {
+        "comment": "mayor of shire of noosa",
+        "position_item_id": "Q56477670"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:qld/lga:qld319",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55593624",
+    "associations": [
+      {
+        "comment": "mayor of gold coast city",
+        "position_item_id": "Q56477674"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:qld/lga:qld63",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558027",
+    "associations": [
+      {
+        "comment": "mayor of the city of tea tree gully",
+        "position_item_id": "Q56477679"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa101",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558027",
+    "associations": [
+      {
+        "comment": "mayor of the city of west torrens",
+        "position_item_id": "Q56477683"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa102",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558027",
+    "associations": [
+      {
+        "comment": "mayor of the city of holdfast bay",
+        "position_item_id": "Q56477687"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa105",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558027",
+    "associations": [
+      {
+        "comment": "mayor of adelaide hills council",
+        "position_item_id": "Q56477691"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa107",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558027",
+    "associations": [
+      {
+        "comment": "mayor of walkerville",
+        "position_item_id": "Q56477695"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa154",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558027",
+    "associations": [
+      {
+        "comment": "mayor of adelaide",
+        "position_item_id": "Q23059715"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa73",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558027",
+    "associations": [
+      {
+        "comment": "mayor of the city of burnside",
+        "position_item_id": "Q56477703"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa74",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558027",
+    "associations": [
+      {
+        "comment": "mayor of the city of campbelltown",
+        "position_item_id": "Q56477707"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa75",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558027",
+    "associations": [
+      {
+        "comment": "mayor of the city of mitcham",
+        "position_item_id": "Q56477711"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa76",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558027",
+    "associations": [
+      {
+        "comment": "mayor of port adelaide enfield",
+        "position_item_id": "Q51011795"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa78",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558027",
+    "associations": [
+      {
+        "comment": "mayor of prospect",
+        "position_item_id": "Q56477719"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa81",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558027",
+    "associations": [
+      {
+        "comment": "mayor of salisbury",
+        "position_item_id": "Q55062908"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa82",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558027",
+    "associations": [
+      {
+        "comment": "mayor of unley",
+        "position_item_id": "Q52064205"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa83",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558027",
+    "associations": [
+      {
+        "comment": "mayor of gawler",
+        "position_item_id": "Q54806313"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa85",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558027",
+    "associations": [
+      {
+        "comment": "mayor of the city of charles sturt",
+        "position_item_id": "Q56477737"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa90",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558027",
+    "associations": [
+      {
+        "comment": "mayor of the city of marion",
+        "position_item_id": "Q56477741"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa91",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558027",
+    "associations": [
+      {
+        "comment": "mayor of the city of norwood payneham & st peters",
+        "position_item_id": "Q56477745"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa92",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558027",
+    "associations": [
+      {
+        "comment": "mayor of the city of onkaparinga",
+        "position_item_id": "Q56477749"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa93",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55558027",
+    "associations": [
+      {
+        "comment": "mayor of the city of playford",
+        "position_item_id": "Q56477753"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa98",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1849126",
+    "associations": [
+      {
+        "comment": "mayor of the city of moonee valley",
+        "position_item_id": "Q56477757"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic121",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1849126",
+    "associations": [
+      {
+        "comment": "mayor of the city of moreland",
+        "position_item_id": "Q56477761"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic131",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1849126",
+    "associations": [
+      {
+        "comment": "lord mayor of melbourne",
+        "position_item_id": "Q23782667"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic132",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1849126",
+    "associations": [
+      {
+        "comment": "mayor of the city of glen eira",
+        "position_item_id": "Q56477769"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic177",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1849126",
+    "associations": [
+      {
+        "comment": "mayor of the city of bayside",
+        "position_item_id": "Q56477773"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic182",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1849126",
+    "associations": [
+      {
+        "comment": "mayor of the city of banyule",
+        "position_item_id": "Q56477777"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic188",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1849126",
+    "associations": [
+      {
+        "comment": "mayor of the city of brimbank",
+        "position_item_id": "Q56477781"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic189",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1849126",
+    "associations": [
+      {
+        "comment": "mayor of the city of manningham",
+        "position_item_id": "Q56477785"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic195",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1849126",
+    "associations": [
+      {
+        "comment": "mayor of the city of whitehorse",
+        "position_item_id": "Q56477789"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic196",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1849126",
+    "associations": [
+      {
+        "comment": "mayor of the city of boroondara",
+        "position_item_id": "Q56477793"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic201",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1849126",
+    "associations": [
+      {
+        "comment": "mayor of the city of yarra",
+        "position_item_id": "Q56477797"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic202",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1849126",
+    "associations": [
+      {
+        "comment": "mayor of the city of stonnington",
+        "position_item_id": "Q56477801"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic203",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1849126",
+    "associations": [
+      {
+        "comment": "mayor of the city of darebin",
+        "position_item_id": "Q56477805"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic205",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1849126",
+    "associations": [
+      {
+        "comment": "mayor of the city of port phillip",
+        "position_item_id": "Q56477809"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic208",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1849126",
+    "associations": [
+      {
+        "comment": "mayor of the city of monash",
+        "position_item_id": "Q56477813"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic210",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1849126",
+    "associations": [
+      {
+        "comment": "mayor of the city of kingston",
+        "position_item_id": "Q56477818"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic226",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1849126",
+    "associations": [
+      {
+        "comment": "mayor of the city of maribyrnong",
+        "position_item_id": "Q56477822"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic234",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q1849126",
+    "associations": [
+      {
+        "comment": "mayor of the city of hobsons bay",
+        "position_item_id": "Q56477826"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic235",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of the city of nedlands",
+        "position_item_id": "Q56477830"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa307",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of the city of rockingham",
+        "position_item_id": "Q56477834"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa308",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of the city of wanneroo",
+        "position_item_id": "Q56477838"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa309",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of the city of vincent",
+        "position_item_id": "Q56477842"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa310",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of the city of cockburn",
+        "position_item_id": "Q56477846"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa311",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of the city of melville",
+        "position_item_id": "Q56477850"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa312",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of the city of swan",
+        "position_item_id": "Q56477854"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa313",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of the city of bayswater",
+        "position_item_id": "Q56477858"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa314",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of shire of serpentine-jarrahdale",
+        "position_item_id": "Q56477862"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa315",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of victoria park",
+        "position_item_id": "Q56477866"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa316",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of the city of canning",
+        "position_item_id": "Q56477870"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa317",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of the city of south perth",
+        "position_item_id": "Q56477874"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa318",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of shire of mundaring",
+        "position_item_id": "Q56477878"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa319",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of the city of gosnells",
+        "position_item_id": "Q56477882"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa320",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of the city of armadale",
+        "position_item_id": "Q56477886"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa321",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of the city of stirling",
+        "position_item_id": "Q56477890"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa334",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of the city of belmont",
+        "position_item_id": "Q56477894"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa360",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of claremont",
+        "position_item_id": "Q56477898"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa368",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of east fremantle",
+        "position_item_id": "Q56477902"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa369",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of cambridge",
+        "position_item_id": "Q56477906"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa370",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of the city of joondalup",
+        "position_item_id": "Q56477910"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa371",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of the city of subiaco",
+        "position_item_id": "Q56477914"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa373",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of shire of peppermint grove",
+        "position_item_id": "Q56477918"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa374",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of mosman park",
+        "position_item_id": "Q56477923"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa375",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of cottesloe",
+        "position_item_id": "Q56477928"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa376",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of bassendean",
+        "position_item_id": "Q56477932"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa377",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of the city of fremantle",
+        "position_item_id": "Q56477936"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa416",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of the city of perth",
+        "position_item_id": "Q56477940"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa423",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of the city of kwinana",
+        "position_item_id": "Q56477945"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa425",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "local-government-areas",
+    "area_type_wikidata_item_id": "Q55557858",
+    "associations": [
+      {
+        "comment": "mayor of the city of kalamunda",
+        "position_item_id": "Q56477949"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa427",
+      "column": "MS_FB"
+    }
   }
 ]
