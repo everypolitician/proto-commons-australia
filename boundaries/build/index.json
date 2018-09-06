@@ -157,8 +157,144 @@
         "position_item_id": "Q18912794"
       }
     ],
+        "name_columns": {
+      "lang:en": "NAME"
+    }
+  },
+  {
+    "directory": "state-assembly-electoral-divisions",
+    "area_type_wikidata_item_id": "Q5357209",
+    "associations": [
+      {
+        "comment": "member of the australian capital territory legislative assembly",
+        "position_item_id": "Q6814365"
+      }
+    ],
     "name_columns": {
       "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:act",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-electoral-divisions",
+    "area_type_wikidata_item_id": "Q3032154",
+    "associations": [
+      {
+        "comment": "Member of the New South Wales Legislative Assembly",
+        "position_item_id": "Q19202748"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-electoral-divisions",
+    "area_type_wikidata_item_id": "Q5356265",
+    "associations": [
+      {
+        "comment": "member of the Northern Territory Legislative Assembly",
+        "position_item_id": "Q26998278"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nt",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-electoral-divisions",
+    "area_type_wikidata_item_id": "Q5356184",
+    "associations": [
+      {
+        "comment": "Member of the Queensland Legislative Assembly",
+        "position_item_id": "Q18526194"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:qld",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-electoral-divisions",
+    "area_type_wikidata_item_id": "Q5356185",
+    "associations": [
+      {
+        "comment": "Member of the South Australian House of Assembly",
+        "position_item_id": "Q18220900"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-electoral-divisions",
+    "area_type_wikidata_item_id": "Q30681685",
+    "associations": [
+      {
+        "comment": "Member of the Tasmanian House of Assembly",
+        "position_item_id": "Q19007285"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:tas",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-electoral-divisions",
+    "area_type_wikidata_item_id": "Q5356187",
+    "associations": [
+      {
+        "comment": "Member of the Victorian Legislative Assembly",
+        "position_item_id": "Q18534408"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-assembly-electoral-divisions",
+    "area_type_wikidata_item_id": "Q5356189",
+    "associations": [
+      {
+        "comment": "Member of the Western Australian Legislative Assembly",
+        "position_item_id": "Q20165902"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa",
+      "column": "MS_FB_PARE"
     }
   },
   {
