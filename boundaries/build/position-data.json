@@ -224,6 +224,22 @@
     }
   },
   {
+    "role_id": "Q319145",
+    "role_name": {
+      "lang:en": "Prime Minister of Australia"
+    },
+    "generic_role_id": "Q14212",
+    "generic_role_name": {
+      "lang:en": "prime minister"
+    },
+    "role_level": "Q6256",
+    "role_type": null,
+    "organization_id": "Q2028178",
+    "organization_name": {
+      "lang:en": "Cabinet of Australia"
+    }
+  },
+  {
     "role_id": "Q6814428",
     "role_name": {
       "lang:en": "Member of the Australian Senate"
