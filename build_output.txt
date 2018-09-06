@@ -840,5 +840,7 @@ WARNING: the district Spillett (Q26267294) wasn't found in the boundary data for
 WARNING: the district Fannie Bay (Q5356213) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
 WARNING: the district Araluen (Q5356196) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
 WARNING: the district Blain (Q5356200) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
+WARNING: Position Prime Minister of Australia (Q319145) not in boundary associated_wikidata_positions
+WARNING: the district Australia (Q408) wasn't found in the boundary data for position Prime Minister of Australia (Q319145)
 WARNING: Position Premier of South Australia (Q27230596) not in boundary associated_wikidata_positions
 WARNING: the district South Australia (Q35715) wasn't found in the boundary data for position Premier of South Australia (Q27230596)

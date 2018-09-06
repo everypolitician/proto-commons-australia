@@ -1,0 +1,69 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Scott Morrison"
+      },
+      "id": "Q7436908",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7436908"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Cabinet of Australia"
+      },
+      "id": "Q2028178",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2028178"
+        }
+      ],
+      "area_id": "Q408"
+    },
+    {
+      "name": {
+        "lang:en": "Liberal Party of Australia"
+      },
+      "id": "Q241149",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q241149"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7436908-51127120-4df0-4542-f876-f6af57ed2125",
+      "person_id": "Q7436908",
+      "on_behalf_of_id": "Q241149",
+      "organization_id": "Q2028178",
+      "area_id": "Q408",
+      "start_date": "2018-08-24",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q319145",
+      "role": {
+        "lang:en": "Prime Minister of Australia"
+      }
+    }
+  ]
+}

@@ -1,4 +1,3 @@
-WARNING: no executive for Prime Minister of Australia (Q319145) in Australia (Q408)
 WARNING: no head of government position for Heard Island and McDonald Islands (Q131198)
 WARNING: no head of government position for Ashmore and Cartier Islands (Q133888)
 WARNING: no head of government position for Coral Sea Islands (Q172216)
