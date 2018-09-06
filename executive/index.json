@@ -1,5 +1,15 @@
 [
   {
+    "comment": "Cabinet of Australia",
+    "executive_item_id": "Q2028178",
+    "positions": [
+      {
+        "comment": "Prime Minister of Australia",
+        "position_item_id": "Q319145"
+      }
+    ]
+  },
+  {
     "comment": "Cabinet of South Australia",
     "executive_item_id": "Q24185541",
     "positions": [
