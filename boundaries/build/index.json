@@ -311,6 +311,91 @@
     }
   },
   {
+    "directory": "state-council-electoral-divisions",
+    "area_type_wikidata_item_id": "Q56396127",
+    "associations": [
+      {
+        "comment": "Member of the New South Wales Legislative Council",
+        "position_item_id": "Q18810377"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-council-electoral-divisions",
+    "area_type_wikidata_item_id": "Q52048109",
+    "associations": [
+      {
+        "comment": "Member of the South Australian Legislative Council",
+        "position_item_id": "Q18662245"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-council-electoral-divisions",
+    "area_type_wikidata_item_id": "Q7687464",
+    "associations": [
+      {
+        "comment": "Member of the Tasmanian Legislative Council",
+        "position_item_id": "Q19299542"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:tas",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-council-electoral-divisions",
+    "area_type_wikidata_item_id": "Q5356435",
+    "associations": [
+      {
+        "comment": "Member of the Victorian Legislative Council",
+        "position_item_id": "Q19185341"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "state-council-electoral-divisions",
+    "area_type_wikidata_item_id": "Q5356436",
+    "associations": [
+      {
+        "comment": "Member of the Western Australian Legislative Council",
+        "position_item_id": "Q19627913"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
     "directory": "local-government-areas",
     "area_type_wikidata_item_id": "Q55558200",
     "associations": [
