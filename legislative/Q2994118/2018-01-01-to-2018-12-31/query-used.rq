@@ -23,12 +23,15 @@ WHERE {
   }
   ?item wdt:P31 wd:Q5 ;
         p:P39 ?statement .
+  ?statement ps:P39/wdt:P279* ?specific_role .
+  OPTIONAL { ?statement pq:P580 ?start }
+  OPTIONAL { ?statement pq:P582 ?end }
+  
   OPTIONAL {
   ?item rdfs:label ?name_en
   FILTER(LANG(?name_en) = "en")
 }
 
-  ?statement ps:P39 ?specific_role .
   OPTIONAL {
   ?role rdfs:label ?role_en
   FILTER(LANG(?role_en) = "en")
@@ -43,9 +46,6 @@ WHERE {
 }
 
   }
-  
-  OPTIONAL { ?statement pq:P580 ?start }
-  OPTIONAL { ?statement pq:P582 ?end }
   OPTIONAL {
     ?statement pq:P768 ?district.
     OPTIONAL {
