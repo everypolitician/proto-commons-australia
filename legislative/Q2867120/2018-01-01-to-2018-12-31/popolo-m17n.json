@@ -2987,6 +2987,21 @@
     },
     {
       "name": {
+        "lang:en": "John Gibson (Australian politician)"
+      },
+      "id": "Q55615182",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55615182"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Graeme Page"
       },
       "id": "Q5592359",
@@ -3024,6 +3039,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q5622071"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Frank Archer"
+      },
+      "id": "Q56253132",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56253132"
         }
       ],
       "links": [
@@ -5999,6 +6029,20 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q18386100-854b00e9-4984-afb6-ad20-bfcfdf084063",
+      "person_id": "Q18386100",
+      "organization_id": "Q2867120",
+      "start_date": "2018-05-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19007285",
+      "role": {
+        "lang:en": "Member of the Tasmanian House of Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q20090556-f85fd878-47a4-33f8-8bca-524a5573f1a9",
       "person_id": "Q20090556",
       "organization_id": "Q2867120",
@@ -6759,6 +6803,19 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q55615182-5d70a8be-7584-4173-85b1-7f529f128d43",
+      "person_id": "Q55615182",
+      "organization_id": "Q2867120",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19007285",
+      "role": {
+        "lang:en": "Member of the Tasmanian House of Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q5592359-1EFAE186-0B68-4DE6-8F71-9D0F6E52E4FE",
       "person_id": "Q5592359",
       "organization_id": "Q2867120",
@@ -6790,6 +6847,19 @@
       "organization_id": "Q2867120",
       "area_id": "Q5284547",
       "start_date": "2014-03-15",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19007285",
+      "role": {
+        "lang:en": "Member of the Tasmanian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56253132-6c0144e5-989b-47ad-9a04-73c3c25984af",
+      "person_id": "Q56253132",
+      "organization_id": "Q2867120",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -7121,6 +7191,21 @@
       "organization_id": "Q2867120",
       "area_id": "Q5284547",
       "start_date": "2010-03-20",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19007285",
+      "role": {
+        "lang:en": "Member of the Tasmanian House of Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6769690-c8a7b42b-4d9f-3a05-878d-13b9ac896672",
+      "person_id": "Q6769690",
+      "organization_id": "Q2867120",
+      "start_date": "2017-10-17",
+      "end_date": "2018-05-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"

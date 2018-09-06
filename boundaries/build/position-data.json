@@ -1,0 +1,242 @@
+[
+  {
+    "role_id": "Q18220900",
+    "role_name": {
+      "lang:en": "Member of the South Australian House of Assembly"
+    },
+    "generic_role_id": "Q19597471",
+    "generic_role_name": {
+      "lang:en": "Member of the Parliament of South Australia"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q7566117",
+    "organization_name": {
+      "lang:en": "South Australian House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q18526194",
+    "role_name": {
+      "lang:en": "Member of the Queensland Legislative Assembly"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q6518214",
+    "organization_name": {
+      "lang:en": "Legislative Assembly of Queensland"
+    }
+  },
+  {
+    "role_id": "Q18534408",
+    "role_name": {
+      "lang:en": "Member of the Victorian Legislative Assembly"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q4386693",
+    "organization_name": {
+      "lang:en": "Victorian Legislative Assembly"
+    }
+  },
+  {
+    "role_id": "Q18662245",
+    "role_name": {
+      "lang:en": "Member of the South Australian Legislative Council"
+    },
+    "generic_role_id": "Q19597471",
+    "generic_role_name": {
+      "lang:en": "Member of the Parliament of South Australia"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q7566128",
+    "organization_name": {
+      "lang:en": "South Australian Legislative Council"
+    }
+  },
+  {
+    "role_id": "Q18810377",
+    "role_name": {
+      "lang:en": "Member of the New South Wales Legislative Council"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q3244676",
+    "organization_name": {
+      "lang:en": "New South Wales Legislative Council"
+    }
+  },
+  {
+    "role_id": "Q18912794",
+    "role_name": {
+      "lang:en": "Member of the Australian House of Representatives"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q783401",
+    "organization_name": {
+      "lang:en": "House of Representatives"
+    }
+  },
+  {
+    "role_id": "Q19007285",
+    "role_name": {
+      "lang:en": "Member of the Tasmanian House of Assembly"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q2867120",
+    "organization_name": {
+      "lang:en": "Tasmanian House of Assembly"
+    }
+  },
+  {
+    "role_id": "Q19185341",
+    "role_name": {
+      "lang:en": "Member of the Victorian Legislative Council"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9302011",
+    "organization_name": {
+      "lang:en": "Victorian Legislative Council"
+    }
+  },
+  {
+    "role_id": "Q19202748",
+    "role_name": {
+      "lang:en": "Member of the New South Wales Legislative Assembly"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9390783",
+    "organization_name": {
+      "lang:en": "New South Wales Legislative Assembly"
+    }
+  },
+  {
+    "role_id": "Q19299542",
+    "role_name": {
+      "lang:en": "Member of the Tasmanian Legislative Council"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q2994121",
+    "organization_name": {
+      "lang:en": "Tasmanian Legislative Council"
+    }
+  },
+  {
+    "role_id": "Q19597471",
+    "role_name": {
+      "lang:en": "Member of the Parliament of South Australia"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q3054418",
+    "organization_name": {
+      "lang:en": "Parliament of South Australia"
+    }
+  },
+  {
+    "role_id": "Q19627913",
+    "role_name": {
+      "lang:en": "Member of the Western Australian Legislative Council"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q2994118",
+    "organization_name": {
+      "lang:en": "Western Australian Legislative Council"
+    }
+  },
+  {
+    "role_id": "Q20165902",
+    "role_name": {
+      "lang:en": "Member of the Western Australian Legislative Assembly"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q7987530",
+    "organization_name": {
+      "lang:en": "Western Australian Legislative Assembly"
+    }
+  },
+  {
+    "role_id": "Q26998278",
+    "role_name": {
+      "lang:en": "member of the Northern Territory Legislative Assembly"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q9390785",
+    "organization_name": {
+      "lang:en": "Northern Territory Legislative Assembly"
+    }
+  },
+  {
+    "role_id": "Q6814428",
+    "role_name": {
+      "lang:en": "Member of the Australian Senate"
+    },
+    "generic_role_id": "Q15686806",
+    "generic_role_name": {
+      "lang:en": "senator"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q783330",
+    "organization_name": {
+      "lang:en": "Senate of Australia"
+    }
+  }
+]

@@ -92,21 +92,6 @@
     },
     {
       "name": {
-        "lang:en": "Laine McDonald"
-      },
-      "id": "Q27450624",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q27450624"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Kyle McGinn"
       },
       "id": "Q29021086",
@@ -204,36 +189,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q29021199"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Elise Irwin"
-      },
-      "id": "Q29167607",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q29167607"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Bill Leadbetter"
-      },
-      "id": "Q29167608",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q29167608"
         }
       ],
       "links": [
@@ -546,21 +501,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q27450624-df509b80-46b3-fa7c-e30e-535590f95268",
-      "person_id": "Q27450624",
-      "organization_id": "Q2994118",
-      "area_id": "Q5356431",
-      "start_date": "2016-09-27",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19627913",
-      "role": {
-        "lang:en": "Member of the Western Australian Legislative Council"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q29021086-d4d82b8f-4a86-b604-44f7-4388262541ab",
       "person_id": "Q29021086",
       "organization_id": "Q2994118",
@@ -656,36 +596,6 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356433",
       "start_date": "2017-05-22",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19627913",
-      "role": {
-        "lang:en": "Member of the Western Australian Legislative Council"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q29167607-e0fb5cfd-4597-73c9-e49f-6cdcd7026bcd",
-      "person_id": "Q29167607",
-      "organization_id": "Q2994118",
-      "area_id": "Q5356431",
-      "start_date": "2017-04-04",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19627913",
-      "role": {
-        "lang:en": "Member of the Western Australian Legislative Council"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q29167608-d744a40b-4b22-9c44-4c13-86259639b317",
-      "person_id": "Q29167608",
-      "organization_id": "Q2994118",
-      "area_id": "Q5356429",
-      "start_date": "2017-04-04",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"

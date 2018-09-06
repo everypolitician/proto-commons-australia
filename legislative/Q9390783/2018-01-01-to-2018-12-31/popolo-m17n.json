@@ -2027,7 +2027,7 @@
     },
     {
       "name": {
-        "lang:en": "Mark Owen Taylor"
+        "lang:en": "Mark Taylor"
       },
       "id": "Q16937410",
       "identifiers": [
@@ -4823,21 +4823,6 @@
     },
     {
       "name": {
-        "lang:en": "Thomas Williams"
-      },
-      "id": "Q20739678",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q20739678"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "William Alison"
       },
       "id": "Q20739685",
@@ -6105,21 +6090,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q20801613"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "William Abbott"
-      },
-      "id": "Q20810357",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q20810357"
         }
       ],
       "links": [
@@ -10241,21 +10211,6 @@
     },
     {
       "name": {
-        "lang:en": "Alexander Mair"
-      },
-      "id": "Q4719529",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4719529"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Alexander McArthur"
       },
       "id": "Q4719574",
@@ -10848,21 +10803,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q4799077"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Arthur Hodgson"
-      },
-      "id": "Q4799094",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4799094"
         }
       ],
       "links": [
@@ -12093,21 +12033,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q5112728"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Clark Irving"
-      },
-      "id": "Q5127286",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5127286"
         }
       ],
       "links": [
@@ -21536,21 +21461,6 @@
     },
     {
       "name": {
-        "lang:en": "William Henry Walsh"
-      },
-      "id": "Q8012203",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q8012203"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "William Holdsworth"
       },
       "id": "Q8012415",
@@ -22316,6 +22226,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q15989833-8F626BEE-85CA-4565-ABA7-BAD3A946CBA2",
       "person_id": "Q15989833",
       "organization_id": "Q9390783",
+      "area_id": "Q5355725",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -23083,6 +22994,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16043619-92692B1C-D8DF-4111-B449-F73815D5F4C9",
       "person_id": "Q16043619",
       "organization_id": "Q9390783",
+      "area_id": "Q5355725",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -23291,6 +23203,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16059879-A9AFF475-58A5-4E52-9DCC-01B7207E9231",
       "person_id": "Q16059879",
       "organization_id": "Q9390783",
+      "area_id": "Q5355725",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -23356,6 +23269,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16062534-EFF29965-A3BF-4217-86B9-7905DC162162",
       "person_id": "Q16062534",
       "organization_id": "Q9390783",
+      "area_id": "Q5355725",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -23486,6 +23400,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q1607143-D8CC982A-7AC5-43C0-8255-5F60664D7A55",
       "person_id": "Q1607143",
       "organization_id": "Q9390783",
+      "area_id": "Q5355725",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -23655,6 +23570,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q16198954-786C08C3-2A6E-4F7D-BFB9-FC14CD0A0A76",
       "person_id": "Q16198954",
       "organization_id": "Q9390783",
+      "area_id": "Q5355505",
+      "start_date": "2011-03-26",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -23735,6 +23652,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q16732034-20DB0BB3-5962-44F0-A8D1-5BEDB4CB3ADC",
       "person_id": "Q16732034",
       "organization_id": "Q9390783",
+      "area_id": "Q5355816",
+      "start_date": "2013-05-25",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -23800,6 +23719,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q16937410-183DBC85-DBF7-4377-A7FA-E6C43DB72438",
       "person_id": "Q16937410",
       "organization_id": "Q9390783",
+      "area_id": "Q5355933",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -24424,6 +24345,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q18379290-BFE3B83E-4DC5-444C-A2D4-B96A5838B3B2",
       "person_id": "Q18379290",
       "organization_id": "Q9390783",
+      "area_id": "Q5355230",
+      "start_date": "2014-10-25",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -24554,6 +24477,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q18394398-EFBA756B-AE3B-4352-9B2E-07955CC1801B",
       "person_id": "Q18394398",
       "organization_id": "Q9390783",
+      "area_id": "Q5355770",
+      "start_date": "2014-10-25",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -24918,6 +24843,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q19786993-18E78D3E-74A2-4D88-AFFE-1F8174E23C08",
       "person_id": "Q19786993",
       "organization_id": "Q9390783",
+      "area_id": "Q5355622",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -24931,6 +24858,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q19786995-76381FB8-E5AE-4537-BB6B-299C16AB50E5",
       "person_id": "Q19786995",
       "organization_id": "Q9390783",
+      "area_id": "Q5355380",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -24944,6 +24873,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q19786996-52A93129-10CB-4A63-8D36-97A701042EE9",
       "person_id": "Q19786996",
       "organization_id": "Q9390783",
+      "area_id": "Q5355666",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -24957,6 +24888,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q19786997-7B969B04-7656-4A6B-8523-C0505108BF44",
       "person_id": "Q19786997",
       "organization_id": "Q9390783",
+      "area_id": "Q5356024",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -24970,6 +24903,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q19787028-DB66E44F-A493-40F0-8229-43F6ADE4AB1F",
       "person_id": "Q19787028",
       "organization_id": "Q9390783",
+      "area_id": "Q19877276",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -24983,6 +24918,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q19787050-4174F846-9AE9-4982-B021-9FE1D4A5A564",
       "person_id": "Q19787050",
       "organization_id": "Q9390783",
+      "area_id": "Q5355905",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -25089,6 +25026,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q19871946-4ADE301C-A7C5-487F-8EE0-1439D07A3EE0",
       "person_id": "Q19871946",
       "organization_id": "Q9390783",
+      "area_id": "Q5355607",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -25102,6 +25041,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q19872021-33B7F870-8741-4E3A-A443-0A31132D1784",
       "person_id": "Q19872021",
       "organization_id": "Q9390783",
+      "area_id": "Q5355999",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -25115,6 +25056,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q19872098-9961E0B5-DE1E-403A-B582-D1727173C760",
       "person_id": "Q19872098",
       "organization_id": "Q9390783",
+      "area_id": "Q5355621",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -25232,6 +25175,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q19872872-A08CE348-0337-46A0-A408-73569C4D892B",
       "person_id": "Q19872872",
       "organization_id": "Q9390783",
+      "area_id": "Q5355586",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -25258,6 +25203,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q19872994-29157385-EE72-4C02-BB10-4B82D372F377",
       "person_id": "Q19872994",
       "organization_id": "Q9390783",
+      "area_id": "Q5355131",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -25297,6 +25244,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q19873373-911BAB3A-07CF-4153-8B76-43405A2E2CE2",
       "person_id": "Q19873373",
       "organization_id": "Q9390783",
+      "area_id": "Q5355469",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -25414,6 +25363,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q19874193-FC788DA9-5EE1-43E9-992F-18B94C4FE4F2",
       "person_id": "Q19874193",
       "organization_id": "Q9390783",
+      "area_id": "Q19879617",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -25492,6 +25443,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q19874771-0A06266D-0DAD-4233-9791-2D3045DBEB73",
       "person_id": "Q19874771",
       "organization_id": "Q9390783",
+      "area_id": "Q5356054",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -25626,6 +25579,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q19875673-B13A2B20-0DDD-42E5-96D3-F9D019EFEB04",
       "person_id": "Q19875673",
       "organization_id": "Q9390783",
+      "area_id": "Q5355574",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -26212,19 +26167,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q20739671-BEEF1B34-06DC-429A-A304-2D8C3F0A60E8",
       "person_id": "Q20739671",
-      "organization_id": "Q9390783",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19202748",
-      "role": {
-        "lang:en": "Member of the New South Wales Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q20739678-DF441834-96B1-47D1-9DFB-B0EE6BD070C4",
-      "person_id": "Q20739678",
       "organization_id": "Q9390783",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -27253,6 +27195,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q20763339-3D23EC00-F2B8-4AFB-BDE0-F603842F1016",
       "person_id": "Q20763339",
       "organization_id": "Q9390783",
+      "area_id": "Q5355725",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -27330,19 +27273,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q20801613-6A9A8D61-C816-4F39-A228-4776006B84D8",
       "person_id": "Q20801613",
-      "organization_id": "Q9390783",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19202748",
-      "role": {
-        "lang:en": "Member of the New South Wales Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q20810357-A1EAF263-5E26-441E-998B-599D12F4A927",
-      "person_id": "Q20810357",
       "organization_id": "Q9390783",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -29242,6 +29172,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q21014420-03D91B2F-15F3-4027-A9F2-07A88060958F",
       "person_id": "Q21014420",
       "organization_id": "Q9390783",
+      "area_id": "Q5355725",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -29281,6 +29212,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q21062726-6B822E5F-9B2C-4FCB-A249-667F333B1DA4",
       "person_id": "Q21062726",
       "organization_id": "Q9390783",
+      "area_id": "Q5355204",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -30932,21 +30865,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q4719529-CE22EB0B-7511-4706-8443-7B5E5A611C37",
-      "person_id": "Q4719529",
-      "organization_id": "Q9390783",
-      "area_id": "Q5355025",
-      "start_date": "1932-06-11",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19202748",
-      "role": {
-        "lang:en": "Member of the New South Wales Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q4719574-28334A22-3488-4DB1-994E-E3AF0DC4A9BB",
       "person_id": "Q4719574",
       "organization_id": "Q9390783",
@@ -31184,6 +31102,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q4756662-EDDD2A70-F1B7-4970-9DFF-34BEFBE22951",
       "person_id": "Q4756662",
       "organization_id": "Q9390783",
+      "area_id": "Q5355102",
+      "start_date": "2003-03-22",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -31210,6 +31130,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q4757007-BCB903A2-582A-4B7A-9177-D701F45ACAA5",
       "person_id": "Q4757007",
       "organization_id": "Q9390783",
+      "area_id": "Q5355255",
+      "start_date": "1990-11-03",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -31381,6 +31303,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q4773367-DB232C73-4EAA-473F-B753-FFB428962A68",
       "person_id": "Q4773367",
       "organization_id": "Q9390783",
+      "area_id": "Q5355588",
+      "start_date": "2003-03-22",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -31458,19 +31382,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4799077-6565ECF5-46CC-4B9A-ADBA-DB28C962931F",
       "person_id": "Q4799077",
-      "organization_id": "Q9390783",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19202748",
-      "role": {
-        "lang:en": "Member of the New South Wales Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q4799094-2FC3700F-0F62-4EE6-9234-09FBE771F2AE",
-      "person_id": "Q4799094",
       "organization_id": "Q9390783",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -32254,6 +32165,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q4978084-6562422B-00BC-4DE6-A829-64DC92D8DA34",
       "person_id": "Q4978084",
       "organization_id": "Q9390783",
+      "area_id": "Q5355266",
+      "start_date": "2011-03-26",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -32488,6 +32401,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q5106741-F671EDC0-602D-494E-BFC8-20B1FA1A4EF8",
       "person_id": "Q5106741",
       "organization_id": "Q9390783",
+      "area_id": "Q5355238",
+      "start_date": "2011-11-19",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -32541,19 +32456,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5112728-E07B8C3D-B5B1-427E-B65E-A5EF17514DB5",
       "person_id": "Q5112728",
-      "organization_id": "Q9390783",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19202748",
-      "role": {
-        "lang:en": "Member of the New South Wales Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5127286-9028A3D2-9E2F-40DF-8E67-378D898F83E8",
-      "person_id": "Q5127286",
       "organization_id": "Q9390783",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -32633,6 +32535,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q5130178-21F59FDA-96FD-4975-AC92-B4153296E7A9",
       "person_id": "Q5130178",
       "organization_id": "Q9390783",
+      "area_id": "Q5355228",
+      "start_date": "2011-03-26",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -32856,6 +32760,7 @@
       "organization_id": "Q9390783",
       "area_id": "Q5356060",
       "start_date": "1999-03-27",
+      "end_date": "2018-08-03",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -32921,6 +32826,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q5233352-FA686606-4DE3-4746-90E7-C7600D96C85E",
       "person_id": "Q5233352",
       "organization_id": "Q9390783",
+      "area_id": "Q5355096",
+      "start_date": "2011-03-26",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -32944,9 +32851,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q5234738-E57CF96C-81CE-45EF-A5D0-BFDBDF2AC227",
+      "id": "http://www.wikidata.org/entity/statement/Q5234738-e8adce0c-4ac2-9951-f7c1-d36cd9d36318",
       "person_id": "Q5234738",
       "organization_id": "Q9390783",
+      "area_id": "Q5356157",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -33100,9 +33009,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q5290616-8785BF25-42EB-4133-8087-664C66CB8B0C",
+      "id": "http://www.wikidata.org/entity/statement/Q5290616-74723b78-410d-48fb-0438-4ad10f5b73df",
       "person_id": "Q5290616",
       "organization_id": "Q9390783",
+      "area_id": "Q5355500",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -34095,6 +34006,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q5534198-F9A6FDF9-F797-495B-938F-F6923A45834A",
       "person_id": "Q5534198",
       "organization_id": "Q9390783",
+      "area_id": "Q5355840",
+      "start_date": "2011-03-26",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -34108,6 +34021,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q5534278-072A2BC3-B829-4C87-9FC1-09007EC5A716",
       "person_id": "Q5534278",
       "organization_id": "Q9390783",
+      "area_id": "Q5356049",
+      "start_date": "2007-03-24",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -34591,6 +34506,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q5568702-F517EF47-20CF-44BB-A1B9-8F1135E8613D",
       "person_id": "Q5568702",
       "organization_id": "Q9390783",
+      "area_id": "Q5355347",
+      "start_date": "2011-03-26",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -34708,6 +34625,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q5605244-AC47FC67-4721-48BE-823F-7BE6A3EB6798",
       "person_id": "Q5605244",
       "organization_id": "Q9390783",
+      "area_id": "Q5355025",
+      "start_date": "2003-03-22",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -35898,9 +35817,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q6207887-42F088FD-517E-48AB-8145-2419A5E05C03",
+      "id": "http://www.wikidata.org/entity/statement/Q6207887-07c58093-474d-f322-c71b-8e4d1962090e",
       "person_id": "Q6207887",
       "organization_id": "Q9390783",
+      "area_id": "Q5355984",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -36501,6 +36422,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q6257833-CA613225-DACB-4261-98C0-EE22529A7E4F",
       "person_id": "Q6257833",
       "organization_id": "Q9390783",
+      "area_id": "Q3032096",
+      "start_date": "2011-03-26",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -36566,6 +36489,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q6274036-C5D28749-3081-4503-97CC-A74DC31CAA29",
       "person_id": "Q6274036",
       "organization_id": "Q9390783",
+      "area_id": "Q5355316",
+      "start_date": "2007-03-24",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -36868,6 +36793,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q6396056-AA360379-89FD-48A4-ADE9-B97871696246",
       "person_id": "Q6396056",
       "organization_id": "Q9390783",
+      "area_id": "Q5355901",
+      "start_date": "2011-03-26",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -36920,6 +36847,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q6396539-7F0E7DD0-8C3D-4F11-9CDA-1DA58694249E",
       "person_id": "Q6396539",
       "organization_id": "Q9390783",
+      "area_id": "Q5355087",
+      "start_date": "2007-03-24",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -37102,6 +37031,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q6531238-E1F2D312-EF7D-4C74-8522-CB8AFCE8983B",
       "person_id": "Q6531238",
       "organization_id": "Q9390783",
+      "area_id": "Q5355868",
+      "start_date": "2011-03-26",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -37314,6 +37245,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q6767170-E78F477F-9625-43EE-9FCF-47228B8150A9",
       "person_id": "Q6767170",
       "organization_id": "Q9390783",
+      "area_id": "Q5355829",
+      "start_date": "2011-03-26",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -37353,6 +37286,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q6769797-5B6837CC-060F-4906-B094-560E16C0405C",
       "person_id": "Q6769797",
       "organization_id": "Q9390783",
+      "area_id": "Q5355283",
+      "start_date": "2011-03-26",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -37418,6 +37353,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q6788883-048F38E2-17D7-4A7F-B16C-C57745BB2D79",
       "person_id": "Q6788883",
       "organization_id": "Q9390783",
+      "area_id": "Q5355518",
+      "start_date": "2011-03-26",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -37532,9 +37469,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q6811286-EC3B8FE4-C256-460B-B1AB-0CB918F5B4FD",
+      "id": "http://www.wikidata.org/entity/statement/Q6811286-3d50a473-41b6-053a-b1fa-a22fdbf26736",
       "person_id": "Q6811286",
       "organization_id": "Q9390783",
+      "area_id": "Q16892020",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -37548,6 +37487,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q6812492-B5313066-B167-4E1C-9537-2C523C81FCFE",
       "person_id": "Q6812492",
       "organization_id": "Q9390783",
+      "area_id": "Q5355834",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -37613,6 +37554,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q6829683-7DB295DB-69CF-4E50-97F7-468E3E975388",
       "person_id": "Q6829683",
       "organization_id": "Q9390783",
+      "area_id": "Q5355636",
+      "start_date": "2005-09-17",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -37795,6 +37738,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q7027445-EC3181C2-6F06-44C9-8591-2B1256C47CE3",
       "person_id": "Q7027445",
       "organization_id": "Q9390783",
+      "area_id": "Q5355197",
+      "start_date": "2008-10-18",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -38096,6 +38041,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q7154043-01166644-E8B1-4E21-8662-0BAE283ED8B3",
       "person_id": "Q7154043",
       "organization_id": "Q9390783",
+      "area_id": "Q5355093",
+      "start_date": "2011-03-26",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -38485,9 +38432,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q7298298-98806B4C-918F-488E-A0CF-359FB9F00EBD",
+      "id": "http://www.wikidata.org/entity/statement/Q7298298-439b4840-43c9-1e70-2780-1a04d33cee6f",
       "person_id": "Q7298298",
       "organization_id": "Q9390783",
+      "area_id": "Q5355218",
+      "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -38709,6 +38658,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q7340581-BA953F75-D1C8-4C07-A97C-908ADDC348AE",
       "person_id": "Q7340581",
       "organization_id": "Q9390783",
+      "area_id": "Q5355858",
+      "start_date": "2007-03-24",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -39218,6 +39169,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q7384410-6F604FBD-6D4E-4443-A0C2-3F970B8680FE",
       "person_id": "Q7384410",
       "organization_id": "Q9390783",
+      "area_id": "Q5355557",
+      "start_date": "2011-03-26",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -39484,6 +39437,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q7608779-F6300068-80D1-45AD-843E-E78E4C24DCDE",
       "person_id": "Q7608779",
       "organization_id": "Q9390783",
+      "area_id": "Q5355748",
+      "start_date": "2011-03-26",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -39601,6 +39556,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q7626294-3EF601CE-4536-4E2C-BD9E-95FCD2514815",
       "person_id": "Q7626294",
       "organization_id": "Q9390783",
+      "area_id": "Q5355849",
+      "start_date": "2010-06-19",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -39666,6 +39623,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q7683250-6E2E96F8-CEFC-4F92-82BA-6EF56ADFCBB2",
       "person_id": "Q7683250",
       "organization_id": "Q9390783",
+      "area_id": "Q12481688",
+      "start_date": "2011-03-26",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -39679,6 +39638,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q7683986-9424C538-CECD-4AF9-BCC3-062A8CE0DF70",
       "person_id": "Q7683986",
       "organization_id": "Q9390783",
+      "area_id": "Q5355727",
+      "start_date": "2011-03-26",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -39861,6 +39822,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q7789974-57D521EB-7407-424F-B597-0F20CE51F0BA",
       "person_id": "Q7789974",
       "organization_id": "Q9390783",
+      "area_id": "Q5355600",
+      "start_date": "1999-03-29",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -40251,6 +40214,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q7846832-D194249C-0FF1-4982-8F0D-1D647385DBF8",
       "person_id": "Q7846832",
       "organization_id": "Q9390783",
+      "area_id": "Q5355334",
+      "start_date": "2011-03-26",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -40316,6 +40281,8 @@
       "id": "http://www.wikidata.org/entity/statement/Q7925861-E6CA3E36-72E3-4B1F-B928-27D850BF5979",
       "person_id": "Q7925861",
       "organization_id": "Q9390783",
+      "area_id": "Q5355920",
+      "start_date": "2008-10-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -40757,19 +40724,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q8012192-7935FC8E-C6B5-40EB-AE8D-D4BF965EB130",
       "person_id": "Q8012192",
-      "organization_id": "Q9390783",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19202748",
-      "role": {
-        "lang:en": "Member of the New South Wales Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q8012203-A3B5B2AC-473D-40EC-8351-F722722D0213",
-      "person_id": "Q8012203",
       "organization_id": "Q9390783",
       "role_superclass_code": "Q486839",
       "role_superclass": {

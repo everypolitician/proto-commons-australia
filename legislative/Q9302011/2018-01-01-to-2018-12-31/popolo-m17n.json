@@ -2117,6 +2117,21 @@
     },
     {
       "name": {
+        "lang:en": "Daniel Mulino"
+      },
+      "id": "Q19518195",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19518195"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Daniel Young"
       },
       "id": "Q19518243",
@@ -2177,6 +2192,21 @@
     },
     {
       "name": {
+        "lang:en": "Josh Morris"
+      },
+      "id": "Q19604839",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19604839"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Jaclyn Symes"
       },
       "id": "Q19605122",
@@ -2184,6 +2214,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q19605122"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Allan (Victorian MLC)"
+      },
+      "id": "Q19662352",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19662352"
         }
       ],
       "links": [
@@ -2207,6 +2252,21 @@
     },
     {
       "name": {
+        "lang:en": "Robert Hope"
+      },
+      "id": "Q19664368",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19664368"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Melina Bath"
       },
       "id": "Q19871162",
@@ -2214,6 +2274,36 @@
         {
           "scheme": "wikidata",
           "identifier": "Q19871162"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bill Campbell"
+      },
+      "id": "Q20737655",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20737655"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Glyde Butler"
+      },
+      "id": "Q20737902",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20737902"
         }
       ],
       "links": [
@@ -2252,6 +2342,51 @@
     },
     {
       "name": {
+        "lang:en": "Ralph Howard"
+      },
+      "id": "Q20880403",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20880403"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kevin Foley"
+      },
+      "id": "Q20983303",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983303"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Murray Hamilton"
+      },
+      "id": "Q20983328",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983328"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Bon Thomas"
       },
       "id": "Q20989002",
@@ -2259,6 +2394,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q20989002"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Neil Stacey"
+      },
+      "id": "Q21064422",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21064422"
         }
       ],
       "links": [
@@ -2342,6 +2492,66 @@
     },
     {
       "name": {
+        "lang:en": "Alexander Knight"
+      },
+      "id": "Q21597903",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21597903"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Stuart McDonald"
+      },
+      "id": "Q21597933",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21597933"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Clarke"
+      },
+      "id": "Q21604242",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21604242"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Doug Elliot"
+      },
+      "id": "Q21604414",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21604414"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Stan Gleeson"
       },
       "id": "Q21604544",
@@ -2349,6 +2559,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q21604544"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Clive Mitchell"
+      },
+      "id": "Q21604956",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21604956"
         }
       ],
       "links": [
@@ -2417,6 +2642,21 @@
     },
     {
       "name": {
+        "lang:en": "Jack O'Connell"
+      },
+      "id": "Q21664801",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21664801"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Ivan Swinburne"
       },
       "id": "Q21665010",
@@ -2462,6 +2702,21 @@
     },
     {
       "name": {
+        "lang:en": "Jack Jones"
+      },
+      "id": "Q21997022",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21997022"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Percy Feltham"
       },
       "id": "Q22004307",
@@ -2469,6 +2724,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q22004307"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Don Ferguson"
+      },
+      "id": "Q22004313",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22004313"
         }
       ],
       "links": [
@@ -2537,6 +2807,21 @@
     },
     {
       "name": {
+        "lang:en": "David Arnott"
+      },
+      "id": "Q22017237",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22017237"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "James Miller Balfour"
       },
       "id": "Q22017260",
@@ -2559,6 +2844,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q22017280"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Herbert Smith"
+      },
+      "id": "Q22017281",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22017281"
         }
       ],
       "links": [
@@ -2597,6 +2897,21 @@
     },
     {
       "name": {
+        "lang:en": "Frank Clarke"
+      },
+      "id": "Q22017425",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22017425"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Russell Clarke"
       },
       "id": "Q22017427",
@@ -2604,6 +2919,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q22017427"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Henry Cohen"
+      },
+      "id": "Q22017439",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22017439"
         }
       ],
       "links": [
@@ -2657,6 +2987,21 @@
     },
     {
       "name": {
+        "lang:en": "James Disney"
+      },
+      "id": "Q22017807",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22017807"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Clifden Eager"
       },
       "id": "Q22018114",
@@ -2664,6 +3009,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q22018114"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Archibald Fraser"
+      },
+      "id": "Q22018502",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22018502"
         }
       ],
       "links": [
@@ -2694,6 +3054,36 @@
         {
           "scheme": "wikidata",
           "identifier": "Q22018561"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Richards Harris"
+      },
+      "id": "Q22018633",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22018633"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Trevor Harvey"
+      },
+      "id": "Q22018640",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22018640"
         }
       ],
       "links": [
@@ -2837,6 +3227,21 @@
     },
     {
       "name": {
+        "lang:en": "Hugh MacLeod"
+      },
+      "id": "Q22018898",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22018898"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Gordon McArthur"
       },
       "id": "Q22018927",
@@ -2957,6 +3362,51 @@
     },
     {
       "name": {
+        "lang:en": "Fred Thomas"
+      },
+      "id": "Q22019488",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22019488"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "George Tuckett"
+      },
+      "id": "Q22019521",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22019521"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "George Wales"
+      },
+      "id": "Q22019544",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22019544"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Dudley Walters"
       },
       "id": "Q22019560",
@@ -2979,6 +3429,51 @@
         {
           "scheme": "wikidata",
           "identifier": "Q22019568"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robert Henry Williams"
+      },
+      "id": "Q22019626",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22019626"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Williamson"
+      },
+      "id": "Q22019628",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22019628"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alfred Elliott Chandler"
+      },
+      "id": "Q22782747",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22782747"
         }
       ],
       "links": [
@@ -3017,6 +3512,21 @@
     },
     {
       "name": {
+        "lang:en": "James Merritt"
+      },
+      "id": "Q23020854",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23020854"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Arthur Sachse"
       },
       "id": "Q23035221",
@@ -3032,6 +3542,51 @@
     },
     {
       "name": {
+        "lang:en": "Alexander Bell"
+      },
+      "id": "Q23035324",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23035324"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Crockett"
+      },
+      "id": "Q23035579",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23035579"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Edward White"
+      },
+      "id": "Q23091236",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23091236"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Alfred Hicks"
       },
       "id": "Q23580470",
@@ -3039,6 +3594,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q23580470"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Adamson"
+      },
+      "id": "Q23580477",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23580477"
         }
       ],
       "links": [
@@ -3084,6 +3654,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q23617003"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Arthur Smith"
+      },
+      "id": "Q23617733",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23617733"
         }
       ],
       "links": [
@@ -3222,6 +3807,51 @@
         {
           "scheme": "wikidata",
           "identifier": "Q27983430"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Thomas Power"
+      },
+      "id": "Q28227599",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28227599"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Kaye"
+      },
+      "id": "Q28312985",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28312985"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robert Thomson"
+      },
+      "id": "Q28453618",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28453618"
         }
       ],
       "links": [
@@ -5486,21 +6116,6 @@
     },
     {
       "name": {
-        "lang:en": "Thomas Turner à Beckett"
-      },
-      "id": "Q7794602",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q7794602"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Tony Van Vliet"
       },
       "id": "Q7823612",
@@ -7620,6 +8235,19 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q19518195-c5505aa2-d34f-48f2-be41-b4e06ea30914",
+      "person_id": "Q19518195",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q19518243-b0a349da-6da5-457b-9ab3-e11b77645bbd",
       "person_id": "Q19518243",
       "organization_id": "Q9302011",
@@ -7676,11 +8304,37 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q19604839-4856b01a-396c-45f1-9a9c-dbf838385dd5",
+      "person_id": "Q19604839",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q19605122-be9a6222-43bb-7bf0-dd1c-914cc90962d1",
       "person_id": "Q19605122",
       "organization_id": "Q9302011",
       "area_id": "Q7059112",
       "start_date": "2014-11-29",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19662352-56317c02-b3b2-436c-8e62-610a70d61de0",
+      "person_id": "Q19662352",
+      "organization_id": "Q9302011",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -7704,11 +8358,50 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q19664368-6628efc7-1dc2-4a46-a49a-6483b9b97921",
+      "person_id": "Q19664368",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q19871162-5bbee6de-4114-d565-d48a-da455954e628",
       "person_id": "Q19871162",
       "organization_id": "Q9302011",
       "area_id": "Q5330554",
       "start_date": "2015-04-16",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20737655-fcad21bd-31cf-405b-a2d8-23066c73ab8d",
+      "person_id": "Q20737655",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20737902-3ddd9092-65a7-43d5-ad48-4dcb6fde3c1a",
+      "person_id": "Q20737902",
+      "organization_id": "Q9302011",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -7745,8 +8438,60 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q20880403-805fdead-50a5-4aa3-bb4d-ef778d0f7d73",
+      "person_id": "Q20880403",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983303-36aacb63-aa02-4333-8948-5c1c057f4bf6",
+      "person_id": "Q20983303",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983328-833ed074-467e-4f6e-a9e1-d140f99107ed",
+      "person_id": "Q20983328",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q20989002-bdc44861-0247-43c7-823d-2e1ac77614b4",
       "person_id": "Q20989002",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21064422-41676bde-864c-44b9-a9e7-70181bc53dd1",
+      "person_id": "Q21064422",
       "organization_id": "Q9302011",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -7823,8 +8568,73 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q21597903-83203501-3051-405e-8342-2ec743d3413d",
+      "person_id": "Q21597903",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21597933-126d9ddf-15e4-4ec4-ba8a-88bcbbca0d8c",
+      "person_id": "Q21597933",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21604242-ad22486b-be0d-4acd-9a78-a698f3a80604",
+      "person_id": "Q21604242",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21604414-af2052fb-f108-45d9-b5a0-461ccde3d15b",
+      "person_id": "Q21604414",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q21604544-67d17e57-6fa0-4413-a30e-6e3bf0400881",
       "person_id": "Q21604544",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21604956-a2124f97-feed-46fe-9855-3f74c6272e20",
+      "person_id": "Q21604956",
       "organization_id": "Q9302011",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -7888,6 +8698,19 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q21664801-7cc4f0e4-c0b6-4352-971a-0c94524cca0b",
+      "person_id": "Q21664801",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q21665010-a5bee418-0f62-44a7-9d29-37f0a134494f",
       "person_id": "Q21665010",
       "organization_id": "Q9302011",
@@ -7927,8 +8750,34 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q21997022-313bd342-9888-4741-a4d2-f5c45908b9cd",
+      "person_id": "Q21997022",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q22004307-717ae9d4-4fcd-41eb-9d2e-7e04a48680c3",
       "person_id": "Q22004307",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22004313-d4d5378e-8aa6-4b83-8bfc-f61defe1291d",
+      "person_id": "Q22004313",
       "organization_id": "Q9302011",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -7992,6 +8841,19 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q22017237-b0dcfc0a-0f4d-4c7c-9945-bb76411e4445",
+      "person_id": "Q22017237",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q22017260-53f79c07-7c28-4104-bf9b-162079af5cd2",
       "person_id": "Q22017260",
       "organization_id": "Q9302011",
@@ -8007,6 +8869,19 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q22017280-e9737cf4-61db-432a-818d-58d9942d0925",
       "person_id": "Q22017280",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22017281-a6fb37a0-e4b8-4efd-b417-8d6c167b0521",
+      "person_id": "Q22017281",
       "organization_id": "Q9302011",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -8044,8 +8919,34 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q22017425-c5502ded-5b58-415c-8bbb-71332f05183e",
+      "person_id": "Q22017425",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q22017427-736f2360-5702-46c3-8370-bf567f8a7e3a",
       "person_id": "Q22017427",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22017439-c76c3c37-9fe4-4598-b62f-5a6ffa42ed29",
+      "person_id": "Q22017439",
       "organization_id": "Q9302011",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -8096,8 +8997,34 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q22017807-9b01d02d-abb6-4577-a68e-8d8c0e45091b",
+      "person_id": "Q22017807",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q22018114-0b0724e9-487c-4c8e-a739-1370b35e51f8",
       "person_id": "Q22018114",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22018502-b56b1a29-494b-42f4-8d91-3edbed9958b6",
+      "person_id": "Q22018502",
       "organization_id": "Q9302011",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -8124,6 +9051,32 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q22018561-3bf2016d-3e1f-4ef0-83b8-9411a1d8aba8",
       "person_id": "Q22018561",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22018633-823602b4-7b8f-40cf-96a5-5c548687350d",
+      "person_id": "Q22018633",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22018640-eb22b912-ad39-497e-9010-65a7ed8c655a",
+      "person_id": "Q22018640",
       "organization_id": "Q9302011",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -8252,6 +9205,19 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q22018898-c56dd6a6-ff29-4d07-a60a-4ab96084a88e",
+      "person_id": "Q22018898",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q22018927-00a28687-eebd-4e40-bc6f-4964b51e39ad",
       "person_id": "Q22018927",
       "organization_id": "Q9302011",
@@ -8356,6 +9322,45 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q22019488-b5bafd7d-d185-488d-bdc5-8d077087725f",
+      "person_id": "Q22019488",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22019521-6d6ef6a5-ff19-4908-bb52-bc8ef612418d",
+      "person_id": "Q22019521",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22019544-d3d4e196-3eeb-4464-b3c1-528feafe8e0b",
+      "person_id": "Q22019544",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q22019560-6608fb5c-89dd-4420-a579-100de9dba902",
       "person_id": "Q22019560",
       "organization_id": "Q9302011",
@@ -8371,6 +9376,45 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q22019568-cb35906e-7d17-499a-9949-015b2b4af267",
       "person_id": "Q22019568",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22019626-e70916bc-aa23-4810-932f-a40fe2e0829d",
+      "person_id": "Q22019626",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22019628-c8334f1c-8980-494b-951b-9a433dc90142",
+      "person_id": "Q22019628",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22782747-54028fdc-55e9-4e35-a734-aa3749f2bca8",
+      "person_id": "Q22782747",
       "organization_id": "Q9302011",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -8408,6 +9452,19 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q23020854-c82c88ed-9142-410f-bffa-1b9c02e7d2f2",
+      "person_id": "Q23020854",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q23035221-6bc16083-c4af-4acd-a8c2-e88c303b79c9",
       "person_id": "Q23035221",
       "organization_id": "Q9302011",
@@ -8421,8 +9478,60 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q23035324-8035ee1a-b936-47e1-aae6-27935fd7ae2f",
+      "person_id": "Q23035324",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23035579-80aab977-fd3f-4f8c-af4b-078141679465",
+      "person_id": "Q23035579",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23091236-889fb3e3-d0ea-4128-a5cb-75fee12a0bdc",
+      "person_id": "Q23091236",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q23580470-c9518f9e-5bdb-4a3e-9967-d88dd9d248ed",
       "person_id": "Q23580470",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23580477-d4555628-b772-4e57-ad41-2ae66c366b90",
+      "person_id": "Q23580477",
       "organization_id": "Q9302011",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -8462,6 +9571,19 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q23617003-a31d584a-7eef-4cb6-b452-48f523a7446b",
       "person_id": "Q23617003",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23617733-f8dda8ca-4076-4260-94fe-8729b9756751",
+      "person_id": "Q23617733",
       "organization_id": "Q9302011",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -8584,6 +9706,45 @@
       "organization_id": "Q9302011",
       "area_id": "Q7059112",
       "start_date": "2016-10-13",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28227599-74c9c7a2-f155-4c49-8a73-822f80048521",
+      "person_id": "Q28227599",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28312985-a3cf5875-9a8a-4e1a-9a72-0d833bf89305",
+      "person_id": "Q28312985",
+      "organization_id": "Q9302011",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19185341",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28453618-0a29385a-7324-4f70-9822-f99167a7f61b",
+      "person_id": "Q28453618",
+      "organization_id": "Q9302011",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -10559,19 +11720,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7790851-FC8A4582-6CDB-43A5-B3CB-4603A4C3F305",
       "person_id": "Q7790851",
-      "organization_id": "Q9302011",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19185341",
-      "role": {
-        "lang:en": "Member of the Victorian Legislative Council"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q7794602-7F33DB78-C60E-4B6A-8E25-7478D65BCFC8",
-      "person_id": "Q7794602",
       "organization_id": "Q9302011",
       "role_superclass_code": "Q486839",
       "role_superclass": {
