@@ -722,21 +722,6 @@
     },
     {
       "name": {
-        "lang:en": "David Bowman"
-      },
-      "id": "Q16059124",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16059124"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Arthur Rutledge"
       },
       "id": "Q16059361",
@@ -902,21 +887,6 @@
     },
     {
       "name": {
-        "lang:en": "Charles Fitzsimmons"
-      },
-      "id": "Q16063940",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16063940"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "George Thorn"
       },
       "id": "Q16063973",
@@ -999,21 +969,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q16090309"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Bob Dollin"
-      },
-      "id": "Q16090790",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16090790"
         }
       ],
       "links": [
@@ -1119,21 +1074,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q16095878"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Martin Tenni"
-      },
-      "id": "Q16095896",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16095896"
         }
       ],
       "links": [
@@ -1397,21 +1337,6 @@
     },
     {
       "name": {
-        "lang:en": "Lyn Warwick"
-      },
-      "id": "Q16107547",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16107547"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "John Hegarty"
       },
       "id": "Q16115342",
@@ -1419,21 +1344,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q16115342"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Lesley Clark"
-      },
-      "id": "Q16120510",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16120510"
         }
       ],
       "links": [
@@ -1922,21 +1832,6 @@
     },
     {
       "name": {
-        "lang:en": "Richard Casey"
-      },
-      "id": "Q16856084",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16856084"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "James Lalor"
       },
       "id": "Q16856484",
@@ -2132,21 +2027,6 @@
     },
     {
       "name": {
-        "lang:en": "Tom Aikens"
-      },
-      "id": "Q17513231",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q17513231"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Sam Doumany"
       },
       "id": "Q18163792",
@@ -2184,21 +2064,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q18716164"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "James Stopford"
-      },
-      "id": "Q18716236",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q18716236"
         }
       ],
       "links": [
@@ -3212,21 +3077,6 @@
     },
     {
       "name": {
-        "lang:en": "Archibald Berdmore Buchanan"
-      },
-      "id": "Q19667045",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q19667045"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Robert Ramsay"
       },
       "id": "Q19667063",
@@ -3392,21 +3242,6 @@
     },
     {
       "name": {
-        "lang:en": "Harry Coyne"
-      },
-      "id": "Q19668656",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q19668656"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Tom Foley"
       },
       "id": "Q19668733",
@@ -3519,21 +3354,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q19872420"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "William Demaine"
-      },
-      "id": "Q19872596",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q19872596"
         }
       ],
       "links": [
@@ -4044,21 +3864,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q20031321"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Brian Cahill"
-      },
-      "id": "Q20059887",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q20059887"
         }
       ],
       "links": [
@@ -4622,21 +4427,6 @@
     },
     {
       "name": {
-        "lang:en": "George Henry Thompson"
-      },
-      "id": "Q21932166",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q21932166"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Keith Hooper"
       },
       "id": "Q22005098",
@@ -5049,21 +4839,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q23584387"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "James Crombie"
-      },
-      "id": "Q23584475",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q23584475"
         }
       ],
       "links": [
@@ -5837,21 +5612,6 @@
     },
     {
       "name": {
-        "lang:en": "James Crawford"
-      },
-      "id": "Q23688774",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q23688774"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Kenneth Grant"
       },
       "id": "Q23688824",
@@ -5957,21 +5717,6 @@
     },
     {
       "name": {
-        "lang:en": "Hugh Russell"
-      },
-      "id": "Q23688909",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q23688909"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "George Cuthbert Taylor"
       },
       "id": "Q23688937",
@@ -5979,21 +5724,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q23688937"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Harold Taylor"
-      },
-      "id": "Q23688939",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q23688939"
         }
       ],
       "links": [
@@ -6204,21 +5934,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q23715156"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Graham Mylne"
-      },
-      "id": "Q23715159",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q23715159"
         }
       ],
       "links": [
@@ -6564,21 +6279,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q23799237"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Richard Bow"
-      },
-      "id": "Q23799239",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q23799239"
         }
       ],
       "links": [
@@ -7772,21 +7472,6 @@
     },
     {
       "name": {
-        "lang:en": "Fred Campbell"
-      },
-      "id": "Q24004720",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q24004720"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "George Grimes"
       },
       "id": "Q24004725",
@@ -8147,21 +7832,6 @@
     },
     {
       "name": {
-        "lang:en": "George Barber"
-      },
-      "id": "Q24191136",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q24191136"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Bernard McLean"
       },
       "id": "Q24191140",
@@ -8387,36 +8057,6 @@
     },
     {
       "name": {
-        "lang:en": "Henry Garde"
-      },
-      "id": "Q24284453",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q24284453"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Horace Davies"
-      },
-      "id": "Q24284564",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q24284564"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Ernie Evans"
       },
       "id": "Q24284577",
@@ -8619,36 +8259,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q24700937"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Jack Aiken"
-      },
-      "id": "Q24700939",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q24700939"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Harry O'Shea"
-      },
-      "id": "Q24718693",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q24718693"
         }
       ],
       "links": [
@@ -9032,21 +8642,6 @@
     },
     {
       "name": {
-        "lang:en": "William Mitchell"
-      },
-      "id": "Q24845785",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q24845785"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "John Norman"
       },
       "id": "Q24845792",
@@ -9054,51 +8649,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q24845792"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "David Weir"
-      },
-      "id": "Q24845794",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q24845794"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "John Blackley"
-      },
-      "id": "Q24845798",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q24845798"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "David Farrell"
-      },
-      "id": "Q24845805",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q24845805"
         }
       ],
       "links": [
@@ -9287,21 +8837,6 @@
     },
     {
       "name": {
-        "lang:en": "William Hood"
-      },
-      "id": "Q24845980",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q24845980"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "George Barber"
       },
       "id": "Q24845985",
@@ -9482,21 +9017,6 @@
     },
     {
       "name": {
-        "lang:en": "Thomas Ahearn"
-      },
-      "id": "Q25190203",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q25190203"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "John Lockwood"
       },
       "id": "Q25190208",
@@ -9647,21 +9167,6 @@
     },
     {
       "name": {
-        "lang:en": "Hugh Nelson"
-      },
-      "id": "Q3142297",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3142297"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "John Douglas"
       },
       "id": "Q3181373",
@@ -9729,21 +9234,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3525117"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Thomas McIlwraith"
-      },
-      "id": "Q3525408",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3525408"
         }
       ],
       "links": [
@@ -10157,21 +9647,6 @@
     },
     {
       "name": {
-        "lang:en": "Alfred Compigne"
-      },
-      "id": "Q4722465",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4722465"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Alfred Cowley"
       },
       "id": "Q4722493",
@@ -10179,21 +9654,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q4722493"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Alfred James Jones"
-      },
-      "id": "Q4722941",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4722941"
         }
       ],
       "links": [
@@ -10254,21 +9714,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q4757008"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Andrew Lang Petrie"
-      },
-      "id": "Q4757696",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4757696"
         }
       ],
       "links": [
@@ -10352,21 +9797,6 @@
     },
     {
       "name": {
-        "lang:en": "Anne Maddern"
-      },
-      "id": "Q4768583",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4768583"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Archibald Archer"
       },
       "id": "Q4786202",
@@ -10389,21 +9819,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q4798574"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Arthur Hodgson"
-      },
-      "id": "Q4799094",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4799094"
         }
       ],
       "links": [
@@ -10449,21 +9864,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q4892065"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Bernard Corser"
-      },
-      "id": "Q4893026",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4893026"
         }
       ],
       "links": [
@@ -10659,36 +10059,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q4964506"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Brian Littleproud"
-      },
-      "id": "Q4964511",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4964511"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Bruce Bishop"
-      },
-      "id": "Q4977157",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4977157"
         }
       ],
       "links": [
@@ -10929,21 +10299,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q5106326"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Chris Foley"
-      },
-      "id": "Q5106565",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5106565"
         }
       ],
       "links": [
@@ -11327,21 +10682,6 @@
     },
     {
       "name": {
-        "lang:en": "Dorothy Pratt"
-      },
-      "id": "Q5298598",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5298598"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Doug Jennings"
       },
       "id": "Q5300604",
@@ -11409,21 +10749,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q5343845"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Edward Palmer"
-      },
-      "id": "Q5344749",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5344749"
         }
       ],
       "links": [
@@ -11792,21 +11117,6 @@
     },
     {
       "name": {
-        "lang:en": "Gilbert Alison"
-      },
-      "id": "Q5560763",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5560763"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Glen Milliner"
       },
       "id": "Q5567899",
@@ -12084,21 +11394,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q5902193"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Howard Hobbs"
-      },
-      "id": "Q5919910",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5919910"
         }
       ],
       "links": [
@@ -12572,21 +11867,6 @@
     },
     {
       "name": {
-        "lang:en": "John Dufficy"
-      },
-      "id": "Q6230280",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6230280"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "John English"
       },
       "id": "Q6231801",
@@ -12594,21 +11874,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q6231801"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "John Fihelly"
-      },
-      "id": "Q6233106",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6233106"
         }
       ],
       "links": [
@@ -12692,21 +11957,6 @@
     },
     {
       "name": {
-        "lang:en": "John Kingston"
-      },
-      "id": "Q6243151",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6243151"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "John Malbon Thompson"
       },
       "id": "Q6246489",
@@ -12729,21 +11979,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q6249755"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "John Murray"
-      },
-      "id": "Q6249931",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6249931"
         }
       ],
       "links": [
@@ -12932,21 +12167,6 @@
     },
     {
       "name": {
-        "lang:en": "Keith Wright"
-      },
-      "id": "Q6385248",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6385248"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Ken Davies"
       },
       "id": "Q6387512",
@@ -13059,21 +12279,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q6396561"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Lawrence Springborg"
-      },
-      "id": "Q6504605",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6504605"
         }
       ],
       "links": [
@@ -13637,21 +12842,6 @@
     },
     {
       "name": {
-        "lang:en": "Nev Warburton"
-      },
-      "id": "Q7003252",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q7003252"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Nita Cunningham"
       },
       "id": "Q7041182",
@@ -13674,21 +12864,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q7143932"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Paul Braddy"
-      },
-      "id": "Q7149481",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q7149481"
         }
       ],
       "links": [
@@ -13742,21 +12917,6 @@
     },
     {
       "name": {
-        "lang:en": "Peta-Kaye Croft"
-      },
-      "id": "Q7171591",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q7171591"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Peter Connolly"
       },
       "id": "Q7173358",
@@ -13779,21 +12939,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q7175381"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Peter Prenzler"
-      },
-      "id": "Q7176441",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q7176441"
         }
       ],
       "links": [
@@ -13884,21 +13029,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q7279345"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Randolph Bedford"
-      },
-      "id": "Q7291789",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q7291789"
         }
       ],
       "links": [
@@ -14072,21 +13202,6 @@
     },
     {
       "name": {
-        "lang:en": "Robert Schwarten"
-      },
-      "id": "Q7349640",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q7349640"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Robert Travers Atkin"
       },
       "id": "Q7350456",
@@ -14252,21 +13367,6 @@
     },
     {
       "name": {
-        "lang:en": "Sean Choat"
-      },
-      "id": "Q7440885",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q7440885"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Seath Holswich"
       },
       "id": "Q7441992",
@@ -14409,36 +13509,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q7613391"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Steve Rodgers"
-      },
-      "id": "Q7613784",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q7613784"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Steve Wettenhall"
-      },
-      "id": "Q7614275",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q7614275"
         }
       ],
       "links": [
@@ -14822,24 +13892,6 @@
     },
     {
       "name": {
-        "lang:en": "Verity Barton"
-      },
-      "id": "Q7921405",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q7921405"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/VerityBartonMP"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Vicky Darling"
       },
       "id": "Q7925506",
@@ -15042,21 +14094,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q8012014"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "William Henry Walsh"
-      },
-      "id": "Q8012203",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q8012203"
         }
       ],
       "links": [
@@ -15330,6 +14367,35 @@
       "id": "http://www.wikidata.org/entity/statement/Q15967656-222EBF76-CC81-4679-AEA4-1C09BA04C527",
       "person_id": "Q15967656",
       "organization_id": "Q6518214",
+      "area_id": "Q5355606",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18526194",
+      "role": {
+        "lang:en": "Member of the Queensland Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15967656-26ea835c-4786-5ab0-bd12-5fe14d857211",
+      "person_id": "Q15967656",
+      "organization_id": "Q6518214",
+      "area_id": "Q5355233",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18526194",
+      "role": {
+        "lang:en": "Member of the Queensland Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15967656-a634ae94-4a8f-0adf-bbc4-5b97e5bc4f26",
+      "person_id": "Q15967656",
+      "organization_id": "Q6518214",
+      "area_id": "Q16962328",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -15694,6 +14760,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16031250-C748A3C1-1672-4EA4-8FBB-E9DBD0B4629A",
       "person_id": "Q16031250",
       "organization_id": "Q6518214",
+      "area_id": "Q5355606",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -15730,9 +14797,10 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q16031836-95B6175F-DE8E-4ADF-8CD3-926DBDB5C3A3",
+      "id": "http://www.wikidata.org/entity/statement/Q16031836-b753d96e-4244-6f46-44fa-9d3877f1fffb",
       "person_id": "Q16031836",
       "organization_id": "Q6518214",
+      "area_id": "Q5355606",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -15847,19 +14915,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q16059124-C5CDFA79-CE1E-4345-A577-3B0D9BFD2B5A",
-      "person_id": "Q16059124",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q16059361-5CD98AB9-FAC4-4703-B7FA-7C774EB29BFD",
       "person_id": "Q16059361",
       "organization_id": "Q6518214",
@@ -15873,9 +14928,24 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q16059863-B22A38EE-9B56-45AA-98BA-9772BD921941",
+      "id": "http://www.wikidata.org/entity/statement/Q16059863-506a7d50-41d1-5ab1-be6f-96276886345c",
       "person_id": "Q16059863",
       "organization_id": "Q6518214",
+      "area_id": "Q5355606",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18526194",
+      "role": {
+        "lang:en": "Member of the Queensland Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16059863-99af8334-4b2c-30d0-133d-6a366253d0c1",
+      "person_id": "Q16059863",
+      "organization_id": "Q6518214",
+      "area_id": "Q16255822",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -16003,19 +15073,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q16063940-60E7A343-B0AB-4AA6-B9B9-A76FADD8DCC1",
-      "person_id": "Q16063940",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q16063973-526AE463-8CE6-469F-95CD-D0691A5DB343",
       "person_id": "Q16063973",
       "organization_id": "Q6518214",
@@ -16094,19 +15151,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q16090790-6C3E1428-5BB5-4867-9036-13FC2A0DA4A6",
-      "person_id": "Q16090790",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q16090892-15EE374E-6363-430A-930B-859AA670166D",
       "person_id": "Q16090892",
       "organization_id": "Q6518214",
@@ -16133,9 +15177,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16092956-13ce1e75-4c1e-850d-e23b-1c33cd0e681f",
+      "person_id": "Q16092956",
+      "organization_id": "Q6518214",
+      "area_id": "Q5355510",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18526194",
+      "role": {
+        "lang:en": "Member of the Queensland Legislative Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q16092956-9B6EF188-F254-4B9B-B57A-E4220301BD5B",
       "person_id": "Q16092956",
       "organization_id": "Q6518214",
+      "area_id": "Q5355535",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -16187,19 +15246,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16095878-175F6868-B766-4674-974C-93F57A086385",
       "person_id": "Q16095878",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q16095896-94AB78BB-38FB-415A-BEBE-8337F12BA508",
-      "person_id": "Q16095896",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -16318,6 +15364,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16105225-4A61182F-55B4-4FE0-AB53-0F3551E2B665",
       "person_id": "Q16105225",
       "organization_id": "Q6518214",
+      "area_id": "Q5355182",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -16432,34 +15479,8 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q16107547-1A368952-C75A-435E-835B-7CA092ED6028",
-      "person_id": "Q16107547",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q16115342-1863A13B-A45E-4DB3-8877-50E664886BF4",
       "person_id": "Q16115342",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q16120510-E86EFBEE-1C6E-4734-9BAA-4CB6BE2FE4BF",
-      "person_id": "Q16120510",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -16487,6 +15508,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16135737-71C79681-46FE-484A-937D-94A39C6DE55B",
       "person_id": "Q16135737",
       "organization_id": "Q6518214",
+      "area_id": "Q5355890",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -16500,6 +15522,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16135777-1A8FAA68-0639-416F-ADD9-59151B6A1CBE",
       "person_id": "Q16135777",
       "organization_id": "Q6518214",
+      "area_id": "Q5355299",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -16814,6 +15837,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16205215-5D178357-0739-48A4-9A7D-5A3862431257",
       "person_id": "Q16205215",
       "organization_id": "Q6518214",
+      "area_id": "Q5355745",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -16882,19 +15906,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16856051-49C753E1-873F-41FD-B39F-9A06FC160B8D",
       "person_id": "Q16856051",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q16856084-4DDF80B1-42D0-43C6-8702-ED4C9EC77B96",
-      "person_id": "Q16856084",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -17054,6 +16065,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q17403922-F683D137-5159-4478-B73D-D374BB57E566",
       "person_id": "Q17403922",
       "organization_id": "Q6518214",
+      "area_id": "Q5355914",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -17066,19 +16078,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q17421372-4585A669-F66E-4288-9CFC-D5A8287FF3E4",
       "person_id": "Q17421372",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q17513231-68B60B8E-FBD1-45AF-8FA4-D1ED07D45A5B",
-      "person_id": "Q17513231",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -17129,22 +16128,10 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q18716236-139EDFE0-D572-487E-A2D5-59ED7B2A10D7",
-      "person_id": "Q18716236",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q18922809-88ED1F19-8AB9-4DAB-AA32-9B9D7B70A409",
       "person_id": "Q18922809",
       "organization_id": "Q6518214",
+      "area_id": "Q5355606",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -17588,9 +16575,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q19520685-7227f029-4341-b571-b322-d15ffe2252d8",
+      "person_id": "Q19520685",
+      "organization_id": "Q6518214",
+      "area_id": "Q5355111",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18526194",
+      "role": {
+        "lang:en": "Member of the Queensland Legislative Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q19520685-B04138BD-5995-4009-985C-CC0B7D33ECFC",
       "person_id": "Q19520685",
       "organization_id": "Q6518214",
+      "area_id": "Q5355083",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -17872,6 +16874,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q19664767-A92AFADB-70D7-41F0-85C1-8F767629690C",
       "person_id": "Q19664767",
       "organization_id": "Q6518214",
+      "area_id": "Q5355606",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -18077,19 +17080,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q19667045-588539F1-BE05-4FB3-9052-A33B1414AC9B",
-      "person_id": "Q19667045",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q19667063-800016AA-0EB5-4F90-9DE9-8FF1FD64B1EB",
       "person_id": "Q19667063",
       "organization_id": "Q6518214",
@@ -18233,19 +17223,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q19668656-2487732D-AE9A-4A82-85A1-FF801A5207FA",
-      "person_id": "Q19668656",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q19668733-5F32B1E9-2B86-424C-B214-4A55853225E0",
       "person_id": "Q19668733",
       "organization_id": "Q6518214",
@@ -18339,19 +17316,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q19872420-67D846B6-D25D-4ED8-BA3C-3C90E87085D5",
       "person_id": "Q19872420",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q19872596-E161D528-6956-4CA4-9BD7-25F9C31403C4",
-      "person_id": "Q19872596",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -18805,19 +17769,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q20059887-5EBE9431-70F1-4AFD-9D17-489A7C1F7049",
-      "person_id": "Q20059887",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q20203021-5AF7A3A4-79AF-4AF7-9C06-51AAB5BAF999",
       "person_id": "Q20203021",
       "organization_id": "Q6518214",
@@ -18873,6 +17824,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q20313371-E4A9F5CD-C9EC-4DF5-847F-3FF67B4EB900",
       "person_id": "Q20313371",
       "organization_id": "Q6518214",
+      "area_id": "Q5355606",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -19250,6 +18202,21 @@
       "id": "http://www.wikidata.org/entity/statement/Q21558825-55EEC281-82C9-4A30-B44E-5A19245B1212",
       "person_id": "Q21558825",
       "organization_id": "Q6518214",
+      "area_id": "Q5355481",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18526194",
+      "role": {
+        "lang:en": "Member of the Queensland Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21558825-60cb42da-4131-ee92-c336-103ede86515a",
+      "person_id": "Q21558825",
+      "organization_id": "Q6518214",
+      "area_id": "Q16895690",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -19289,19 +18256,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q21665072-A57A3670-FC36-4EA1-8517-C3332543FC5B",
       "person_id": "Q21665072",
       "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q21932166-FE1C454F-7C51-4711-9975-86045E61E34C",
-      "person_id": "Q21932166",
-      "organization_id": "Q6518214",
+      "area_id": "Q5355481",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -19328,6 +18283,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q22017350-489C9C87-EBBC-4533-B71F-A87892718FB2",
       "person_id": "Q22017350",
       "organization_id": "Q6518214",
+      "area_id": "Q5355606",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -19676,19 +18632,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q23584475-963303C7-E1A1-48F6-9290-59C32F11EFA6",
-      "person_id": "Q23584475",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q23584491-396F103D-FBC5-49F6-AC21-5EAB5E98EE33",
       "person_id": "Q23584491",
       "organization_id": "Q6518214",
@@ -19793,9 +18736,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q23613486-2fc10330-4e0e-7b86-d19a-439a09ad17e8",
+      "person_id": "Q23613486",
+      "organization_id": "Q6518214",
+      "area_id": "Q5355606",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18526194",
+      "role": {
+        "lang:en": "Member of the Queensland Legislative Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q23613486-E01F13D8-38EF-4F7C-B915-317FE4486E89",
       "person_id": "Q23613486",
       "organization_id": "Q6518214",
+      "area_id": "Q5355314",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -20082,6 +19040,21 @@
       "id": "http://www.wikidata.org/entity/statement/Q23620151-8DD4BECC-9DB8-48D4-99FA-CC2D59BBD635",
       "person_id": "Q23620151",
       "organization_id": "Q6518214",
+      "area_id": "Q5355021",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18526194",
+      "role": {
+        "lang:en": "Member of the Queensland Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23620151-ccf6057e-483f-81df-015f-b4f1244435a5",
+      "person_id": "Q23620151",
+      "organization_id": "Q6518214",
+      "area_id": "Q5355314",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -20144,9 +19117,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q23620884-30c5d2fc-4ba7-c295-dbba-1ab8e408793e",
+      "person_id": "Q23620884",
+      "organization_id": "Q6518214",
+      "area_id": "Q5355274",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18526194",
+      "role": {
+        "lang:en": "Member of the Queensland Legislative Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q23620884-9FCBE2E7-38E1-447D-BA5B-C9D9B65AEAA6",
       "person_id": "Q23620884",
       "organization_id": "Q6518214",
+      "area_id": "Q5356130",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -20352,19 +19340,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q23688774-2231841A-45F6-4744-B592-8A601CF638A3",
-      "person_id": "Q23688774",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q23688824-E7892046-5FC6-405E-80B4-7E46C7CFCE1A",
       "person_id": "Q23688824",
       "organization_id": "Q6518214",
@@ -20456,34 +19431,8 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q23688909-D0A083DC-E939-43A7-B7B5-DEEDE590AEC7",
-      "person_id": "Q23688909",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q23688937-B0096911-08BD-4251-B92E-E6876CAE2796",
       "person_id": "Q23688937",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q23688939-63C2D18E-38C3-4508-B0EB-5FBE248891A7",
-      "person_id": "Q23688939",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -20537,6 +19486,21 @@
       "id": "http://www.wikidata.org/entity/statement/Q23691959-B500862B-F92F-413D-8B95-70B279E25387",
       "person_id": "Q23691959",
       "organization_id": "Q6518214",
+      "area_id": "Q5355502",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18526194",
+      "role": {
+        "lang:en": "Member of the Queensland Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23691959-a4d20f43-48de-0967-a560-fb5161320121",
+      "person_id": "Q23691959",
+      "organization_id": "Q6518214",
+      "area_id": "Q5355631",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -20628,6 +19592,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q23715027-B3DC8864-3A2E-495D-8A5D-93E6D76FD314",
       "person_id": "Q23715027",
       "organization_id": "Q6518214",
+      "area_id": "Q5355530",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -20666,19 +19631,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q23715156-28FD77AC-764E-4DD4-8112-8D885CD82324",
       "person_id": "Q23715156",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q23715159-240A8C6F-373E-4E6C-B8C9-45BF1F67A4DA",
-      "person_id": "Q23715159",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -20989,19 +19941,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q23799239-92F6B3CF-F7E5-4AA4-BEC5-EE4F89533687",
-      "person_id": "Q23799239",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q23806401-BEE43ED5-E82F-4A36-BEF7-4474A267A413",
       "person_id": "Q23806401",
       "organization_id": "Q6518214",
@@ -21249,9 +20188,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q23833019-1a567a69-43b4-9c11-208b-9b7b861f072e",
+      "person_id": "Q23833019",
+      "organization_id": "Q6518214",
+      "area_id": "Q5355481",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18526194",
+      "role": {
+        "lang:en": "Member of the Queensland Legislative Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q23833019-CDDC5978-14C9-48A3-B432-A26F93E38C72",
       "person_id": "Q23833019",
       "organization_id": "Q6518214",
+      "area_id": "Q16895690",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -22029,22 +20983,10 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q24004720-480F733D-5DA8-45FF-8385-68A43B988850",
-      "person_id": "Q24004720",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q24004725-1EDED080-BA30-424B-B703-B73FA6067820",
       "person_id": "Q24004725",
       "organization_id": "Q6518214",
+      "area_id": "Q5355171",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -22354,19 +21296,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q24191136-D0EB6BAB-8882-4A70-A12C-DBD9B83D95F0",
-      "person_id": "Q24191136",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q24191140-10B3EA7E-2072-4116-BDFB-C128B64EF340",
       "person_id": "Q24191140",
       "organization_id": "Q6518214",
@@ -22422,6 +21351,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q24191445-DE27A126-0F44-4F41-9CB4-5A4ECCB18151",
       "person_id": "Q24191445",
       "organization_id": "Q6518214",
+      "area_id": "Q5355606",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -22551,32 +21481,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q24284447-1D4D59CA-92D3-4864-80CF-1C719F690032",
       "person_id": "Q24284447",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q24284453-D00CD648-B06C-4682-ACC6-11000F6065D0",
-      "person_id": "Q24284453",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q24284564-27DA9648-F391-41B3-A96E-0BCA76E17D34",
-      "person_id": "Q24284564",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -22734,6 +21638,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q24669167-6B1D8DD8-1717-41D3-9E96-16597D2021AA",
       "person_id": "Q24669167",
       "organization_id": "Q6518214",
+      "area_id": "Q5355606",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -22770,32 +21675,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q24700939-EBEDA35D-9199-4B29-85F4-36B8234C1022",
-      "person_id": "Q24700939",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q24718693-F02D052D-B506-4450-9A68-6D908335D9A2",
-      "person_id": "Q24718693",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q24844272-E7C5ECDB-674A-4EDF-A00D-F619C57CC8E9",
       "person_id": "Q24844272",
       "organization_id": "Q6518214",
@@ -22812,6 +21691,21 @@
       "id": "http://www.wikidata.org/entity/statement/Q24844287-1887D89C-05E5-4013-B9DC-F6396DED751A",
       "person_id": "Q24844287",
       "organization_id": "Q6518214",
+      "area_id": "Q5355606",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18526194",
+      "role": {
+        "lang:en": "Member of the Queensland Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24844287-b28f79d6-4343-fe31-383d-35f2299954b0",
+      "person_id": "Q24844287",
+      "organization_id": "Q6518214",
+      "area_id": "Q5355890",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -23007,6 +21901,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q24845722-439AA1A8-2FC2-45B9-A3DB-6FFE3DF61CD0",
       "person_id": "Q24845722",
       "organization_id": "Q6518214",
+      "area_id": "Q5355481",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -23020,6 +21915,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q24845724-05C2AB62-61F4-4CA1-B4B7-8BAD236E0D0C",
       "person_id": "Q24845724",
       "organization_id": "Q6518214",
+      "area_id": "Q5355481",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -23098,6 +21994,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q24845745-229B47B5-E2F4-4F8E-A204-0F6D4125CEC7",
       "person_id": "Q24845745",
       "organization_id": "Q6518214",
+      "area_id": "Q5355606",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -23121,60 +22018,8 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q24845785-EC44D09A-A77F-4189-9EB7-FD3FF8D22FC1",
-      "person_id": "Q24845785",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q24845792-B1707987-E3C2-46DC-9380-0B75E1EDD783",
       "person_id": "Q24845792",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q24845794-188C321F-A2E5-4019-9419-EE16B16A2413",
-      "person_id": "Q24845794",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q24845798-283CF90A-D0E0-4CFD-A54D-CA36C69ACDF2",
-      "person_id": "Q24845798",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q24845805-1E11D0A7-6E0B-495B-A0CF-AFD0F1E863AA",
-      "person_id": "Q24845805",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -23342,19 +22187,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q24845980-45F8DA85-132D-41BE-A0AA-958AADCD4096",
-      "person_id": "Q24845980",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q24845985-9E75AD87-4568-48F9-8B6E-8E8AF1C4D1B8",
       "person_id": "Q24845985",
       "organization_id": "Q6518214",
@@ -23511,19 +22343,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q25190203-66631E2F-4E71-4F79-ACE6-EBD9E8E870F1",
-      "person_id": "Q25190203",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q25190208-25E3D732-0305-479D-815D-8A62B7229D6A",
       "person_id": "Q25190208",
       "organization_id": "Q6518214",
@@ -23607,6 +22426,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q2865256-FB5E3D7A-640A-4B5A-90FE-97F1A474B49A",
       "person_id": "Q2865256",
       "organization_id": "Q6518214",
+      "area_id": "Q5356083",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -23620,6 +22440,21 @@
       "id": "http://www.wikidata.org/entity/statement/Q2923017-4088A1B4-3F7D-4369-BE74-2DBE309CE060",
       "person_id": "Q2923017",
       "organization_id": "Q6518214",
+      "area_id": "Q5355673",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18526194",
+      "role": {
+        "lang:en": "Member of the Queensland Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2923017-c8508167-4cc3-c689-20c8-d3b772cb654d",
+      "person_id": "Q2923017",
+      "organization_id": "Q6518214",
+      "area_id": "Q5355077",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -23645,19 +22480,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3110886-5F0D1DA6-7866-47FC-9F45-6B1C6A9FCA01",
       "person_id": "Q3110886",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q3142297-0467AEEA-A01F-40D9-AB0D-73A55A7C292D",
-      "person_id": "Q3142297",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -23723,19 +22545,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3525117-42D0420B-C6EF-43DE-95A4-C08A21852D48",
       "person_id": "Q3525117",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q3525408-FF626C8D-890A-4EAA-9ADF-C9715EF6079D",
-      "person_id": "Q3525408",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -24138,34 +22947,8 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q4722465-6A453C95-2CDF-4F6C-933C-DD33835D3C6D",
-      "person_id": "Q4722465",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q4722493-B40FA323-27DD-431F-99E8-D5C31E68D3F4",
       "person_id": "Q4722493",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q4722941-8A817BF7-BD72-4E6A-98CA-7309155F3767",
-      "person_id": "Q4722941",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -24224,19 +23007,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4757008-26B9F674-3654-495E-81BE-064F818C3CFB",
       "person_id": "Q4757008",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q4757696-539D6ADE-A931-41EF-8109-828EA5BCEB12",
-      "person_id": "Q4757696",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -24317,19 +23087,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q4768583-3D33E0DC-0EBD-42FF-8066-26D0DF676551",
-      "person_id": "Q4768583",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q4786202-F779599D-854B-41C0-8046-628485649A07",
       "person_id": "Q4786202",
       "organization_id": "Q6518214",
@@ -24345,19 +23102,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4798574-4F929221-2CFE-4898-97A1-672D3A95A5DC",
       "person_id": "Q4798574",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q4799094-6A3712E2-532D-4088-B6A0-FC4D545556EC",
-      "person_id": "Q4799094",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -24397,19 +23141,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4892065-84D1EB53-E209-476D-AB96-5BFF01184573",
       "person_id": "Q4892065",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q4893026-534C7A05-E398-47F3-891C-8ACA69A16DAF",
-      "person_id": "Q4893026",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -24590,32 +23321,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q4964511-6A80EDA9-BCBE-45A3-AF44-714ACE460751",
-      "person_id": "Q4964511",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q4977157-3D4C5D4D-A603-46E1-8942-DE3C6C41D153",
-      "person_id": "Q4977157",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q4977354-A68F636B-5337-44B6-9553-57D72087AB37",
       "person_id": "Q4977354",
       "organization_id": "Q6518214",
@@ -24712,6 +23417,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q5051785-EE6F2F8D-61F3-450B-B9E2-5E9DD89089B2",
       "person_id": "Q5051785",
       "organization_id": "Q6518214",
+      "area_id": "Q5355786",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -24816,19 +23522,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q5106326-7F112327-2D7C-4632-8B63-E76DCAA540E5",
       "person_id": "Q5106326",
       "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5106565-A2357221-11C6-4172-B07C-6629127298F3",
-      "person_id": "Q5106565",
-      "organization_id": "Q6518214",
+      "area_id": "Q5355554",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -24855,6 +23549,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q5111180-1F62B5AB-B4F5-4380-A4CD-3D7BC8E14794",
       "person_id": "Q5111180",
       "organization_id": "Q6518214",
+      "area_id": "Q5355184",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -24868,6 +23563,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q5131163-58DBC85A-509E-4BC4-89A8-5F75D91B39A5",
       "person_id": "Q5131163",
       "organization_id": "Q6518214",
+      "area_id": "Q5355178",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -24946,6 +23642,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q5224942-F449974B-D440-4B51-8024-2972A2DD8D29",
       "person_id": "Q5224942",
       "organization_id": "Q6518214",
+      "area_id": "Q5355691",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -25080,6 +23777,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q5263432-700CA447-B940-4991-850B-78C42BAC846E",
       "person_id": "Q5263432",
       "organization_id": "Q6518214",
+      "area_id": "Q5356083",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -25106,6 +23804,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q5264587-702B9FE7-2F79-411E-9E4A-26D2920EED08",
       "person_id": "Q5264587",
       "organization_id": "Q6518214",
+      "area_id": "Q5356151",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -25160,19 +23859,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q5292960-2EFE2B98-C70C-4559-B18E-6394F3A358BC",
       "person_id": "Q5292960",
       "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5298598-1BCB073E-78F6-40C5-9208-406928CEE275",
-      "person_id": "Q5298598",
-      "organization_id": "Q6518214",
+      "area_id": "Q5355656",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -25225,6 +23912,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q533696-D976AFD5-6476-47AB-B5A6-00103373B8EF",
       "person_id": "Q533696",
       "organization_id": "Q6518214",
+      "area_id": "Q5355185",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -25237,19 +23925,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5343845-051F6E43-23FB-4B7E-8B1B-62F3DC51AC66",
       "person_id": "Q5343845",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5344749-65C54AB1-1E5E-4A30-B4FC-6FA4F09E3D7C",
-      "person_id": "Q5344749",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -25383,6 +24058,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q5489240-1544FBBA-5802-4739-A677-0FF5ED30C0AD",
       "person_id": "Q5489240",
       "organization_id": "Q6518214",
+      "area_id": "Q5355826",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -25396,6 +24072,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q5489887-732FB316-A21A-4A89-A636-46E94937E31C",
       "person_id": "Q5489887",
       "organization_id": "Q6518214",
+      "area_id": "Q5355732",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -25406,9 +24083,10 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q5497291-22B3B52A-9726-4AAA-93DF-B798872F9BC3",
+      "id": "http://www.wikidata.org/entity/statement/Q5497291-59b0e37f-4552-1efb-7e11-686ed04561ea",
       "person_id": "Q5497291",
       "organization_id": "Q6518214",
+      "area_id": "Q5356111",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -25422,6 +24100,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q5498241-D5D25440-824B-4EBF-BA69-16719BE914E4",
       "person_id": "Q5498241",
       "organization_id": "Q6518214",
+      "area_id": "Q5355978",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -25564,19 +24243,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5543686-BAB55837-0935-453B-A3EA-A6EF1844CF42",
       "person_id": "Q5543686",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5560763-52FA0309-CFA4-4170-B0B5-891A625906A6",
-      "person_id": "Q5560763",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -25826,19 +24492,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5902193-EDAD511A-33D5-4837-879E-E0BDF4184E82",
       "person_id": "Q5902193",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5919910-D75DA0D5-8890-4D0B-AFC8-6ECB7F072A43",
-      "person_id": "Q5919910",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -26259,34 +24912,8 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q6230280-0B1A3DD4-4CBE-484A-B0CB-2F9009FD485D",
-      "person_id": "Q6230280",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q6231801-A0F07179-F1CF-4EE4-9F0F-6D9936ED0225",
       "person_id": "Q6231801",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q6233106-9484A0EA-B206-4EE4-8771-DE2BEFF99945",
-      "person_id": "Q6233106",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -26363,19 +24990,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q6243151-64A387F8-46E0-409B-AE86-40EEFDD6CAB9",
-      "person_id": "Q6243151",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q6246489-3DFF1CAF-7D86-451D-9F64-A441DF780A64",
       "person_id": "Q6246489",
       "organization_id": "Q6518214",
@@ -26391,19 +25005,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6249755-d414c3c8-4c51-1072-ce9d-7e7fe2e34b12",
       "person_id": "Q6249755",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q6249931-C5EECAF7-ECDC-408D-BA59-B541BB542BF3",
-      "person_id": "Q6249931",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -26524,6 +25125,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q6308026-5C1E20BA-0425-4EFB-BB78-77EFE3117616",
       "person_id": "Q6308026",
       "organization_id": "Q6518214",
+      "area_id": "Q5355721",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -26565,19 +25167,6 @@
       "organization_id": "Q6518214",
       "area_id": "Q30641927",
       "start_date": "2017-11-25",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q6385248-187E0B56-66E3-45F7-8273-2D6FD84EB3DB",
-      "person_id": "Q6385248",
-      "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -26692,19 +25281,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q6504605-F983F2CA-47D6-48F1-92A4-295188C3220C",
-      "person_id": "Q6504605",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q6520229-7B82EEDD-05C4-488D-ADE9-766D85E41B2E",
       "person_id": "Q6520229",
       "organization_id": "Q6518214",
@@ -26721,6 +25297,21 @@
       "id": "http://www.wikidata.org/entity/statement/Q6521656-4CA7759C-AD71-42A3-9BDB-465000DDBE67",
       "person_id": "Q6521656",
       "organization_id": "Q6518214",
+      "area_id": "Q25182638",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18526194",
+      "role": {
+        "lang:en": "Member of the Queensland Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6521656-8eb6f7c2-4394-ec97-67b4-0c137dc2b447",
+      "person_id": "Q6521656",
+      "organization_id": "Q6518214",
+      "area_id": "Q5355041",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -27043,6 +25634,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q6829066-A864C849-6E50-4E12-831D-7172AAC4F0BC",
       "person_id": "Q6829066",
       "organization_id": "Q6518214",
+      "area_id": "Q5355233",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -27200,19 +25792,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q7003252-1DC685B1-E7C6-44DD-ACBA-9179599308B7",
-      "person_id": "Q7003252",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q7041182-364A01BC-392C-4190-A79B-783FCC45C4BA",
       "person_id": "Q7041182",
       "organization_id": "Q6518214",
@@ -27228,19 +25807,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7143932-E0823C7F-C0AA-40F9-9E69-4B71E7A1EDC7",
       "person_id": "Q7143932",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q7149481-ADBD9CBA-8E33-4DB7-B9D8-975CA30400B7",
-      "person_id": "Q7149481",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -27291,19 +25857,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q7171591-0C154E28-D0DD-400C-ACE6-E3C5919AE98D",
-      "person_id": "Q7171591",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q7173358-7ED06ADC-08AD-4D9A-A58B-51DC52D5B533",
       "person_id": "Q7173358",
       "organization_id": "Q6518214",
@@ -27319,19 +25872,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7175381-1DE98AD3-DC43-4AFC-8C64-F56D4000F701",
       "person_id": "Q7175381",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q7176441-2099F466-DD79-48C4-A0D8-239521FC51D6",
-      "person_id": "Q7176441",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -27385,6 +25925,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q7183719-3AB46990-DFF5-468A-9507-7CAA4ABE12BA",
       "person_id": "Q7183719",
       "organization_id": "Q6518214",
+      "area_id": "Q5355606",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -27410,19 +25951,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7279345-6084BCA3-C627-4DEE-86B8-6FFBEF8B518D",
       "person_id": "Q7279345",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q7291789-E090CC2E-2E70-401F-8060-20CF828F2207",
-      "person_id": "Q7291789",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -27463,7 +25991,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q7298155-A1766DE0-8A34-4ACA-B36E-FB27A4BC23D3",
       "person_id": "Q7298155",
       "organization_id": "Q6518214",
-      "area_id": "Q5355650",
+      "area_id": "Q17028152",
       "start_date": "2006-09-09",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -27478,7 +26006,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q7298155-A1766DE0-8A34-4ACA-B36E-FB27A4BC23D3",
       "person_id": "Q7298155",
       "organization_id": "Q6518214",
-      "area_id": "Q17028152",
+      "area_id": "Q5355650",
       "start_date": "2006-09-09",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -27587,19 +26115,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7342831-3D19544C-09FB-4BAA-9C2F-51F6DE4C8EBA",
       "person_id": "Q7342831",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q7349640-094B8CEB-C6A6-4B0A-9A69-0CB0CEDE3E0B",
-      "person_id": "Q7349640",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -27756,19 +26271,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q7440885-0326E265-AB80-449D-8C12-C389F55101B9",
-      "person_id": "Q7440885",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q7441992-A26C6B66-DAED-4199-B0B1-248656D944D3",
       "person_id": "Q7441992",
       "organization_id": "Q6518214",
@@ -27895,32 +26397,6 @@
       "organization_id": "Q6518214",
       "area_id": "Q5355233",
       "start_date": "2012-03-24",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q7613784-BA2433C7-CE9B-4C1E-B3DB-CEC430B2FDD7",
-      "person_id": "Q7613784",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q7614275-BD747847-211B-4E89-AC5C-D754D424ECFD",
-      "person_id": "Q7614275",
-      "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -28265,21 +26741,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q7921405-1F7298E8-6C2D-45D4-A764-EB543C7F14D4",
-      "person_id": "Q7921405",
-      "organization_id": "Q6518214",
-      "area_id": "Q5355162",
-      "start_date": "2012-03-24",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q7925506-BAF8C950-C514-42BE-9967-3242E65731E3",
       "person_id": "Q7925506",
       "organization_id": "Q6518214",
@@ -28426,6 +26887,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q8011841-E603FDD2-3558-4A96-A308-098062022502",
       "person_id": "Q8011841",
       "organization_id": "Q6518214",
+      "area_id": "Q5355356",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -28451,19 +26913,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q8012014-931E3D44-E893-47EB-A7E3-F6A1499379BA",
       "person_id": "Q8012014",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q8012203-29BBF6E7-97D3-4A27-94EE-4DA637662F24",
-      "person_id": "Q8012203",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {

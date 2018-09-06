@@ -1142,6 +1142,21 @@
     },
     {
       "name": {
+        "lang:en": "John Panton"
+      },
+      "id": "Q19663506",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19663506"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Harold Sprent Nicholas"
       },
       "id": "Q19665515",
@@ -1209,6 +1224,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q19873302"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ben Franklin"
+      },
+      "id": "Q19873536",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19873536"
         }
       ],
       "links": [
@@ -1292,6 +1322,51 @@
     },
     {
       "name": {
+        "lang:en": "James Joseph Maloney"
+      },
+      "id": "Q20963731",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20963731"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bernard Blomfield Riley"
+      },
+      "id": "Q20965241",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20965241"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Edward John Kavanagh"
+      },
+      "id": "Q20968837",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20968837"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "George Henry Gisborne Varley"
       },
       "id": "Q20968846",
@@ -1322,6 +1397,51 @@
     },
     {
       "name": {
+        "lang:en": "Francis Buckley"
+      },
+      "id": "Q20979698",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20979698"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Carter"
+      },
+      "id": "Q20979701",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20979701"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John McIntosh"
+      },
+      "id": "Q20979749",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20979749"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Harold Ahern"
       },
       "id": "Q20983212",
@@ -1329,6 +1449,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q20983212"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Ainsworth"
+      },
+      "id": "Q20983213",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983213"
         }
       ],
       "links": [
@@ -1359,6 +1494,66 @@
         {
           "scheme": "wikidata",
           "identifier": "Q20983216"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "George Archer"
+      },
+      "id": "Q20983217",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983217"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alexander Armstrong"
+      },
+      "id": "Q20983218",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983218"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Thomas Armstrong"
+      },
+      "id": "Q20983219",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983219"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "George Bassett"
+      },
+      "id": "Q20983226",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983226"
         }
       ],
       "links": [
@@ -1457,6 +1652,111 @@
     },
     {
       "name": {
+        "lang:en": "William Bradley"
+      },
+      "id": "Q20983239",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983239"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Charles Bridges"
+      },
+      "id": "Q20983240",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983240"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Keith Brooks"
+      },
+      "id": "Q20983241",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983241"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Brooks"
+      },
+      "id": "Q20983242",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983242"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joseph Browne"
+      },
+      "id": "Q20983243",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983243"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Francis Bryant"
+      },
+      "id": "Q20983244",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983244"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "George Buckley"
+      },
+      "id": "Q20983245",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983245"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Nicholas Buzacott"
       },
       "id": "Q20983246",
@@ -1487,6 +1787,21 @@
     },
     {
       "name": {
+        "lang:en": "Joseph Coates"
+      },
+      "id": "Q20983258",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983258"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Harry Cockerill"
       },
       "id": "Q20983259",
@@ -1509,6 +1824,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q20983260"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Edward Collins"
+      },
+      "id": "Q20983261",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983261"
         }
       ],
       "links": [
@@ -1562,6 +1892,51 @@
     },
     {
       "name": {
+        "lang:en": "William Coulter"
+      },
+      "id": "Q20983266",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983266"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jack Crawford"
+      },
+      "id": "Q20983267",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983267"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Culbert"
+      },
+      "id": "Q20983270",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983270"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Chris Dalton"
       },
       "id": "Q20983271",
@@ -1569,6 +1944,96 @@
         {
           "scheme": "wikidata",
           "identifier": "Q20983271"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Davoren"
+      },
+      "id": "Q20983273",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983273"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robert Day"
+      },
+      "id": "Q20983274",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983274"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "George Dewar"
+      },
+      "id": "Q20983277",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983277"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Dickson"
+      },
+      "id": "Q20983278",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983278"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Thomas Doyle"
+      },
+      "id": "Q20983282",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983282"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Maxwell Dunlop"
+      },
+      "id": "Q20983283",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983283"
         }
       ],
       "links": [
@@ -1592,6 +2057,36 @@
     },
     {
       "name": {
+        "lang:en": "Robert Erskine"
+      },
+      "id": "Q20983288",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983288"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Thomas Erskine"
+      },
+      "id": "Q20983289",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983289"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Stanley Eskell"
       },
       "id": "Q20983291",
@@ -1599,6 +2094,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q20983291"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dick Evans"
+      },
+      "id": "Q20983293",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983293"
         }
       ],
       "links": [
@@ -1652,6 +2162,126 @@
     },
     {
       "name": {
+        "lang:en": "John Farleigh"
+      },
+      "id": "Q20983298",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983298"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ernest Farrar"
+      },
+      "id": "Q20983299",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983299"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Ferguson"
+      },
+      "id": "Q20983301",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983301"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "George Ford"
+      },
+      "id": "Q20983304",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983304"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Fox"
+      },
+      "id": "Q20983307",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983307"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Harry Gardiner"
+      },
+      "id": "Q20983310",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983310"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joseph Gardiner"
+      },
+      "id": "Q20983311",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983311"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Gibb"
+      },
+      "id": "Q20983312",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983312"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Thomas Gleeson"
       },
       "id": "Q20983316",
@@ -1667,6 +2297,36 @@
     },
     {
       "name": {
+        "lang:en": "Thomas Gordon"
+      },
+      "id": "Q20983318",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983318"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Graves"
+      },
+      "id": "Q20983320",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983320"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Ronald Grieve"
       },
       "id": "Q20983322",
@@ -1674,6 +2334,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q20983322"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Charles Hackett"
+      },
+      "id": "Q20983325",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983325"
         }
       ],
       "links": [
@@ -1742,6 +2417,21 @@
     },
     {
       "name": {
+        "lang:en": "John Higgins"
+      },
+      "id": "Q20983342",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983342"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Thomas Douglas Percy Holden"
       },
       "id": "Q20983344",
@@ -1764,6 +2454,81 @@
         {
           "scheme": "wikidata",
           "identifier": "Q20983345"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Archibald Howie"
+      },
+      "id": "Q20983347",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983347"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Reginald Jackson"
+      },
+      "id": "Q20983358",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983358"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Francis Kelly"
+      },
+      "id": "Q20983365",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983365"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Kelly"
+      },
+      "id": "Q20983366",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983366"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Kenny"
+      },
+      "id": "Q20983367",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983367"
         }
       ],
       "links": [
@@ -1832,6 +2597,66 @@
     },
     {
       "name": {
+        "lang:en": "Hugh Latimer"
+      },
+      "id": "Q20983382",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983382"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Christopher Love"
+      },
+      "id": "Q20983387",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983387"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Lyons"
+      },
+      "id": "Q20983391",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983391"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Edward Magrath"
+      },
+      "id": "Q20983399",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983399"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Robert Mahony"
       },
       "id": "Q20983401",
@@ -1847,6 +2672,21 @@
     },
     {
       "name": {
+        "lang:en": "James Malone"
+      },
+      "id": "Q20983402",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983402"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Marsden Manfred"
       },
       "id": "Q20983403",
@@ -1854,6 +2694,36 @@
         {
           "scheme": "wikidata",
           "identifier": "Q20983403"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Martin"
+      },
+      "id": "Q20983407",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983407"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Thomas McKay"
+      },
+      "id": "Q20983418",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983418"
         }
       ],
       "links": [
@@ -1907,6 +2777,21 @@
     },
     {
       "name": {
+        "lang:en": "John Percival"
+      },
+      "id": "Q20983431",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983431"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Ernest Mitchell"
       },
       "id": "Q20983433",
@@ -1944,6 +2829,81 @@
         {
           "scheme": "wikidata",
           "identifier": "Q20983443"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "George Mullins"
+      },
+      "id": "Q20983444",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983444"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Murdoch"
+      },
+      "id": "Q20983445",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983445"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Thomas Murray"
+      },
+      "id": "Q20983447",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983447"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Murray"
+      },
+      "id": "Q20983448",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983448"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John O'Regan"
+      },
+      "id": "Q20983462",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983462"
         }
       ],
       "links": [
@@ -1997,6 +2957,21 @@
     },
     {
       "name": {
+        "lang:en": "Charles Parker"
+      },
+      "id": "Q20983472",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983472"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Stanley Parry"
       },
       "id": "Q20983474",
@@ -2004,6 +2979,96 @@
         {
           "scheme": "wikidata",
           "identifier": "Q20983474"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Peden"
+      },
+      "id": "Q20983482",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20983482"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Harry Sullivan"
+      },
+      "id": "Q20984583",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20984583"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Weir"
+      },
+      "id": "Q20989022",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20989022"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Wise"
+      },
+      "id": "Q21042293",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21042293"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mick Ryan"
+      },
+      "id": "Q21042305",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21042305"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Edward Warren"
+      },
+      "id": "Q21069858",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21069858"
         }
       ],
       "links": [
@@ -2049,6 +3114,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q21069868"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gavin Sutherland"
+      },
+      "id": "Q21069869",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21069869"
         }
       ],
       "links": [
@@ -2117,6 +3197,36 @@
     },
     {
       "name": {
+        "lang:en": "William Walmsley"
+      },
+      "id": "Q21069893",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21069893"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Samuel Williams"
+      },
+      "id": "Q21069894",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21069894"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Gerald Rygate"
       },
       "id": "Q21069895",
@@ -2124,6 +3234,51 @@
         {
           "scheme": "wikidata",
           "identifier": "Q21069895"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robert Savage"
+      },
+      "id": "Q21069909",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21069909"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Thomas Steele"
+      },
+      "id": "Q21069910",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21069910"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robert Wilson"
+      },
+      "id": "Q21069911",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21069911"
         }
       ],
       "links": [
@@ -2207,6 +3362,51 @@
     },
     {
       "name": {
+        "lang:en": "John Tonkin"
+      },
+      "id": "Q21069935",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21069935"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Ryan"
+      },
+      "id": "Q21069936",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21069936"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Thomas Tyrrell"
+      },
+      "id": "Q21069937",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21069937"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Graham Waddell"
       },
       "id": "Q21069938",
@@ -2214,6 +3414,51 @@
         {
           "scheme": "wikidata",
           "identifier": "Q21069938"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Frank Wall"
+      },
+      "id": "Q21069939",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21069939"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Theodore Trautwein"
+      },
+      "id": "Q21069940",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21069940"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Daniel Rees"
+      },
+      "id": "Q21069943",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21069943"
         }
       ],
       "links": [
@@ -2237,6 +3482,21 @@
     },
     {
       "name": {
+        "lang:en": "Frank Pollard"
+      },
+      "id": "Q21070193",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21070193"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Frederick Roels"
       },
       "id": "Q21070194",
@@ -2252,6 +3512,36 @@
     },
     {
       "name": {
+        "lang:en": "Thomas Shakespeare"
+      },
+      "id": "Q21070195",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21070195"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Andrew Sinclair"
+      },
+      "id": "Q21070196",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21070196"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Gilbert Sinclair"
       },
       "id": "Q21070197",
@@ -2259,6 +3549,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q21070197"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Duncan Smith"
+      },
+      "id": "Q21070198",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21070198"
         }
       ],
       "links": [
@@ -2297,6 +3602,126 @@
     },
     {
       "name": {
+        "lang:en": "John Suttor"
+      },
+      "id": "Q21070201",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21070201"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Travers"
+      },
+      "id": "Q21070202",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21070202"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Harold White"
+      },
+      "id": "Q21070204",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21070204"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Edwin Wrench"
+      },
+      "id": "Q21070205",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21070205"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alfred William Meeks"
+      },
+      "id": "Q21088023",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21088023"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Cecil Coghlan"
+      },
+      "id": "Q21176718",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21176718"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Connington"
+      },
+      "id": "Q21176722",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21176722"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Frederick Flowers"
+      },
+      "id": "Q21176794",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21176794"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Sydney Innes-Noad"
       },
       "id": "Q21176809",
@@ -2304,6 +3729,51 @@
         {
           "scheme": "wikidata",
           "identifier": "Q21176809"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Christopher McRae"
+      },
+      "id": "Q21176838",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21176838"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Robinson"
+      },
+      "id": "Q21176869",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21176869"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Patrick Taylor"
+      },
+      "id": "Q21176891",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21176891"
         }
       ],
       "links": [
@@ -2342,6 +3812,126 @@
     },
     {
       "name": {
+        "lang:en": "Henry Doyle"
+      },
+      "id": "Q21176930",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21176930"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Gannon"
+      },
+      "id": "Q21176940",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21176940"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Hall"
+      },
+      "id": "Q21176946",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21176946"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Nash"
+      },
+      "id": "Q21176976",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21176976"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Henry Kater"
+      },
+      "id": "Q21176981",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21176981"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Cobb White"
+      },
+      "id": "Q21177013",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21177013"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Robson"
+      },
+      "id": "Q21177016",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21177016"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Wetherspoon"
+      },
+      "id": "Q21177032",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21177032"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Edmund Fosbery"
       },
       "id": "Q21177538",
@@ -2349,6 +3939,36 @@
         {
           "scheme": "wikidata",
           "identifier": "Q21177538"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Hill"
+      },
+      "id": "Q21177547",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21177547"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Meagher"
+      },
+      "id": "Q21177558",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21177558"
         }
       ],
       "links": [
@@ -2372,6 +3992,21 @@
     },
     {
       "name": {
+        "lang:en": "James Chisholm"
+      },
+      "id": "Q21228025",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21228025"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Thomas Mitchell"
       },
       "id": "Q2142133",
@@ -2387,6 +4022,186 @@
     },
     {
       "name": {
+        "lang:en": "William Bradley"
+      },
+      "id": "Q21483271",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21483271"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Dobie"
+      },
+      "id": "Q21535351",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21535351"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Frazer"
+      },
+      "id": "Q21535418",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21535418"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Charles Campbell"
+      },
+      "id": "Q21536221",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21536221"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Patrick Higgins"
+      },
+      "id": "Q21536997",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21536997"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Edward Broadhurst"
+      },
+      "id": "Q21537051",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21537051"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Edward King Cox"
+      },
+      "id": "Q21537109",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21537109"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Richard Jones"
+      },
+      "id": "Q21537334",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21537334"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robert Fitzgerald"
+      },
+      "id": "Q21537451",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21537451"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "George Hill"
+      },
+      "id": "Q21538167",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21538167"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Henry Gilbert Smith"
+      },
+      "id": "Q21538911",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21538911"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Bowman"
+      },
+      "id": "Q21539398",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21539398"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "William John Dumaresq"
       },
       "id": "Q21539462",
@@ -2394,6 +4209,36 @@
         {
           "scheme": "wikidata",
           "identifier": "Q21539462"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Stewart"
+      },
+      "id": "Q21539622",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21539622"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Walker"
+      },
+      "id": "Q21539666",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21539666"
         }
       ],
       "links": [
@@ -2432,6 +4277,36 @@
     },
     {
       "name": {
+        "lang:en": "Alexander Gordon"
+      },
+      "id": "Q21664463",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21664463"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Gunn"
+      },
+      "id": "Q21664479",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21664479"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Charles Heydon"
       },
       "id": "Q21664530",
@@ -2439,6 +4314,51 @@
         {
           "scheme": "wikidata",
           "identifier": "Q21664530"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Hughes"
+      },
+      "id": "Q21664556",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21664556"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Philip King"
+      },
+      "id": "Q21664627",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21664627"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Edward Knox"
+      },
+      "id": "Q21664633",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21664633"
         }
       ],
       "links": [
@@ -2462,6 +4382,66 @@
     },
     {
       "name": {
+        "lang:en": "George Lee"
+      },
+      "id": "Q21664674",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21664674"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Mayne"
+      },
+      "id": "Q21664727",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21664727"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James McInerney"
+      },
+      "id": "Q21664738",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21664738"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alexander Ross"
+      },
+      "id": "Q21664887",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21664887"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Thomas Hawkins Smith"
       },
       "id": "Q21664966",
@@ -2469,6 +4449,51 @@
         {
           "scheme": "wikidata",
           "identifier": "Q21664966"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Henry Stuart"
+      },
+      "id": "Q21665004",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21665004"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Toohey"
+      },
+      "id": "Q21665036",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21665036"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Halliday"
+      },
+      "id": "Q21997664",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21997664"
         }
       ],
       "links": [
@@ -2507,6 +4532,81 @@
     },
     {
       "name": {
+        "lang:en": "James Bligh"
+      },
+      "id": "Q22017307",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22017307"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alexander Busby"
+      },
+      "id": "Q22017370",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22017370"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Busby"
+      },
+      "id": "Q22017371",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22017371"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Thomas Cadell"
+      },
+      "id": "Q22017376",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22017376"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Eales"
+      },
+      "id": "Q22018125",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22018125"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "William Faithfull"
       },
       "id": "Q22018405",
@@ -2537,6 +4637,21 @@
     },
     {
       "name": {
+        "lang:en": "John Holden"
+      },
+      "id": "Q22018691",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22018691"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Arthur Jeffreys"
       },
       "id": "Q22018750",
@@ -2544,6 +4659,36 @@
         {
           "scheme": "wikidata",
           "identifier": "Q22018750"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robert Jenkins"
+      },
+      "id": "Q22018752",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22018752"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robert Johnson"
+      },
+      "id": "Q22018770",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22018770"
         }
       ],
       "links": [
@@ -2597,6 +4742,51 @@
     },
     {
       "name": {
+        "lang:en": "Francis Lord"
+      },
+      "id": "Q22018868",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22018868"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John MacFarlane"
+      },
+      "id": "Q22018895",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22018895"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Francis Merewether"
+      },
+      "id": "Q22018964",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22018964"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Jacob Montefiore"
       },
       "id": "Q22019013",
@@ -2604,6 +4794,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q22019013"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Henry Moore"
+      },
+      "id": "Q22019018",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22019018"
         }
       ],
       "links": [
@@ -2649,6 +4854,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q22019186"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alexander Park"
+      },
+      "id": "Q22019208",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22019208"
         }
       ],
       "links": [
@@ -2732,6 +4952,21 @@
     },
     {
       "name": {
+        "lang:en": "John Williams"
+      },
+      "id": "Q22019624",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22019624"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Alexander Baxter"
       },
       "id": "Q22019962",
@@ -2769,6 +5004,36 @@
         {
           "scheme": "wikidata",
           "identifier": "Q22019975"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Blaxland"
+      },
+      "id": "Q22019980",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22019980"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Coghill"
+      },
+      "id": "Q22020008",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22020008"
         }
       ],
       "links": [
@@ -2822,6 +5087,36 @@
     },
     {
       "name": {
+        "lang:en": "John Lamb"
+      },
+      "id": "Q22020275",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22020275"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Mitchell"
+      },
+      "id": "Q22020369",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22020369"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Kenneth Snodgrass"
       },
       "id": "Q22020633",
@@ -2829,6 +5124,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q22020633"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Walker"
+      },
+      "id": "Q22020720",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22020720"
         }
       ],
       "links": [
@@ -2867,6 +5177,21 @@
     },
     {
       "name": {
+        "lang:en": "James Murphy"
+      },
+      "id": "Q22271913",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22271913"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "William Thurlow"
       },
       "id": "Q22271948",
@@ -2874,6 +5199,51 @@
         {
           "scheme": "wikidata",
           "identifier": "Q22271948"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Alexander"
+      },
+      "id": "Q23580725",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23580725"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Henry Bloomfield"
+      },
+      "id": "Q23582630",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23582630"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Comrie"
+      },
+      "id": "Q23584079",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23584079"
         }
       ],
       "links": [
@@ -2897,6 +5267,51 @@
     },
     {
       "name": {
+        "lang:en": "Edward Cox"
+      },
+      "id": "Q23584351",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23584351"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Dawson"
+      },
+      "id": "Q23584726",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23584726"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Day"
+      },
+      "id": "Q23584736",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23584736"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Alfred Denison"
       },
       "id": "Q23584879",
@@ -2904,6 +5319,81 @@
         {
           "scheme": "wikidata",
           "identifier": "Q23584879"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "George Forbes"
+      },
+      "id": "Q23612249",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23612249"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Giles"
+      },
+      "id": "Q23612760",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23612760"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "George Graham"
+      },
+      "id": "Q23613043",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23613043"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Patrick Grant"
+      },
+      "id": "Q23613068",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23613068"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Hardy"
+      },
+      "id": "Q23613400",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23613400"
         }
       ],
       "links": [
@@ -2957,6 +5447,66 @@
     },
     {
       "name": {
+        "lang:en": "Thomas Hood"
+      },
+      "id": "Q23613899",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23613899"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Henry Hughes"
+      },
+      "id": "Q23614033",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23614033"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Innes"
+      },
+      "id": "Q23614209",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23614209"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Andrew Lang"
+      },
+      "id": "Q23615284",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23615284"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Burman Lauga"
       },
       "id": "Q23615380",
@@ -2987,6 +5537,21 @@
     },
     {
       "name": {
+        "lang:en": "Robert Lethbridge"
+      },
+      "id": "Q23615560",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23615560"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Alexander Longmore"
       },
       "id": "Q23615764",
@@ -3002,6 +5567,36 @@
     },
     {
       "name": {
+        "lang:en": "Donald McIntyre"
+      },
+      "id": "Q23616862",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23616862"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John McNamara"
+      },
+      "id": "Q23616982",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23616982"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Samuel James Smith"
       },
       "id": "Q23617788",
@@ -3009,6 +5604,36 @@
         {
           "scheme": "wikidata",
           "identifier": "Q23617788"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Stirling"
+      },
+      "id": "Q23618417",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23618417"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Taylor"
+      },
+      "id": "Q23618920",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23618920"
         }
       ],
       "links": [
@@ -3084,6 +5709,36 @@
         {
           "scheme": "wikidata",
           "identifier": "Q23620936"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Charles Richardson"
+      },
+      "id": "Q23621087",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23621087"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Charles Riley"
+      },
+      "id": "Q23621193",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23621193"
         }
       ],
       "links": [
@@ -3995,6 +6650,21 @@
     },
     {
       "name": {
+        "lang:en": "Cate Faehrmann"
+      },
+      "id": "Q5051778",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5051778"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Catherine Cusack"
       },
       "id": "Q5052617",
@@ -4347,6 +7017,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q5345911"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Edward Wise"
+      },
+      "id": "Q5345960",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5345960"
         }
       ],
       "links": [
@@ -5990,21 +8675,6 @@
     },
     {
       "name": {
-        "lang:en": "Melinda Pavey"
-      },
-      "id": "Q6812492",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6812492"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Michael Costa"
       },
       "id": "Q6829483",
@@ -6972,6 +9642,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q7822043"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tony Kelly"
+      },
+      "id": "Q7822703",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7822703"
         }
       ],
       "links": [
@@ -8128,6 +10813,7 @@
       "person_id": "Q16728926",
       "organization_id": "Q3244676",
       "start_date": "2013-06-19",
+      "end_date": "2018-08-14",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -8399,6 +11085,19 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q19663506-ff2c893a-f90b-4abd-a3da-047abd4d4233",
+      "person_id": "Q19663506",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q19665515-f9a5e6ce-5a85-42c2-bb96-961b136a8e3a",
       "person_id": "Q19665515",
       "organization_id": "Q3244676",
@@ -8453,6 +11152,19 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q19873302-98206640-02e3-4662-8d77-59447ee27f49",
       "person_id": "Q19873302",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19873536-fd3f85d6-8c9f-4d2b-8e80-2b7530b08fd8",
+      "person_id": "Q19873536",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -8531,6 +11243,45 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q20963731-3a402610-d502-4e65-accc-befa8c1d6a84",
+      "person_id": "Q20963731",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20965241-a5b6b44c-af2e-48ab-9616-063447795d68",
+      "person_id": "Q20965241",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20968837-27eb17fc-2dc1-4bdc-b1ca-6d4ae87f4d1b",
+      "person_id": "Q20968837",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q20968846-d9e502b4-cb44-4152-94ff-5dec93c77c99",
       "person_id": "Q20968846",
       "organization_id": "Q3244676",
@@ -8557,8 +11308,60 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q20979698-c3d5ab97-8f3e-4c01-acf6-431cb21a5ff1",
+      "person_id": "Q20979698",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20979701-648043a0-6d38-4eca-bcec-b9b55be60c89",
+      "person_id": "Q20979701",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20979749-1c04ade7-cdce-44bc-a83a-16fe4bdaf767",
+      "person_id": "Q20979749",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q20983212-c832d686-26f1-462f-b531-7983d4a89eb1",
       "person_id": "Q20983212",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983213-18ad697d-a56c-436d-b917-a33bd6d797fc",
+      "person_id": "Q20983213",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -8585,6 +11388,58 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q20983216-ca48b3f0-7198-45fa-a36a-e32d66741cb2",
       "person_id": "Q20983216",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983217-740e1016-881d-4641-a114-fd2a350306cf",
+      "person_id": "Q20983217",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983218-9b7ce479-1f1a-4532-847c-5371367a4ea4",
+      "person_id": "Q20983218",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983219-69cca399-3d1f-471f-8158-b84b84e6c408",
+      "person_id": "Q20983219",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983226-9760938c-f75f-466e-8d59-f5667a348f02",
+      "person_id": "Q20983226",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -8674,6 +11529,97 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q20983239-19e052c9-088f-4e2d-b98f-ed34d6bd1d20",
+      "person_id": "Q20983239",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983240-0ba32e0e-fb4d-4481-af72-ae148935eadf",
+      "person_id": "Q20983240",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983241-69289eb2-173b-4bb5-9974-d993ba1d69cf",
+      "person_id": "Q20983241",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983242-6d752b1b-984f-4660-b2ae-f38198e2cdca",
+      "person_id": "Q20983242",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983243-2aa48792-83f1-42ea-b634-2f5ffcb14eb4",
+      "person_id": "Q20983243",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983244-4997bdab-f3b9-4a57-b6cf-75e8896added",
+      "person_id": "Q20983244",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983245-5a9a19fe-5bff-4623-bc8e-a0886b9289a5",
+      "person_id": "Q20983245",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q20983246-fee070ca-bcd6-4f46-aa2f-42621a5ca69f",
       "person_id": "Q20983246",
       "organization_id": "Q3244676",
@@ -8700,6 +11646,19 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q20983258-1eb4285a-f937-4b32-9720-2601cd97fd66",
+      "person_id": "Q20983258",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q20983259-24fda496-8457-464b-b97f-2aebe43e2925",
       "person_id": "Q20983259",
       "organization_id": "Q3244676",
@@ -8715,6 +11674,19 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q20983260-7551a2fc-49ea-40f8-ab44-548e20bb0927",
       "person_id": "Q20983260",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983261-ac8afc5c-2792-470c-a7da-4aa5648faefa",
+      "person_id": "Q20983261",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -8765,8 +11737,125 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q20983266-827989eb-a14c-4233-aa6c-7da85462397d",
+      "person_id": "Q20983266",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983267-c532959f-4179-4e70-9601-33cc0848744a",
+      "person_id": "Q20983267",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983270-73e3bbd7-d981-40d1-8e9f-8ab93f691717",
+      "person_id": "Q20983270",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q20983271-66fb0670-2472-475f-8088-ab33a65a77bc",
       "person_id": "Q20983271",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983273-42bae264-aa05-4406-a50f-b0f9d3dd34a1",
+      "person_id": "Q20983273",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983274-10d613ec-7dd0-4378-a842-44be417e7c7c",
+      "person_id": "Q20983274",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983277-c6d04883-f9a3-4494-8fce-03393fffbf44",
+      "person_id": "Q20983277",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983278-d99d8e95-f04c-4e0c-b0e2-6516abc89807",
+      "person_id": "Q20983278",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983282-b3b67884-b93d-4993-8402-865954f42f4f",
+      "person_id": "Q20983282",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983283-41357f70-5dc3-4104-875c-00babe979834",
+      "person_id": "Q20983283",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -8791,8 +11880,47 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q20983288-85d99ac6-2b1b-4a5b-b2c4-ddbc4ff692a1",
+      "person_id": "Q20983288",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983289-243d10fd-e094-4827-9472-3e2e48f0fa41",
+      "person_id": "Q20983289",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q20983291-ea5d1996-8a94-4220-956f-1c02ef884089",
       "person_id": "Q20983291",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983293-45043674-d547-4b1e-9cc7-047da66dc158",
+      "person_id": "Q20983293",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -8843,6 +11971,110 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q20983298-7f37b70e-9053-444d-9e14-e6909c8fa073",
+      "person_id": "Q20983298",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983299-8ee3a851-7ad0-47e6-b1b7-baa3f75205ce",
+      "person_id": "Q20983299",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983301-174ab18a-55bf-4724-94c0-f0bbb0dc3cf7",
+      "person_id": "Q20983301",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983304-9c3ae998-6dd0-4bc9-8abd-b36b99ec4706",
+      "person_id": "Q20983304",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983307-6b278a20-0de8-45f0-804d-ab26bff4e0bb",
+      "person_id": "Q20983307",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983310-57fe5e6f-bc50-4606-b80b-fa65856f676d",
+      "person_id": "Q20983310",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983311-7c59d5e9-ea82-4ff5-ac99-7ed38d95e165",
+      "person_id": "Q20983311",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983312-3ae87a51-6cc5-42d5-8522-bd88568d0b6e",
+      "person_id": "Q20983312",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q20983316-664162a3-0e87-40a3-9ed6-778b34bca53e",
       "person_id": "Q20983316",
       "organization_id": "Q3244676",
@@ -8856,8 +12088,47 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q20983318-d5c83033-e8df-4bb1-a28c-b8f9d57304f1",
+      "person_id": "Q20983318",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983320-bf004c71-413d-42cb-9fb8-086be84d0c54",
+      "person_id": "Q20983320",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q20983322-85eb2b82-1b69-4ac1-b03e-c595799acb32",
       "person_id": "Q20983322",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983325-5d5c3e56-9073-439d-918d-346fb44d37f9",
+      "person_id": "Q20983325",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -8921,6 +12192,19 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q20983342-90ae0bd8-d3af-4bcb-9385-61a413966f76",
+      "person_id": "Q20983342",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q20983344-87aec18e-ecf6-4c3e-ac26-8d391df5f58b",
       "person_id": "Q20983344",
       "organization_id": "Q3244676",
@@ -8936,6 +12220,71 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q20983345-9788e2e1-c3b0-4a54-a5de-db295adc0e61",
       "person_id": "Q20983345",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983347-adeb6b94-be9f-4203-952e-3d2dc78a96d2",
+      "person_id": "Q20983347",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983358-b73e44a0-51d1-47f3-b62d-f3b6c6a0b825",
+      "person_id": "Q20983358",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983365-4721d43f-a78b-413c-8c7a-dce6f531f4df",
+      "person_id": "Q20983365",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983366-0fe894f3-48f9-4e1a-a8d3-550671ea2fa6",
+      "person_id": "Q20983366",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983367-d67fe1b2-f86a-4342-aba2-7ed00822eb3f",
+      "person_id": "Q20983367",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -8999,6 +12348,58 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q20983382-60d2f4a6-dc44-469b-bfe8-fa7f27b55162",
+      "person_id": "Q20983382",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983387-aacd5d2c-2228-4f26-a023-a6a479bab3f8",
+      "person_id": "Q20983387",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983391-7ed20c47-7174-4b7b-8cf6-efda7d5cdaae",
+      "person_id": "Q20983391",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983399-45ac2eb8-99ec-4e28-aab6-edf7c04955c4",
+      "person_id": "Q20983399",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q20983401-223ab679-cddf-4152-b4fa-a6e70260970a",
       "person_id": "Q20983401",
       "organization_id": "Q3244676",
@@ -9012,8 +12413,47 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q20983402-840c16ee-f57b-4db2-9a14-7cc8e80f5272",
+      "person_id": "Q20983402",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q20983403-807ba678-f66b-46ef-b4e8-708bb00a1582",
       "person_id": "Q20983403",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983407-4835410d-461d-418c-a622-6dd1f4189684",
+      "person_id": "Q20983407",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983418-00fbd416-22f5-4f44-82b6-4a0bbf9b3d96",
+      "person_id": "Q20983418",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -9064,6 +12504,19 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q20983431-9c6326a9-40ee-47b4-94c6-dc37e462f0a4",
+      "person_id": "Q20983431",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q20983433-940a60c9-d62a-4b71-9130-7145ca96314a",
       "person_id": "Q20983433",
       "organization_id": "Q3244676",
@@ -9092,6 +12545,71 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q20983443-69b8e5f3-17df-4206-87d8-19efa785e741",
       "person_id": "Q20983443",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983444-69658476-c4c4-4a34-a995-2a1b369751e2",
+      "person_id": "Q20983444",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983445-792ee4ba-2ed6-49e8-a1b5-71b30bd1709b",
+      "person_id": "Q20983445",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983447-7adce90e-6271-410b-b433-4f149f40bbc0",
+      "person_id": "Q20983447",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983448-60e011fb-e4c3-4500-b7b2-2420d4dcbda8",
+      "person_id": "Q20983448",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983462-3becd3e0-bd87-45cc-a5e2-6b48c7a4d177",
+      "person_id": "Q20983462",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -9142,8 +12660,99 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q20983472-0f1760f4-4a92-4b22-a663-dbfb9633cbe2",
+      "person_id": "Q20983472",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q20983474-ff55b8ac-cbde-4322-8d2b-a16e358b0232",
       "person_id": "Q20983474",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20983482-b6ff7f94-f09e-40e8-b743-d282d7425dbd",
+      "person_id": "Q20983482",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20984583-764c7f2f-4690-472f-8cc7-bb79449b84c6",
+      "person_id": "Q20984583",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20989022-86a564e4-9896-4ec3-b8d9-84de08d4236f",
+      "person_id": "Q20989022",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21042293-65c4ec6f-7185-4d38-8ef6-3a14fed8d613",
+      "person_id": "Q21042293",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21042305-4a3c7caa-28e0-4c9e-b1a6-1c601b3bc5da",
+      "person_id": "Q21042305",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21069858-72089e4a-174f-4aed-98a8-97de1a1cffd4",
+      "person_id": "Q21069858",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -9183,6 +12792,19 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q21069868-0d8d2861-1d29-4dfc-ad0c-2cb74138b509",
       "person_id": "Q21069868",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21069869-7dc9c9ed-4212-408e-8db8-7c71981c37df",
+      "person_id": "Q21069869",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -9246,8 +12868,73 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q21069893-00307a99-e922-4dc1-926f-999afb41dd9a",
+      "person_id": "Q21069893",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21069894-f1a158aa-5b7a-48b6-b5f4-e396e084eeb2",
+      "person_id": "Q21069894",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q21069895-edd4aa88-4509-418c-be55-05772fdbd322",
       "person_id": "Q21069895",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21069909-8ab749ef-615c-43db-af94-5a53ac9bbeff",
+      "person_id": "Q21069909",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21069910-6ae91a2f-70ef-4390-96ea-c2f38eb4db12",
+      "person_id": "Q21069910",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21069911-43d96d99-d350-4e68-bbde-2cdc73be217d",
+      "person_id": "Q21069911",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -9324,8 +13011,86 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q21069935-ee75941e-f316-49ab-8394-2faf893f9a51",
+      "person_id": "Q21069935",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21069936-946a2d79-05fa-48e6-a1b7-f1e78d6c514c",
+      "person_id": "Q21069936",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21069937-109c503b-8193-409f-82ba-5ae1ac277071",
+      "person_id": "Q21069937",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q21069938-d21d157f-8181-4bc5-b104-c05fe25cce93",
       "person_id": "Q21069938",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21069939-b6680e23-2fa6-4424-877d-9af5d7ffb823",
+      "person_id": "Q21069939",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21069940-365b2c78-83c0-4f42-81d5-eaf53540df85",
+      "person_id": "Q21069940",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21069943-aac124d2-1da6-41ac-b9f3-430e14ce6e36",
+      "person_id": "Q21069943",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -9350,6 +13115,19 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q21070193-c860afa9-9325-4424-a60e-f1f159f969e1",
+      "person_id": "Q21070193",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q21070194-7b56ee2d-2d1c-4ec5-b4e6-165f6b2130da",
       "person_id": "Q21070194",
       "organization_id": "Q3244676",
@@ -9363,8 +13141,47 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q21070195-c528de70-48de-4c42-ac8d-8c9ad4c36737",
+      "person_id": "Q21070195",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21070196-f181e753-3990-4941-96b3-eee6c166cef9",
+      "person_id": "Q21070196",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q21070197-b04620e3-f0ce-496f-8525-9ec95378a9f5",
       "person_id": "Q21070197",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21070198-66eed653-ee51-4f5a-ab5b-132116b8d774",
+      "person_id": "Q21070198",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -9402,8 +13219,151 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q21070201-f776c4be-4682-4f98-b2b2-b8d9a6ab7328",
+      "person_id": "Q21070201",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21070202-706a6d0e-8ae8-4188-9a7d-f759b9a6e74b",
+      "person_id": "Q21070202",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21070204-41c0b9d1-c9f2-4549-acd4-a4646e258c73",
+      "person_id": "Q21070204",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21070205-2fa48573-1448-43b0-b925-1961f4fc596e",
+      "person_id": "Q21070205",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21088023-48e66d9a-c801-459f-adc8-5ba6e3c00837",
+      "person_id": "Q21088023",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21176718-d91adf74-2a30-431e-a5f6-9c96efea0810",
+      "person_id": "Q21176718",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21176722-ef042a9c-d870-4a1a-96b9-377cfde97e23",
+      "person_id": "Q21176722",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21176794-bb893fc8-4697-4e5d-a795-7a2145c6d66f",
+      "person_id": "Q21176794",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q21176809-777068e4-04ed-45f3-8471-a2c5beb13609",
       "person_id": "Q21176809",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21176838-c0b1ecb0-8b69-47d1-9666-478fb20032a9",
+      "person_id": "Q21176838",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21176869-2e6ed9b5-9731-4626-a564-5c71c6ec07f0",
+      "person_id": "Q21176869",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21176891-804c1a43-b3c8-48f7-b21d-ad81fc50dd4f",
+      "person_id": "Q21176891",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -9441,8 +13401,138 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q21176930-2d64d77d-4656-4fee-afd3-4695f413deb9",
+      "person_id": "Q21176930",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21176940-be2498a9-fd58-45b8-8d50-8e969ba31260",
+      "person_id": "Q21176940",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21176946-e7b3e7d3-dee9-4730-a73d-fae76b402be3",
+      "person_id": "Q21176946",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21176976-557c8741-f87e-4af4-bd53-1f4bebd935dc",
+      "person_id": "Q21176976",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21176981-a209b597-c918-4261-8d65-4d83686c5a5c",
+      "person_id": "Q21176981",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21177013-d5f4a2cd-aa2a-4c78-9c2a-db688c97847e",
+      "person_id": "Q21177013",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21177016-fa0149ab-ce6d-4931-a9e4-c21f6699e469",
+      "person_id": "Q21177016",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21177032-3338f698-693d-4bf2-9451-c0aa25243ed1",
+      "person_id": "Q21177032",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q21177538-dc0b8108-e8df-4e54-899b-114663529d58",
       "person_id": "Q21177538",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21177547-bc303819-9c95-4440-8301-186eef130deb",
+      "person_id": "Q21177547",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21177558-1dc27e15-e436-4a12-b664-7d096b8e7fec",
+      "person_id": "Q21177558",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -9467,6 +13557,19 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q21228025-2bcc71f2-2d8a-495c-a2d4-033472539d3e",
+      "person_id": "Q21228025",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q2142133-75284E18-5E77-4CB5-8002-2C3BD0531D53",
       "person_id": "Q2142133",
       "organization_id": "Q3244676",
@@ -9480,8 +13583,190 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q21483271-1e71aa1c-b005-4d94-af77-0e8394b8821c",
+      "person_id": "Q21483271",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21535351-419a9856-ceaa-476b-b743-9e33d1ddd6a2",
+      "person_id": "Q21535351",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21535418-365166f3-e4ed-48f0-b659-37e07df27e75",
+      "person_id": "Q21535418",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21536221-dc712e2f-0016-4090-904a-cc91cfe3e7a3",
+      "person_id": "Q21536221",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21536997-316d187a-901a-474b-a455-3543c1f04a22",
+      "person_id": "Q21536997",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21537051-1e7461dd-75e1-4492-a439-1e93d998aeff",
+      "person_id": "Q21537051",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21537109-02cb9833-a62b-4ae9-bd78-2c072f295bdb",
+      "person_id": "Q21537109",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21537334-ca7d7b52-6db1-4f73-bed3-79edd0da702d",
+      "person_id": "Q21537334",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21537451-e765fdf3-b5fc-4952-8b88-928f9b15b7e0",
+      "person_id": "Q21537451",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21538167-81cb9ee9-c15f-4ae1-83fc-fd6425d4753c",
+      "person_id": "Q21538167",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21538911-9d4b9fc4-0081-42ab-a5ef-722fe77deffb",
+      "person_id": "Q21538911",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21539398-0ca61166-56ee-41d6-98c7-9853c2153829",
+      "person_id": "Q21539398",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q21539462-2840dd2b-0b7e-4c28-81db-6e7395a6ea6d",
       "person_id": "Q21539462",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21539622-46955bbd-bdb0-4187-942a-6c25be2ada08",
+      "person_id": "Q21539622",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21539666-c59c3f88-57a5-455e-8b83-04039350701a",
+      "person_id": "Q21539666",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -9519,8 +13804,73 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q21664463-871be6af-0015-4b0d-9f52-4a09951626bf",
+      "person_id": "Q21664463",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21664479-914bbd4d-37b9-412b-ab58-0e8762150a37",
+      "person_id": "Q21664479",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q21664530-a6bb64c9-846e-4fbb-9365-9ea6d91e823f",
       "person_id": "Q21664530",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21664556-b2cbb824-657e-492b-a2e3-62211b3ce4df",
+      "person_id": "Q21664556",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21664627-2d42e1ed-0262-48f9-91af-d00003c80619",
+      "person_id": "Q21664627",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21664633-83c344dc-dba3-490f-9661-309d8f6cb775",
+      "person_id": "Q21664633",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -9545,8 +13895,99 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q21664674-620511dd-406b-428a-8784-2b3cfd8bfb12",
+      "person_id": "Q21664674",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21664727-b2f4463d-66e2-430b-9f0b-4f2fee0069ea",
+      "person_id": "Q21664727",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21664738-3654ea2f-2d4f-4f24-a10c-17c02b19f0fe",
+      "person_id": "Q21664738",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21664887-eab98c0d-af4a-4652-b13f-b0699ad6f60c",
+      "person_id": "Q21664887",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q21664966-aafe694a-9f79-43e9-80ef-c59ec2f4b9fe",
       "person_id": "Q21664966",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21665004-2e166096-6782-4a66-91b9-f3e12da8e4a7",
+      "person_id": "Q21665004",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21665036-b8917cee-4286-4626-872a-ceeb53ca7b3d",
+      "person_id": "Q21665036",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21997664-bb34f0d9-6608-4a03-8286-0c932d1f1bbe",
+      "person_id": "Q21997664",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -9584,6 +14025,71 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q22017307-4d78b680-7657-4e21-afae-8b3f97be387e",
+      "person_id": "Q22017307",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22017370-36420ce1-36b1-4cb0-a1fb-d6c3f188ee9e",
+      "person_id": "Q22017370",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22017371-f9eb29ee-2e78-41ac-915a-07a139ab2ae8",
+      "person_id": "Q22017371",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22017376-477e24bf-eda0-4a5a-8eba-9366efc8c16c",
+      "person_id": "Q22017376",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22018125-742da50f-4342-4b6f-9333-8ab4df9d9459",
+      "person_id": "Q22018125",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q22018405-52d74108-04cd-4893-8b63-bd91248a4960",
       "person_id": "Q22018405",
       "organization_id": "Q3244676",
@@ -9610,8 +14116,47 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q22018691-fc9f9ec1-29c5-4f22-9287-092c3c1fcb30",
+      "person_id": "Q22018691",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q22018750-929eeecb-8d00-4211-954e-4b73f017be20",
       "person_id": "Q22018750",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22018752-e8f24ced-5d14-43d7-a1ad-c70f81d50117",
+      "person_id": "Q22018752",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22018770-9ca92652-6190-4e09-98e0-aee78e9cebb6",
+      "person_id": "Q22018770",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -9662,8 +14207,60 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q22018868-24ac108f-c5e3-4125-9bda-e191da071f4e",
+      "person_id": "Q22018868",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22018895-62a49a10-9a6c-4a0c-91f8-5530f5df44de",
+      "person_id": "Q22018895",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22018964-6a4564f9-69e0-45b0-9fc6-76c02130751c",
+      "person_id": "Q22018964",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q22019013-4fd04b1c-33e0-47db-960f-a82c1f76b3ee",
       "person_id": "Q22019013",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22019018-1764a97a-ff86-4a15-9ae0-d15f0437ce44",
+      "person_id": "Q22019018",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -9703,6 +14300,19 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q22019186-34a535fd-8f4a-44bf-9ba5-bb3f82750bb9",
       "person_id": "Q22019186",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22019208-6072a28c-8eb7-4e83-87e3-1dee86bbb4ef",
+      "person_id": "Q22019208",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -9779,6 +14389,19 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q22019624-fe4bc9d3-8e32-4f88-8d36-73819b1aa1aa",
+      "person_id": "Q22019624",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q22019962-8c974c87-6ea5-42ec-a5f6-8bff0baff97f",
       "person_id": "Q22019962",
       "organization_id": "Q3244676",
@@ -9807,6 +14430,32 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q22019975-276802ce-6fa0-4c01-8118-b2e65b31d445",
       "person_id": "Q22019975",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22019980-f5c11486-427f-4e1f-9f4a-168bbfd88623",
+      "person_id": "Q22019980",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22020008-ccbd1a2a-f058-4e30-b0d3-fd0e4df3ba46",
+      "person_id": "Q22020008",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -9857,8 +14506,47 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q22020275-f44f0479-ff90-4d5f-91c8-0bc0769f1af7",
+      "person_id": "Q22020275",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22020369-d5c27581-91df-4b82-b7c1-7a66a53a0a46",
+      "person_id": "Q22020369",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q22020633-c23312db-3ac5-4cf9-9821-77687ba37ed7",
       "person_id": "Q22020633",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22020720-95a4f62b-3700-4bfd-aca4-1f8cc0d4d0ac",
+      "person_id": "Q22020720",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -9896,8 +14584,60 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q22271913-6b0b421f-76b8-41fb-b719-8e0c9a13a3d0",
+      "person_id": "Q22271913",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q22271948-8cef8dda-55d4-471f-93ac-1cd3a8976810",
       "person_id": "Q22271948",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23580725-cd7b3adc-c23d-4e56-89c0-d002443c1175",
+      "person_id": "Q23580725",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23582630-5b3a455b-5c58-4404-9189-898e9278ba51",
+      "person_id": "Q23582630",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23584079-97144dfe-c997-4a4f-960c-c14e28718c77",
+      "person_id": "Q23584079",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -9922,8 +14662,112 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q23584351-0012a003-bea8-49a9-919a-9b16dac0d7ac",
+      "person_id": "Q23584351",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23584726-e188cc1a-8130-45ba-a54f-6fd24f1b6d39",
+      "person_id": "Q23584726",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23584736-cb603026-e75f-4eca-baba-23f647448c16",
+      "person_id": "Q23584736",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q23584879-33bea40d-a5e5-4503-8737-df9bcb37c21e",
       "person_id": "Q23584879",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23612249-23ce4efe-3d7a-4aba-a4b9-8a46240f1dad",
+      "person_id": "Q23612249",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23612760-b0b1e965-4288-4c74-97a3-ec8e2f0d7eed",
+      "person_id": "Q23612760",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23613043-da265725-c4cd-4a05-97b9-9ded7e988e34",
+      "person_id": "Q23613043",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23613068-53c1cdb5-66ec-4120-8f62-dfd78f309b5e",
+      "person_id": "Q23613068",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23613400-268f52ef-d00d-483b-b703-dc7cb7666fa7",
+      "person_id": "Q23613400",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -9974,6 +14818,58 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q23613899-1c600691-10f2-47b2-923f-dac3e077e31d",
+      "person_id": "Q23613899",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23614033-d338f14e-253b-4ccc-9efc-29d2a4d4381b",
+      "person_id": "Q23614033",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23614209-01bb37d8-7b3d-4705-a52f-d533c366238b",
+      "person_id": "Q23614209",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23615284-13ab5cee-1881-4e49-82a7-40599d6d304e",
+      "person_id": "Q23615284",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q23615380-882f36a6-5cf9-45dc-9f24-7471ad653f69",
       "person_id": "Q23615380",
       "organization_id": "Q3244676",
@@ -10000,6 +14896,19 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q23615560-1d8da53e-bb81-46cb-ab92-c1ebdd3d7010",
+      "person_id": "Q23615560",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q23615764-b1eebf49-a470-4749-9f47-dfbdf71018c1",
       "person_id": "Q23615764",
       "organization_id": "Q3244676",
@@ -10013,8 +14922,60 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q23616862-58a5ef4e-50d9-4fae-b5bf-bcc57f8addfc",
+      "person_id": "Q23616862",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23616982-f60d410d-3acb-4c2e-813a-ca16a1ee6f80",
+      "person_id": "Q23616982",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q23617788-9a15012c-3d4d-4ce6-acc6-04e94b9d5d06",
       "person_id": "Q23617788",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23618417-1f9ca856-ce00-4e28-ab3c-13b58b528b12",
+      "person_id": "Q23618417",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23618920-ae527dfe-b91e-4292-a246-2e2601d914c9",
+      "person_id": "Q23618920",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -10080,6 +15041,32 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q23620936-e7550e10-b0f1-4210-ba8c-3d78a84b394f",
       "person_id": "Q23620936",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23621087-832f6333-6b17-4460-95e7-0397e086e236",
+      "person_id": "Q23621087",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23621193-0bbd68ee-b665-46fb-bb6a-451c592e85c8",
+      "person_id": "Q23621193",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -10878,6 +15865,20 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q5051778-d58771bd-466e-f0d2-5adc-7cbc2d2930ca",
+      "person_id": "Q5051778",
+      "organization_id": "Q3244676",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q5052617-DDC1817C-4936-4C9E-881E-DB253F2431DA",
       "person_id": "Q5052617",
       "organization_id": "Q3244676",
@@ -11179,6 +16180,19 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5345911-8B8F5C19-5F28-4958-B523-6BCC983ECDB4",
       "person_id": "Q5345911",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5345960-ba9aa4bc-e0ea-4317-a5c4-719f440aa1d9",
+      "person_id": "Q5345960",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -12611,21 +17625,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q6812492-ED1F08BC-F56A-4D94-A717-6C46E8A1F168",
-      "person_id": "Q6812492",
-      "organization_id": "Q3244676",
-      "area_id": "Q5355834",
-      "start_date": "2015-03-28",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18810377",
-      "role": {
-        "lang:en": "Member of the New South Wales Legislative Council"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q6829483-2CB1FA5A-0E82-4F98-A698-5AF27FD3F3BD",
       "person_id": "Q6829483",
       "organization_id": "Q3244676",
@@ -13461,6 +18460,19 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7822043-AFD288AE-6090-41EC-8453-484746318AB1",
       "person_id": "Q7822043",
+      "organization_id": "Q3244676",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18810377",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7822703-e21b3865-9550-4f0b-80d8-f968b5fe786c",
+      "person_id": "Q7822703",
       "organization_id": "Q3244676",
       "role_superclass_code": "Q486839",
       "role_superclass": {

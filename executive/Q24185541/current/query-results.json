@@ -4,6 +4,19 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7615025-00885dcc-4c16-1758-09f6-7407dc9adba1"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7615025"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Steven Marshall"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q23198434"
@@ -12,10 +25,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Liberal Party of Australia (South Australian Division)"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7615025"
       },
       "district" : {
         "type" : "uri",
@@ -30,24 +39,24 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q27230596"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q27230596"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Premier of South Australia"
-      },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Premier of South Australia"
       },
-      "name_en" : {
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-03-19T00:00:00Z"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7240389"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Steven Marshall"
+        "value" : "premier of an Australian state"
       },
       "org" : {
         "type" : "uri",
@@ -58,18 +67,9 @@
         "type" : "literal",
         "value" : "Cabinet of South Australia"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7615025-00885dcc-4c16-1758-09f6-7407dc9adba1"
-      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q35715"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-19T00:00:00Z"
       }
     } ]
   }

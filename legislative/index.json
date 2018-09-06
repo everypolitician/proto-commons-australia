@@ -1,27 +1,5 @@
 [
   {
-    "comment": "Senate of Australia",
-    "house_item_id": "Q783330",
-    "position_item_id": "Q6814428",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "House of Representatives",
-    "house_item_id": "Q783401",
-    "position_item_id": "Q18912794",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
     "comment": "Tasmanian House of Assembly",
     "house_item_id": "Q2867120",
     "position_item_id": "Q19007285",
@@ -163,6 +141,28 @@
       {
         "comment": "54th Parliament of South Australia",
         "term_item_id": "Q51914986"
+      }
+    ]
+  },
+  {
+    "comment": "Senate of Australia",
+    "house_item_id": "Q783330",
+    "position_item_id": "Q6814428",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "House of Representatives",
+    "house_item_id": "Q783401",
+    "position_item_id": "Q18912794",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },

@@ -4505,21 +4505,6 @@
     },
     {
       "name": {
-        "lang:en": "Philip Grimwade"
-      },
-      "id": "Q22004673",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q22004673"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Philip Hudson"
       },
       "id": "Q22005374",
@@ -5555,6 +5540,21 @@
     },
     {
       "name": {
+        "lang:en": "James Menzies"
+      },
+      "id": "Q23022993",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23022993"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Edmund Greenwood"
       },
       "id": "Q23023769",
@@ -5832,21 +5832,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q23585228"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Herbert Downward"
-      },
-      "id": "Q23585237",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q23585237"
         }
       ],
       "links": [
@@ -6275,6 +6260,21 @@
     },
     {
       "name": {
+        "lang:en": "Patrick Costello"
+      },
+      "id": "Q24087939",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24087939"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Hugh McKenzie"
       },
       "id": "Q24170559",
@@ -6357,21 +6357,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q26720329"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "James Membrey"
-      },
-      "id": "Q26720331",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q26720331"
         }
       ],
       "links": [
@@ -6800,21 +6785,6 @@
     },
     {
       "name": {
-        "lang:en": "Alfred Downward"
-      },
-      "id": "Q4722558",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4722558"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Alistair Harkness"
       },
       "id": "Q4727288",
@@ -7182,21 +7152,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q4908205"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Bill McGrath"
-      },
-      "id": "Q4910114",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4910114"
         }
       ],
       "links": [
@@ -15490,19 +15445,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q22004673-27BD4EE2-4B5D-43B1-ABFB-3EDCBF069CBC",
-      "person_id": "Q22004673",
-      "organization_id": "Q4386693",
-      "role_superclass_code": "Q5230427",
-      "role_superclass": {
-        "lang:en": "member of a legislative assembly"
-      },
-      "role_code": "Q18534408",
-      "role": {
-        "lang:en": "Member of the Victorian Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q22005374-7732C5F9-146B-422F-8042-14591868ADCA",
       "person_id": "Q22005374",
       "organization_id": "Q4386693",
@@ -16402,6 +16344,19 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q23022993-d40953e7-7328-47a2-a031-651ea1dd3ad2",
+      "person_id": "Q23022993",
+      "organization_id": "Q4386693",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q18534408",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q23023769-F2E634C4-B367-419C-87EF-0ED9A4C8F408",
       "person_id": "Q23023769",
       "organization_id": "Q4386693",
@@ -16638,19 +16593,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q23585228-6C106C03-E49E-42E6-924C-7BF29913CAC7",
       "person_id": "Q23585228",
-      "organization_id": "Q4386693",
-      "role_superclass_code": "Q5230427",
-      "role_superclass": {
-        "lang:en": "member of a legislative assembly"
-      },
-      "role_code": "Q18534408",
-      "role": {
-        "lang:en": "Member of the Victorian Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q23585237-F600BDA4-5278-41DA-8111-8791203A3553",
-      "person_id": "Q23585237",
       "organization_id": "Q4386693",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
@@ -17026,6 +16968,19 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q24087939-78dd5f6e-c1ba-499b-ae3b-5b28955886f6",
+      "person_id": "Q24087939",
+      "organization_id": "Q4386693",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q18534408",
+      "role": {
+        "lang:en": "Member of the Victorian Legislative Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q24170559-C7BF850C-EE38-4E24-A009-C4C0C87F4FBE",
       "person_id": "Q24170559",
       "organization_id": "Q4386693",
@@ -17093,19 +17048,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q26720329-0CBA16BB-B295-4E09-A811-D666B77F14A9",
       "person_id": "Q26720329",
-      "organization_id": "Q4386693",
-      "role_superclass_code": "Q5230427",
-      "role_superclass": {
-        "lang:en": "member of a legislative assembly"
-      },
-      "role_code": "Q18534408",
-      "role": {
-        "lang:en": "Member of the Victorian Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q26720331-FD483D19-ABEB-4360-8E16-565A0D756608",
-      "person_id": "Q26720331",
       "organization_id": "Q4386693",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
@@ -17485,19 +17427,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q4722558-926ECC5A-D6B9-4CB4-B88C-0F26B891D9B3",
-      "person_id": "Q4722558",
-      "organization_id": "Q4386693",
-      "role_superclass_code": "Q5230427",
-      "role_superclass": {
-        "lang:en": "member of a legislative assembly"
-      },
-      "role_code": "Q18534408",
-      "role": {
-        "lang:en": "Member of the Victorian Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q4727288-966CAFBA-22B4-4B63-9180-BCB785570D82",
       "person_id": "Q4727288",
       "organization_id": "Q4386693",
@@ -17818,19 +17747,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4908205-3CBDED3D-6109-4557-846E-3A3F13672A31",
       "person_id": "Q4908205",
-      "organization_id": "Q4386693",
-      "role_superclass_code": "Q5230427",
-      "role_superclass": {
-        "lang:en": "member of a legislative assembly"
-      },
-      "role_code": "Q18534408",
-      "role": {
-        "lang:en": "Member of the Victorian Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q4910114-E6DA4B92-0635-4A03-955D-3E82D2F2A02F",
-      "person_id": "Q4910114",
       "organization_id": "Q4386693",
       "role_superclass_code": "Q5230427",
       "role_superclass": {

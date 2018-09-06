@@ -182,6 +182,21 @@
     },
     {
       "name": {
+        "lang:en": "Gail Gago"
+      },
+      "id": "Q5517076",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5517076"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Jing Lee"
       },
       "id": "Q6202225",
@@ -227,6 +242,21 @@
     },
     {
       "name": {
+        "lang:en": "Kelly Vincent"
+      },
+      "id": "Q6386327",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6386327"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Kyam Maher"
       },
       "id": "Q6450701",
@@ -257,6 +287,21 @@
     },
     {
       "name": {
+        "lang:en": "Peter Malinauskas"
+      },
+      "id": "Q7175622",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7175622"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Rob Lucas"
       },
       "id": "Q7340323",
@@ -268,6 +313,24 @@
       ],
       "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robert Brokenshire"
+      },
+      "id": "Q7342378",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7342378"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ffpsa"
+        }
       ]
     },
     {
@@ -359,6 +422,19 @@
         {
           "scheme": "wikidata",
           "identifier": "Q1395400"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dignity Party"
+      },
+      "id": "Q1894381",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1894381"
         }
       ]
     },
@@ -490,9 +566,9 @@
       "on_behalf_of_id": "Q21003570",
       "organization_id": "Q7566128",
       "start_date": "2006-03-18",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -505,9 +581,9 @@
       "on_behalf_of_id": "Q21003570",
       "organization_id": "Q7566128",
       "start_date": "2014-03-15",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -520,9 +596,9 @@
       "on_behalf_of_id": "Q5604428",
       "organization_id": "Q7566128",
       "start_date": "2006-03-18",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -535,9 +611,9 @@
       "on_behalf_of_id": "Q23198434",
       "organization_id": "Q7566128",
       "start_date": "2014-03-15",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -550,9 +626,9 @@
       "on_behalf_of_id": "Q21003570",
       "organization_id": "Q7566128",
       "start_date": "2017-02-28",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -565,9 +641,9 @@
       "on_behalf_of_id": "Q21003570",
       "organization_id": "Q7566128",
       "start_date": "2018-03-17",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -580,9 +656,9 @@
       "on_behalf_of_id": "Q39046104",
       "organization_id": "Q7566128",
       "start_date": "2018-03-17",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -595,9 +671,9 @@
       "on_behalf_of_id": "Q21003570",
       "organization_id": "Q7566128",
       "start_date": "2018-03-17",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -610,9 +686,9 @@
       "on_behalf_of_id": "Q39046104",
       "organization_id": "Q7566128",
       "start_date": "2018-03-17",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -625,9 +701,9 @@
       "on_behalf_of_id": "Q21003570",
       "organization_id": "Q7566128",
       "start_date": "2018-03-17",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -640,9 +716,9 @@
       "on_behalf_of_id": "Q23198434",
       "organization_id": "Q7566128",
       "start_date": "2002-02-09",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -655,9 +731,9 @@
       "on_behalf_of_id": "Q1395400",
       "organization_id": "Q7566128",
       "start_date": "2006-03-18",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -670,9 +746,9 @@
       "on_behalf_of_id": "Q23198434",
       "organization_id": "Q7566128",
       "start_date": "2006-03-18",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -685,9 +761,25 @@
       "on_behalf_of_id": "Q29021047",
       "organization_id": "Q7566128",
       "start_date": "2006-03-18",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18662245",
+      "role": {
+        "lang:en": "Member of the South Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5517076-4932A9EE-F737-40EA-9952-CBB68DF4C521",
+      "person_id": "Q5517076",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566128",
+      "start_date": "2002-02-09",
+      "end_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -700,9 +792,9 @@
       "on_behalf_of_id": "Q23198434",
       "organization_id": "Q7566128",
       "start_date": "2010-03-20",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -715,9 +807,9 @@
       "on_behalf_of_id": "Q19876280",
       "organization_id": "Q7566128",
       "start_date": "2007-11-21",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -730,9 +822,9 @@
       "on_behalf_of_id": "Q2006192",
       "organization_id": "Q7566128",
       "start_date": "2007-11-21",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -745,9 +837,9 @@
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q7566128",
       "start_date": "2007-11-21",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -760,9 +852,9 @@
       "on_behalf_of_id": "Q42956059",
       "organization_id": "Q7566128",
       "start_date": "2007-11-21",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -775,9 +867,25 @@
       "on_behalf_of_id": "Q23198434",
       "organization_id": "Q7566128",
       "start_date": "1997-10-11",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18662245",
+      "role": {
+        "lang:en": "Member of the South Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6386327-41A28E04-AE5F-4A31-A8DB-C95CCD142097",
+      "person_id": "Q6386327",
+      "on_behalf_of_id": "Q1894381",
+      "organization_id": "Q7566128",
+      "start_date": "2010-03-20",
+      "end_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -790,9 +898,9 @@
       "on_behalf_of_id": "Q21003570",
       "organization_id": "Q7566128",
       "start_date": "2012-10-17",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -805,9 +913,25 @@
       "on_behalf_of_id": "Q23198434",
       "organization_id": "Q7566128",
       "start_date": "2003-06-26",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18662245",
+      "role": {
+        "lang:en": "Member of the South Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7175622-b7c829ed-4b11-93dd-a02e-8cefdc861ece",
+      "person_id": "Q7175622",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q7566128",
+      "start_date": "2015-12-01",
+      "end_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -820,9 +944,41 @@
       "on_behalf_of_id": "Q23198434",
       "organization_id": "Q7566128",
       "start_date": "1982-11-06",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18662245",
+      "role": {
+        "lang:en": "Member of the South Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7342378-FC95E452-C546-41EF-9D13-02D6A83DA5B9",
+      "person_id": "Q7342378",
+      "on_behalf_of_id": "Q1395400",
+      "organization_id": "Q7566128",
+      "start_date": "2008-07-24",
+      "end_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
+      },
+      "role_code": "Q18662245",
+      "role": {
+        "lang:en": "Member of the South Australian Legislative Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7342378-FC95E452-C546-41EF-9D13-02D6A83DA5B9",
+      "person_id": "Q7342378",
+      "on_behalf_of_id": "Q29021047",
+      "organization_id": "Q7566128",
+      "start_date": "2008-07-24",
+      "end_date": "2018-03-17",
+      "role_superclass_code": "Q19597471",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -835,9 +991,9 @@
       "on_behalf_of_id": "Q21003570",
       "organization_id": "Q7566128",
       "start_date": "2006-03-18",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -850,9 +1006,9 @@
       "on_behalf_of_id": "Q23198434",
       "organization_id": "Q7566128",
       "start_date": "2006-05-02",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -865,9 +1021,9 @@
       "on_behalf_of_id": "Q5604428",
       "organization_id": "Q7566128",
       "start_date": "2010-03-20",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {
@@ -880,9 +1036,9 @@
       "on_behalf_of_id": "Q23198434",
       "organization_id": "Q7566128",
       "start_date": "2002-02-09",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q19597471",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "Member of the Parliament of South Australia"
       },
       "role_code": "Q18662245",
       "role": {

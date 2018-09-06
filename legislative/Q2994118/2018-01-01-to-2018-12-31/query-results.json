@@ -103,11 +103,6 @@
         "type" : "literal",
         "value" : "36"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-04-05T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356428"
@@ -116,6 +111,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Agricultural"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-04-05T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -167,11 +167,6 @@
         "type" : "literal",
         "value" : "36"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-05-22T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356429"
@@ -180,6 +175,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "East Metropolitan"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -231,11 +231,6 @@
         "type" : "literal",
         "value" : "36"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-05-22T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356428"
@@ -244,6 +239,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Agricultural"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -295,11 +295,6 @@
         "type" : "literal",
         "value" : "36"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-04-21T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356431"
@@ -308,6 +303,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "North Metropolitan"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-04-21T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -362,70 +362,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q27450624-df509b80-46b3-fa7c-e30e-535590f95268"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19627913"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Western Australian Legislative Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q27450624"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Laine McDonald"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994118"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Western Australian Legislative Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3206"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "36"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-09-27T00:00:00Z"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5356431"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "North Metropolitan"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q29021086-d4d82b8f-4a86-b604-44f7-4388262541ab"
       },
       "role_superclass" : {
@@ -473,11 +409,6 @@
         "type" : "literal",
         "value" : "36"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356430"
@@ -486,6 +417,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Mining and Pastoral"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -537,11 +473,6 @@
         "type" : "literal",
         "value" : "36"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356429"
@@ -550,6 +481,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "East Metropolitan"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -601,11 +537,6 @@
         "type" : "literal",
         "value" : "36"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356428"
@@ -614,6 +545,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Agricultural"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -665,11 +601,6 @@
         "type" : "literal",
         "value" : "36"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356432"
@@ -678,6 +609,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "South Metropolitan"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -729,11 +665,6 @@
         "type" : "literal",
         "value" : "36"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356432"
@@ -742,6 +673,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "South Metropolitan"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -793,11 +729,6 @@
         "type" : "literal",
         "value" : "36"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356431"
@@ -806,6 +737,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "North Metropolitan"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -857,11 +793,6 @@
         "type" : "literal",
         "value" : "36"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356433"
@@ -870,134 +801,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "South West"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q29167607-e0fb5cfd-4597-73c9-e49f-6cdcd7026bcd"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19627913"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Western Australian Legislative Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q29167607"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Elise Irwin"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994118"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Western Australian Legislative Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3206"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "36"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2017-04-04T00:00:00Z"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5356431"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "North Metropolitan"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q29167608-d744a40b-4b22-9c44-4c13-86259639b317"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19627913"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Western Australian Legislative Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q29167608"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Bill Leadbetter"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2994118"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Western Australian Legislative Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3206"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "36"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-04-04T00:00:00Z"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5356429"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "East Metropolitan"
+        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1049,11 +857,6 @@
         "type" : "literal",
         "value" : "36"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356429"
@@ -1062,6 +865,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "East Metropolitan"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1113,11 +921,6 @@
         "type" : "literal",
         "value" : "36"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356429"
@@ -1126,6 +929,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "East Metropolitan"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1177,11 +985,6 @@
         "type" : "literal",
         "value" : "36"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356430"
@@ -1190,6 +993,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Mining and Pastoral"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1241,11 +1049,6 @@
         "type" : "literal",
         "value" : "36"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356428"
@@ -1254,6 +1057,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Agricultural"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1305,11 +1113,6 @@
         "type" : "literal",
         "value" : "36"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356433"
@@ -1318,6 +1121,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "South West"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1369,11 +1177,6 @@
         "type" : "literal",
         "value" : "36"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356431"
@@ -1382,6 +1185,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "North Metropolitan"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1483,11 +1291,6 @@
         "type" : "literal",
         "value" : "36"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2005-05-22T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356429"
@@ -1496,6 +1299,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "East Metropolitan"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2005-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1597,11 +1405,6 @@
         "type" : "literal",
         "value" : "36"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2001-05-22T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356432"
@@ -1610,6 +1413,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "South Metropolitan"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2001-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1711,11 +1519,6 @@
         "type" : "literal",
         "value" : "36"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2005-05-22T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356433"
@@ -1724,6 +1527,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "South West"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2005-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1775,11 +1583,6 @@
         "type" : "literal",
         "value" : "36"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-05-22T00:00:00Z"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356430"
@@ -1788,6 +1591,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Mining and Pastoral"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-05-22T00:00:00Z"
       }
     } ]
   }

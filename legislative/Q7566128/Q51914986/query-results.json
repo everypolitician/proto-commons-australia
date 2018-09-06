@@ -19,12 +19,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -83,12 +83,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -147,12 +147,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -211,12 +211,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -275,12 +275,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -339,12 +339,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -403,12 +403,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -467,12 +467,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -531,12 +531,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -595,12 +595,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -659,12 +659,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -710,70 +710,6 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1395400"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Family First Party"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5258529-750D2CB4-866C-428D-A661-5270F922CC49"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18662245"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the South Australian Legislative Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5258529"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Dennis Hood"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7566128"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "South Australian Legislative Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35715"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "22"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2006-03-18T00:00:00Z"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q23198434"
       },
       "party_name_en" : {
@@ -787,12 +723,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -851,12 +787,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -902,6 +838,139 @@
     }, {
       "party" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1395400"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Family First Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5258529-750D2CB4-866C-428D-A661-5270F922CC49"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19597471"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Parliament of South Australia"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18662245"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the South Australian Legislative Council"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5258529"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dennis Hood"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7566128"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australian Legislative Council"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35715"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2006-03-18T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21003570"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Australian Labor Party (South Australian Branch)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5517076-4932A9EE-F737-40EA-9952-CBB68DF4C521"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19597471"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Parliament of South Australia"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18662245"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the South Australian Legislative Council"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5517076"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gail Gago"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7566128"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australian Legislative Council"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35715"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2002-02-09T00:00:00Z"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-03-17T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q23198434"
       },
       "party_name_en" : {
@@ -915,12 +984,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -966,134 +1035,6 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q42956059"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Advance SA"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6228571-D1D95863-AE22-4AB2-AF18-29ED0272621C"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18662245"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the South Australian Legislative Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6228571"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "John Darley"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7566128"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "South Australian Legislative Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35715"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "22"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2007-11-21T00:00:00Z"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q327591"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent politician"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6228571-D1D95863-AE22-4AB2-AF18-29ED0272621C"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18662245"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the South Australian Legislative Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6228571"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "John Darley"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7566128"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "South Australian Legislative Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35715"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "22"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2007-11-21T00:00:00Z"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2006192"
       },
       "party_name_en" : {
@@ -1107,12 +1048,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -1171,12 +1112,140 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18662245"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the South Australian Legislative Council"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6228571"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "John Darley"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7566128"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australian Legislative Council"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35715"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2007-11-21T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42956059"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Advance SA"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6228571-D1D95863-AE22-4AB2-AF18-29ED0272621C"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19597471"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Parliament of South Australia"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18662245"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the South Australian Legislative Council"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6228571"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "John Darley"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7566128"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australian Legislative Council"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35715"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2007-11-21T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q327591"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "independent politician"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6228571-D1D95863-AE22-4AB2-AF18-29ED0272621C"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19597471"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -1235,12 +1304,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -1286,6 +1355,75 @@
     }, {
       "party" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1894381"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dignity Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6386327-41A28E04-AE5F-4A31-A8DB-C95CCD142097"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19597471"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Parliament of South Australia"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18662245"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the South Australian Legislative Council"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6386327"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kelly Vincent"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7566128"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australian Legislative Council"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35715"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-03-20T00:00:00Z"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-03-17T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q21003570"
       },
       "party_name_en" : {
@@ -1299,12 +1437,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -1363,12 +1501,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -1414,6 +1552,75 @@
     }, {
       "party" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21003570"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Australian Labor Party (South Australian Branch)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7175622-b7c829ed-4b11-93dd-a02e-8cefdc861ece"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19597471"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Parliament of South Australia"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18662245"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the South Australian Legislative Council"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7175622"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peter Malinauskas"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7566128"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australian Legislative Council"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35715"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-12-01T00:00:00Z"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-03-17T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q23198434"
       },
       "party_name_en" : {
@@ -1427,12 +1634,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -1478,6 +1685,152 @@
     }, {
       "party" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29021047"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Australian Conservatives"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7342378-FC95E452-C546-41EF-9D13-02D6A83DA5B9"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19597471"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Parliament of South Australia"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18662245"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the South Australian Legislative Council"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7342378"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Robert Brokenshire"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7566128"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australian Legislative Council"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35715"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2008-07-24T00:00:00Z"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-03-17T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "ffpsa"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1395400"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Family First Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7342378-FC95E452-C546-41EF-9D13-02D6A83DA5B9"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19597471"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Parliament of South Australia"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18662245"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the South Australian Legislative Council"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7342378"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Robert Brokenshire"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7566128"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australian Legislative Council"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35715"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2008-07-24T00:00:00Z"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-03-17T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "ffpsa"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q21003570"
       },
       "party_name_en" : {
@@ -1491,12 +1844,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -1555,12 +1908,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -1619,12 +1972,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
@@ -1683,12 +2036,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of the Parliament of South Australia"
       },
       "role" : {
         "type" : "uri",
