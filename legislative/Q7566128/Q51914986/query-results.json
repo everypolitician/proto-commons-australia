@@ -710,6 +710,70 @@
     }, {
       "party" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1395400"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Family First Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5258529-750D2CB4-866C-428D-A661-5270F922CC49"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19597471"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Parliament of South Australia"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18662245"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the South Australian Legislative Council"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5258529"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dennis Hood"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7566128"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australian Legislative Council"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35715"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2006-03-18T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q23198434"
       },
       "party_name_en" : {
@@ -780,70 +844,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Australian Conservatives"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5258529-750D2CB4-866C-428D-A661-5270F922CC49"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19597471"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Parliament of South Australia"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18662245"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the South Australian Legislative Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5258529"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Dennis Hood"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7566128"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "South Australian Legislative Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q35715"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "22"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2006-03-18T00:00:00Z"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1395400"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Family First Party"
       },
       "statement" : {
         "type" : "uri",
@@ -1035,12 +1035,12 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2006192"
+        "value" : "http://www.wikidata.org/entity/Q327591"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "No Pokies"
+        "value" : "independent politician"
       },
       "statement" : {
         "type" : "uri",
@@ -1099,12 +1099,12 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19876280"
+        "value" : "http://www.wikidata.org/entity/Q2006192"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Centre Alliance"
+        "value" : "No Pokies"
       },
       "statement" : {
         "type" : "uri",
@@ -1227,12 +1227,12 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q327591"
+        "value" : "http://www.wikidata.org/entity/Q19876280"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "independent politician"
+        "value" : "Centre Alliance"
       },
       "statement" : {
         "type" : "uri",
@@ -1685,12 +1685,12 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q29021047"
+        "value" : "http://www.wikidata.org/entity/Q1395400"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Australian Conservatives"
+        "value" : "Family First Party"
       },
       "statement" : {
         "type" : "uri",
@@ -1758,12 +1758,12 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1395400"
+        "value" : "http://www.wikidata.org/entity/Q29021047"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Family First Party"
+        "value" : "Australian Conservatives"
       },
       "statement" : {
         "type" : "uri",
