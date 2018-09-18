@@ -267,7 +267,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/dianeforsouthwest"
+        }
       ]
     },
     {
@@ -279,21 +282,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q4727226"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Charles Williams"
-      },
-      "id": "Q5083596",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5083596"
         }
       ],
       "links": [
@@ -686,19 +674,6 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356431",
       "start_date": "2017-05-22",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19627913",
-      "role": {
-        "lang:en": "Member of the Western Australian Legislative Council"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5083596-c57c077e-4d0b-7581-588c-4f8b67770210",
-      "person_id": "Q5083596",
-      "organization_id": "Q2994118",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"

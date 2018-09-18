@@ -822,7 +822,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/MarkMcGowanMP"
+        }
       ]
     },
     {
@@ -6725,21 +6728,6 @@
     },
     {
       "name": {
-        "lang:en": "Jackie Watkins"
-      },
-      "id": "Q6116722",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6116722"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "James George Lee Steere"
       },
       "id": "Q6134565",
@@ -7305,7 +7293,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/MiaDaviesMLA"
+        }
       ]
     },
     {
@@ -14360,19 +14351,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6115170-C72632C1-600D-494D-B34A-D18BC6FD3F61",
       "person_id": "Q6115170",
-      "organization_id": "Q7987530",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q20165902",
-      "role": {
-        "lang:en": "Member of the Western Australian Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q6116722-941A9461-D64F-48A6-8617-7E507999AB2A",
-      "person_id": "Q6116722",
       "organization_id": "Q7987530",
       "role_superclass_code": "Q486839",
       "role_superclass": {

@@ -11246,21 +11246,6 @@
     },
     {
       "name": {
-        "lang:en": "Bill Lamb"
-      },
-      "id": "Q4909815",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4909815"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Bill Lovelee"
       },
       "id": "Q4909948",
@@ -14361,7 +14346,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/gladysnsw"
+        }
       ]
     },
     {
@@ -14631,7 +14619,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/GuyZangariForFairfield"
+        }
       ]
     },
     {
@@ -14643,6 +14634,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q5645035"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joe McGirr"
+      },
+      "id": "Q56599957",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56599957"
         }
       ],
       "links": [
@@ -31770,19 +31776,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q4909815-505DA573-0D97-4A49-9C8E-0247E8652848",
-      "person_id": "Q4909815",
-      "organization_id": "Q9390783",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19202748",
-      "role": {
-        "lang:en": "Member of the New South Wales Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q4909948-03210981-9DD2-460E-8CA3-29B52BB25FF4",
       "person_id": "Q4909948",
       "organization_id": "Q9390783",
@@ -34748,6 +34741,21 @@
       "id": "http://www.wikidata.org/entity/statement/Q5645035-9ECF680B-99EB-4638-8D16-58F9C31FB86D",
       "person_id": "Q5645035",
       "organization_id": "Q9390783",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19202748",
+      "role": {
+        "lang:en": "Member of the New South Wales Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56599957-b6c3f33b-4ab4-4caf-53d0-64fe9ef01a1d",
+      "person_id": "Q56599957",
+      "organization_id": "Q9390783",
+      "area_id": "Q5356060",
+      "start_date": "2018-09-08",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
