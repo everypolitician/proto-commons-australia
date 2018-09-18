@@ -1163,12 +1163,12 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q42956059"
+        "value" : "http://www.wikidata.org/entity/Q19876280"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Advance SA"
+        "value" : "Centre Alliance"
       },
       "statement" : {
         "type" : "uri",
@@ -1227,12 +1227,12 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19876280"
+        "value" : "http://www.wikidata.org/entity/Q42956059"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Centre Alliance"
+        "value" : "Advance SA"
       },
       "statement" : {
         "type" : "uri",
