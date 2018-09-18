@@ -2403,7 +2403,3663 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1026265",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1026265"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Calare"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q1073683",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1073683"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Farrer"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q1073690",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1073690"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Chifley"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q1073695",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1073695"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Eden-Monaro"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q1073721",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1073721"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Lalor"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q1073946",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1073946"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "McMahon"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q1073964",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/hor:sa4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1073964"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Wakefield"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q1073994",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1073994"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Richmond"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q1074005",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1074005"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Macquarie"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q1074025",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1074025"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Warringah"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q1074030",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1074030"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "McPherson"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q1074059",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1074059"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Deakin"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q1074066",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1074066"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Lindsay"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q1074082",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1074082"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "McMillan"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q1074088",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/hor:sa5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1074088"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Mayo"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q1074102",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1074102"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Aston"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q1074115",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1074115"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Berowra"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q1074124",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1074124"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Hunter"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q1074129",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1074129"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Griffith"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q1074143",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1074143"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Blaxland"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q1074151",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1074151"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Barton"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q1074167",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1074167"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "McEwen"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q1074189",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1074189"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Bradfield"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q1074235",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1074235"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Cowper"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q1074900",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1074900"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Oxley"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q1075639",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1075639"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Sydney"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q1079471",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1079471"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Dawson"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q1079489",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1079489"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Grayndler"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q1079523",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1079523"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Dunkley"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q1635847",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1635847"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Melbourne"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q178752",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q178752"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Menzies"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q182615",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q182615"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Cunningham"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q1878928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/hor:tas4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1878928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Lyons"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q23019675",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/hor:wa26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23019675"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Burt"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q23055249",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23055249"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Whitlam"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q23646678",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:act/hor:act4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23646678"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Fenner"
+      },
+      "parent_id": "Q3258"
+    },
+    {
+      "id": "Q2423795",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/hor:sa9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2423795"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Port Adelaide"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q2425863",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2425863"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Banks"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q2887271",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/hor:tas1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2887271"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Bass"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q2973361",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/hor:sa10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973361"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Adelaide"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q2973414",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/hor:sa7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973414"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Hindmarsh"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q2973417",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973417"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Indi"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973418",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973418"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Isaacs"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973434",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973434"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Ballarat"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973436",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/hor:sa11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973436"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Barker"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q2973440",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973440"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Batman"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973455",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973455"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Bendigo"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973464",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973464"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Blair"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973466",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973466"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Bonner"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973469",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/hor:sa1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973469"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Boothby"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q2973472",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973472"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Bowman"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973477",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973477"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Bruce"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973482",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:act/hor:act3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973482"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Canberra"
+      },
+      "parent_id": "Q3258"
+    },
+    {
+      "id": "Q2973484",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973484"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Calwell"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973485",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/hor:wa18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973485"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Canning"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q2973486",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973486"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Capricornia"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973490",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973490"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Casey"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973504",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973504"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Corio"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973505",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973505"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Corangamite"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973507",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/hor:wa19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973507"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Cowan"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q2973513",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/hor:wa20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973513"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Curtin"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q2973551",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973551"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Dickson"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973561",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/hor:wa21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973561"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Durack"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q2973562",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973562"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Fadden"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973565",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973565"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Fairfax"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973569",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973569"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Fisher"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973570",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973570"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Flinders"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973571",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973571"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Flynn"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973572",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973572"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Forde"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973574",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/hor:wa22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973574"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Forrest"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q2973575",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973575"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Fowler"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q2973578",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/hor:tas3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973578"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Franklin"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q2973587",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/hor:wa23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973587"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Fremantle"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q2973604",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973604"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Gellibrand"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973616",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973616"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Gilmore"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q2973620",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973620"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Gippsland"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973625",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973625"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Goldstein"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973629",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973629"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Gorton"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973632",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973632"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Greenway"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q2973634",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/hor:sa2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973634"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Grey"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q2973635",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973635"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Groom"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/hor:wa24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Hasluck"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q2973647",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973647"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Herbert"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973648",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973648"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Higgins"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973649",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973649"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Hinkler"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973650",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973650"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Holt"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973653",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973653"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Hotham"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973656",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973656"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Hughes"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q2973659",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973659"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Hume"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q2973662",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973662"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Jagajaga"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Kennedy"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973695",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973695"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Kingsford Smith"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q2973706",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973706"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Kooyong"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "La Trobe"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973718",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973718"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Lilley"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973722",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/hor:nt2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973722"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Lingiari"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q2973723",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973723"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Longman"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973724",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973724"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Lyne"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q2973728",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973728"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Macarthur"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q2973735",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/hor:sa6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973735"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Makin"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q2973737",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973737"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Mallee"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973739",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973739"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Maranoa"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973742",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973742"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Maribyrnong"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973755",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973755"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Melbourne Ports"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973776",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973776"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Mitchell"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q2973778",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973778"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Moncrieff"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973779",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/hor:wa25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973779"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Moore"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q2973781",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973781"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Moreton"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973788",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973788"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Murray"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973794",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973794"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "New England"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q2973797",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/hor:wa27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973797"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "O'Connor"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q2973798",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973798"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Page"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q2973799",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973799"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Parkes"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q2973800",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973800"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Parramatta"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q2973802",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/hor:wa28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973802"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Pearce"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q2973806",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/hor:wa29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973806"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Perth"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q2973809",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973809"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Petrie"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973814",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973814"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Rankin"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973816",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973816"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Reid"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q2973820",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973820"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Robertson"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q2973824",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973824"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Ryan"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973832",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973832"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Scullin"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973851",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973851"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Shortland"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q2973852",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/hor:nt1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973852"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Solomon"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q2973853",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/hor:wa30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973853"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Stirling"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q2973854",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/hor:sa3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973854"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Sturt"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q2973857",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/hor:wa31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973857"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Swan"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q2973863",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973863"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "North Sydney"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q2973868",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/hor:wa32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973868"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Tangney"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q2973885",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973885"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Wannon"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973888",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973888"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Watson"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q2973891",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973891"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Wentworth"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q2973901",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973901"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Werriwa"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q2973903",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973903"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Wide Bay"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973906",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973906"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Wills"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q2973915",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973915"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Wright"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q2973933",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973933"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Riverina"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q3032417",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/hor:sa8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3032417"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Kingston"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q3206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Western Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q3224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527950"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "New South Wales"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q3235",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3235"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1072341"
+      ],
+      "type": {
+        "lang:en": "territory of Australia"
+      },
+      "name": {
+        "lang:en": "Northern Territory"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q3258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:act"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q493649"
+      ],
+      "type": {
+        "lang:en": "territory of Australia"
+      },
+      "name": {
+        "lang:en": "Australian Capital Territory"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q34366",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q34366"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527933"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Tasmania"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q35715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q35715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27230596"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "South Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q36074",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36074"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Queensland"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q36687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Victoria"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q368340",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q368340"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Cook"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q509342",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q509342"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Dobell"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5284509",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/hor:vic26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5284509"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Chisholm"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q550273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q550273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Leichhardt"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q577770",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q577770"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Paterson"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q784520",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/hor:tas5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q784520"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Denison"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q817830",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q817830"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Bennelong"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q897736",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/hor:wa17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q897736"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Brand"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q917665",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/hor:qld25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q917665"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Brisbane"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q918989",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q918989"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Mackellar"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q924832",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/hor:tas2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q924832"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Braddon"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q966318",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/hor:nsw29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q966318"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18912794"
+      ],
+      "type": {
+        "lang:en": "division of the Australian House of Representatives"
+      },
+      "name": {
+        "lang:en": "Newcastle"
+      },
+      "parent_id": "Q3224"
+    }
   ],
   "memberships": [
     {

@@ -227,21 +227,6 @@
     },
     {
       "name": {
-        "lang:en": "Albert Lind"
-      },
-      "id": "Q16003716",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16003716"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Keith Dodgshun"
       },
       "id": "Q16006970",
@@ -5760,21 +5745,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q23583424"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "James Cameron"
-      },
-      "id": "Q23583428",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q23583428"
         }
       ],
       "links": [
@@ -11679,20 +11649,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q16003716-D2716B62-2FE9-439B-BA20-B79A35802559",
-      "person_id": "Q16003716",
-      "organization_id": "Q4386693",
-      "area_id": "Q5355434",
-      "role_superclass_code": "Q5230427",
-      "role_superclass": {
-        "lang:en": "member of a legislative assembly"
-      },
-      "role_code": "Q18534408",
-      "role": {
-        "lang:en": "Member of the Victorian Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q16006970-9E97B3AE-A068-4F83-8A9A-36D06B9D0173",
       "person_id": "Q16006970",
       "organization_id": "Q4386693",
@@ -16534,19 +16490,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q23583424-86528189-F465-430F-AAE6-74C28F19D23C",
       "person_id": "Q23583424",
-      "organization_id": "Q4386693",
-      "role_superclass_code": "Q5230427",
-      "role_superclass": {
-        "lang:en": "member of a legislative assembly"
-      },
-      "role_code": "Q18534408",
-      "role": {
-        "lang:en": "Member of the Victorian Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q23583428-D3207A5F-42BD-481E-9C79-86659862CF8C",
-      "person_id": "Q23583428",
       "organization_id": "Q4386693",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
