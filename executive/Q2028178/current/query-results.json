@@ -49,6 +49,10 @@
         "type" : "literal",
         "value" : "2018-08-24T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "scottmorrison4cook"
+      },
       "role_superclass" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q14212"

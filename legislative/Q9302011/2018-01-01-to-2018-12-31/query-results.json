@@ -18448,6 +18448,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Western Metropolitan Region"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "khalil.eideh.3"
       }
     }, {
       "statement" : {

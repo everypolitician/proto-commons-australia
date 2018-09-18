@@ -5845,6 +5845,10 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2002-11-30T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "lily.dambrosio.7"
       }
     }, {
       "statement" : {
@@ -26037,6 +26041,10 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2002-11-20T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "DanielAndrewsMP"
       }
     }, {
       "statement" : {
