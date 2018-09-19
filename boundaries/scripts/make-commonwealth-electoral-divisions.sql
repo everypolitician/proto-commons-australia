@@ -50,19 +50,20 @@ SELECT
 		WHEN '6' THEN 'country:au/state:tas'
 		WHEN '7' THEN 'country:au/territory:nt'
 		WHEN '8' THEN 'country:au/territory:act'
-		WHEN '9' THEN 'country:au/state:ot'
+		-- WHEN '9' THEN 'country:au/state:ot'
 	END AS MS_FB_PARE,
 
+-- This field will need to be mannually modified to replace spaces, and apostrophes and generally match OCD ids.
 	CASE attribs.STATE_PID
-		WHEN '1' THEN 'country:au/state:nsw/ced:' || lower(attribs.CE_PID)
-		WHEN '2' THEN 'country:au/state:vic/ced:' || lower(attribs.CE_PID)
-		WHEN '3' THEN 'country:au/state:qld/ced:' || lower(attribs.CE_PID)
-		WHEN '4' THEN 'country:au/state:sa/ced:' || lower(attribs.CE_PID)
-		WHEN '5' THEN 'country:au/state:wa/ced:' || lower(attribs.CE_PID)
-		WHEN '6' THEN 'country:au/state:tas/ced:' || lower(attribs.CE_PID)
-		WHEN '7' THEN 'country:au/territory:nt/ced:' || lower(attribs.CE_PID)
-		WHEN '8' THEN 'country:au/territory:act/ced:' || lower(attribs.CE_PID)
-		WHEN '9' THEN 'country:au/state:ot/ced:' || lower(attribs.CE_PID)
+		WHEN '1' THEN 'country:au/state:nsw/federal_electorate:' || lower(attribs.NAME)
+		WHEN '2' THEN 'country:au/state:vic/federal_electorate:' || lower(attribs.NAME)
+		WHEN '3' THEN 'country:au/state:qld/federal_electorate:' || lower(attribs.NAME)
+		WHEN '4' THEN 'country:au/state:sa/federal_electorate:' || lower(attribs.NAME)
+		WHEN '5' THEN 'country:au/state:wa/federal_electorate:' || lower(attribs.NAME)
+		WHEN '6' THEN 'country:au/state:tas/federal_electorate:' || lower(attribs.NAME)
+		WHEN '7' THEN 'country:au/territory:nt/federal_electorate:' || lower(attribs.NAME)
+		WHEN '8' THEN 'country:au/territory:act/federal_electorate:' || lower(attribs.NAME)
+		-- WHEN '9' THEN 'country:au/state:ot/federal_electorate:' || lower(attribs.NAME)
 	END AS MS_FB,
 	ST_Buffer(geoms.geometry, 0) as geometry
 FROM
@@ -70,4 +71,4 @@ FROM
 	JOIN
     attribs
 ON
-	geoms.CE_PID = attribs.CE_PID
+	geoms.CE_PID = attribs.NAME
