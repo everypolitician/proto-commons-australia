@@ -1,151 +1,151 @@
-CE_PID,NAME,WIKIDATA,DT_CREATE,REDISTYEAR,MS_FB_PARE,MS_FB
-ACT3,Canberra,Q2973482,2016/02/17,2016,country:au/territory:act,country:au/territory:act/hor:act3
-ACT4,Fenner,Q23646678,2016/02/17,2016,country:au/territory:act,country:au/territory:act/hor:act4
-NSW1,Lindsay,Q1074066,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw1
-NSW10,Banks,Q2425863,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw10
-NSW11,Hughes,Q2973656,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw11
-NSW12,New England,Q2973794,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw12
-NSW13,Werriwa,Q2973901,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw13
-NSW14,Lyne,Q2973724,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw14
-NSW15,Mitchell,Q2973776,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw15
-NSW16,Blaxland,Q1074143,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw16
-NSW17,Warringah,Q1074025,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw17
-NSW18,Bradfield,Q1074189,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw18
-NSW19,Fowler,Q2973575,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw19
-NSW20,Hume,Q2973659,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw20
-NSW21,Chifley,Q1073690,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw21
-NSW22,North Sydney,Q2973863,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw22
-NSW23,Dobell,Q509342,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw23
-NSW24,Bennelong,Q817830,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw24
-NSW26,Grayndler,Q1079489,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw26
-NSW27,Macarthur,Q2973728,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw27
-NSW28,Farrer,Q1073683,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw28
-NSW29,Newcastle,Q966318,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw29
-NSW3,Kingsford Smith,Q2973695,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw3
-NSW30,Greenway,Q2973632,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw30
-NSW31,Berowra,Q1074115,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw31
-NSW32,Cowper,Q1074235,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw32
-NSW33,Macquarie,Q1074005,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw33
-NSW34,Hunter,Q1074124,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw34
-NSW36,Barton,Q1074151,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw36
-NSW37,Cunningham,Q182615,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw37
-NSW38,Parkes,Q2973799,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw38
-NSW39,Richmond,Q1073994,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw39
-NSW4,Calare,Q1026265,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw4
-NSW41,Page,Q2973798,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw41
-NSW42,Reid,Q2973816,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw42
-NSW43,Watson,Q2973888,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw43
-NSW44,Shortland,Q2973851,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw44
-NSW45,Riverina,Q2973933,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw45
-NSW46,Mackellar,Q918989,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw46
-NSW47,Gilmore,Q2973616,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw47
-NSW48,Wentworth,Q2973891,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw48
-NSW49,Parramatta,Q2973800,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw49
-NSW5,Robertson,Q2973820,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw5
-NSW50,McMahon,Q1073946,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw50
-NSW51,Paterson,Q577770,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw51
-NSW52,Whitlam,Q23055249,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw52
-NSW7,Cook,Q368340,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw7
-NSW8,Sydney,Q1075639,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw8
-NSW9,Eden-Monaro,Q1073695,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/hor:nsw9
-NT1,Solomon,Q2973852,2011/06/28,2008,country:au/territory:nt,country:au/territory:nt/hor:nt1
-NT2,Lingiari,Q2973722,2011/06/28,2008,country:au/territory:nt,country:au/territory:nt/hor:nt2
-QLD1,Wide Bay,Q2973903,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld1
-QLD10,Dickson,Q2973551,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld10
-QLD11,Rankin,Q2973814,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld11
-QLD12,Flynn,Q2973571,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld12
-QLD13,Leichhardt,Q550273,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld13
-QLD14,Ryan,Q2973824,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld14
-QLD15,Herbert,Q2973647,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld15
-QLD16,Moncrieff,Q2973778,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld16
-QLD17,Moreton,Q2973781,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld17
-QLD18,Dawson,Q1079471,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld18
-QLD19,Blair,Q2973464,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld19
-QLD2,Bonner,Q2973466,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld2
-QLD20,Maranoa,Q2973739,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld20
-QLD21,Groom,Q2973635,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld21
-QLD22,Petrie,Q2973809,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld22
-QLD23,Forde,Q2973572,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld23
-QLD24,Capricornia,Q2973486,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld24
-QLD25,Brisbane,Q917665,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld25
-QLD26,Fairfax,Q2973565,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld26
-QLD27,Fisher,Q2973569,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld27
-QLD28,Griffith,Q1074129,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld28
-QLD29,Fadden,Q2973562,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld29
-QLD3,Bowman,Q2973472,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld3
-QLD30,Wright,Q2973915,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld30
-QLD4,Longman,Q2973723,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld4
-QLD5,McPherson,Q1074030,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld5
-QLD6,Kennedy,Q2973687,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld6
-QLD7,Oxley,Q1074900,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld7
-QLD8,Hinkler,Q2973649,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld8
-QLD9,Lilley,Q2973718,2011/06/28,2009,country:au/state:qld,country:au/state:qld/hor:qld9
-SA1,Boothby,Q2973469,2012/04/03,2011,country:au/state:sa,country:au/state:sa/hor:sa1
-SA10,Adelaide,Q2973361,2012/04/03,2011,country:au/state:sa,country:au/state:sa/hor:sa10
-SA11,Barker,Q2973436,2012/04/03,2011,country:au/state:sa,country:au/state:sa/hor:sa11
-SA2,Grey,Q2973634,2012/04/03,2011,country:au/state:sa,country:au/state:sa/hor:sa2
-SA3,Sturt,Q2973854,2012/04/03,2011,country:au/state:sa,country:au/state:sa/hor:sa3
-SA4,Wakefield,Q1073964,2012/04/03,2011,country:au/state:sa,country:au/state:sa/hor:sa4
-SA5,Mayo,Q1074088,2012/04/03,2011,country:au/state:sa,country:au/state:sa/hor:sa5
-SA6,Makin,Q2973735,2012/04/03,2011,country:au/state:sa,country:au/state:sa/hor:sa6
-SA7,Hindmarsh,Q2973414,2012/04/03,2011,country:au/state:sa,country:au/state:sa/hor:sa7
-SA8,Kingston,Q3032417,2012/04/03,2011,country:au/state:sa,country:au/state:sa/hor:sa8
-SA9,Port Adelaide,Q2423795,2012/04/03,2011,country:au/state:sa,country:au/state:sa/hor:sa9
-TAS1,Bass,Q2887271,2011/06/28,2009,country:au/state:tas,country:au/state:tas/hor:tas1
-TAS2,Braddon,Q924832,2011/06/28,2009,country:au/state:tas,country:au/state:tas/hor:tas2
-TAS3,Franklin,Q2973578,2011/06/28,2009,country:au/state:tas,country:au/state:tas/hor:tas3
-TAS4,Lyons,Q1878928,2011/06/28,2009,country:au/state:tas,country:au/state:tas/hor:tas4
-TAS5,Denison,Q784520,2011/06/28,2009,country:au/state:tas,country:au/state:tas/hor:tas5
-VIC1,Gippsland,Q2973620,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic1
-VIC10,Gellibrand,Q2973604,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic10
-VIC11,Murray,Q2973788,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic11
-VIC12,Menzies,Q178752,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic12
-VIC13,Deakin,Q1074059,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic13
-VIC14,Scullin,Q2973832,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic14
-VIC15,Wills,Q2973906,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic15
-VIC16,McMillan,Q1074082,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic16
-VIC17,Melbourne,Q1635847,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic17
-VIC18,Calwell,Q2973484,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic18
-VIC19,McEwen,Q1074167,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic19
-VIC2,Mallee,Q2973737,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic2
-VIC20,Flinders,Q2973570,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic20
-VIC21,Indi,Q2973417,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic21
-VIC22,Melbourne Ports,Q2973755,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic22
-VIC23,La Trobe,Q2973715,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic23
-VIC24,Bendigo,Q2973455,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic24
-VIC25,Ballarat,Q2973434,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic25
-VIC26,Chisholm,Q5284509,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic26
-VIC27,Corangamite,Q2973505,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic27
-VIC28,Gorton,Q2973629,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic28
-VIC29,Kooyong,Q2973706,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic29
-VIC3,Aston,Q1074102,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic3
-VIC30,Lalor,Q1073721,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic30
-VIC31,Casey,Q2973490,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic31
-VIC32,Corio,Q2973504,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic32
-VIC33,Jagajaga,Q2973662,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic33
-VIC34,Hotham,Q2973653,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic34
-VIC35,Bruce,Q2973477,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic35
-VIC36,Isaacs,Q2973418,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic36
-VIC37,Goldstein,Q2973625,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic37
-VIC4,Wannon,Q2973885,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic4
-VIC5,Holt,Q2973650,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic5
-VIC6,Maribyrnong,Q2973742,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic6
-VIC7,Higgins,Q2973648,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic7
-VIC8,Dunkley,Q1079523,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic8
-VIC9,Batman,Q2973440,2011/06/28,2010,country:au/state:vic,country:au/state:vic/hor:vic9
-WA17,Brand,Q897736,2016/02/17,2016,country:au/state:wa,country:au/state:wa/hor:wa17
-WA18,Canning,Q2973485,2016/02/17,2016,country:au/state:wa,country:au/state:wa/hor:wa18
-WA19,Cowan,Q2973507,2016/02/17,2016,country:au/state:wa,country:au/state:wa/hor:wa19
-WA20,Curtin,Q2973513,2016/02/17,2016,country:au/state:wa,country:au/state:wa/hor:wa20
-WA21,Durack,Q2973561,2016/02/17,2016,country:au/state:wa,country:au/state:wa/hor:wa21
-WA22,Forrest,Q2973574,2016/02/17,2016,country:au/state:wa,country:au/state:wa/hor:wa22
-WA23,Fremantle,Q2973587,2016/02/17,2016,country:au/state:wa,country:au/state:wa/hor:wa23
-WA24,Hasluck,Q2973646,2016/02/17,2016,country:au/state:wa,country:au/state:wa/hor:wa24
-WA25,Moore,Q2973779,2016/02/17,2016,country:au/state:wa,country:au/state:wa/hor:wa25
-WA26,Burt,Q23019675,2016/02/17,2016,country:au/state:wa,country:au/state:wa/hor:wa26
-WA27,O'Connor,Q2973797,2016/02/17,2016,country:au/state:wa,country:au/state:wa/hor:wa27
-WA28,Pearce,Q2973802,2016/02/17,2016,country:au/state:wa,country:au/state:wa/hor:wa28
-WA29,Perth,Q2973806,2016/02/17,2016,country:au/state:wa,country:au/state:wa/hor:wa29
-WA30,Stirling,Q2973853,2016/02/17,2016,country:au/state:wa,country:au/state:wa/hor:wa30
-WA31,Swan,Q2973857,2016/02/17,2016,country:au/state:wa,country:au/state:wa/hor:wa31
-WA32,Tangney,Q2973868,2016/02/17,2016,country:au/state:wa,country:au/state:wa/hor:wa32
+CE_PID,NAME,WIKIDATA,DT_CREATE,REDISTYEAR,MS_FB_PARE,MS_FB,states_STATE_NAME
+ACT3,Canberra,Q2973482,2016/02/17,2016,country:au/territory:act,country:au/territory:act/federal_electorate:canberra,Australian Capital Territory
+ACT4,Fenner,Q23646678,2016/02/17,2016,country:au/territory:act,country:au/territory:act/federal_electorate:fenner,Australian Capital Territory
+NSW1,Lindsay,Q1074066,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:lindsay,New South Wales
+NSW10,Banks,Q2425863,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:banks,New South Wales
+NSW11,Hughes,Q2973656,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:hughes,New South Wales
+NSW12,New England,Q2973794,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:new_england,New South Wales
+NSW13,Werriwa,Q2973901,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:werriwa,New South Wales
+NSW14,Lyne,Q2973724,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:lyne,New South Wales
+NSW15,Mitchell,Q2973776,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:mitchell,New South Wales
+NSW16,Blaxland,Q1074143,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:blaxland,New South Wales
+NSW17,Warringah,Q1074025,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:warringah,New South Wales
+NSW18,Bradfield,Q1074189,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:bradfield,New South Wales
+NSW19,Fowler,Q2973575,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:fowler,New South Wales
+NSW20,Hume,Q2973659,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:hume,New South Wales
+NSW21,Chifley,Q1073690,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:chifley,New South Wales
+NSW22,North Sydney,Q2973863,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:north_sydney,New South Wales
+NSW23,Dobell,Q509342,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:dobell,New South Wales
+NSW24,Bennelong,Q817830,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:bennelong,New South Wales
+NSW26,Grayndler,Q1079489,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:grayndler,New South Wales
+NSW27,Macarthur,Q2973728,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:macarthur,New South Wales
+NSW28,Farrer,Q1073683,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:farrer,New South Wales
+NSW29,Newcastle,Q966318,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:newcastle,New South Wales
+NSW3,Kingsford Smith,Q2973695,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:kingsford_smith,New South Wales
+NSW30,Greenway,Q2973632,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:greenway,New South Wales
+NSW31,Berowra,Q1074115,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:berowra,New South Wales
+NSW32,Cowper,Q1074235,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:cowper,New South Wales
+NSW33,Macquarie,Q1074005,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:macquarie,New South Wales
+NSW34,Hunter,Q1074124,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:hunter,New South Wales
+NSW36,Barton,Q1074151,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:barton,New South Wales
+NSW37,Cunningham,Q182615,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:cunningham,New South Wales
+NSW38,Parkes,Q2973799,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:parkes,New South Wales
+NSW39,Richmond,Q1073994,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:richmond,New South Wales
+NSW4,Calare,Q1026265,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:calare,New South Wales
+NSW41,Page,Q2973798,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:page,New South Wales
+NSW42,Reid,Q2973816,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:reid,New South Wales
+NSW43,Watson,Q2973888,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:watson,New South Wales
+NSW44,Shortland,Q2973851,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:shortland,New South Wales
+NSW45,Riverina,Q2973933,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:riverina,New South Wales
+NSW46,Mackellar,Q918989,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:mackellar,New South Wales
+NSW47,Gilmore,Q2973616,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:gilmore,New South Wales
+NSW48,Wentworth,Q2973891,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:wentworth,New South Wales
+NSW49,Parramatta,Q2973800,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:parramatta,New South Wales
+NSW5,Robertson,Q2973820,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:robertson,New South Wales
+NSW50,McMahon,Q1073946,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:mcmahon,New South Wales
+NSW51,Paterson,Q577770,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:paterson,New South Wales
+NSW52,Whitlam,Q23055249,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:whitlam,New South Wales
+NSW7,Cook,Q368340,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:cook,New South Wales
+NSW8,Sydney,Q1075639,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:sydney,New South Wales
+NSW9,Eden-Monaro,Q1073695,2016/04/27,2016,country:au/state:nsw,country:au/state:nsw/federal_electorate:eden-monaro,New South Wales
+NT1,Solomon,Q2973852,2011/06/28,2008,country:au/territory:nt,country:au/territory:nt/federal_electorate:solomon,Northern Territory
+NT2,Lingiari,Q2973722,2011/06/28,2008,country:au/territory:nt,country:au/territory:nt/federal_electorate:lingiari,Northern Territory
+QLD1,Wide Bay,Q2973903,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:wide_bay,Queensland
+QLD10,Dickson,Q2973551,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:dickson,Queensland
+QLD11,Rankin,Q2973814,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:rankin,Queensland
+QLD12,Flynn,Q2973571,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:flynn,Queensland
+QLD13,Leichhardt,Q550273,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:leichhardt,Queensland
+QLD14,Ryan,Q2973824,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:ryan,Queensland
+QLD15,Herbert,Q2973647,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:herbert,Queensland
+QLD16,Moncrieff,Q2973778,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:moncrieff,Queensland
+QLD17,Moreton,Q2973781,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:moreton,Queensland
+QLD18,Dawson,Q1079471,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:dawson,Queensland
+QLD19,Blair,Q2973464,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:blair,Queensland
+QLD2,Bonner,Q2973466,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:bonner,Queensland
+QLD20,Maranoa,Q2973739,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:maranoa,Queensland
+QLD21,Groom,Q2973635,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:groom,Queensland
+QLD22,Petrie,Q2973809,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:petrie,Queensland
+QLD23,Forde,Q2973572,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:forde,Queensland
+QLD24,Capricornia,Q2973486,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:capricornia,Queensland
+QLD25,Brisbane,Q917665,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:brisbane,Queensland
+QLD26,Fairfax,Q2973565,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:fairfax,Queensland
+QLD27,Fisher,Q2973569,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:fisher,Queensland
+QLD28,Griffith,Q1074129,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:griffith,Queensland
+QLD29,Fadden,Q2973562,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:fadden,Queensland
+QLD3,Bowman,Q2973472,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:bowman,Queensland
+QLD30,Wright,Q2973915,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:wright,Queensland
+QLD4,Longman,Q2973723,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:longman,Queensland
+QLD5,McPherson,Q1074030,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:mcpherson,Queensland
+QLD6,Kennedy,Q2973687,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:kennedy,Queensland
+QLD7,Oxley,Q1074900,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:oxley,Queensland
+QLD8,Hinkler,Q2973649,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:hinkler,Queensland
+QLD9,Lilley,Q2973718,2011/06/28,2009,country:au/state:qld,country:au/state:qld/federal_electorate:lilley,Queensland
+SA1,Boothby,Q2973469,2012/04/03,2011,country:au/state:sa,country:au/state:sa/federal_electorate:boothby,South Australia
+SA10,Adelaide,Q2973361,2012/04/03,2011,country:au/state:sa,country:au/state:sa/federal_electorate:adelaide,South Australia
+SA11,Barker,Q2973436,2012/04/03,2011,country:au/state:sa,country:au/state:sa/federal_electorate:barker,South Australia
+SA2,Grey,Q2973634,2012/04/03,2011,country:au/state:sa,country:au/state:sa/federal_electorate:grey,South Australia
+SA3,Sturt,Q2973854,2012/04/03,2011,country:au/state:sa,country:au/state:sa/federal_electorate:sturt,South Australia
+SA4,Wakefield,Q1073964,2012/04/03,2011,country:au/state:sa,country:au/state:sa/federal_electorate:wakefield,South Australia
+SA5,Mayo,Q1074088,2012/04/03,2011,country:au/state:sa,country:au/state:sa/federal_electorate:mayo,South Australia
+SA6,Makin,Q2973735,2012/04/03,2011,country:au/state:sa,country:au/state:sa/federal_electorate:makin,South Australia
+SA7,Hindmarsh,Q2973414,2012/04/03,2011,country:au/state:sa,country:au/state:sa/federal_electorate:hindmarsh,South Australia
+SA8,Kingston,Q3032417,2012/04/03,2011,country:au/state:sa,country:au/state:sa/federal_electorate:kingston,South Australia
+SA9,Port Adelaide,Q2423795,2012/04/03,2011,country:au/state:sa,country:au/state:sa/federal_electorate:port_adelaide,South Australia
+TAS1,Bass,Q2887271,2011/06/28,2009,country:au/state:tas,country:au/state:tas/federal_electorate:bass,Tasmania
+TAS2,Braddon,Q924832,2011/06/28,2009,country:au/state:tas,country:au/state:tas/federal_electorate:braddon,Tasmania
+TAS3,Franklin,Q2973578,2011/06/28,2009,country:au/state:tas,country:au/state:tas/federal_electorate:franklin,Tasmania
+TAS4,Lyons,Q1878928,2011/06/28,2009,country:au/state:tas,country:au/state:tas/federal_electorate:lyons,Tasmania
+TAS5,Denison,Q784520,2011/06/28,2009,country:au/state:tas,country:au/state:tas/federal_electorate:denison,Tasmania
+VIC1,Gippsland,Q2973620,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:gippsland,Victoria
+VIC10,Gellibrand,Q2973604,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:gellibrand,Victoria
+VIC11,Murray,Q2973788,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:murray,Victoria
+VIC12,Menzies,Q178752,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:menzies,Victoria
+VIC13,Deakin,Q1074059,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:deakin,Victoria
+VIC14,Scullin,Q2973832,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:scullin,Victoria
+VIC15,Wills,Q2973906,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:wills,Victoria
+VIC16,McMillan,Q1074082,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:mcmillan,Victoria
+VIC17,Melbourne,Q1635847,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:melbourne,Victoria
+VIC18,Calwell,Q2973484,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:calwell,Victoria
+VIC19,McEwen,Q1074167,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:mcewen,Victoria
+VIC2,Mallee,Q2973737,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:mallee,Victoria
+VIC20,Flinders,Q2973570,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:flinders,Victoria
+VIC21,Indi,Q2973417,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:indi,Victoria
+VIC22,Melbourne Ports,Q2973755,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:melbourne_ports,Victoria
+VIC23,La Trobe,Q2973715,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:la_trobe,Victoria
+VIC24,Bendigo,Q2973455,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:bendigo,Victoria
+VIC25,Ballarat,Q2973434,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:ballarat,Victoria
+VIC26,Chisholm,Q5284509,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:chisholm,Victoria
+VIC27,Corangamite,Q2973505,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:corangamite,Victoria
+VIC28,Gorton,Q2973629,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:gorton,Victoria
+VIC29,Kooyong,Q2973706,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:kooyong,Victoria
+VIC3,Aston,Q1074102,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:aston,Victoria
+VIC30,Lalor,Q1073721,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:lalor,Victoria
+VIC31,Casey,Q2973490,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:casey,Victoria
+VIC32,Corio,Q2973504,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:corio,Victoria
+VIC33,Jagajaga,Q2973662,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:jagajaga,Victoria
+VIC34,Hotham,Q2973653,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:hotham,Victoria
+VIC35,Bruce,Q2973477,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:bruce,Victoria
+VIC36,Isaacs,Q2973418,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:isaacs,Victoria
+VIC37,Goldstein,Q2973625,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:goldstein,Victoria
+VIC4,Wannon,Q2973885,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:wannon,Victoria
+VIC5,Holt,Q2973650,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:holt,Victoria
+VIC6,Maribyrnong,Q2973742,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:maribyrnong,Victoria
+VIC7,Higgins,Q2973648,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:higgins,Victoria
+VIC8,Dunkley,Q1079523,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:dunkley,Victoria
+VIC9,Batman,Q2973440,2011/06/28,2010,country:au/state:vic,country:au/state:vic/federal_electorate:batman,Victoria
+WA17,Brand,Q897736,2016/02/17,2016,country:au/state:wa,country:au/state:wa/federal_electorate:brand,Western Australia
+WA18,Canning,Q2973485,2016/02/17,2016,country:au/state:wa,country:au/state:wa/federal_electorate:canning,Western Australia
+WA19,Cowan,Q2973507,2016/02/17,2016,country:au/state:wa,country:au/state:wa/federal_electorate:cowan,Western Australia
+WA20,Curtin,Q2973513,2016/02/17,2016,country:au/state:wa,country:au/state:wa/federal_electorate:curtin,Western Australia
+WA21,Durack,Q2973561,2016/02/17,2016,country:au/state:wa,country:au/state:wa/federal_electorate:durack,Western Australia
+WA22,Forrest,Q2973574,2016/02/17,2016,country:au/state:wa,country:au/state:wa/federal_electorate:forrest,Western Australia
+WA23,Fremantle,Q2973587,2016/02/17,2016,country:au/state:wa,country:au/state:wa/federal_electorate:fremantle,Western Australia
+WA24,Hasluck,Q2973646,2016/02/17,2016,country:au/state:wa,country:au/state:wa/federal_electorate:hasluck,Western Australia
+WA25,Moore,Q2973779,2016/02/17,2016,country:au/state:wa,country:au/state:wa/federal_electorate:moore,Western Australia
+WA26,Burt,Q23019675,2016/02/17,2016,country:au/state:wa,country:au/state:wa/federal_electorate:burt,Western Australia
+WA27,O'Connor,Q2973797,2016/02/17,2016,country:au/state:wa,country:au/state:wa/federal_electorate:o~connor,Western Australia
+WA28,Pearce,Q2973802,2016/02/17,2016,country:au/state:wa,country:au/state:wa/federal_electorate:pearce,Western Australia
+WA29,Perth,Q2973806,2016/02/17,2016,country:au/state:wa,country:au/state:wa/federal_electorate:perth,Western Australia
+WA30,Stirling,Q2973853,2016/02/17,2016,country:au/state:wa,country:au/state:wa/federal_electorate:stirling,Western Australia
+WA31,Swan,Q2973857,2016/02/17,2016,country:au/state:wa,country:au/state:wa/federal_electorate:swan,Western Australia
+WA32,Tangney,Q2973868,2016/02/17,2016,country:au/state:wa,country:au/state:wa/federal_electorate:tangney,Western Australia
