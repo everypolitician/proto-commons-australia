@@ -774,12 +774,12 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23198434"
+        "value" : "http://www.wikidata.org/entity/Q29021047"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Liberal Party of Australia (South Australian Division)"
+        "value" : "Australian Conservatives"
       },
       "statement" : {
         "type" : "uri",
@@ -838,12 +838,12 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q29021047"
+        "value" : "http://www.wikidata.org/entity/Q23198434"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Australian Conservatives"
+        "value" : "Liberal Party of Australia (South Australian Division)"
       },
       "statement" : {
         "type" : "uri",
@@ -1163,12 +1163,12 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19876280"
+        "value" : "http://www.wikidata.org/entity/Q42956059"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Centre Alliance"
+        "value" : "Advance SA"
       },
       "statement" : {
         "type" : "uri",
@@ -1227,12 +1227,12 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q42956059"
+        "value" : "http://www.wikidata.org/entity/Q19876280"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Advance SA"
+        "value" : "Centre Alliance"
       },
       "statement" : {
         "type" : "uri",
