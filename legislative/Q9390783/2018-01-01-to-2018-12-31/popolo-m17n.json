@@ -272,21 +272,6 @@
     },
     {
       "name": {
-        "lang:en": "Joseph Cahill"
-      },
-      "id": "Q15525050",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q15525050"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "David Hunter (New South Wales politician)"
       },
       "id": "Q15967879",
@@ -22189,20 +22174,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q15525050-E8B14BAE-C013-4C1A-A055-77E32B41FC83",
-      "person_id": "Q15525050",
-      "organization_id": "Q9390783",
-      "area_id": "Q5355268",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19202748",
-      "role": {
-        "lang:en": "Member of the New South Wales Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q15967879-B58DB2C7-FFB9-4E83-A7AA-A78809DC611A",
       "person_id": "Q15967879",
       "organization_id": "Q9390783",
@@ -37080,7 +37051,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q6544335-6665a8bb-477c-2c91-5e82-ccdd7e157a0f",
       "person_id": "Q6544335",
       "organization_id": "Q9390783",
-      "area_id": "Q605113",
+      "area_id": "Q5355461",
       "start_date": "2017-04-08",
       "role_superclass_code": "Q486839",
       "role_superclass": {
