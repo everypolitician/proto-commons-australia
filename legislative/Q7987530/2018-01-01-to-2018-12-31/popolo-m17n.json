@@ -8458,7 +8458,1409 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q16255930",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa240"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16255930"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Butler"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q17005114",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa231"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17005114"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Geraldton"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q17012250",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa264"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17012250"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Maylands"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q17028335",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa255"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17028335"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Willagee"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q28748002",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa245"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28748002"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Baldivis"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q28748050",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa280"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28748050"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Bicton"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q28748055",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa273"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28748055"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Burns Beach"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q3206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Western Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q5355020",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa227"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355020"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Albany"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355043",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa250"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355043"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Armadale"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355062",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa267"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355062"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Balcatta"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355091",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa279"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355091"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Bassendean"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355092",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa256"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355092"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Bateman"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355105",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa251"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355105"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Belmont"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355177",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa242"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355177"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Bunbury"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355207",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa277"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355207"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Cannington"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355212",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa261"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355212"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Carine"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355227",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa218"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355227"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Central Wheatbelt"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355236",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa262"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355236"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Churchlands"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355251",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa248"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355251"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Cockburn"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355260",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa228"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355260"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Collie-Preston"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355278",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa254"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355278"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Cottesloe"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355311",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa233"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355311"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Darling Range"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355317",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa236"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355317"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Dawesville"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355413",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa278"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355413"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Forrestfield"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355420",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa246"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355420"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Fremantle"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355438",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa268"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355438"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Girrawheen"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355512",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa271"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355512"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Hillarys"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355540",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa249"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355540"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Jandakot"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355542",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa272"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355542"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Joondalup"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355544",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa239"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355544"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Kalamunda"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355545",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa221"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355545"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Kalgoorlie"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355567",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa225"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355567"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Kimberley"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355571",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa274"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355571"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Kingsley"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355582",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa247"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355582"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Kwinana"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355625",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa243"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355625"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Mandurah"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355659",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa252"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355659"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Midland"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa270"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Mirrabooka"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa216"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Moore"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355697",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa269"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355697"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Morley"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa265"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Mount Lawley"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355738",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa229"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355738"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Murray-Wellington"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355760",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa258"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355760"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Nedlands"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355809",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa222"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355809"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "North West Central"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355850",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa263"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355850"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Perth"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355854",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa224"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355854"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Pilbara"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355902",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa257"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355902"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Riverton"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355908",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa253"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355908"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Rockingham"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355910",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa219"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355910"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Roe"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa266"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Scarborough"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355957",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa259"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355957"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "South Perth"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355964",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa275"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355964"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Southern River"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5355998",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa235"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355998"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Swan Hills"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5356029",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa276"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356029"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Thornlie"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5356056",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa232"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356056"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Vasse"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5356059",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa260"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356059"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Victoria Park"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5356069",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa241"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356069"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Wanneroo"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5356075",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa244"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356075"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Warnbro"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5356078",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa226"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356078"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "Warren-Blackwood"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5356113",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slaed:wa238"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356113"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20165902"
+      ],
+      "type": {
+        "lang:en": "electoral district of Western Australia"
+      },
+      "name": {
+        "lang:en": "West Swan"
+      },
+      "parent_id": "Q3206"
+    }
   ],
   "memberships": [
     {

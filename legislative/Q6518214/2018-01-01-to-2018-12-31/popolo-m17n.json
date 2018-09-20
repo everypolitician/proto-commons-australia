@@ -14112,7 +14112,2214 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q17003566",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld278"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17003566"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Toowoomba North"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q17005301",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld221"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17005301"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Gladstone"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q17012097",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld244"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17012097"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Maroochydore"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q30641896",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld197"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30641896"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Bancroft"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q30641900",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld199"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30641900"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Bonney"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q30641906",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld275"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30641906"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Theodore"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q30641907",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld267"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30641907"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Scenic Rim"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q30641915",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld239"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30641915"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Macalister"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q30641916",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld260"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30641916"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Oodgeroo"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q30641918",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld247"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30641918"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Miller"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q30641919",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld277"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30641919"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Toohey"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q30641922",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld232"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30641922"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Jordan"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q30641923",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld242"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30641923"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Maiwar"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q30641927",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld216"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30641927"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Cooper"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q30641934",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld227"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30641934"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Hill"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q30641935",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld240"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30641935"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "McConnel"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q30641936",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld258"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30641936"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Ninderry"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q30641938",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld281"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30641938"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Traeger"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q36074",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36074"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Queensland"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q36687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Victoria"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q5355030",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld195"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355030"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Algester"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355056",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld196"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355056"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Aspley"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355085",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld198"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355085"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Barron River"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355162",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld200"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355162"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Broadwater"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355170",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld201"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355170"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Buderim"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355171",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld202"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355171"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Bulimba"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355178",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld203"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355178"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Bundaberg"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355180",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld204"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355180"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Bundamba"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355182",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld205"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355182"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Burdekin"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355184",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld206"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355184"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Burleigh"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355186",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld286"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355186"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Burnett"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355198",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld207"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355198"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Cairns"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355199",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld208"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355199"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Callide"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355200",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld209"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355200"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Caloundra"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355209",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld210"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355209"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Capalaba"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355233",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld211"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355233"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Chatsworth"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355241",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld212"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355241"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Clayfield"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355263",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld213"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355263"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Condamine"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355267",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld214"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355267"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Cook"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355271",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld215"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355271"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Coomera"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355299",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld217"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355299"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Currumbin"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355389",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld218"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355389"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Everton"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld219"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355395"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Ferny Grove"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355425",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld220"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355425"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Gaven"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355443",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld222"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355443"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Glass House"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355472",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld223"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355472"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Greenslopes"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355473",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld224"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355473"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Gregory"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355481",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld225"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355481"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Gympie"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355510",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld226"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355510"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Hervey Bay"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355515",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld228"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355515"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Hinchinbrook"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355525",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld229"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355525"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Inala"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355531",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld230"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355531"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Ipswich"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355532",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld231"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355532"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Ipswich West"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355554",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld233"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355554"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Kawana"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355562",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld234"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355562"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Keppel"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355581",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld235"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355581"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Kurwongbah"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355605",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld236"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355605"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Lockyer"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355606",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld237"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355606"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Logan"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355615",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld238"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355615"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Lytton"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355618",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld241"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355618"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Mackay"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355631",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld243"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355631"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Mansfield"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355638",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld245"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355638"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Maryborough"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355650",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld246"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355650"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Mermaid Beach"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355667",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld248"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355667"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Mirani"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355676",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld249"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355676"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Moggill"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355691",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld250"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355691"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Morayfield"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355721",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld251"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355721"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Mount Ommaney"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355726",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld252"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355726"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Mudgeeraba"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355729",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld253"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355729"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Mulgrave"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355732",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld254"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355732"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Mundingburra"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355745",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld255"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355745"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Murrumba"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355750",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld256"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355750"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Nanango"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355780",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld257"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355780"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Nicklin"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355786",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld287"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355786"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Noosa"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355823",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld259"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355823"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Nudgee"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355856",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld261"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355856"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Pine Rivers"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355876",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld262"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355876"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Pumicestone"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355888",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld263"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355888"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Redcliffe"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355890",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld264"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355890"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Redlands"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355906",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld265"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355906"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Rockhampton"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355923",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld266"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355923"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Sandgate"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355949",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld268"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355949"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "South Brisbane"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355962",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld269"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355962"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Southern Downs"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355965",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld270"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355965"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Southport"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355969",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld271"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355969"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Springwood"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355977",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld272"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355977"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Stafford"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355985",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld273"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355985"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Stretton"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5355992",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld274"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355992"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Surfers Paradise"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5356030",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld276"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356030"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Thuringowa"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5356037",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld279"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356037"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Toowoomba South"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5356042",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld280"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356042"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Townsville"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5356077",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld282"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356077"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Warrego"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5356085",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld283"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356085"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Waterford"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5356123",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld284"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356123"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Whitsunday"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q5356151",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/slaed:qld285"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356151"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18526194"
+      ],
+      "type": {
+        "lang:en": "electoral district of Queensland"
+      },
+      "name": {
+        "lang:en": "Woodridge"
+      },
+      "parent_id": "Q36074"
+    }
   ],
   "memberships": [
     {

@@ -4155,7 +4155,167 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q34366",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q34366"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527933"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Tasmania"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q5284494",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/shaed:tas2953"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5284494"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007285"
+      ],
+      "type": {
+        "lang:en": "Tasmanian House of Assembly electoral division"
+      },
+      "name": {
+        "lang:en": "Bass"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q5284497",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/shaed:tas2948"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5284497"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007285"
+      ],
+      "type": {
+        "lang:en": "Tasmanian House of Assembly electoral division"
+      },
+      "name": {
+        "lang:en": "Braddon"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q5284518",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/shaed:tas2943"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5284518"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007285"
+      ],
+      "type": {
+        "lang:en": "Tasmanian House of Assembly electoral division"
+      },
+      "name": {
+        "lang:en": "Denison"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q5284526",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/shaed:tas2945"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5284526"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007285"
+      ],
+      "type": {
+        "lang:en": "Tasmanian House of Assembly electoral division"
+      },
+      "name": {
+        "lang:en": "Franklin"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q5284547",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/shaed:tas2949"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5284547"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007285"
+      ],
+      "type": {
+        "lang:en": "Tasmanian House of Assembly electoral division"
+      },
+      "name": {
+        "lang:en": "Lyons"
+      },
+      "parent_id": "Q34366"
+    }
   ],
   "memberships": [
     {

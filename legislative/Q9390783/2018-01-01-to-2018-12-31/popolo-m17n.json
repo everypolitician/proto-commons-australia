@@ -21936,7 +21936,2191 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q12481688",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw171"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12481688"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Bankstown"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q16892020",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw184"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16892020"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Holsworthy"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q17001163",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw258"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17001163"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Ballina"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q19877276",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw215"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19877276"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Prospect"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q19879617",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw182"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19879617"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Summer Hill"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q3030905",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw207"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3030905"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Auburn"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q3032096",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw150"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3032096"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Drummoyne"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q3224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527950"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "New South Wales"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q5355025",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw167"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355025"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Albury"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355074",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw205"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355074"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Balmain"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355087",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw195"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355087"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Barwon"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355093",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw190"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355093"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Bathurst"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355096",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw189"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355096"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Baulkham Hills"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355102",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw223"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355102"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Bega"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355125",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw172"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355125"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Blacktown"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355131",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw186"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355131"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Blue Mountains"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355197",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw202"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355197"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Cabramatta"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355202",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw155"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355202"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Camden"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355204",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw183"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355204"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Campbelltown"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355208",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw154"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355208"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Canterbury"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355218",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw140"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355218"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Castle Hill"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355228",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw151"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355228"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Cessnock"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355230",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw162"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355230"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Charlestown"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355238",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw232"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355238"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Clarence"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355255",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw256"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355255"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Coffs Harbour"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355266",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw325"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355266"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Coogee"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355275",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw201"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355275"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Cootamundra"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355283",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw160"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355283"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Cronulla"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355316",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw210"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355316"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Davidson"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355334",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw157"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355334"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Dubbo"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355347",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw170"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355347"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "East Hills"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355380",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw174"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355380"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Epping"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355391",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw214"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355391"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Fairfield"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355461",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw178"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355461"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Gosford"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355464",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw191"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355464"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Goulburn"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355469",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw203"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355469"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Granville"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355500",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw143"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355500"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Hawkesbury"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355505",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw185"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355505"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Heathcote"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355507",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw164"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355507"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Heffron"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355518",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw144"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355518"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Hornsby"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355557",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw198"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355557"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Keira"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355564",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw237"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355564"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Kiama"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355574",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw181"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355574"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Kogarah"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355578",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw145"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355578"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Ku-ring-gai"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355585",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw196"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355585"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Lake Macquarie"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355586",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw212"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355586"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Lakemba"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355588",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw209"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355588"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Lane Cove"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355600",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw168"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355600"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Lismore"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355602",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw142"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355602"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Liverpool"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355607",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw147"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355607"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Londonderry"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355621",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw156"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355621"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Macquarie Fields"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355622",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw152"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355622"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Maitland"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355628",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw175"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355628"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Manly"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355636",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw148"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355636"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Maroubra"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355666",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw161"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355666"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Miranda"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355679",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw193"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355679"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Monaro"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355708",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw146"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355708"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Mount Druitt"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355727",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw141"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355727"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Mulgoa"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355736",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw169"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355736"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Murray"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355748",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw240"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355748"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Myall Lakes"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355770",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw199"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355770"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Newcastle"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355774",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw177"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355774"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Newtown"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355806",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw208"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355806"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "North Shore"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355816",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw206"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355816"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Northern Tablelands"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355829",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw180"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355829"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Oatley"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355831",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw194"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355831"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Orange"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355834",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw242"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355834"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Oxley"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355840",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw317"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355840"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Parramatta"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355849",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw187"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355849"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Penrith"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355858",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw267"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355858"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Pittwater"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355868",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw253"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355868"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Port Macquarie"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355870",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw252"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355870"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Port Stephens"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355901",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw179"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355901"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Riverstone"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355905",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw163"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355905"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Rockdale"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355920",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw149"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355920"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Ryde"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355933",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw188"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355933"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Seven Hills"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355935",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw197"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355935"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Shellharbour"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355950",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw235"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355950"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "South Coast"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355984",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw153"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355984"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Strathfield"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5355999",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw271"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355999"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Swansea"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5356001",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw192"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356001"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Sydney"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5356019",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw213"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356019"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Tamworth"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5356024",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw159"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356024"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Terrigal"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5356025",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw158"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356025"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "The Entrance"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5356049",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw165"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356049"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Tweed"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5356054",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw139"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356054"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Upper Hunter"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5356058",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw176"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356058"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Vaucluse"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5356060",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw166"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356060"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Wagga Wagga"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5356063",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw211"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356063"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Wakehurst"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5356066",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw200"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356066"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Wallsend"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5356137",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw173"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356137"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Willoughby"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5356145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw138"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Wollondilly"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5356146",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw277"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356146"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Wollongong"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q5356157",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/slaed:nsw204"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356157"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19202748"
+      ],
+      "type": {
+        "lang:en": "electoral district of New South Wales"
+      },
+      "name": {
+        "lang:en": "Wyong"
+      },
+      "parent_id": "Q3224"
+    }
   ],
   "memberships": [
     {

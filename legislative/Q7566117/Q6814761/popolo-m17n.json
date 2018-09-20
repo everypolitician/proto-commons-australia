@@ -22,7 +22,1133 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q17003410",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500038"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17003410"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Dunstan"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q35715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q35715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27230596"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "South Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q5355018",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500025"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355018"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Adelaide"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355054",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500027"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355054"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Ashford"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355144",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500026"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355144"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Bragg"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355149",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500032"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355149"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Bright"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355229",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500033"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355229"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Chaffey"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355234",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500034"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355234"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Cheltenham"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355261",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500035"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355261"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Colton"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355288",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500036"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355288"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Croydon"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355315",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500037"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355315"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Davenport"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355369",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500041"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355369"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Elder"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355377",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500042"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355377"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Enfield"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355397",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500049"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355397"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Finniss"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355398",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500039"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355398"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Fisher"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355404",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500046"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355404"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Flinders"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355407",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500043"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355407"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Florey"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355421",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500040"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355421"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Frome"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355432",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500044"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355432"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Giles"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355467",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500048"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355467"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Goyder"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355487",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500045"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355487"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Hammond"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355493",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500028"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355493"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Hartley"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355511",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500029"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355511"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Heysen"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355552",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500030"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355552"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Kaurna"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355553",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500031"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355553"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Kavel"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355592",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500012"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355592"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Lee"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355599",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500013"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355599"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Light"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355601",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500014"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355601"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Little Para"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355616",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500015"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355616"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "MacKillop"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355642",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500016"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355642"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Mawson"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355674",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500002"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355674"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Mitchell"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355696",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500017"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355696"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Morialta"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355700",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500003"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355700"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Morphett"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355709",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500004"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355709"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Mount Gambier"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355752",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355752"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Napier"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355773",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500006"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355773"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Newland"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355860",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500022"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355860"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Playford"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355862",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500007"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355862"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Port Adelaide"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355885",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500023"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355885"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Ramsay"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355892",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500024"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355892"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Reynell"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355929",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500008"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355929"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Schubert"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5355986",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500009"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355986"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Stuart"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5356021",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500010"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356021"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Taylor"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5356039",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500011"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356039"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Torrens"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5356053",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500018"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356053"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Unley"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5356062",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500019"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356062"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Waite"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5356115",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500020"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356115"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "West Torrens"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q5356154",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:sa18500021"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356154"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Wright"
+      },
+      "parent_id": "Q35715"
+    }
   ],
   "memberships": [
 
