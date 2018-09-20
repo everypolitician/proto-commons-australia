@@ -2,6 +2,8 @@
   {
     "comment": "Tasmanian House of Assembly",
     "house_item_id": "Q2867120",
+    "seat_count": "25",
+    "area_id": "Q34366",
     "position_item_id": "Q19007285",
     "terms": [
       {
@@ -13,6 +15,8 @@
   {
     "comment": "Western Australian Legislative Council",
     "house_item_id": "Q2994118",
+    "seat_count": "36",
+    "area_id": "Q3206",
     "position_item_id": "Q19627913",
     "terms": [
       {
@@ -24,6 +28,8 @@
   {
     "comment": "Tasmanian Legislative Council",
     "house_item_id": "Q2994121",
+    "seat_count": "15",
+    "area_id": "Q34366",
     "position_item_id": "Q19299542",
     "terms": [
       {
@@ -35,6 +41,8 @@
   {
     "comment": "New South Wales Legislative Council",
     "house_item_id": "Q3244676",
+    "seat_count": "42",
+    "area_id": "Q3224",
     "position_item_id": "Q18810377",
     "terms": [
       {
@@ -46,6 +54,8 @@
   {
     "comment": "Parliament of Queensland",
     "house_item_id": "Q3365548",
+    "seat_count": null,
+    "area_id": "Q36074",
     "position_item_id": null,
     "terms": [
       {
@@ -57,6 +67,8 @@
   {
     "comment": "Victorian Legislative Assembly",
     "house_item_id": "Q4386693",
+    "seat_count": "88",
+    "area_id": "Q36687",
     "position_item_id": "Q18534408",
     "terms": [
       {
@@ -68,6 +80,8 @@
   {
     "comment": "Australian Capital Territory Legislative Assembly",
     "house_item_id": "Q494915",
+    "seat_count": "25",
+    "area_id": "Q3258",
     "position_item_id": null,
     "terms": [
       {
@@ -79,6 +93,8 @@
   {
     "comment": "Legislative Assembly of Queensland",
     "house_item_id": "Q6518214",
+    "seat_count": "93",
+    "area_id": "Q36074",
     "position_item_id": "Q18526194",
     "terms": [
       {
@@ -90,6 +106,8 @@
   {
     "comment": "Parliament of the Northern Territory",
     "house_item_id": "Q7138951",
+    "seat_count": null,
+    "area_id": "Q3235",
     "position_item_id": null,
     "terms": [
       {
@@ -101,6 +119,8 @@
   {
     "comment": "South Australian House of Assembly",
     "house_item_id": "Q7566117",
+    "seat_count": "47",
+    "area_id": "Q35715",
     "position_item_id": "Q18220900",
     "terms": [
       {
@@ -132,6 +152,8 @@
   {
     "comment": "South Australian Legislative Council",
     "house_item_id": "Q7566128",
+    "seat_count": "22",
+    "area_id": "Q35715",
     "position_item_id": "Q18662245",
     "terms": [
       {
@@ -147,6 +169,8 @@
   {
     "comment": "Senate of Australia",
     "house_item_id": "Q783330",
+    "seat_count": "76",
+    "area_id": "Q408",
     "position_item_id": "Q6814428",
     "terms": [
       {
@@ -158,6 +182,8 @@
   {
     "comment": "House of Representatives",
     "house_item_id": "Q783401",
+    "seat_count": "150",
+    "area_id": "Q408",
     "position_item_id": "Q18912794",
     "terms": [
       {
@@ -169,6 +195,8 @@
   {
     "comment": "Western Australian Legislative Assembly",
     "house_item_id": "Q7987530",
+    "seat_count": "59",
+    "area_id": "Q3206",
     "position_item_id": "Q20165902",
     "terms": [
       {
@@ -180,6 +208,8 @@
   {
     "comment": "Victorian Legislative Council",
     "house_item_id": "Q9302011",
+    "seat_count": "40",
+    "area_id": "Q36687",
     "position_item_id": "Q19185341",
     "terms": [
       {
@@ -191,6 +221,8 @@
   {
     "comment": "New South Wales Legislative Assembly",
     "house_item_id": "Q9390783",
+    "seat_count": "93",
+    "area_id": "Q3224",
     "position_item_id": "Q19202748",
     "terms": [
       {
@@ -202,6 +234,8 @@
   {
     "comment": "Northern Territory Legislative Assembly",
     "house_item_id": "Q9390785",
+    "seat_count": "25",
+    "area_id": "Q3235",
     "position_item_id": "Q26998278",
     "terms": [
       {
