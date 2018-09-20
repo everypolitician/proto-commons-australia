@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Australian Capital Territory Legislative Assembly"
+      },
+      "id": "Q494915",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q494915"
+        }
+      ],
+      "area_id": "Q3258",
+      "seat_counts": {
+        "": "25"
+      }
+    }
   ],
   "areas": [
 
