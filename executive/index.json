@@ -1,6 +1,7 @@
 [
   {
     "comment": "Cabinet of Australia",
+    "area_id": "Q408",
     "executive_item_id": "Q2028178",
     "positions": [
       {
@@ -11,6 +12,7 @@
   },
   {
     "comment": "Cabinet of South Australia",
+    "area_id": "Q35715",
     "executive_item_id": "Q24185541",
     "positions": [
       {

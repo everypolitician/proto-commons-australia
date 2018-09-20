@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "South Australian House of Assembly"
+      },
+      "id": "Q7566117",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7566117"
+        }
+      ],
+      "area_id": "Q35715",
+      "seat_counts": {
+        "Q18220900": "47"
+      }
+    }
   ],
   "areas": [
 

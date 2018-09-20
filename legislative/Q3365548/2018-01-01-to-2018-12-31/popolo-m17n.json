@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Parliament of Queensland"
+      },
+      "id": "Q3365548",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3365548"
+        }
+      ],
+      "area_id": "Q36074",
+      "seat_counts": {
+        "": null
+      }
+    }
   ],
   "areas": [
 
