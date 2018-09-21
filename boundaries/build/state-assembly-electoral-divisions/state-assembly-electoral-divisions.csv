@@ -106,7 +106,7 @@ NT1000067,Casuarina,Q5356204,2016/05/19,Legislative Assembly,country:au/territor
 NT1000068,Namatjira,Q5356237,2016/05/19,Legislative Assembly,country:au/territory:nt,country:au/territory:nt/slaed:nt1000068
 NT1000069,Arafura,Q5356195,2016/05/19,Legislative Assembly,country:au/territory:nt,country:au/territory:nt/slaed:nt1000069
 NT1000070,Brennan,Q5356202,2016/05/19,Legislative Assembly,country:au/territory:nt,country:au/territory:nt/slaed:nt1000070
-NT1000071,Goyder,Q5355467,2016/05/19,Legislative Assembly,country:au/territory:nt,country:au/territory:nt/slaed:nt1000071
+NT1000071,Goyder,Q5356218,2016/05/19,Legislative Assembly,country:au/territory:nt,country:au/territory:nt/slaed:nt1000071
 NT1000072,Nightcliff,Q5356242,2016/05/19,Legislative Assembly,country:au/territory:nt,country:au/territory:nt/slaed:nt1000072
 NT1000073,Daly,Q5356206,2016/05/19,Legislative Assembly,country:au/territory:nt,country:au/territory:nt/slaed:nt1000073
 NT1000074,Johnston,Q5356223,2016/05/19,Legislative Assembly,country:au/territory:nt,country:au/territory:nt/slaed:nt1000074
@@ -118,7 +118,7 @@ NT1000079,Fong Lim,Q5356215,2016/05/19,Legislative Assembly,country:au/territory
 NT1000080,Barkly,Q5356198,2016/05/19,Legislative Assembly,country:au/territory:nt,country:au/territory:nt/slaed:nt1000080
 NT1000081,Nhulunbuy,Q5356241,2016/05/19,Legislative Assembly,country:au/territory:nt,country:au/territory:nt/slaed:nt1000081
 NT1000082,Sanderson,Q5356251,2016/05/19,Legislative Assembly,country:au/territory:nt,country:au/territory:nt/slaed:nt1000082
-NT1000083,Stuart,Q5355986,2016/05/19,Legislative Assembly,country:au/territory:nt,country:au/territory:nt/slaed:nt1000083
+NT1000083,Stuart,Q5356252,2016/05/19,Legislative Assembly,country:au/territory:nt,country:au/territory:nt/slaed:nt1000083
 NT1000084,Port Darwin,Q5356246,2016/05/19,Legislative Assembly,country:au/territory:nt,country:au/territory:nt/slaed:nt1000084
 NT1000085,Wanguri,Q5356258,2016/05/19,Legislative Assembly,country:au/territory:nt,country:au/territory:nt/slaed:nt1000085
 NT1000086,Spillett,Q26267294,2016/09/21,Legislative Assembly,country:au/territory:nt,country:au/territory:nt/slaed:nt1000086
@@ -157,7 +157,7 @@ QLD226,Hervey Bay,Q5355510,2017/08/09,Legislative Assembly,country:au/state:qld,
 QLD227,Hill,Q30641934,2017/08/09,Legislative Assembly,country:au/state:qld,country:au/state:qld/slaed:qld227
 QLD228,Hinchinbrook,Q5355515,2017/08/09,Legislative Assembly,country:au/state:qld,country:au/state:qld/slaed:qld228
 QLD229,Inala,Q5355525,2017/08/09,Legislative Assembly,country:au/state:qld,country:au/state:qld/slaed:qld229
-QLD230,Ipswich,Q5355531,2017/08/09,Legislative Assembly,country:au/state:qld,country:au/state:qld/slaed:qld230
+QLD230,Ipswich,Q5355530,2017/08/09,Legislative Assembly,country:au/state:qld,country:au/state:qld/slaed:qld230
 QLD231,Ipswich West,Q5355532,2017/08/09,Legislative Assembly,country:au/state:qld,country:au/state:qld/slaed:qld231
 QLD232,Jordan,Q30641922,2017/08/09,Legislative Assembly,country:au/state:qld,country:au/state:qld/slaed:qld232
 QLD233,Kawana,Q5355554,2017/08/09,Legislative Assembly,country:au/state:qld,country:au/state:qld/slaed:qld233
@@ -213,7 +213,7 @@ QLD282,Warrego,Q5356077,2017/08/09,Legislative Assembly,country:au/state:qld,cou
 QLD283,Waterford,Q5356085,2017/08/09,Legislative Assembly,country:au/state:qld,country:au/state:qld/slaed:qld283
 QLD284,Whitsunday,Q5356123,2017/08/09,Legislative Assembly,country:au/state:qld,country:au/state:qld/slaed:qld284
 QLD285,Woodridge,Q5356151,2017/08/09,Legislative Assembly,country:au/state:qld,country:au/state:qld/slaed:qld285
-QLD286,Burnett,Q5355186,2017/08/09,Legislative Assembly,country:au/state:qld,country:au/state:qld/slaed:qld286
+QLD286,Burnett,Q5355185,2017/08/09,Legislative Assembly,country:au/state:qld,country:au/state:qld/slaed:qld286
 QLD287,Noosa,Q5355786,2017/08/09,Legislative Assembly,country:au/state:qld,country:au/state:qld/slaed:qld287
 SA18500002,Mitchell,Q5355674,2015/05/11,Legislative Assembly,country:au/state:sa,country:au/state:sa/shaed:sa18500002
 SA18500003,Morphett,Q5355700,2015/05/11,Legislative Assembly,country:au/state:sa,country:au/state:sa/shaed:sa18500003
@@ -333,7 +333,7 @@ VIC278,Sandringham,Q5355926,2015/05/05,Legislative Assembly,country:au/state:vic
 VIC279,Clarinda,Q17002321,2015/05/05,Legislative Assembly,country:au/state:vic,country:au/state:vic/slaed:vic279
 VIC280,Brighton,Q5355150,2015/05/05,Legislative Assembly,country:au/state:vic,country:au/state:vic/slaed:vic280
 VIC281,Prahran,Q5355873,2015/05/05,Legislative Assembly,country:au/state:vic,country:au/state:vic/slaed:vic281
-VIC282,Richmond,Q1073994,2015/05/05,Legislative Assembly,country:au/state:vic,country:au/state:vic/slaed:vic282
+VIC282,Richmond,Q5355896,2015/05/05,Legislative Assembly,country:au/state:vic,country:au/state:vic/slaed:vic282
 VIC283,St Albans,Q5355970,2015/05/05,Legislative Assembly,country:au/state:vic,country:au/state:vic/slaed:vic283
 VIC284,Sydenham,Q17028255,2015/05/05,Legislative Assembly,country:au/state:vic,country:au/state:vic/slaed:vic284
 VIC285,Essendon,Q5355383,2015/05/05,Legislative Assembly,country:au/state:vic,country:au/state:vic/slaed:vic285
@@ -346,7 +346,7 @@ VIC291,Hawthorn,Q5355501,2015/05/05,Legislative Assembly,country:au/state:vic,co
 VIC292,Kew,Q5355563,2015/05/05,Legislative Assembly,country:au/state:vic,country:au/state:vic/slaed:vic292
 VIC293,Burwood,Q5355193,2015/05/05,Legislative Assembly,country:au/state:vic,country:au/state:vic/slaed:vic293
 VIC294,Box Hill,Q5355143,2015/05/05,Legislative Assembly,country:au/state:vic,country:au/state:vic/slaed:vic294
-VIC295,Mulgrave,Q5355729,2015/05/05,Legislative Assembly,country:au/state:vic,country:au/state:vic/slaed:vic295
+VIC295,Mulgrave,Q5355730,2015/05/05,Legislative Assembly,country:au/state:vic,country:au/state:vic/slaed:vic295
 VIC296,Rowville,Q17028172,2015/05/05,Legislative Assembly,country:au/state:vic,country:au/state:vic/slaed:vic296
 VIC297,Forest Hill,Q5355410,2015/05/05,Legislative Assembly,country:au/state:vic,country:au/state:vic/slaed:vic297
 VIC298,Ferntree Gully,Q5355393,2015/05/05,Legislative Assembly,country:au/state:vic,country:au/state:vic/slaed:vic298
