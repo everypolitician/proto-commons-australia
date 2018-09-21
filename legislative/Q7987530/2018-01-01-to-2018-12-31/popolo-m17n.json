@@ -6668,21 +6668,6 @@
     },
     {
       "name": {
-        "lang:en": "Hugh Leslie"
-      },
-      "id": "Q5931459",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5931459"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Ian Taylor"
       },
       "id": "Q5983044",
@@ -15701,20 +15686,6 @@
       "id": "http://www.wikidata.org/entity/statement/Q5927530-DBC3A998-29F8-446D-89D4-B9BAA0803B19",
       "person_id": "Q5927530",
       "organization_id": "Q7987530",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q20165902",
-      "role": {
-        "lang:en": "Member of the Western Australian Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5931459-9BD0E9EC-D8E2-492C-ACBB-7C45A6A170A7",
-      "person_id": "Q5931459",
-      "organization_id": "Q7987530",
-      "area_id": "Q5355720",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"

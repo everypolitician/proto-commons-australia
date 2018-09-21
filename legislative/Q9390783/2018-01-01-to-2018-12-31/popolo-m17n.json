@@ -302,21 +302,6 @@
     },
     {
       "name": {
-        "lang:en": "Lyttleton Bayley"
-      },
-      "id": "Q15989833",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q15989833"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Francis Cotton"
       },
       "id": "Q15996231",
@@ -1187,21 +1172,6 @@
     },
     {
       "name": {
-        "lang:en": "Matthew Stephen"
-      },
-      "id": "Q16043619",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16043619"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "John Fitzgerald Burns"
       },
       "id": "Q16043679",
@@ -1427,21 +1397,6 @@
     },
     {
       "name": {
-        "lang:en": "Joseph Innes"
-      },
-      "id": "Q16059879",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16059879"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "George King"
       },
       "id": "Q16060050",
@@ -1494,21 +1449,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q16062302"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "David Buchanan"
-      },
-      "id": "Q16062534",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16062534"
         }
       ],
       "links": [
@@ -1644,21 +1584,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q16065598"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Henry Parkes"
-      },
-      "id": "Q1607143",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1607143"
         }
       ],
       "links": [
@@ -5978,21 +5903,6 @@
     },
     {
       "name": {
-        "lang:en": "Samuel Terry"
-      },
-      "id": "Q20763339",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q20763339"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Atkinson Tighe"
       },
       "id": "Q20763563",
@@ -8250,21 +8160,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q21012897"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Joseph O'Connor"
-      },
-      "id": "Q21014420",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q21014420"
         }
       ],
       "links": [
@@ -24384,20 +24279,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q15989833-8F626BEE-85CA-4565-ABA7-BAD3A946CBA2",
-      "person_id": "Q15989833",
-      "organization_id": "Q9390783",
-      "area_id": "Q5355725",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19202748",
-      "role": {
-        "lang:en": "Member of the New South Wales Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q15996231-D9016AAD-4C23-4857-AF12-DF39658439C9",
       "person_id": "Q15996231",
       "organization_id": "Q9390783",
@@ -25152,20 +25033,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q16043619-92692B1C-D8DF-4111-B449-F73815D5F4C9",
-      "person_id": "Q16043619",
-      "organization_id": "Q9390783",
-      "area_id": "Q5355725",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19202748",
-      "role": {
-        "lang:en": "Member of the New South Wales Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q16043679-5EF5A802-3D47-452C-87AA-134C5B576F72",
       "person_id": "Q16043679",
       "organization_id": "Q9390783",
@@ -25361,20 +25228,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q16059879-A9AFF475-58A5-4E52-9DCC-01B7207E9231",
-      "person_id": "Q16059879",
-      "organization_id": "Q9390783",
-      "area_id": "Q5355725",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19202748",
-      "role": {
-        "lang:en": "Member of the New South Wales Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q16060050-EF6FF0F1-7E12-40DE-9436-5DC71A1D10FA",
       "person_id": "Q16060050",
       "organization_id": "Q9390783",
@@ -25417,20 +25270,6 @@
       "id": "http://www.wikidata.org/entity/statement/Q16062302-90EE31BC-43EE-4C11-8A26-FDBD702C5B9A",
       "person_id": "Q16062302",
       "organization_id": "Q9390783",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19202748",
-      "role": {
-        "lang:en": "Member of the New South Wales Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q16062534-EFF29965-A3BF-4217-86B9-7905DC162162",
-      "person_id": "Q16062534",
-      "organization_id": "Q9390783",
-      "area_id": "Q5355725",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -25548,20 +25387,6 @@
       "id": "http://www.wikidata.org/entity/statement/Q16065598-B1EB9AF4-3920-47D6-9E5B-2B788DD46E89",
       "person_id": "Q16065598",
       "organization_id": "Q9390783",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19202748",
-      "role": {
-        "lang:en": "Member of the New South Wales Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q1607143-D8CC982A-7AC5-43C0-8255-5F60664D7A55",
-      "person_id": "Q1607143",
-      "organization_id": "Q9390783",
-      "area_id": "Q5355725",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -29353,20 +29178,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q20763339-3D23EC00-F2B8-4AFB-BDE0-F603842F1016",
-      "person_id": "Q20763339",
-      "organization_id": "Q9390783",
-      "area_id": "Q5355725",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19202748",
-      "role": {
-        "lang:en": "Member of the New South Wales Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q20763563-5F9BD8B8-F7A2-48D3-8736-247252ECF8DB",
       "person_id": "Q20763563",
       "organization_id": "Q9390783",
@@ -31320,20 +31131,6 @@
       "id": "http://www.wikidata.org/entity/statement/Q21012897-338EB87B-8427-4C9E-8AA8-06B5E8444E0D",
       "person_id": "Q21012897",
       "organization_id": "Q9390783",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19202748",
-      "role": {
-        "lang:en": "Member of the New South Wales Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q21014420-03D91B2F-15F3-4027-A9F2-07A88060958F",
-      "person_id": "Q21014420",
-      "organization_id": "Q9390783",
-      "area_id": "Q5355725",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"

@@ -1,6 +1,437 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Mick Gentleman"
+      },
+      "id": "Q16186680",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16186680"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nicole Lawder"
+      },
+      "id": "Q16194647",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16194647"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Meegan Fitzharris"
+      },
+      "id": "Q18808590",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18808590"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/MeeganFitzharrisMLA"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tara Cheyne"
+      },
+      "id": "Q23001033",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23001033"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gordon Ramsay"
+      },
+      "id": "Q27557641",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27557641"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Elizabeth Kikkert"
+      },
+      "id": "Q27617121",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27617121"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bec Cody"
+      },
+      "id": "Q27617205",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27617205"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Suzanne Orr"
+      },
+      "id": "Q27617251",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27617251"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Pettersson"
+      },
+      "id": "Q27617310",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27617310"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chris Steel"
+      },
+      "id": "Q27617364",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27617364"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rachel Stephen-Smith"
+      },
+      "id": "Q27617429",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27617429"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Elizabeth Lee"
+      },
+      "id": "Q27617468",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27617468"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Milligan"
+      },
+      "id": "Q27734316",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27734316"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mark Parton"
+      },
+      "id": "Q27734319",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27734319"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Maureen Worsley"
+      },
+      "id": "Q38643524",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38643524"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Candice Burch"
+      },
+      "id": "Q45261853",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q45261853"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alistair Coe"
+      },
+      "id": "Q4727271",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4727271"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Andrew Barr"
+      },
+      "id": "Q4756289",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4756289"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Andrew Wall"
+      },
+      "id": "Q4758834",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4758834"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bill Wood"
+      },
+      "id": "Q4911422",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4911422"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Caroline Le Couteur"
+      },
+      "id": "Q5045130",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5045130"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/carolinelecouteur"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Giulia Jones"
+      },
+      "id": "Q5565206",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5565206"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/gmolonglo"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Helen Szuty"
+      },
+      "id": "Q5703250",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5703250"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jeremy Hanson"
+      },
+      "id": "Q6181435",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6181435"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joy Burch"
+      },
+      "id": "Q6297054",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6297054"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shane Rattenbury"
+      },
+      "id": "Q7488240",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7488240"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Vicki Dunne"
+      },
+      "id": "Q7925392",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7925392"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Yvette Berry"
+      },
+      "id": "Q8062355",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8062355"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/YvetteSBerry"
+        }
+      ]
+    }
   ],
   "organizations": [
     {
@@ -17,7 +448,7 @@
       ],
       "area_id": "Q3258",
       "seat_counts": {
-        "": "25"
+        "Q6814365": "25"
       }
     }
   ],
@@ -25,6 +456,419 @@
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16186680-32b6e88d-4ecc-0c1d-37fc-da10bd64e24b",
+      "person_id": "Q16186680",
+      "organization_id": "Q494915",
+      "area_id": "Q2973470",
+      "start_date": "2012-10-31",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16194647-058fa4fd-4543-ad9a-f9bd-042a8ac16ee1",
+      "person_id": "Q16194647",
+      "organization_id": "Q494915",
+      "area_id": "Q2973470",
+      "start_date": "2013-06-28",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18808590-b072006d-4cf2-273c-ec57-07353d71e387",
+      "person_id": "Q18808590",
+      "organization_id": "Q494915",
+      "area_id": "Q26907959",
+      "start_date": "2016-10-15",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23001033-f4ddfe3c-413a-9758-72a9-bc7ca5c72fc6",
+      "person_id": "Q23001033",
+      "organization_id": "Q494915",
+      "area_id": "Q2973614",
+      "start_date": "2016-10-22",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27557641-85ff37a9-451c-9479-0be6-04bf16729dab",
+      "person_id": "Q27557641",
+      "organization_id": "Q494915",
+      "area_id": "Q2973614",
+      "start_date": "2016-10-15",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27617121-d6e1d857-4900-157c-ad00-962700254edf",
+      "person_id": "Q27617121",
+      "organization_id": "Q494915",
+      "area_id": "Q2973614",
+      "start_date": "2016-10-15",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27617205-3cc0a81a-4890-284e-e37c-5f6d4d9f8778",
+      "person_id": "Q27617205",
+      "organization_id": "Q494915",
+      "area_id": "Q26907990",
+      "start_date": "2016-10-15",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27617251-02cf13b0-4045-681b-5a69-ac6757e1f5e4",
+      "person_id": "Q27617251",
+      "organization_id": "Q494915",
+      "area_id": "Q26907959",
+      "start_date": "2016-10-15",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27617310-55418db9-4453-4d6b-9c55-1dcd1ef6ed79",
+      "person_id": "Q27617310",
+      "organization_id": "Q494915",
+      "area_id": "Q26907959",
+      "start_date": "2016-10-15",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27617364-28558d69-48db-b829-5b79-3b8e9dd0ea1c",
+      "person_id": "Q27617364",
+      "organization_id": "Q494915",
+      "area_id": "Q26907990",
+      "start_date": "2016-10-15",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27617429-3758191d-461d-efb8-5107-c9b49b610aff",
+      "person_id": "Q27617429",
+      "organization_id": "Q494915",
+      "area_id": "Q26907714",
+      "start_date": "2016-10-15",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27617468-0dae899d-4de9-27da-040c-70dd91b2a8dc",
+      "person_id": "Q27617468",
+      "organization_id": "Q494915",
+      "area_id": "Q26907714",
+      "start_date": "2016-10-15",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27734316-21e6bb36-4c35-de18-978d-355b0f2e538f",
+      "person_id": "Q27734316",
+      "organization_id": "Q494915",
+      "area_id": "Q26907959",
+      "start_date": "2016-10-15",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27734319-df4c3e2a-4f1f-6121-8c8c-0554ace08949",
+      "person_id": "Q27734319",
+      "organization_id": "Q494915",
+      "area_id": "Q2973470",
+      "start_date": "2016-10-15",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q38643524-07312123-46ae-f596-7fa1-25da66e9b56f",
+      "person_id": "Q38643524",
+      "organization_id": "Q494915",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q45261853-6559f272-481f-fe2d-2b87-4357a17b1adf",
+      "person_id": "Q45261853",
+      "organization_id": "Q494915",
+      "area_id": "Q26907714",
+      "start_date": "2017-12-13",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4727271-4d808ceb-4c0e-9277-c903-ab542a7237c6",
+      "person_id": "Q4727271",
+      "organization_id": "Q494915",
+      "area_id": "Q26907959",
+      "start_date": "2016-10-15",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4756289-9f3a56a6-447a-addc-a555-17edae3fb84f",
+      "person_id": "Q4756289",
+      "organization_id": "Q494915",
+      "area_id": "Q26907714",
+      "start_date": "2016-10-15",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4758834-bb2fa52f-4c3c-b6de-c996-5b89b960c9bd",
+      "person_id": "Q4758834",
+      "organization_id": "Q494915",
+      "area_id": "Q2973470",
+      "start_date": "2012-10-20",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4911422-e8f7991c-4a48-afa2-c5ff-227798757fb1",
+      "person_id": "Q4911422",
+      "organization_id": "Q494915",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5045130-4611b6a7-44ee-ab7d-1410-e3a86ea97300",
+      "person_id": "Q5045130",
+      "organization_id": "Q494915",
+      "area_id": "Q26907990",
+      "start_date": "2016-10-15",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5565206-e77267aa-40f8-0826-24af-d63c8a79c3be",
+      "person_id": "Q5565206",
+      "organization_id": "Q494915",
+      "area_id": "Q26907990",
+      "start_date": "2016-10-15",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5703250-031be4c4-4e65-2a92-78d4-fef5c7fc802b",
+      "person_id": "Q5703250",
+      "organization_id": "Q494915",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6181435-a03da7e7-41d1-30e1-f312-138e65fff057",
+      "person_id": "Q6181435",
+      "organization_id": "Q494915",
+      "area_id": "Q26907990",
+      "start_date": "2016-10-15",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6297054-dc243148-47d1-ac9c-e0b8-d00cee791762",
+      "person_id": "Q6297054",
+      "organization_id": "Q494915",
+      "area_id": "Q2973470",
+      "start_date": "2008-10-29",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7488240-013d9195-4ec5-619a-60ea-ac4b3b8604ec",
+      "person_id": "Q7488240",
+      "organization_id": "Q494915",
+      "area_id": "Q26907714",
+      "start_date": "2008-10-18",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7925392-068933a0-467f-0ab9-89d2-e3935a05e205",
+      "person_id": "Q7925392",
+      "organization_id": "Q494915",
+      "area_id": "Q2973614",
+      "start_date": "2001-10-20",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8062355-2758b6cb-40ef-8368-9a90-78eb1c1e53ff",
+      "person_id": "Q8062355",
+      "organization_id": "Q494915",
+      "area_id": "Q2973614",
+      "start_date": "2012-10-20",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814365",
+      "role": {
+        "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+      }
+    }
   ]
 }
