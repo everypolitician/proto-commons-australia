@@ -174,7 +174,7 @@
       "lang:en": "NAME"
     },
     "filter": {
-      "match": "country:au/state:act",
+      "match": "country:au/territory:act",
       "column": "MS_FB_PARE"
     }
   },
@@ -208,7 +208,7 @@
       "lang:en": "NAME"
     },
     "filter": {
-      "match": "country:au/state:nt",
+      "match": "country:au/territory:nt",
       "column": "MS_FB_PARE"
     }
   },
