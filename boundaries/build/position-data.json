@@ -240,6 +240,22 @@
     }
   },
   {
+    "role_id": "Q6814365",
+    "role_name": {
+      "lang:en": "member of the Australian Capital Territory Legislative Assembly"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q494915",
+    "organization_name": {
+      "lang:en": "Australian Capital Territory Legislative Assembly"
+    }
+  },
+  {
     "role_id": "Q6814428",
     "role_name": {
       "lang:en": "Member of the Australian Senate"

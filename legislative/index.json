@@ -52,19 +52,6 @@
     ]
   },
   {
-    "comment": "Parliament of Queensland",
-    "house_item_id": "Q3365548",
-    "seat_count": null,
-    "area_id": "Q36074",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
     "comment": "Victorian Legislative Assembly",
     "house_item_id": "Q4386693",
     "seat_count": "88",
@@ -82,7 +69,7 @@
     "house_item_id": "Q494915",
     "seat_count": "25",
     "area_id": "Q3258",
-    "position_item_id": null,
+    "position_item_id": "Q6814365",
     "terms": [
       {
         "start_date": "2018-01-01",
@@ -96,19 +83,6 @@
     "seat_count": "93",
     "area_id": "Q36074",
     "position_item_id": "Q18526194",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Parliament of the Northern Territory",
-    "house_item_id": "Q7138951",
-    "seat_count": null,
-    "area_id": "Q3235",
-    "position_item_id": null,
     "terms": [
       {
         "start_date": "2018-01-01",
