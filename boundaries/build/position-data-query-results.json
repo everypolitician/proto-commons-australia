@@ -8641,6 +8641,10 @@
         "type" : "literal",
         "value" : "member of Town of East Fremantle Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -8671,10 +8675,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Town of East Fremantle Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -8727,6 +8727,10 @@
         "type" : "literal",
         "value" : "member of Town of Cambridge Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -8757,10 +8761,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Town of Cambridge Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -8813,6 +8813,10 @@
         "type" : "literal",
         "value" : "member of Joondalup City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -8843,10 +8847,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Joondalup City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -8899,6 +8899,10 @@
         "type" : "literal",
         "value" : "member of Subiaco City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -8929,10 +8933,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Subiaco City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -8985,6 +8985,10 @@
         "type" : "literal",
         "value" : "member of Shire of Peppermint Grove Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -9015,10 +9019,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Shire of Peppermint Grove Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -9071,6 +9071,10 @@
         "type" : "literal",
         "value" : "member of Town of Mosman Park Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -9101,10 +9105,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Town of Mosman Park Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -9157,6 +9157,10 @@
         "type" : "literal",
         "value" : "member of Town of Cottesloe Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -9187,10 +9191,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Town of Cottesloe Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -9243,6 +9243,10 @@
         "type" : "literal",
         "value" : "member of Town of Bassendean Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -9273,10 +9277,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Town of Bassendean Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -9329,6 +9329,10 @@
         "type" : "literal",
         "value" : "member of Fremantle City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -9359,10 +9363,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Fremantle City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -9415,6 +9415,10 @@
         "type" : "literal",
         "value" : "member of Perth City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -9445,10 +9449,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Perth City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -9501,6 +9501,10 @@
         "type" : "literal",
         "value" : "member of Kwinana City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -9531,10 +9535,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kwinana City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -9587,6 +9587,10 @@
         "type" : "literal",
         "value" : "member of Kalamunda City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -9617,10 +9621,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kalamunda City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -9673,6 +9673,10 @@
         "type" : "literal",
         "value" : "member of the Australian Capital Territory Legislative Assembly"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q10864048"
@@ -9703,10 +9707,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Australian Capital Territory Legislative Assembly"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -9717,6 +9717,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Member of the Australian Senate"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -9748,10 +9752,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Senate of Australia"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     } ]
   }
