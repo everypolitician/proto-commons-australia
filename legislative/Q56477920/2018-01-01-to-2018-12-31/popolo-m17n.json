@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Town of Mosman Park Council"
+      },
+      "id": "Q56477920",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56477920"
+        }
+      ],
+      "area_id": "Q476922",
+      "seat_counts": {
+        "Q56477921": null
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

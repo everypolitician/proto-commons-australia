@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Joondalup City Council"
+      },
+      "id": "Q56477908",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56477908"
+        }
+      ],
+      "area_id": "Q1703523",
+      "seat_counts": {
+        "Q56477909": null
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

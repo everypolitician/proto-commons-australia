@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Woollahra Municipal Council"
+      },
+      "id": "Q56477516",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56477516"
+        }
+      ],
+      "area_id": "Q1623372",
+      "seat_counts": {
+        "Q56477518": "15"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,84 @@
+WARNING: no seat count found for the legislature Yarra City Council
+WARNING: no seat count found for the legislature Blacktown City Council
+WARNING: no seat count found for the legislature Willoughby City Council
+WARNING: no seat count found for the legislature Fairfield City Council
+WARNING: no seat count found for the legislature Sutherland Shire Council
+WARNING: no seat count found for the legislature Shellharbour City Council
+WARNING: no seat count found for the legislature Wollongong City Council
+WARNING: no seat count found for the legislature Parramatta Council City Council
+WARNING: no seat count found for the legislature Cumberland Council
+WARNING: no seat count found for the legislature Georges River Council
+WARNING: no seat count found for the legislature Northern Beaches Council
+WARNING: no seat count found for the legislature Inner West Council
+WARNING: no seat count found for the legislature Canterbury-Bankstown Council
+WARNING: no seat count found for the legislature Bayside Council
+WARNING: no seat count found for the legislature Brisbane City Council
+WARNING: no seat count found for the legislature Sunshine Coast Region Council
+WARNING: no seat count found for the legislature Shire of Noosa Council
+WARNING: no seat count found for the legislature Gold Coast City Council
+WARNING: no seat count found for the legislature Tea Tree Gully City Council
+WARNING: no seat count found for the legislature West Torrens City Council
+WARNING: no seat count found for the legislature Holdfast Bay City Council
+WARNING: no seat count found for the legislature Adelaide Hills Council
+WARNING: no seat count found for the legislature Town of Walkerville Council
+WARNING: no seat count found for the legislature Adelaide City Council
+WARNING: no seat count found for the legislature Burnside City Council
+WARNING: no seat count found for the legislature Campbelltown City Council
+WARNING: no seat count found for the legislature Mitcham City Council
+WARNING: no seat count found for the legislature Port Adelaide Enfield City Council
+WARNING: no seat count found for the legislature Prospect Council
+WARNING: no seat count found for the legislature Salisbury City Council
+WARNING: no seat count found for the legislature Unley City Council
+WARNING: no seat count found for the legislature Town of Gawler Council
+WARNING: no seat count found for the legislature Charles Sturt City Council
+WARNING: no seat count found for the legislature Marion City Council
+WARNING: no seat count found for the legislature Norwood Payneham & St Peters City Council
+WARNING: no seat count found for the legislature Onkaparinga City Council
+WARNING: no seat count found for the legislature Playford City Council
+WARNING: no seat count found for the legislature Moonee Valley City Council
+WARNING: no seat count found for the legislature Moreland City Council
+WARNING: no seat count found for the legislature Melbourne City Council
+WARNING: no seat count found for the legislature Glen Eira City Council
+WARNING: no seat count found for the legislature Bayside City Council
+WARNING: no seat count found for the legislature Banyule City Council
+WARNING: no seat count found for the legislature Brimbank City Council
+WARNING: no seat count found for the legislature Manningham City Council
+WARNING: no seat count found for the legislature Whitehorse City Council
+WARNING: no seat count found for the legislature Boroondara City Council
+WARNING: no seat count found for the legislature Stonnington City Council
+WARNING: no seat count found for the legislature Darebin City Council
+WARNING: no seat count found for the legislature Port Phillip City Council
+WARNING: no seat count found for the legislature Monash City Council
+WARNING: no seat count found for the legislature Kingston City Council
+WARNING: no seat count found for the legislature Maribyrnong City Council
+WARNING: no seat count found for the legislature Hobsons Bay City Council
+WARNING: no seat count found for the legislature Nedlands City Council
+WARNING: no seat count found for the legislature Rockingham City Council
+WARNING: no seat count found for the legislature Wanneroo City Council
+WARNING: no seat count found for the legislature Vincent City Council
+WARNING: no seat count found for the legislature Cockburn City Council
+WARNING: no seat count found for the legislature Melville City Council
+WARNING: no seat count found for the legislature Swan City Council
+WARNING: no seat count found for the legislature Bayswater City Council
+WARNING: no seat count found for the legislature Shire of Serpentine-Jarrahdale Council
+WARNING: no seat count found for the legislature Town of Victoria Park Council
+WARNING: no seat count found for the legislature Canning City Council
+WARNING: no seat count found for the legislature South Perth City Council
+WARNING: no seat count found for the legislature Shire of Mundaring Council
+WARNING: no seat count found for the legislature Gosnells City Council
+WARNING: no seat count found for the legislature Armadale City Council
+WARNING: no seat count found for the legislature Stirling City Council
+WARNING: no seat count found for the legislature Belmont City Council
+WARNING: no seat count found for the legislature Town of Claremont Council
+WARNING: no seat count found for the legislature Town of East Fremantle Council
+WARNING: no seat count found for the legislature Town of Cambridge Council
+WARNING: no seat count found for the legislature Joondalup City Council
+WARNING: no seat count found for the legislature Subiaco City Council
+WARNING: no seat count found for the legislature Shire of Peppermint Grove Council
+WARNING: no seat count found for the legislature Town of Mosman Park Council
+WARNING: no seat count found for the legislature Town of Cottesloe Council
+WARNING: no seat count found for the legislature Town of Bassendean Council
+WARNING: no seat count found for the legislature Fremantle City Council
+WARNING: no seat count found for the legislature Perth City Council
+WARNING: no seat count found for the legislature Kwinana City Council
+WARNING: no seat count found for the legislature Kalamunda City Council

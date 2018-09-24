@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Lane Cove Council"
+      },
+      "id": "Q56477512",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56477512"
+        }
+      ],
+      "area_id": "Q32311",
+      "seat_counts": {
+        "Q56477513": "9"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

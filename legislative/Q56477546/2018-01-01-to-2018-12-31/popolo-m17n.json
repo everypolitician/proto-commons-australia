@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Council of the Municipality of Kiama"
+      },
+      "id": "Q56477546",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56477546"
+        }
+      ],
+      "area_id": "Q753426",
+      "seat_counts": {
+        "Q56477547": "9"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

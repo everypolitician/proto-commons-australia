@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Holdfast Bay City Council"
+      },
+      "id": "Q56477685",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56477685"
+        }
+      ],
+      "area_id": "Q1624414",
+      "seat_counts": {
+        "Q56477686": null
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}
