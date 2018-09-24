@@ -1,5 +1,53 @@
 [
   {
+    "comment": "City of Adelaide",
+    "area_id": "Q1094063",
+    "executive_item_id": "Q1094063",
+    "positions": [
+      {
+        "comment": "Mayor of Adelaide",
+        "position_item_id": "Q23059715"
+      },
+      {
+        "comment": "Lord Mayor of Adelaide",
+        "position_item_id": "Q49031784"
+      }
+    ]
+  },
+  {
+    "comment": "City of Port Adelaide Enfield",
+    "area_id": "Q1533526",
+    "executive_item_id": "Q1533526",
+    "positions": [
+      {
+        "comment": "Mayor of Port Adelaide Enfield",
+        "position_item_id": "Q51011795"
+      }
+    ]
+  },
+  {
+    "comment": "City of Unley",
+    "area_id": "Q1766439",
+    "executive_item_id": "Q1766439",
+    "positions": [
+      {
+        "comment": "Mayor of Unley",
+        "position_item_id": "Q52064205"
+      }
+    ]
+  },
+  {
+    "comment": "Town of Gawler",
+    "area_id": "Q1847617",
+    "executive_item_id": "Q1847617",
+    "positions": [
+      {
+        "comment": "Mayor of Gawler",
+        "position_item_id": "Q54806313"
+      }
+    ]
+  },
+  {
     "comment": "Cabinet of Australia",
     "area_id": "Q408",
     "executive_item_id": "Q2028178",
@@ -18,6 +66,1172 @@
       {
         "comment": "Premier of South Australia",
         "position_item_id": "Q27230596"
+      }
+    ]
+  },
+  {
+    "comment": "Yarra City Council",
+    "area_id": "Q1474848",
+    "executive_item_id": "Q28223935",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Yarra",
+        "position_item_id": "Q56477797"
+      }
+    ]
+  },
+  {
+    "comment": "Waverley Municipal Council",
+    "area_id": "Q2299900",
+    "executive_item_id": "Q56477506",
+    "positions": [
+      {
+        "comment": "Mayor of Waverley Municipal Council",
+        "position_item_id": "Q56477509"
+      }
+    ]
+  },
+  {
+    "comment": "Lane Cove Council",
+    "area_id": "Q32311",
+    "executive_item_id": "Q56477512",
+    "positions": [
+      {
+        "comment": "Mayor of Lane Cove Council",
+        "position_item_id": "Q56477514"
+      }
+    ]
+  },
+  {
+    "comment": "Woollahra Municipal Council",
+    "area_id": "Q1623372",
+    "executive_item_id": "Q56477516",
+    "positions": [
+      {
+        "comment": "Mayor of Woollahra Municipal Council",
+        "position_item_id": "Q56477519"
+      }
+    ]
+  },
+  {
+    "comment": "City of Ryde Council",
+    "area_id": "Q2178230",
+    "executive_item_id": "Q56477522",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Ryde",
+        "position_item_id": "Q56477524"
+      }
+    ]
+  },
+  {
+    "comment": "Strathfield Municipal Council",
+    "area_id": "Q660171",
+    "executive_item_id": "Q56477526",
+    "positions": [
+      {
+        "comment": "Mayor of Strathfield Municipal Council",
+        "position_item_id": "Q56477529"
+      }
+    ]
+  },
+  {
+    "comment": "City of Sydney Council",
+    "area_id": "Q1094194",
+    "executive_item_id": "Q56477532",
+    "positions": [
+      {
+        "comment": "Lord Mayor of Sidney",
+        "position_item_id": "Q56477534"
+      }
+    ]
+  },
+  {
+    "comment": "Lake Macquarie City Council",
+    "area_id": "Q606193",
+    "executive_item_id": "Q56477536",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Lake Macquarie Council",
+        "position_item_id": "Q56477538"
+      }
+    ]
+  },
+  {
+    "comment": "Newcastle City Council",
+    "area_id": "Q820325",
+    "executive_item_id": "Q56477541",
+    "positions": [
+      {
+        "comment": "Lord Mayor of City of Newcastle Council",
+        "position_item_id": "Q56477544"
+      }
+    ]
+  },
+  {
+    "comment": "Council of the Municipality of Kiama",
+    "area_id": "Q753426",
+    "executive_item_id": "Q56477546",
+    "positions": [
+      {
+        "comment": "Mayor of the Council of the Municipality of Kiama",
+        "position_item_id": "Q56477548"
+      }
+    ]
+  },
+  {
+    "comment": "North Sydney Council",
+    "area_id": "Q114395",
+    "executive_item_id": "Q56477552",
+    "positions": [
+      {
+        "comment": "Mayor of North Sydney Council",
+        "position_item_id": "Q56477554"
+      }
+    ]
+  },
+  {
+    "comment": "Randwick City Council",
+    "area_id": "Q1311882",
+    "executive_item_id": "Q56477556",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Randwick",
+        "position_item_id": "Q56477558"
+      }
+    ]
+  },
+  {
+    "comment": "Penrith City Council",
+    "area_id": "Q2069208",
+    "executive_item_id": "Q56477560",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Penrith",
+        "position_item_id": "Q56477562"
+      }
+    ]
+  },
+  {
+    "comment": "Hunters Hill Municipal Council",
+    "area_id": "Q1638179",
+    "executive_item_id": "Q56477564",
+    "positions": [
+      {
+        "comment": "Mayor of Hunter's Hill",
+        "position_item_id": "Q56477566"
+      }
+    ]
+  },
+  {
+    "comment": "Mosman Council",
+    "area_id": "Q13080916",
+    "executive_item_id": "Q56477569",
+    "positions": [
+      {
+        "comment": "Mayor of the Mosman Council",
+        "position_item_id": "Q56477572"
+      }
+    ]
+  },
+  {
+    "comment": "Hornsby Shire Council",
+    "area_id": "Q115549",
+    "executive_item_id": "Q56477574",
+    "positions": [
+      {
+        "comment": "Mayor of Hornsby Shire",
+        "position_item_id": "Q56477577"
+      }
+    ]
+  },
+  {
+    "comment": "Ku-ring-gai Council",
+    "area_id": "Q133642",
+    "executive_item_id": "Q56477579",
+    "positions": [
+      {
+        "comment": "Mayor of Ku-ring-gai Council",
+        "position_item_id": "Q56477582"
+      }
+    ]
+  },
+  {
+    "comment": "Camden Council",
+    "area_id": "Q979106",
+    "executive_item_id": "Q56477584",
+    "positions": [
+      {
+        "comment": "Mayor of Camden",
+        "position_item_id": "Q56477586"
+      }
+    ]
+  },
+  {
+    "comment": "Burwood Council",
+    "area_id": "Q1017201",
+    "executive_item_id": "Q56477588",
+    "positions": [
+      {
+        "comment": "Mayor of the Municipality of Burwood",
+        "position_item_id": "Q56477590"
+      }
+    ]
+  },
+  {
+    "comment": "Campbelltown City Council",
+    "area_id": "Q1030585",
+    "executive_item_id": "Q56477592",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Campbelltown",
+        "position_item_id": "Q56477594"
+      }
+    ]
+  },
+  {
+    "comment": "Liverpool City Council",
+    "area_id": "Q1309863",
+    "executive_item_id": "Q56477596",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Liverpool",
+        "position_item_id": "Q56477598"
+      }
+    ]
+  },
+  {
+    "comment": "Canada Bay City Council",
+    "area_id": "Q582899",
+    "executive_item_id": "Q56477600",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Canada Bay Council",
+        "position_item_id": "Q56477602"
+      }
+    ]
+  },
+  {
+    "comment": "Blacktown City Council",
+    "area_id": "Q30919",
+    "executive_item_id": "Q56477604",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Blacktown",
+        "position_item_id": "Q56477606"
+      }
+    ]
+  },
+  {
+    "comment": "Willoughby City Council",
+    "area_id": "Q634933",
+    "executive_item_id": "Q56477608",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Willoughby",
+        "position_item_id": "Q56477610"
+      }
+    ]
+  },
+  {
+    "comment": "Fairfield City Council",
+    "area_id": "Q571368",
+    "executive_item_id": "Q56477613",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Fairfield",
+        "position_item_id": "Q56477615"
+      }
+    ]
+  },
+  {
+    "comment": "Sutherland Shire Council",
+    "area_id": "Q1818997",
+    "executive_item_id": "Q56477617",
+    "positions": [
+      {
+        "comment": "Mayor of Sutherland Shire",
+        "position_item_id": "Q56477619"
+      }
+    ]
+  },
+  {
+    "comment": "Shellharbour City Council",
+    "area_id": "Q1534913",
+    "executive_item_id": "Q56477622",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Shellharbour",
+        "position_item_id": "Q56477624"
+      }
+    ]
+  },
+  {
+    "comment": "Wollongong City Council",
+    "area_id": "Q820296",
+    "executive_item_id": "Q56477626",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Wollongong",
+        "position_item_id": "Q56477628"
+      }
+    ]
+  },
+  {
+    "comment": "Parramatta Council City Council",
+    "area_id": "Q11079799",
+    "executive_item_id": "Q56477632",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Parramatta Council",
+        "position_item_id": "Q56477634"
+      }
+    ]
+  },
+  {
+    "comment": "Cumberland Council",
+    "area_id": "Q24055697",
+    "executive_item_id": "Q56477636",
+    "positions": [
+      {
+        "comment": "Mayor of Cumberland Council",
+        "position_item_id": "Q56477638"
+      }
+    ]
+  },
+  {
+    "comment": "Georges River Council",
+    "area_id": "Q24069989",
+    "executive_item_id": "Q56477640",
+    "positions": [
+      {
+        "comment": "Mayor of Georges River Council",
+        "position_item_id": "Q56477642"
+      }
+    ]
+  },
+  {
+    "comment": "Northern Beaches Council",
+    "area_id": "Q24050090",
+    "executive_item_id": "Q56477644",
+    "positions": [
+      {
+        "comment": "Mayor of Northern Beaches Council",
+        "position_item_id": "Q56477646"
+      }
+    ]
+  },
+  {
+    "comment": "Inner West Council",
+    "area_id": "Q24067070",
+    "executive_item_id": "Q56477648",
+    "positions": [
+      {
+        "comment": "Mayor of Inner West Council",
+        "position_item_id": "Q56477650"
+      }
+    ]
+  },
+  {
+    "comment": "Canterbury-Bankstown Council",
+    "area_id": "Q24070750",
+    "executive_item_id": "Q56477652",
+    "positions": [
+      {
+        "comment": "Mayor of Canterbury-Bankstown Council",
+        "position_item_id": "Q56477654"
+      }
+    ]
+  },
+  {
+    "comment": "Bayside Council",
+    "area_id": "Q26835506",
+    "executive_item_id": "Q56477656",
+    "positions": [
+      {
+        "comment": "Mayor of Bayside Council",
+        "position_item_id": "Q56477658"
+      }
+    ]
+  },
+  {
+    "comment": "Brisbane City Council",
+    "area_id": "Q917682",
+    "executive_item_id": "Q56477660",
+    "positions": [
+      {
+        "comment": "Lord Mayor of Brisbane",
+        "position_item_id": "Q29467089"
+      }
+    ]
+  },
+  {
+    "comment": "Sunshine Coast Region Council",
+    "area_id": "Q1065035",
+    "executive_item_id": "Q56477664",
+    "positions": [
+      {
+        "comment": "Mayor of Sunshine Coast Region",
+        "position_item_id": "Q56477666"
+      }
+    ]
+  },
+  {
+    "comment": "Shire of Noosa Council",
+    "area_id": "Q1322992",
+    "executive_item_id": "Q56477668",
+    "positions": [
+      {
+        "comment": "Mayor of Shire of Noosa",
+        "position_item_id": "Q56477670"
+      }
+    ]
+  },
+  {
+    "comment": "Gold Coast City Council",
+    "area_id": "Q1069385",
+    "executive_item_id": "Q56477672",
+    "positions": [
+      {
+        "comment": "Mayor of Gold Coast City",
+        "position_item_id": "Q56477674"
+      }
+    ]
+  },
+  {
+    "comment": "Tea Tree Gully City Council",
+    "area_id": "Q2062776",
+    "executive_item_id": "Q56477676",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Tea Tree Gully",
+        "position_item_id": "Q56477679"
+      }
+    ]
+  },
+  {
+    "comment": "West Torrens City Council",
+    "area_id": "Q1813391",
+    "executive_item_id": "Q56477681",
+    "positions": [
+      {
+        "comment": "Mayor of the City of West Torrens",
+        "position_item_id": "Q56477683"
+      }
+    ]
+  },
+  {
+    "comment": "Holdfast Bay City Council",
+    "area_id": "Q1624414",
+    "executive_item_id": "Q56477685",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Holdfast Bay",
+        "position_item_id": "Q56477687"
+      }
+    ]
+  },
+  {
+    "comment": "Adelaide Hills Council",
+    "area_id": "Q353997",
+    "executive_item_id": "Q56477689",
+    "positions": [
+      {
+        "comment": "Mayor of Adelaide Hills Council",
+        "position_item_id": "Q56477691"
+      }
+    ]
+  },
+  {
+    "comment": "Town of Walkerville Council",
+    "area_id": "Q1521840",
+    "executive_item_id": "Q56477693",
+    "positions": [
+      {
+        "comment": "Mayor of Walkerville",
+        "position_item_id": "Q56477695"
+      }
+    ]
+  },
+  {
+    "comment": "Adelaide City Council",
+    "area_id": "Q1094063",
+    "executive_item_id": "Q56477697",
+    "positions": [
+      {
+        "comment": "Lord Mayor of Adelaide",
+        "position_item_id": "Q49031784"
+      }
+    ]
+  },
+  {
+    "comment": "Burnside City Council",
+    "area_id": "Q1016835",
+    "executive_item_id": "Q56477701",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Burnside",
+        "position_item_id": "Q56477703"
+      }
+    ]
+  },
+  {
+    "comment": "Campbelltown City Council",
+    "area_id": "Q1030580",
+    "executive_item_id": "Q56477705",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Campbelltown",
+        "position_item_id": "Q56477707"
+      }
+    ]
+  },
+  {
+    "comment": "Mitcham City Council",
+    "area_id": "Q1279553",
+    "executive_item_id": "Q56477709",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Mitcham",
+        "position_item_id": "Q56477711"
+      }
+    ]
+  },
+  {
+    "comment": "Port Adelaide Enfield City Council",
+    "area_id": "Q1533526",
+    "executive_item_id": "Q56477713",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Port Adelaide Enfield",
+        "position_item_id": "Q56477715"
+      }
+    ]
+  },
+  {
+    "comment": "Prospect Council",
+    "area_id": "Q3407718",
+    "executive_item_id": "Q56477717",
+    "positions": [
+      {
+        "comment": "Mayor of Prospect",
+        "position_item_id": "Q56477719"
+      }
+    ]
+  },
+  {
+    "comment": "Salisbury City Council",
+    "area_id": "Q947334",
+    "executive_item_id": "Q56477721",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Salisbury",
+        "position_item_id": "Q56477725"
+      }
+    ]
+  },
+  {
+    "comment": "Unley City Council",
+    "area_id": "Q1766439",
+    "executive_item_id": "Q56477727",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Unley",
+        "position_item_id": "Q56477729"
+      }
+    ]
+  },
+  {
+    "comment": "Town of Gawler Council",
+    "area_id": "Q1847617",
+    "executive_item_id": "Q56477731",
+    "positions": [
+      {
+        "comment": "Mayor of Gawler",
+        "position_item_id": "Q56477733"
+      }
+    ]
+  },
+  {
+    "comment": "Charles Sturt City Council",
+    "area_id": "Q1066185",
+    "executive_item_id": "Q56477735",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Charles Sturt",
+        "position_item_id": "Q56477737"
+      }
+    ]
+  },
+  {
+    "comment": "Marion City Council",
+    "area_id": "Q1812769",
+    "executive_item_id": "Q56477739",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Marion",
+        "position_item_id": "Q56477741"
+      }
+    ]
+  },
+  {
+    "comment": "Norwood Payneham & St Peters City Council",
+    "area_id": "Q905608",
+    "executive_item_id": "Q56477743",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Norwood Payneham & St Peters",
+        "position_item_id": "Q56477745"
+      }
+    ]
+  },
+  {
+    "comment": "Onkaparinga City Council",
+    "area_id": "Q1812778",
+    "executive_item_id": "Q56477747",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Onkaparinga",
+        "position_item_id": "Q56477749"
+      }
+    ]
+  },
+  {
+    "comment": "Playford City Council",
+    "area_id": "Q976355",
+    "executive_item_id": "Q56477751",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Playford",
+        "position_item_id": "Q56477753"
+      }
+    ]
+  },
+  {
+    "comment": "Moonee Valley City Council",
+    "area_id": "Q1786648",
+    "executive_item_id": "Q56477755",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Moonee Valley",
+        "position_item_id": "Q56477757"
+      }
+    ]
+  },
+  {
+    "comment": "Moreland City Council",
+    "area_id": "Q1947531",
+    "executive_item_id": "Q56477759",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Moreland",
+        "position_item_id": "Q56477761"
+      }
+    ]
+  },
+  {
+    "comment": "Melbourne City Council",
+    "area_id": "Q1919098",
+    "executive_item_id": "Q56477763",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Melbourne",
+        "position_item_id": "Q56477765"
+      }
+    ]
+  },
+  {
+    "comment": "Glen Eira City Council",
+    "area_id": "Q1530742",
+    "executive_item_id": "Q56477767",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Glen Eira",
+        "position_item_id": "Q56477769"
+      }
+    ]
+  },
+  {
+    "comment": "Bayside City Council",
+    "area_id": "Q546554",
+    "executive_item_id": "Q56477771",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Bayside",
+        "position_item_id": "Q56477773"
+      }
+    ]
+  },
+  {
+    "comment": "Banyule City Council",
+    "area_id": "Q650144",
+    "executive_item_id": "Q56477775",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Banyule",
+        "position_item_id": "Q56477777"
+      }
+    ]
+  },
+  {
+    "comment": "Brimbank City Council",
+    "area_id": "Q917261",
+    "executive_item_id": "Q56477779",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Brimbank",
+        "position_item_id": "Q56477781"
+      }
+    ]
+  },
+  {
+    "comment": "Manningham City Council",
+    "area_id": "Q765334",
+    "executive_item_id": "Q56477783",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Manningham",
+        "position_item_id": "Q56477785"
+      }
+    ]
+  },
+  {
+    "comment": "Whitehorse City Council",
+    "area_id": "Q1502393",
+    "executive_item_id": "Q56477787",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Whitehorse",
+        "position_item_id": "Q56477789"
+      }
+    ]
+  },
+  {
+    "comment": "Boroondara City Council",
+    "area_id": "Q894060",
+    "executive_item_id": "Q56477791",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Boroondara",
+        "position_item_id": "Q56477793"
+      }
+    ]
+  },
+  {
+    "comment": "Stonnington City Council",
+    "area_id": "Q1409285",
+    "executive_item_id": "Q56477799",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Stonnington",
+        "position_item_id": "Q56477801"
+      }
+    ]
+  },
+  {
+    "comment": "Darebin City Council",
+    "area_id": "Q541032",
+    "executive_item_id": "Q56477803",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Darebin",
+        "position_item_id": "Q56477805"
+      }
+    ]
+  },
+  {
+    "comment": "Port Phillip City Council",
+    "area_id": "Q747477",
+    "executive_item_id": "Q56477807",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Port Phillip",
+        "position_item_id": "Q56477809"
+      }
+    ]
+  },
+  {
+    "comment": "Monash City Council",
+    "area_id": "Q1785372",
+    "executive_item_id": "Q56477811",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Monash",
+        "position_item_id": "Q56477813"
+      }
+    ]
+  },
+  {
+    "comment": "Kingston City Council",
+    "area_id": "Q1500830",
+    "executive_item_id": "Q56477816",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Kingston",
+        "position_item_id": "Q56477818"
+      }
+    ]
+  },
+  {
+    "comment": "Maribyrnong City Council",
+    "area_id": "Q1502208",
+    "executive_item_id": "Q56477820",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Maribyrnong",
+        "position_item_id": "Q56477822"
+      }
+    ]
+  },
+  {
+    "comment": "Hobsons Bay City Council",
+    "area_id": "Q660298",
+    "executive_item_id": "Q56477824",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Hobsons Bay",
+        "position_item_id": "Q56477826"
+      }
+    ]
+  },
+  {
+    "comment": "Nedlands City Council",
+    "area_id": "Q1490452",
+    "executive_item_id": "Q56477828",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Nedlands",
+        "position_item_id": "Q56477830"
+      }
+    ]
+  },
+  {
+    "comment": "Rockingham City Council",
+    "area_id": "Q1660264",
+    "executive_item_id": "Q56477832",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Rockingham",
+        "position_item_id": "Q56477834"
+      }
+    ]
+  },
+  {
+    "comment": "Wanneroo City Council",
+    "area_id": "Q543262",
+    "executive_item_id": "Q56477836",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Wanneroo",
+        "position_item_id": "Q56477838"
+      }
+    ]
+  },
+  {
+    "comment": "Vincent City Council",
+    "area_id": "Q1573718",
+    "executive_item_id": "Q56477840",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Vincent",
+        "position_item_id": "Q56477842"
+      }
+    ]
+  },
+  {
+    "comment": "Cockburn City Council",
+    "area_id": "Q1105257",
+    "executive_item_id": "Q56477844",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Cockburn",
+        "position_item_id": "Q56477846"
+      }
+    ]
+  },
+  {
+    "comment": "Melville City Council",
+    "area_id": "Q549764",
+    "executive_item_id": "Q56477848",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Melville",
+        "position_item_id": "Q56477850"
+      }
+    ]
+  },
+  {
+    "comment": "Swan City Council",
+    "area_id": "Q1506748",
+    "executive_item_id": "Q56477852",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Swan",
+        "position_item_id": "Q56477854"
+      }
+    ]
+  },
+  {
+    "comment": "Bayswater City Council",
+    "area_id": "Q606312",
+    "executive_item_id": "Q56477856",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Bayswater",
+        "position_item_id": "Q56477858"
+      }
+    ]
+  },
+  {
+    "comment": "Shire of Serpentine-Jarrahdale Council",
+    "area_id": "Q2094463",
+    "executive_item_id": "Q56477860",
+    "positions": [
+      {
+        "comment": "Mayor of Shire of Serpentine-Jarrahdale",
+        "position_item_id": "Q56477862"
+      }
+    ]
+  },
+  {
+    "comment": "Town of Victoria Park Council",
+    "area_id": "Q604307",
+    "executive_item_id": "Q56477864",
+    "positions": [
+      {
+        "comment": "Mayor of Victoria Park",
+        "position_item_id": "Q56477866"
+      }
+    ]
+  },
+  {
+    "comment": "Canning City Council",
+    "area_id": "Q585453",
+    "executive_item_id": "Q56477868",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Canning",
+        "position_item_id": "Q56477870"
+      }
+    ]
+  },
+  {
+    "comment": "South Perth City Council",
+    "area_id": "Q1671784",
+    "executive_item_id": "Q56477872",
+    "positions": [
+      {
+        "comment": "Mayor of the City of South Perth",
+        "position_item_id": "Q56477874"
+      }
+    ]
+  },
+  {
+    "comment": "Shire of Mundaring Council",
+    "area_id": "Q1261226",
+    "executive_item_id": "Q56477876",
+    "positions": [
+      {
+        "comment": "Mayor of Shire of Mundaring",
+        "position_item_id": "Q56477878"
+      }
+    ]
+  },
+  {
+    "comment": "Gosnells City Council",
+    "area_id": "Q1538602",
+    "executive_item_id": "Q56477880",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Gosnells",
+        "position_item_id": "Q56477882"
+      }
+    ]
+  },
+  {
+    "comment": "Armadale City Council",
+    "area_id": "Q606256",
+    "executive_item_id": "Q56477884",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Armadale",
+        "position_item_id": "Q56477886"
+      }
+    ]
+  },
+  {
+    "comment": "Stirling City Council",
+    "area_id": "Q606236",
+    "executive_item_id": "Q56477888",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Stirling",
+        "position_item_id": "Q56477890"
+      }
+    ]
+  },
+  {
+    "comment": "Belmont City Council",
+    "area_id": "Q606246",
+    "executive_item_id": "Q56477892",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Belmont",
+        "position_item_id": "Q56477894"
+      }
+    ]
+  },
+  {
+    "comment": "Town of Claremont Council",
+    "area_id": "Q543331",
+    "executive_item_id": "Q56477896",
+    "positions": [
+      {
+        "comment": "Mayor of Claremont",
+        "position_item_id": "Q56477898"
+      }
+    ]
+  },
+  {
+    "comment": "Town of East Fremantle Council",
+    "area_id": "Q604376",
+    "executive_item_id": "Q56477900",
+    "positions": [
+      {
+        "comment": "Mayor of East Fremantle",
+        "position_item_id": "Q56477902"
+      }
+    ]
+  },
+  {
+    "comment": "Town of Cambridge Council",
+    "area_id": "Q736170",
+    "executive_item_id": "Q56477904",
+    "positions": [
+      {
+        "comment": "Mayor of Cambridge",
+        "position_item_id": "Q56477906"
+      }
+    ]
+  },
+  {
+    "comment": "Joondalup City Council",
+    "area_id": "Q1703523",
+    "executive_item_id": "Q56477908",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Joondalup",
+        "position_item_id": "Q56477910"
+      }
+    ]
+  },
+  {
+    "comment": "Subiaco City Council",
+    "area_id": "Q1857834",
+    "executive_item_id": "Q56477912",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Subiaco",
+        "position_item_id": "Q56477914"
+      }
+    ]
+  },
+  {
+    "comment": "Shire of Peppermint Grove Council",
+    "area_id": "Q1469756",
+    "executive_item_id": "Q56477916",
+    "positions": [
+      {
+        "comment": "Mayor of Shire of Peppermint Grove",
+        "position_item_id": "Q56477918"
+      }
+    ]
+  },
+  {
+    "comment": "Town of Mosman Park Council",
+    "area_id": "Q476922",
+    "executive_item_id": "Q56477920",
+    "positions": [
+      {
+        "comment": "Mayor of Mosman Park",
+        "position_item_id": "Q56477923"
+      }
+    ]
+  },
+  {
+    "comment": "Town of Cottesloe Council",
+    "area_id": "Q1136726",
+    "executive_item_id": "Q56477926",
+    "positions": [
+      {
+        "comment": "Mayor of Cottesloe",
+        "position_item_id": "Q56477928"
+      }
+    ]
+  },
+  {
+    "comment": "Town of Bassendean Council",
+    "area_id": "Q604332",
+    "executive_item_id": "Q56477930",
+    "positions": [
+      {
+        "comment": "Mayor of Bassendean",
+        "position_item_id": "Q56477932"
+      }
+    ]
+  },
+  {
+    "comment": "Fremantle City Council",
+    "area_id": "Q1455046",
+    "executive_item_id": "Q56477934",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Fremantle",
+        "position_item_id": "Q56477936"
+      }
+    ]
+  },
+  {
+    "comment": "Perth City Council",
+    "area_id": "Q1855330",
+    "executive_item_id": "Q56477938",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Perth",
+        "position_item_id": "Q56477940"
+      }
+    ]
+  },
+  {
+    "comment": "Kwinana City Council",
+    "area_id": "Q1794961",
+    "executive_item_id": "Q56477942",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Kwinana",
+        "position_item_id": "Q56477945"
+      }
+    ]
+  },
+  {
+    "comment": "Kalamunda City Council",
+    "area_id": "Q1721949",
+    "executive_item_id": "Q56477947",
+    "positions": [
+      {
+        "comment": "Mayor of the City of Kalamunda",
+        "position_item_id": "Q56477949"
+      }
+    ]
+  },
+  {
+    "comment": "City of Salisbury",
+    "area_id": "Q947334",
+    "executive_item_id": "Q947334",
+    "positions": [
+      {
+        "comment": "Mayor of Salisbury",
+        "position_item_id": "Q55062908"
       }
     ]
   }
