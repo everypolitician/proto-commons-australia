@@ -1,5 +1,18 @@
 [
   {
+    "comment": "Yarra City Council",
+    "house_item_id": "Q28223935",
+    "seat_count": null,
+    "area_id": "Q1474848",
+    "position_item_id": "Q56477796",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
     "comment": "Tasmanian House of Assembly",
     "house_item_id": "Q2867120",
     "seat_count": "25",
@@ -70,6 +83,1358 @@
     "seat_count": "25",
     "area_id": "Q3258",
     "position_item_id": "Q6814365",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Waverley Municipal Council",
+    "house_item_id": "Q56477506",
+    "seat_count": "12",
+    "area_id": "Q2299900",
+    "position_item_id": "Q56477508",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Lane Cove Council",
+    "house_item_id": "Q56477512",
+    "seat_count": "9",
+    "area_id": "Q32311",
+    "position_item_id": "Q56477513",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Woollahra Municipal Council",
+    "house_item_id": "Q56477516",
+    "seat_count": "15",
+    "area_id": "Q1623372",
+    "position_item_id": "Q56477518",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "City of Ryde Council",
+    "house_item_id": "Q56477522",
+    "seat_count": "12",
+    "area_id": "Q2178230",
+    "position_item_id": "Q56477523",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Strathfield Municipal Council",
+    "house_item_id": "Q56477526",
+    "seat_count": "7",
+    "area_id": "Q660171",
+    "position_item_id": "Q56477527",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "City of Sydney Council",
+    "house_item_id": "Q56477532",
+    "seat_count": "10",
+    "area_id": "Q1094194",
+    "position_item_id": "Q56477533",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Lake Macquarie City Council",
+    "house_item_id": "Q56477536",
+    "seat_count": "13",
+    "area_id": "Q606193",
+    "position_item_id": "Q56477537",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Newcastle City Council",
+    "house_item_id": "Q56477541",
+    "seat_count": "13",
+    "area_id": "Q820325",
+    "position_item_id": "Q56477543",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Council of the Municipality of Kiama",
+    "house_item_id": "Q56477546",
+    "seat_count": "9",
+    "area_id": "Q753426",
+    "position_item_id": "Q56477547",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "North Sydney Council",
+    "house_item_id": "Q56477552",
+    "seat_count": "10",
+    "area_id": "Q114395",
+    "position_item_id": "Q56477553",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Randwick City Council",
+    "house_item_id": "Q56477556",
+    "seat_count": "15",
+    "area_id": "Q1311882",
+    "position_item_id": "Q56477557",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Penrith City Council",
+    "house_item_id": "Q56477560",
+    "seat_count": "15",
+    "area_id": "Q2069208",
+    "position_item_id": "Q56477561",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Hunters Hill Municipal Council",
+    "house_item_id": "Q56477564",
+    "seat_count": "7",
+    "area_id": "Q1638179",
+    "position_item_id": "Q56477565",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Mosman Council",
+    "house_item_id": "Q56477569",
+    "seat_count": "7",
+    "area_id": "Q13080916",
+    "position_item_id": "Q56477571",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Hornsby Shire Council",
+    "house_item_id": "Q56477574",
+    "seat_count": "10",
+    "area_id": "Q115549",
+    "position_item_id": "Q56477576",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Ku-ring-gai Council",
+    "house_item_id": "Q56477579",
+    "seat_count": "10",
+    "area_id": "Q133642",
+    "position_item_id": "Q56477580",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Camden Council",
+    "house_item_id": "Q56477584",
+    "seat_count": "9",
+    "area_id": "Q979106",
+    "position_item_id": "Q56477585",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Burwood Council",
+    "house_item_id": "Q56477588",
+    "seat_count": "7",
+    "area_id": "Q1017201",
+    "position_item_id": "Q56477589",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Campbelltown City Council",
+    "house_item_id": "Q56477592",
+    "seat_count": "15",
+    "area_id": "Q1030585",
+    "position_item_id": "Q56477593",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Liverpool City Council",
+    "house_item_id": "Q56477596",
+    "seat_count": "11",
+    "area_id": "Q1309863",
+    "position_item_id": "Q56477597",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Canada Bay City Council",
+    "house_item_id": "Q56477600",
+    "seat_count": "9",
+    "area_id": "Q582899",
+    "position_item_id": "Q56477601",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Blacktown City Council",
+    "house_item_id": "Q56477604",
+    "seat_count": null,
+    "area_id": "Q30919",
+    "position_item_id": "Q56477605",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Willoughby City Council",
+    "house_item_id": "Q56477608",
+    "seat_count": null,
+    "area_id": "Q634933",
+    "position_item_id": "Q56477609",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Fairfield City Council",
+    "house_item_id": "Q56477613",
+    "seat_count": null,
+    "area_id": "Q571368",
+    "position_item_id": "Q56477614",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Sutherland Shire Council",
+    "house_item_id": "Q56477617",
+    "seat_count": null,
+    "area_id": "Q1818997",
+    "position_item_id": "Q56477618",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Shellharbour City Council",
+    "house_item_id": "Q56477622",
+    "seat_count": null,
+    "area_id": "Q1534913",
+    "position_item_id": "Q56477623",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Wollongong City Council",
+    "house_item_id": "Q56477626",
+    "seat_count": null,
+    "area_id": "Q820296",
+    "position_item_id": "Q56477627",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Parramatta Council City Council",
+    "house_item_id": "Q56477632",
+    "seat_count": null,
+    "area_id": "Q11079799",
+    "position_item_id": "Q56477633",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Cumberland Council",
+    "house_item_id": "Q56477636",
+    "seat_count": null,
+    "area_id": "Q24055697",
+    "position_item_id": "Q56477637",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Georges River Council",
+    "house_item_id": "Q56477640",
+    "seat_count": null,
+    "area_id": "Q24069989",
+    "position_item_id": "Q56477641",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Northern Beaches Council",
+    "house_item_id": "Q56477644",
+    "seat_count": null,
+    "area_id": "Q24050090",
+    "position_item_id": "Q56477645",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Inner West Council",
+    "house_item_id": "Q56477648",
+    "seat_count": null,
+    "area_id": "Q24067070",
+    "position_item_id": "Q56477649",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Canterbury-Bankstown Council",
+    "house_item_id": "Q56477652",
+    "seat_count": null,
+    "area_id": "Q24070750",
+    "position_item_id": "Q56477653",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Bayside Council",
+    "house_item_id": "Q56477656",
+    "seat_count": null,
+    "area_id": "Q26835506",
+    "position_item_id": "Q56477657",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Brisbane City Council",
+    "house_item_id": "Q56477660",
+    "seat_count": null,
+    "area_id": "Q917682",
+    "position_item_id": "Q56477661",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Sunshine Coast Region Council",
+    "house_item_id": "Q56477664",
+    "seat_count": null,
+    "area_id": "Q1065035",
+    "position_item_id": "Q56477665",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Shire of Noosa Council",
+    "house_item_id": "Q56477668",
+    "seat_count": null,
+    "area_id": "Q1322992",
+    "position_item_id": "Q56477669",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Gold Coast City Council",
+    "house_item_id": "Q56477672",
+    "seat_count": null,
+    "area_id": "Q1069385",
+    "position_item_id": "Q56477673",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Tea Tree Gully City Council",
+    "house_item_id": "Q56477676",
+    "seat_count": null,
+    "area_id": "Q2062776",
+    "position_item_id": "Q56477678",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "West Torrens City Council",
+    "house_item_id": "Q56477681",
+    "seat_count": null,
+    "area_id": "Q1813391",
+    "position_item_id": "Q56477682",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Holdfast Bay City Council",
+    "house_item_id": "Q56477685",
+    "seat_count": null,
+    "area_id": "Q1624414",
+    "position_item_id": "Q56477686",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Adelaide Hills Council",
+    "house_item_id": "Q56477689",
+    "seat_count": null,
+    "area_id": "Q353997",
+    "position_item_id": "Q56477690",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Town of Walkerville Council",
+    "house_item_id": "Q56477693",
+    "seat_count": null,
+    "area_id": "Q1521840",
+    "position_item_id": "Q56477694",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Adelaide City Council",
+    "house_item_id": "Q56477697",
+    "seat_count": null,
+    "area_id": "Q1094063",
+    "position_item_id": "Q56477698",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Burnside City Council",
+    "house_item_id": "Q56477701",
+    "seat_count": null,
+    "area_id": "Q1016835",
+    "position_item_id": "Q56477702",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Campbelltown City Council",
+    "house_item_id": "Q56477705",
+    "seat_count": null,
+    "area_id": "Q1030580",
+    "position_item_id": "Q56477706",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Mitcham City Council",
+    "house_item_id": "Q56477709",
+    "seat_count": null,
+    "area_id": "Q1279553",
+    "position_item_id": "Q56477710",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Port Adelaide Enfield City Council",
+    "house_item_id": "Q56477713",
+    "seat_count": null,
+    "area_id": "Q1533526",
+    "position_item_id": "Q56477714",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Prospect Council",
+    "house_item_id": "Q56477717",
+    "seat_count": null,
+    "area_id": "Q3407718",
+    "position_item_id": "Q56477718",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Salisbury City Council",
+    "house_item_id": "Q56477721",
+    "seat_count": null,
+    "area_id": "Q947334",
+    "position_item_id": "Q56477722",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Unley City Council",
+    "house_item_id": "Q56477727",
+    "seat_count": null,
+    "area_id": "Q1766439",
+    "position_item_id": "Q56477728",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Town of Gawler Council",
+    "house_item_id": "Q56477731",
+    "seat_count": null,
+    "area_id": "Q1847617",
+    "position_item_id": "Q56477732",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Charles Sturt City Council",
+    "house_item_id": "Q56477735",
+    "seat_count": null,
+    "area_id": "Q1066185",
+    "position_item_id": "Q56477736",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Marion City Council",
+    "house_item_id": "Q56477739",
+    "seat_count": null,
+    "area_id": "Q1812769",
+    "position_item_id": "Q56477740",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Norwood Payneham & St Peters City Council",
+    "house_item_id": "Q56477743",
+    "seat_count": null,
+    "area_id": "Q905608",
+    "position_item_id": "Q56477744",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Onkaparinga City Council",
+    "house_item_id": "Q56477747",
+    "seat_count": null,
+    "area_id": "Q1812778",
+    "position_item_id": "Q56477748",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Playford City Council",
+    "house_item_id": "Q56477751",
+    "seat_count": null,
+    "area_id": "Q976355",
+    "position_item_id": "Q56477752",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Moonee Valley City Council",
+    "house_item_id": "Q56477755",
+    "seat_count": null,
+    "area_id": "Q1786648",
+    "position_item_id": "Q56477756",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Moreland City Council",
+    "house_item_id": "Q56477759",
+    "seat_count": null,
+    "area_id": "Q1947531",
+    "position_item_id": "Q56477760",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Melbourne City Council",
+    "house_item_id": "Q56477763",
+    "seat_count": null,
+    "area_id": "Q1919098",
+    "position_item_id": "Q56477764",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Glen Eira City Council",
+    "house_item_id": "Q56477767",
+    "seat_count": null,
+    "area_id": "Q1530742",
+    "position_item_id": "Q56477768",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Bayside City Council",
+    "house_item_id": "Q56477771",
+    "seat_count": null,
+    "area_id": "Q546554",
+    "position_item_id": "Q56477772",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Banyule City Council",
+    "house_item_id": "Q56477775",
+    "seat_count": null,
+    "area_id": "Q650144",
+    "position_item_id": "Q56477776",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Brimbank City Council",
+    "house_item_id": "Q56477779",
+    "seat_count": null,
+    "area_id": "Q917261",
+    "position_item_id": "Q56477780",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Manningham City Council",
+    "house_item_id": "Q56477783",
+    "seat_count": null,
+    "area_id": "Q765334",
+    "position_item_id": "Q56477784",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Whitehorse City Council",
+    "house_item_id": "Q56477787",
+    "seat_count": null,
+    "area_id": "Q1502393",
+    "position_item_id": "Q56477788",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Boroondara City Council",
+    "house_item_id": "Q56477791",
+    "seat_count": null,
+    "area_id": "Q894060",
+    "position_item_id": "Q56477792",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Stonnington City Council",
+    "house_item_id": "Q56477799",
+    "seat_count": null,
+    "area_id": "Q1409285",
+    "position_item_id": "Q56477800",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Darebin City Council",
+    "house_item_id": "Q56477803",
+    "seat_count": null,
+    "area_id": "Q541032",
+    "position_item_id": "Q56477804",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Port Phillip City Council",
+    "house_item_id": "Q56477807",
+    "seat_count": null,
+    "area_id": "Q747477",
+    "position_item_id": "Q56477808",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Monash City Council",
+    "house_item_id": "Q56477811",
+    "seat_count": null,
+    "area_id": "Q1785372",
+    "position_item_id": "Q56477812",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Kingston City Council",
+    "house_item_id": "Q56477816",
+    "seat_count": null,
+    "area_id": "Q1500830",
+    "position_item_id": "Q56477817",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Maribyrnong City Council",
+    "house_item_id": "Q56477820",
+    "seat_count": null,
+    "area_id": "Q1502208",
+    "position_item_id": "Q56477821",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Hobsons Bay City Council",
+    "house_item_id": "Q56477824",
+    "seat_count": null,
+    "area_id": "Q660298",
+    "position_item_id": "Q56477825",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Nedlands City Council",
+    "house_item_id": "Q56477828",
+    "seat_count": null,
+    "area_id": "Q1490452",
+    "position_item_id": "Q56477829",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Rockingham City Council",
+    "house_item_id": "Q56477832",
+    "seat_count": null,
+    "area_id": "Q1660264",
+    "position_item_id": "Q56477833",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Wanneroo City Council",
+    "house_item_id": "Q56477836",
+    "seat_count": null,
+    "area_id": "Q543262",
+    "position_item_id": "Q56477837",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Vincent City Council",
+    "house_item_id": "Q56477840",
+    "seat_count": null,
+    "area_id": "Q1573718",
+    "position_item_id": "Q56477841",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Cockburn City Council",
+    "house_item_id": "Q56477844",
+    "seat_count": null,
+    "area_id": "Q1105257",
+    "position_item_id": "Q56477845",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Melville City Council",
+    "house_item_id": "Q56477848",
+    "seat_count": null,
+    "area_id": "Q549764",
+    "position_item_id": "Q56477849",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Swan City Council",
+    "house_item_id": "Q56477852",
+    "seat_count": null,
+    "area_id": "Q1506748",
+    "position_item_id": "Q56477853",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Bayswater City Council",
+    "house_item_id": "Q56477856",
+    "seat_count": null,
+    "area_id": "Q606312",
+    "position_item_id": "Q56477857",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Shire of Serpentine-Jarrahdale Council",
+    "house_item_id": "Q56477860",
+    "seat_count": null,
+    "area_id": "Q2094463",
+    "position_item_id": "Q56477861",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Town of Victoria Park Council",
+    "house_item_id": "Q56477864",
+    "seat_count": null,
+    "area_id": "Q604307",
+    "position_item_id": "Q56477865",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Canning City Council",
+    "house_item_id": "Q56477868",
+    "seat_count": null,
+    "area_id": "Q585453",
+    "position_item_id": "Q56477869",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "South Perth City Council",
+    "house_item_id": "Q56477872",
+    "seat_count": null,
+    "area_id": "Q1671784",
+    "position_item_id": "Q56477873",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Shire of Mundaring Council",
+    "house_item_id": "Q56477876",
+    "seat_count": null,
+    "area_id": "Q1261226",
+    "position_item_id": "Q56477877",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Gosnells City Council",
+    "house_item_id": "Q56477880",
+    "seat_count": null,
+    "area_id": "Q1538602",
+    "position_item_id": "Q56477881",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Armadale City Council",
+    "house_item_id": "Q56477884",
+    "seat_count": null,
+    "area_id": "Q606256",
+    "position_item_id": "Q56477885",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Stirling City Council",
+    "house_item_id": "Q56477888",
+    "seat_count": null,
+    "area_id": "Q606236",
+    "position_item_id": "Q56477889",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Belmont City Council",
+    "house_item_id": "Q56477892",
+    "seat_count": null,
+    "area_id": "Q606246",
+    "position_item_id": "Q56477893",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Town of Claremont Council",
+    "house_item_id": "Q56477896",
+    "seat_count": null,
+    "area_id": "Q543331",
+    "position_item_id": "Q56477897",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Town of East Fremantle Council",
+    "house_item_id": "Q56477900",
+    "seat_count": null,
+    "area_id": "Q604376",
+    "position_item_id": "Q56477901",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Town of Cambridge Council",
+    "house_item_id": "Q56477904",
+    "seat_count": null,
+    "area_id": "Q736170",
+    "position_item_id": "Q56477905",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Joondalup City Council",
+    "house_item_id": "Q56477908",
+    "seat_count": null,
+    "area_id": "Q1703523",
+    "position_item_id": "Q56477909",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Subiaco City Council",
+    "house_item_id": "Q56477912",
+    "seat_count": null,
+    "area_id": "Q1857834",
+    "position_item_id": "Q56477913",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Shire of Peppermint Grove Council",
+    "house_item_id": "Q56477916",
+    "seat_count": null,
+    "area_id": "Q1469756",
+    "position_item_id": "Q56477917",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Town of Mosman Park Council",
+    "house_item_id": "Q56477920",
+    "seat_count": null,
+    "area_id": "Q476922",
+    "position_item_id": "Q56477921",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Town of Cottesloe Council",
+    "house_item_id": "Q56477926",
+    "seat_count": null,
+    "area_id": "Q1136726",
+    "position_item_id": "Q56477927",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Town of Bassendean Council",
+    "house_item_id": "Q56477930",
+    "seat_count": null,
+    "area_id": "Q604332",
+    "position_item_id": "Q56477931",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Fremantle City Council",
+    "house_item_id": "Q56477934",
+    "seat_count": null,
+    "area_id": "Q1455046",
+    "position_item_id": "Q56477935",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Perth City Council",
+    "house_item_id": "Q56477938",
+    "seat_count": null,
+    "area_id": "Q1855330",
+    "position_item_id": "Q56477939",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Kwinana City Council",
+    "house_item_id": "Q56477942",
+    "seat_count": null,
+    "area_id": "Q1794961",
+    "position_item_id": "Q56477943",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Kalamunda City Council",
+    "house_item_id": "Q56477947",
+    "seat_count": null,
+    "area_id": "Q1721949",
+    "position_item_id": "Q56477948",
     "terms": [
       {
         "start_date": "2018-01-01",
