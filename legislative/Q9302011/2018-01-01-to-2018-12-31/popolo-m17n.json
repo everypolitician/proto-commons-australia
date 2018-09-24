@@ -5321,21 +5321,6 @@
     },
     {
       "name": {
-        "lang:en": "John Eren"
-      },
-      "id": "Q6231839",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6231839"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "John Lenders"
       },
       "id": "Q6244533",
@@ -11020,20 +11005,6 @@
       "id": "http://www.wikidata.org/entity/statement/Q6221041-2B57919F-E9D0-4B21-BE2C-00B2F863032F",
       "person_id": "Q6221041",
       "organization_id": "Q9302011",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19185341",
-      "role": {
-        "lang:en": "Member of the Victorian Legislative Council"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q6231839-4225C2EC-DDE7-4844-9BCC-5D8856F669F7",
-      "person_id": "Q6231839",
-      "organization_id": "Q9302011",
-      "area_id": "Q5529852",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
