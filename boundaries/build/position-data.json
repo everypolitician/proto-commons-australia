@@ -224,6 +224,22 @@
     }
   },
   {
+    "role_id": "Q29467089",
+    "role_name": {
+      "lang:en": "Lord Mayor of Brisbane"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477660",
+    "organization_name": {
+      "lang:en": "Brisbane City Council"
+    }
+  },
+  {
     "role_id": "Q319145",
     "role_name": {
       "lang:en": "Prime Minister of Australia"
@@ -237,6 +253,3334 @@
     "organization_id": "Q2028178",
     "organization_name": {
       "lang:en": "Cabinet of Australia"
+    }
+  },
+  {
+    "role_id": "Q56477508",
+    "role_name": {
+      "lang:en": "member of Waverley Municipal Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477506",
+    "organization_name": {
+      "lang:en": "Waverley Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q56477509",
+    "role_name": {
+      "lang:en": "Mayor of Waverley Municipal Council"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477506",
+    "organization_name": {
+      "lang:en": "Waverley Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q56477513",
+    "role_name": {
+      "lang:en": "member of Lane Cove Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477512",
+    "organization_name": {
+      "lang:en": "Lane Cove Council"
+    }
+  },
+  {
+    "role_id": "Q56477514",
+    "role_name": {
+      "lang:en": "Mayor of Lane Cove Council"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477512",
+    "organization_name": {
+      "lang:en": "Lane Cove Council"
+    }
+  },
+  {
+    "role_id": "Q56477518",
+    "role_name": {
+      "lang:en": "member of Woollahra Municipal Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477516",
+    "organization_name": {
+      "lang:en": "Woollahra Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q56477519",
+    "role_name": {
+      "lang:en": "Mayor of Woollahra Municipal Council"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477516",
+    "organization_name": {
+      "lang:en": "Woollahra Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q56477523",
+    "role_name": {
+      "lang:en": "member of City of Ryde Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477522",
+    "organization_name": {
+      "lang:en": "City of Ryde Council"
+    }
+  },
+  {
+    "role_id": "Q56477524",
+    "role_name": {
+      "lang:en": "Mayor of the City of Ryde"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477522",
+    "organization_name": {
+      "lang:en": "City of Ryde Council"
+    }
+  },
+  {
+    "role_id": "Q56477527",
+    "role_name": {
+      "lang:en": "member of Strathfield Municipal Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477526",
+    "organization_name": {
+      "lang:en": "Strathfield Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q56477529",
+    "role_name": {
+      "lang:en": "Mayor of Strathfield Municipal Council"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477526",
+    "organization_name": {
+      "lang:en": "Strathfield Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q56477533",
+    "role_name": {
+      "lang:en": "member of City of Sydney Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477532",
+    "organization_name": {
+      "lang:en": "City of Sydney Council"
+    }
+  },
+  {
+    "role_id": "Q56477534",
+    "role_name": {
+      "lang:en": "Lord Mayor of Sidney"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477532",
+    "organization_name": {
+      "lang:en": "City of Sydney Council"
+    }
+  },
+  {
+    "role_id": "Q56477537",
+    "role_name": {
+      "lang:en": "member of Lake Macquarie City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477536",
+    "organization_name": {
+      "lang:en": "Lake Macquarie City Council"
+    }
+  },
+  {
+    "role_id": "Q56477538",
+    "role_name": {
+      "lang:en": "Mayor of the City of Lake Macquarie Council"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477536",
+    "organization_name": {
+      "lang:en": "Lake Macquarie City Council"
+    }
+  },
+  {
+    "role_id": "Q56477543",
+    "role_name": {
+      "lang:en": "member of Newcastle City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477541",
+    "organization_name": {
+      "lang:en": "Newcastle City Council"
+    }
+  },
+  {
+    "role_id": "Q56477544",
+    "role_name": {
+      "lang:en": "Lord Mayor of City of Newcastle Council"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477541",
+    "organization_name": {
+      "lang:en": "Newcastle City Council"
+    }
+  },
+  {
+    "role_id": "Q56477547",
+    "role_name": {
+      "lang:en": "member of Council of the Municipality of Kiama"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477546",
+    "organization_name": {
+      "lang:en": "Council of the Municipality of Kiama"
+    }
+  },
+  {
+    "role_id": "Q56477548",
+    "role_name": {
+      "lang:en": "Mayor of the Council of the Municipality of Kiama"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477546",
+    "organization_name": {
+      "lang:en": "Council of the Municipality of Kiama"
+    }
+  },
+  {
+    "role_id": "Q56477553",
+    "role_name": {
+      "lang:en": "member of North Sydney Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477552",
+    "organization_name": {
+      "lang:en": "North Sydney Council"
+    }
+  },
+  {
+    "role_id": "Q56477554",
+    "role_name": {
+      "lang:en": "Mayor of North Sydney Council"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477552",
+    "organization_name": {
+      "lang:en": "North Sydney Council"
+    }
+  },
+  {
+    "role_id": "Q56477557",
+    "role_name": {
+      "lang:en": "member of Randwick City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477556",
+    "organization_name": {
+      "lang:en": "Randwick City Council"
+    }
+  },
+  {
+    "role_id": "Q56477558",
+    "role_name": {
+      "lang:en": "Mayor of the City of Randwick"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477556",
+    "organization_name": {
+      "lang:en": "Randwick City Council"
+    }
+  },
+  {
+    "role_id": "Q56477561",
+    "role_name": {
+      "lang:en": "member of Penrith City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477560",
+    "organization_name": {
+      "lang:en": "Penrith City Council"
+    }
+  },
+  {
+    "role_id": "Q56477562",
+    "role_name": {
+      "lang:en": "Mayor of the City of Penrith"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477560",
+    "organization_name": {
+      "lang:en": "Penrith City Council"
+    }
+  },
+  {
+    "role_id": "Q56477565",
+    "role_name": {
+      "lang:en": "member of Hunters Hill Municipal Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477564",
+    "organization_name": {
+      "lang:en": "Hunters Hill Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q56477566",
+    "role_name": {
+      "lang:en": "Mayor of Hunter's Hill"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477564",
+    "organization_name": {
+      "lang:en": "Hunters Hill Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q56477571",
+    "role_name": {
+      "lang:en": "member of Mosman Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477569",
+    "organization_name": {
+      "lang:en": "Mosman Council"
+    }
+  },
+  {
+    "role_id": "Q56477572",
+    "role_name": {
+      "lang:en": "Mayor of the Mosman Council"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477569",
+    "organization_name": {
+      "lang:en": "Mosman Council"
+    }
+  },
+  {
+    "role_id": "Q56477576",
+    "role_name": {
+      "lang:en": "member of Hornsby Shire Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477574",
+    "organization_name": {
+      "lang:en": "Hornsby Shire Council"
+    }
+  },
+  {
+    "role_id": "Q56477577",
+    "role_name": {
+      "lang:en": "Mayor of Hornsby Shire"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477574",
+    "organization_name": {
+      "lang:en": "Hornsby Shire Council"
+    }
+  },
+  {
+    "role_id": "Q56477580",
+    "role_name": {
+      "lang:en": "member of Ku-ring-gai Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477579",
+    "organization_name": {
+      "lang:en": "Ku-ring-gai Council"
+    }
+  },
+  {
+    "role_id": "Q56477582",
+    "role_name": {
+      "lang:en": "Mayor of Ku-ring-gai Council"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477579",
+    "organization_name": {
+      "lang:en": "Ku-ring-gai Council"
+    }
+  },
+  {
+    "role_id": "Q56477585",
+    "role_name": {
+      "lang:en": "member of Camden Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477584",
+    "organization_name": {
+      "lang:en": "Camden Council"
+    }
+  },
+  {
+    "role_id": "Q56477586",
+    "role_name": {
+      "lang:en": "Mayor of Camden"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477584",
+    "organization_name": {
+      "lang:en": "Camden Council"
+    }
+  },
+  {
+    "role_id": "Q56477589",
+    "role_name": {
+      "lang:en": "member of Burwood Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477588",
+    "organization_name": {
+      "lang:en": "Burwood Council"
+    }
+  },
+  {
+    "role_id": "Q56477590",
+    "role_name": {
+      "lang:en": "Mayor of the Municipality of Burwood"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477588",
+    "organization_name": {
+      "lang:en": "Burwood Council"
+    }
+  },
+  {
+    "role_id": "Q56477593",
+    "role_name": {
+      "lang:en": "member of Campbelltown City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477592",
+    "organization_name": {
+      "lang:en": "Campbelltown City Council"
+    }
+  },
+  {
+    "role_id": "Q56477594",
+    "role_name": {
+      "lang:en": "Mayor of the City of Campbelltown"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477592",
+    "organization_name": {
+      "lang:en": "Campbelltown City Council"
+    }
+  },
+  {
+    "role_id": "Q56477597",
+    "role_name": {
+      "lang:en": "member of Liverpool City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477596",
+    "organization_name": {
+      "lang:en": "Liverpool City Council"
+    }
+  },
+  {
+    "role_id": "Q56477598",
+    "role_name": {
+      "lang:en": "Mayor of the City of Liverpool"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477596",
+    "organization_name": {
+      "lang:en": "Liverpool City Council"
+    }
+  },
+  {
+    "role_id": "Q56477601",
+    "role_name": {
+      "lang:en": "member of Canada Bay City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477600",
+    "organization_name": {
+      "lang:en": "Canada Bay City Council"
+    }
+  },
+  {
+    "role_id": "Q56477602",
+    "role_name": {
+      "lang:en": "Mayor of the City of Canada Bay Council"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477600",
+    "organization_name": {
+      "lang:en": "Canada Bay City Council"
+    }
+  },
+  {
+    "role_id": "Q56477605",
+    "role_name": {
+      "lang:en": "member of Blacktown City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477604",
+    "organization_name": {
+      "lang:en": "Blacktown City Council"
+    }
+  },
+  {
+    "role_id": "Q56477606",
+    "role_name": {
+      "lang:en": "Mayor of the City of Blacktown"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477604",
+    "organization_name": {
+      "lang:en": "Blacktown City Council"
+    }
+  },
+  {
+    "role_id": "Q56477609",
+    "role_name": {
+      "lang:en": "member of Willoughby City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477608",
+    "organization_name": {
+      "lang:en": "Willoughby City Council"
+    }
+  },
+  {
+    "role_id": "Q56477610",
+    "role_name": {
+      "lang:en": "Mayor of the City of Willoughby"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477608",
+    "organization_name": {
+      "lang:en": "Willoughby City Council"
+    }
+  },
+  {
+    "role_id": "Q56477614",
+    "role_name": {
+      "lang:en": "member of Fairfield City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477613",
+    "organization_name": {
+      "lang:en": "Fairfield City Council"
+    }
+  },
+  {
+    "role_id": "Q56477615",
+    "role_name": {
+      "lang:en": "Mayor of the City of Fairfield"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477613",
+    "organization_name": {
+      "lang:en": "Fairfield City Council"
+    }
+  },
+  {
+    "role_id": "Q56477618",
+    "role_name": {
+      "lang:en": "member of Sutherland Shire Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477617",
+    "organization_name": {
+      "lang:en": "Sutherland Shire Council"
+    }
+  },
+  {
+    "role_id": "Q56477619",
+    "role_name": {
+      "lang:en": "Mayor of Sutherland Shire"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477617",
+    "organization_name": {
+      "lang:en": "Sutherland Shire Council"
+    }
+  },
+  {
+    "role_id": "Q56477623",
+    "role_name": {
+      "lang:en": "member of Shellharbour City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477622",
+    "organization_name": {
+      "lang:en": "Shellharbour City Council"
+    }
+  },
+  {
+    "role_id": "Q56477624",
+    "role_name": {
+      "lang:en": "Mayor of the City of Shellharbour"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477622",
+    "organization_name": {
+      "lang:en": "Shellharbour City Council"
+    }
+  },
+  {
+    "role_id": "Q56477627",
+    "role_name": {
+      "lang:en": "member of Wollongong City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477626",
+    "organization_name": {
+      "lang:en": "Wollongong City Council"
+    }
+  },
+  {
+    "role_id": "Q56477628",
+    "role_name": {
+      "lang:en": "Mayor of the City of Wollongong"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477626",
+    "organization_name": {
+      "lang:en": "Wollongong City Council"
+    }
+  },
+  {
+    "role_id": "Q56477633",
+    "role_name": {
+      "lang:en": "member of Parramatta Council City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477632",
+    "organization_name": {
+      "lang:en": "Parramatta Council City Council"
+    }
+  },
+  {
+    "role_id": "Q56477634",
+    "role_name": {
+      "lang:en": "Mayor of the City of Parramatta Council"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477632",
+    "organization_name": {
+      "lang:en": "Parramatta Council City Council"
+    }
+  },
+  {
+    "role_id": "Q56477637",
+    "role_name": {
+      "lang:en": "member of Cumberland Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477636",
+    "organization_name": {
+      "lang:en": "Cumberland Council"
+    }
+  },
+  {
+    "role_id": "Q56477638",
+    "role_name": {
+      "lang:en": "Mayor of Cumberland Council"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477636",
+    "organization_name": {
+      "lang:en": "Cumberland Council"
+    }
+  },
+  {
+    "role_id": "Q56477641",
+    "role_name": {
+      "lang:en": "member of Georges River Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477640",
+    "organization_name": {
+      "lang:en": "Georges River Council"
+    }
+  },
+  {
+    "role_id": "Q56477642",
+    "role_name": {
+      "lang:en": "Mayor of Georges River Council"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477640",
+    "organization_name": {
+      "lang:en": "Georges River Council"
+    }
+  },
+  {
+    "role_id": "Q56477645",
+    "role_name": {
+      "lang:en": "member of Northern Beaches Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477644",
+    "organization_name": {
+      "lang:en": "Northern Beaches Council"
+    }
+  },
+  {
+    "role_id": "Q56477646",
+    "role_name": {
+      "lang:en": "Mayor of Northern Beaches Council"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477644",
+    "organization_name": {
+      "lang:en": "Northern Beaches Council"
+    }
+  },
+  {
+    "role_id": "Q56477649",
+    "role_name": {
+      "lang:en": "member of Inner West Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477648",
+    "organization_name": {
+      "lang:en": "Inner West Council"
+    }
+  },
+  {
+    "role_id": "Q56477650",
+    "role_name": {
+      "lang:en": "Mayor of Inner West Council"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477648",
+    "organization_name": {
+      "lang:en": "Inner West Council"
+    }
+  },
+  {
+    "role_id": "Q56477653",
+    "role_name": {
+      "lang:en": "member of Canterbury-Bankstown Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477652",
+    "organization_name": {
+      "lang:en": "Canterbury-Bankstown Council"
+    }
+  },
+  {
+    "role_id": "Q56477654",
+    "role_name": {
+      "lang:en": "Mayor of Canterbury-Bankstown Council"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477652",
+    "organization_name": {
+      "lang:en": "Canterbury-Bankstown Council"
+    }
+  },
+  {
+    "role_id": "Q56477657",
+    "role_name": {
+      "lang:en": "member of Bayside Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477656",
+    "organization_name": {
+      "lang:en": "Bayside Council"
+    }
+  },
+  {
+    "role_id": "Q56477658",
+    "role_name": {
+      "lang:en": "Mayor of Bayside Council"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477656",
+    "organization_name": {
+      "lang:en": "Bayside Council"
+    }
+  },
+  {
+    "role_id": "Q56477661",
+    "role_name": {
+      "lang:en": "member of Brisbane City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477660",
+    "organization_name": {
+      "lang:en": "Brisbane City Council"
+    }
+  },
+  {
+    "role_id": "Q56477665",
+    "role_name": {
+      "lang:en": "member of Sunshine Coast Region Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477664",
+    "organization_name": {
+      "lang:en": "Sunshine Coast Region Council"
+    }
+  },
+  {
+    "role_id": "Q56477666",
+    "role_name": {
+      "lang:en": "Mayor of Sunshine Coast Region"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477664",
+    "organization_name": {
+      "lang:en": "Sunshine Coast Region Council"
+    }
+  },
+  {
+    "role_id": "Q56477669",
+    "role_name": {
+      "lang:en": "member of Shire of Noosa Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477668",
+    "organization_name": {
+      "lang:en": "Shire of Noosa Council"
+    }
+  },
+  {
+    "role_id": "Q56477670",
+    "role_name": {
+      "lang:en": "Mayor of Shire of Noosa"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477668",
+    "organization_name": {
+      "lang:en": "Shire of Noosa Council"
+    }
+  },
+  {
+    "role_id": "Q56477673",
+    "role_name": {
+      "lang:en": "member of Gold Coast City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477672",
+    "organization_name": {
+      "lang:en": "Gold Coast City Council"
+    }
+  },
+  {
+    "role_id": "Q56477674",
+    "role_name": {
+      "lang:en": "Mayor of Gold Coast City"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477672",
+    "organization_name": {
+      "lang:en": "Gold Coast City Council"
+    }
+  },
+  {
+    "role_id": "Q56477678",
+    "role_name": {
+      "lang:en": "member of Tea Tree Gully City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477676",
+    "organization_name": {
+      "lang:en": "Tea Tree Gully City Council"
+    }
+  },
+  {
+    "role_id": "Q56477679",
+    "role_name": {
+      "lang:en": "Mayor of the City of Tea Tree Gully"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477676",
+    "organization_name": {
+      "lang:en": "Tea Tree Gully City Council"
+    }
+  },
+  {
+    "role_id": "Q56477682",
+    "role_name": {
+      "lang:en": "member of West Torrens City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477681",
+    "organization_name": {
+      "lang:en": "West Torrens City Council"
+    }
+  },
+  {
+    "role_id": "Q56477683",
+    "role_name": {
+      "lang:en": "Mayor of the City of West Torrens"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477681",
+    "organization_name": {
+      "lang:en": "West Torrens City Council"
+    }
+  },
+  {
+    "role_id": "Q56477686",
+    "role_name": {
+      "lang:en": "member of Holdfast Bay City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477685",
+    "organization_name": {
+      "lang:en": "Holdfast Bay City Council"
+    }
+  },
+  {
+    "role_id": "Q56477687",
+    "role_name": {
+      "lang:en": "Mayor of the City of Holdfast Bay"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477685",
+    "organization_name": {
+      "lang:en": "Holdfast Bay City Council"
+    }
+  },
+  {
+    "role_id": "Q56477690",
+    "role_name": {
+      "lang:en": "member of Adelaide Hills Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477689",
+    "organization_name": {
+      "lang:en": "Adelaide Hills Council"
+    }
+  },
+  {
+    "role_id": "Q56477691",
+    "role_name": {
+      "lang:en": "Mayor of Adelaide Hills Council"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477689",
+    "organization_name": {
+      "lang:en": "Adelaide Hills Council"
+    }
+  },
+  {
+    "role_id": "Q56477694",
+    "role_name": {
+      "lang:en": "member of Town of Walkerville Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477693",
+    "organization_name": {
+      "lang:en": "Town of Walkerville Council"
+    }
+  },
+  {
+    "role_id": "Q56477695",
+    "role_name": {
+      "lang:en": "Mayor of Walkerville"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477693",
+    "organization_name": {
+      "lang:en": "Town of Walkerville Council"
+    }
+  },
+  {
+    "role_id": "Q56477698",
+    "role_name": {
+      "lang:en": "member of Adelaide City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477697",
+    "organization_name": {
+      "lang:en": "Adelaide City Council"
+    }
+  },
+  {
+    "role_id": "Q56477702",
+    "role_name": {
+      "lang:en": "member of Burnside City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477701",
+    "organization_name": {
+      "lang:en": "Burnside City Council"
+    }
+  },
+  {
+    "role_id": "Q56477703",
+    "role_name": {
+      "lang:en": "Mayor of the City of Burnside"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477701",
+    "organization_name": {
+      "lang:en": "Burnside City Council"
+    }
+  },
+  {
+    "role_id": "Q56477706",
+    "role_name": {
+      "lang:en": "member of Campbelltown City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477705",
+    "organization_name": {
+      "lang:en": "Campbelltown City Council"
+    }
+  },
+  {
+    "role_id": "Q56477707",
+    "role_name": {
+      "lang:en": "Mayor of the City of Campbelltown"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477705",
+    "organization_name": {
+      "lang:en": "Campbelltown City Council"
+    }
+  },
+  {
+    "role_id": "Q56477710",
+    "role_name": {
+      "lang:en": "member of Mitcham City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477709",
+    "organization_name": {
+      "lang:en": "Mitcham City Council"
+    }
+  },
+  {
+    "role_id": "Q56477711",
+    "role_name": {
+      "lang:en": "Mayor of the City of Mitcham"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477709",
+    "organization_name": {
+      "lang:en": "Mitcham City Council"
+    }
+  },
+  {
+    "role_id": "Q56477714",
+    "role_name": {
+      "lang:en": "member of Port Adelaide Enfield City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477713",
+    "organization_name": {
+      "lang:en": "Port Adelaide Enfield City Council"
+    }
+  },
+  {
+    "role_id": "Q56477715",
+    "role_name": {
+      "lang:en": "Mayor of the City of Port Adelaide Enfield"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477713",
+    "organization_name": {
+      "lang:en": "Port Adelaide Enfield City Council"
+    }
+  },
+  {
+    "role_id": "Q56477718",
+    "role_name": {
+      "lang:en": "member of Prospect Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477717",
+    "organization_name": {
+      "lang:en": "Prospect Council"
+    }
+  },
+  {
+    "role_id": "Q56477719",
+    "role_name": {
+      "lang:en": "Mayor of Prospect"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477717",
+    "organization_name": {
+      "lang:en": "Prospect Council"
+    }
+  },
+  {
+    "role_id": "Q56477722",
+    "role_name": {
+      "lang:en": "member of Salisbury City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477721",
+    "organization_name": {
+      "lang:en": "Salisbury City Council"
+    }
+  },
+  {
+    "role_id": "Q56477725",
+    "role_name": {
+      "lang:en": "Mayor of the City of Salisbury"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477721",
+    "organization_name": {
+      "lang:en": "Salisbury City Council"
+    }
+  },
+  {
+    "role_id": "Q56477728",
+    "role_name": {
+      "lang:en": "member of Unley City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477727",
+    "organization_name": {
+      "lang:en": "Unley City Council"
+    }
+  },
+  {
+    "role_id": "Q56477729",
+    "role_name": {
+      "lang:en": "Mayor of the City of Unley"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477727",
+    "organization_name": {
+      "lang:en": "Unley City Council"
+    }
+  },
+  {
+    "role_id": "Q56477732",
+    "role_name": {
+      "lang:en": "member of Town of Gawler Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477731",
+    "organization_name": {
+      "lang:en": "Town of Gawler Council"
+    }
+  },
+  {
+    "role_id": "Q56477733",
+    "role_name": {
+      "lang:en": "Mayor of Gawler"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477731",
+    "organization_name": {
+      "lang:en": "Town of Gawler Council"
+    }
+  },
+  {
+    "role_id": "Q56477736",
+    "role_name": {
+      "lang:en": "member of Charles Sturt City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477735",
+    "organization_name": {
+      "lang:en": "Charles Sturt City Council"
+    }
+  },
+  {
+    "role_id": "Q56477737",
+    "role_name": {
+      "lang:en": "Mayor of the City of Charles Sturt"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477735",
+    "organization_name": {
+      "lang:en": "Charles Sturt City Council"
+    }
+  },
+  {
+    "role_id": "Q56477740",
+    "role_name": {
+      "lang:en": "member of Marion City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477739",
+    "organization_name": {
+      "lang:en": "Marion City Council"
+    }
+  },
+  {
+    "role_id": "Q56477741",
+    "role_name": {
+      "lang:en": "Mayor of the City of Marion"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477739",
+    "organization_name": {
+      "lang:en": "Marion City Council"
+    }
+  },
+  {
+    "role_id": "Q56477744",
+    "role_name": {
+      "lang:en": "member of Norwood Payneham & St Peters City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477743",
+    "organization_name": {
+      "lang:en": "Norwood Payneham & St Peters City Council"
+    }
+  },
+  {
+    "role_id": "Q56477745",
+    "role_name": {
+      "lang:en": "Mayor of the City of Norwood Payneham & St Peters"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477743",
+    "organization_name": {
+      "lang:en": "Norwood Payneham & St Peters City Council"
+    }
+  },
+  {
+    "role_id": "Q56477748",
+    "role_name": {
+      "lang:en": "member of Onkaparinga City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477747",
+    "organization_name": {
+      "lang:en": "Onkaparinga City Council"
+    }
+  },
+  {
+    "role_id": "Q56477749",
+    "role_name": {
+      "lang:en": "Mayor of the City of Onkaparinga"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477747",
+    "organization_name": {
+      "lang:en": "Onkaparinga City Council"
+    }
+  },
+  {
+    "role_id": "Q56477752",
+    "role_name": {
+      "lang:en": "member of Playford City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477751",
+    "organization_name": {
+      "lang:en": "Playford City Council"
+    }
+  },
+  {
+    "role_id": "Q56477753",
+    "role_name": {
+      "lang:en": "Mayor of the City of Playford"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477751",
+    "organization_name": {
+      "lang:en": "Playford City Council"
+    }
+  },
+  {
+    "role_id": "Q56477756",
+    "role_name": {
+      "lang:en": "member of Moonee Valley City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477755",
+    "organization_name": {
+      "lang:en": "Moonee Valley City Council"
+    }
+  },
+  {
+    "role_id": "Q56477757",
+    "role_name": {
+      "lang:en": "Mayor of the City of Moonee Valley"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477755",
+    "organization_name": {
+      "lang:en": "Moonee Valley City Council"
+    }
+  },
+  {
+    "role_id": "Q56477760",
+    "role_name": {
+      "lang:en": "member of Moreland City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477759",
+    "organization_name": {
+      "lang:en": "Moreland City Council"
+    }
+  },
+  {
+    "role_id": "Q56477761",
+    "role_name": {
+      "lang:en": "Mayor of the City of Moreland"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477759",
+    "organization_name": {
+      "lang:en": "Moreland City Council"
+    }
+  },
+  {
+    "role_id": "Q56477764",
+    "role_name": {
+      "lang:en": "member of Melbourne City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477763",
+    "organization_name": {
+      "lang:en": "Melbourne City Council"
+    }
+  },
+  {
+    "role_id": "Q56477765",
+    "role_name": {
+      "lang:en": "Mayor of the City of Melbourne"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477763",
+    "organization_name": {
+      "lang:en": "Melbourne City Council"
+    }
+  },
+  {
+    "role_id": "Q56477768",
+    "role_name": {
+      "lang:en": "member of Glen Eira City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477767",
+    "organization_name": {
+      "lang:en": "Glen Eira City Council"
+    }
+  },
+  {
+    "role_id": "Q56477769",
+    "role_name": {
+      "lang:en": "Mayor of the City of Glen Eira"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477767",
+    "organization_name": {
+      "lang:en": "Glen Eira City Council"
+    }
+  },
+  {
+    "role_id": "Q56477772",
+    "role_name": {
+      "lang:en": "member of Bayside City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477771",
+    "organization_name": {
+      "lang:en": "Bayside City Council"
+    }
+  },
+  {
+    "role_id": "Q56477773",
+    "role_name": {
+      "lang:en": "Mayor of the City of Bayside"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477771",
+    "organization_name": {
+      "lang:en": "Bayside City Council"
+    }
+  },
+  {
+    "role_id": "Q56477776",
+    "role_name": {
+      "lang:en": "member of Banyule City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477775",
+    "organization_name": {
+      "lang:en": "Banyule City Council"
+    }
+  },
+  {
+    "role_id": "Q56477777",
+    "role_name": {
+      "lang:en": "Mayor of the City of Banyule"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477775",
+    "organization_name": {
+      "lang:en": "Banyule City Council"
+    }
+  },
+  {
+    "role_id": "Q56477780",
+    "role_name": {
+      "lang:en": "member of Brimbank City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477779",
+    "organization_name": {
+      "lang:en": "Brimbank City Council"
+    }
+  },
+  {
+    "role_id": "Q56477781",
+    "role_name": {
+      "lang:en": "Mayor of the City of Brimbank"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477779",
+    "organization_name": {
+      "lang:en": "Brimbank City Council"
+    }
+  },
+  {
+    "role_id": "Q56477784",
+    "role_name": {
+      "lang:en": "member of Manningham City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477783",
+    "organization_name": {
+      "lang:en": "Manningham City Council"
+    }
+  },
+  {
+    "role_id": "Q56477785",
+    "role_name": {
+      "lang:en": "Mayor of the City of Manningham"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477783",
+    "organization_name": {
+      "lang:en": "Manningham City Council"
+    }
+  },
+  {
+    "role_id": "Q56477788",
+    "role_name": {
+      "lang:en": "member of Whitehorse City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477787",
+    "organization_name": {
+      "lang:en": "Whitehorse City Council"
+    }
+  },
+  {
+    "role_id": "Q56477789",
+    "role_name": {
+      "lang:en": "Mayor of the City of Whitehorse"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477787",
+    "organization_name": {
+      "lang:en": "Whitehorse City Council"
+    }
+  },
+  {
+    "role_id": "Q56477792",
+    "role_name": {
+      "lang:en": "member of Boroondara City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477791",
+    "organization_name": {
+      "lang:en": "Boroondara City Council"
+    }
+  },
+  {
+    "role_id": "Q56477793",
+    "role_name": {
+      "lang:en": "Mayor of the City of Boroondara"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477791",
+    "organization_name": {
+      "lang:en": "Boroondara City Council"
+    }
+  },
+  {
+    "role_id": "Q56477796",
+    "role_name": {
+      "lang:en": "member of Yarra City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q28223935",
+    "organization_name": {
+      "lang:en": "Yarra City Council"
+    }
+  },
+  {
+    "role_id": "Q56477797",
+    "role_name": {
+      "lang:en": "Mayor of the City of Yarra"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q28223935",
+    "organization_name": {
+      "lang:en": "Yarra City Council"
+    }
+  },
+  {
+    "role_id": "Q56477800",
+    "role_name": {
+      "lang:en": "member of Stonnington City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477799",
+    "organization_name": {
+      "lang:en": "Stonnington City Council"
+    }
+  },
+  {
+    "role_id": "Q56477801",
+    "role_name": {
+      "lang:en": "Mayor of the City of Stonnington"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477799",
+    "organization_name": {
+      "lang:en": "Stonnington City Council"
+    }
+  },
+  {
+    "role_id": "Q56477804",
+    "role_name": {
+      "lang:en": "member of Darebin City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477803",
+    "organization_name": {
+      "lang:en": "Darebin City Council"
+    }
+  },
+  {
+    "role_id": "Q56477805",
+    "role_name": {
+      "lang:en": "Mayor of the City of Darebin"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477803",
+    "organization_name": {
+      "lang:en": "Darebin City Council"
+    }
+  },
+  {
+    "role_id": "Q56477808",
+    "role_name": {
+      "lang:en": "member of Port Phillip City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477807",
+    "organization_name": {
+      "lang:en": "Port Phillip City Council"
+    }
+  },
+  {
+    "role_id": "Q56477809",
+    "role_name": {
+      "lang:en": "Mayor of the City of Port Phillip"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477807",
+    "organization_name": {
+      "lang:en": "Port Phillip City Council"
+    }
+  },
+  {
+    "role_id": "Q56477812",
+    "role_name": {
+      "lang:en": "member of Monash City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477811",
+    "organization_name": {
+      "lang:en": "Monash City Council"
+    }
+  },
+  {
+    "role_id": "Q56477813",
+    "role_name": {
+      "lang:en": "Mayor of the City of Monash"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477811",
+    "organization_name": {
+      "lang:en": "Monash City Council"
+    }
+  },
+  {
+    "role_id": "Q56477817",
+    "role_name": {
+      "lang:en": "member of Kingston City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477816",
+    "organization_name": {
+      "lang:en": "Kingston City Council"
+    }
+  },
+  {
+    "role_id": "Q56477818",
+    "role_name": {
+      "lang:en": "Mayor of the City of Kingston"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477816",
+    "organization_name": {
+      "lang:en": "Kingston City Council"
+    }
+  },
+  {
+    "role_id": "Q56477821",
+    "role_name": {
+      "lang:en": "member of Maribyrnong City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477820",
+    "organization_name": {
+      "lang:en": "Maribyrnong City Council"
+    }
+  },
+  {
+    "role_id": "Q56477822",
+    "role_name": {
+      "lang:en": "Mayor of the City of Maribyrnong"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477820",
+    "organization_name": {
+      "lang:en": "Maribyrnong City Council"
+    }
+  },
+  {
+    "role_id": "Q56477825",
+    "role_name": {
+      "lang:en": "member of Hobsons Bay City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477824",
+    "organization_name": {
+      "lang:en": "Hobsons Bay City Council"
+    }
+  },
+  {
+    "role_id": "Q56477826",
+    "role_name": {
+      "lang:en": "Mayor of the City of Hobsons Bay"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477824",
+    "organization_name": {
+      "lang:en": "Hobsons Bay City Council"
+    }
+  },
+  {
+    "role_id": "Q56477829",
+    "role_name": {
+      "lang:en": "member of Nedlands City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477828",
+    "organization_name": {
+      "lang:en": "Nedlands City Council"
+    }
+  },
+  {
+    "role_id": "Q56477830",
+    "role_name": {
+      "lang:en": "Mayor of the City of Nedlands"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477828",
+    "organization_name": {
+      "lang:en": "Nedlands City Council"
+    }
+  },
+  {
+    "role_id": "Q56477833",
+    "role_name": {
+      "lang:en": "member of Rockingham City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477832",
+    "organization_name": {
+      "lang:en": "Rockingham City Council"
+    }
+  },
+  {
+    "role_id": "Q56477834",
+    "role_name": {
+      "lang:en": "Mayor of the City of Rockingham"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477832",
+    "organization_name": {
+      "lang:en": "Rockingham City Council"
+    }
+  },
+  {
+    "role_id": "Q56477837",
+    "role_name": {
+      "lang:en": "member of Wanneroo City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477836",
+    "organization_name": {
+      "lang:en": "Wanneroo City Council"
+    }
+  },
+  {
+    "role_id": "Q56477838",
+    "role_name": {
+      "lang:en": "Mayor of the City of Wanneroo"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477836",
+    "organization_name": {
+      "lang:en": "Wanneroo City Council"
+    }
+  },
+  {
+    "role_id": "Q56477841",
+    "role_name": {
+      "lang:en": "member of Vincent City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477840",
+    "organization_name": {
+      "lang:en": "Vincent City Council"
+    }
+  },
+  {
+    "role_id": "Q56477842",
+    "role_name": {
+      "lang:en": "Mayor of the City of Vincent"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477840",
+    "organization_name": {
+      "lang:en": "Vincent City Council"
+    }
+  },
+  {
+    "role_id": "Q56477845",
+    "role_name": {
+      "lang:en": "member of Cockburn City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477844",
+    "organization_name": {
+      "lang:en": "Cockburn City Council"
+    }
+  },
+  {
+    "role_id": "Q56477846",
+    "role_name": {
+      "lang:en": "Mayor of the City of Cockburn"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477844",
+    "organization_name": {
+      "lang:en": "Cockburn City Council"
+    }
+  },
+  {
+    "role_id": "Q56477849",
+    "role_name": {
+      "lang:en": "member of Melville City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477848",
+    "organization_name": {
+      "lang:en": "Melville City Council"
+    }
+  },
+  {
+    "role_id": "Q56477850",
+    "role_name": {
+      "lang:en": "Mayor of the City of Melville"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477848",
+    "organization_name": {
+      "lang:en": "Melville City Council"
+    }
+  },
+  {
+    "role_id": "Q56477853",
+    "role_name": {
+      "lang:en": "member of Swan City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477852",
+    "organization_name": {
+      "lang:en": "Swan City Council"
+    }
+  },
+  {
+    "role_id": "Q56477854",
+    "role_name": {
+      "lang:en": "Mayor of the City of Swan"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477852",
+    "organization_name": {
+      "lang:en": "Swan City Council"
+    }
+  },
+  {
+    "role_id": "Q56477857",
+    "role_name": {
+      "lang:en": "member of Bayswater City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477856",
+    "organization_name": {
+      "lang:en": "Bayswater City Council"
+    }
+  },
+  {
+    "role_id": "Q56477858",
+    "role_name": {
+      "lang:en": "Mayor of the City of Bayswater"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477856",
+    "organization_name": {
+      "lang:en": "Bayswater City Council"
+    }
+  },
+  {
+    "role_id": "Q56477861",
+    "role_name": {
+      "lang:en": "member of Shire of Serpentine-Jarrahdale Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477860",
+    "organization_name": {
+      "lang:en": "Shire of Serpentine-Jarrahdale Council"
+    }
+  },
+  {
+    "role_id": "Q56477862",
+    "role_name": {
+      "lang:en": "Mayor of Shire of Serpentine-Jarrahdale"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477860",
+    "organization_name": {
+      "lang:en": "Shire of Serpentine-Jarrahdale Council"
+    }
+  },
+  {
+    "role_id": "Q56477865",
+    "role_name": {
+      "lang:en": "member of Town of Victoria Park Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477864",
+    "organization_name": {
+      "lang:en": "Town of Victoria Park Council"
+    }
+  },
+  {
+    "role_id": "Q56477866",
+    "role_name": {
+      "lang:en": "Mayor of Victoria Park"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477864",
+    "organization_name": {
+      "lang:en": "Town of Victoria Park Council"
+    }
+  },
+  {
+    "role_id": "Q56477869",
+    "role_name": {
+      "lang:en": "member of Canning City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477868",
+    "organization_name": {
+      "lang:en": "Canning City Council"
+    }
+  },
+  {
+    "role_id": "Q56477870",
+    "role_name": {
+      "lang:en": "Mayor of the City of Canning"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477868",
+    "organization_name": {
+      "lang:en": "Canning City Council"
+    }
+  },
+  {
+    "role_id": "Q56477873",
+    "role_name": {
+      "lang:en": "member of South Perth City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477872",
+    "organization_name": {
+      "lang:en": "South Perth City Council"
+    }
+  },
+  {
+    "role_id": "Q56477874",
+    "role_name": {
+      "lang:en": "Mayor of the City of South Perth"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477872",
+    "organization_name": {
+      "lang:en": "South Perth City Council"
+    }
+  },
+  {
+    "role_id": "Q56477877",
+    "role_name": {
+      "lang:en": "member of Shire of Mundaring Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477876",
+    "organization_name": {
+      "lang:en": "Shire of Mundaring Council"
+    }
+  },
+  {
+    "role_id": "Q56477878",
+    "role_name": {
+      "lang:en": "Mayor of Shire of Mundaring"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477876",
+    "organization_name": {
+      "lang:en": "Shire of Mundaring Council"
+    }
+  },
+  {
+    "role_id": "Q56477881",
+    "role_name": {
+      "lang:en": "member of Gosnells City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477880",
+    "organization_name": {
+      "lang:en": "Gosnells City Council"
+    }
+  },
+  {
+    "role_id": "Q56477882",
+    "role_name": {
+      "lang:en": "Mayor of the City of Gosnells"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477880",
+    "organization_name": {
+      "lang:en": "Gosnells City Council"
+    }
+  },
+  {
+    "role_id": "Q56477885",
+    "role_name": {
+      "lang:en": "member of Armadale City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477884",
+    "organization_name": {
+      "lang:en": "Armadale City Council"
+    }
+  },
+  {
+    "role_id": "Q56477886",
+    "role_name": {
+      "lang:en": "Mayor of the City of Armadale"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477884",
+    "organization_name": {
+      "lang:en": "Armadale City Council"
+    }
+  },
+  {
+    "role_id": "Q56477889",
+    "role_name": {
+      "lang:en": "member of Stirling City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477888",
+    "organization_name": {
+      "lang:en": "Stirling City Council"
+    }
+  },
+  {
+    "role_id": "Q56477890",
+    "role_name": {
+      "lang:en": "Mayor of the City of Stirling"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477888",
+    "organization_name": {
+      "lang:en": "Stirling City Council"
+    }
+  },
+  {
+    "role_id": "Q56477893",
+    "role_name": {
+      "lang:en": "member of Belmont City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477892",
+    "organization_name": {
+      "lang:en": "Belmont City Council"
+    }
+  },
+  {
+    "role_id": "Q56477894",
+    "role_name": {
+      "lang:en": "Mayor of the City of Belmont"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477892",
+    "organization_name": {
+      "lang:en": "Belmont City Council"
+    }
+  },
+  {
+    "role_id": "Q56477897",
+    "role_name": {
+      "lang:en": "member of Town of Claremont Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477896",
+    "organization_name": {
+      "lang:en": "Town of Claremont Council"
+    }
+  },
+  {
+    "role_id": "Q56477898",
+    "role_name": {
+      "lang:en": "Mayor of Claremont"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477896",
+    "organization_name": {
+      "lang:en": "Town of Claremont Council"
+    }
+  },
+  {
+    "role_id": "Q56477901",
+    "role_name": {
+      "lang:en": "member of Town of East Fremantle Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477900",
+    "organization_name": {
+      "lang:en": "Town of East Fremantle Council"
+    }
+  },
+  {
+    "role_id": "Q56477902",
+    "role_name": {
+      "lang:en": "Mayor of East Fremantle"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477900",
+    "organization_name": {
+      "lang:en": "Town of East Fremantle Council"
+    }
+  },
+  {
+    "role_id": "Q56477905",
+    "role_name": {
+      "lang:en": "member of Town of Cambridge Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477904",
+    "organization_name": {
+      "lang:en": "Town of Cambridge Council"
+    }
+  },
+  {
+    "role_id": "Q56477906",
+    "role_name": {
+      "lang:en": "Mayor of Cambridge"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477904",
+    "organization_name": {
+      "lang:en": "Town of Cambridge Council"
+    }
+  },
+  {
+    "role_id": "Q56477909",
+    "role_name": {
+      "lang:en": "member of Joondalup City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477908",
+    "organization_name": {
+      "lang:en": "Joondalup City Council"
+    }
+  },
+  {
+    "role_id": "Q56477910",
+    "role_name": {
+      "lang:en": "Mayor of the City of Joondalup"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477908",
+    "organization_name": {
+      "lang:en": "Joondalup City Council"
+    }
+  },
+  {
+    "role_id": "Q56477913",
+    "role_name": {
+      "lang:en": "member of Subiaco City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477912",
+    "organization_name": {
+      "lang:en": "Subiaco City Council"
+    }
+  },
+  {
+    "role_id": "Q56477914",
+    "role_name": {
+      "lang:en": "Mayor of the City of Subiaco"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477912",
+    "organization_name": {
+      "lang:en": "Subiaco City Council"
+    }
+  },
+  {
+    "role_id": "Q56477917",
+    "role_name": {
+      "lang:en": "member of Shire of Peppermint Grove Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477916",
+    "organization_name": {
+      "lang:en": "Shire of Peppermint Grove Council"
+    }
+  },
+  {
+    "role_id": "Q56477918",
+    "role_name": {
+      "lang:en": "Mayor of Shire of Peppermint Grove"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477916",
+    "organization_name": {
+      "lang:en": "Shire of Peppermint Grove Council"
+    }
+  },
+  {
+    "role_id": "Q56477921",
+    "role_name": {
+      "lang:en": "member of Town of Mosman Park Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477920",
+    "organization_name": {
+      "lang:en": "Town of Mosman Park Council"
+    }
+  },
+  {
+    "role_id": "Q56477923",
+    "role_name": {
+      "lang:en": "Mayor of Mosman Park"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477920",
+    "organization_name": {
+      "lang:en": "Town of Mosman Park Council"
+    }
+  },
+  {
+    "role_id": "Q56477927",
+    "role_name": {
+      "lang:en": "member of Town of Cottesloe Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477926",
+    "organization_name": {
+      "lang:en": "Town of Cottesloe Council"
+    }
+  },
+  {
+    "role_id": "Q56477928",
+    "role_name": {
+      "lang:en": "Mayor of Cottesloe"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477926",
+    "organization_name": {
+      "lang:en": "Town of Cottesloe Council"
+    }
+  },
+  {
+    "role_id": "Q56477931",
+    "role_name": {
+      "lang:en": "member of Town of Bassendean Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477930",
+    "organization_name": {
+      "lang:en": "Town of Bassendean Council"
+    }
+  },
+  {
+    "role_id": "Q56477932",
+    "role_name": {
+      "lang:en": "Mayor of Bassendean"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477930",
+    "organization_name": {
+      "lang:en": "Town of Bassendean Council"
+    }
+  },
+  {
+    "role_id": "Q56477935",
+    "role_name": {
+      "lang:en": "member of Fremantle City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477934",
+    "organization_name": {
+      "lang:en": "Fremantle City Council"
+    }
+  },
+  {
+    "role_id": "Q56477936",
+    "role_name": {
+      "lang:en": "Mayor of the City of Fremantle"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477934",
+    "organization_name": {
+      "lang:en": "Fremantle City Council"
+    }
+  },
+  {
+    "role_id": "Q56477939",
+    "role_name": {
+      "lang:en": "member of Perth City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477938",
+    "organization_name": {
+      "lang:en": "Perth City Council"
+    }
+  },
+  {
+    "role_id": "Q56477940",
+    "role_name": {
+      "lang:en": "Mayor of the City of Perth"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477938",
+    "organization_name": {
+      "lang:en": "Perth City Council"
+    }
+  },
+  {
+    "role_id": "Q56477943",
+    "role_name": {
+      "lang:en": "member of Kwinana City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477942",
+    "organization_name": {
+      "lang:en": "Kwinana City Council"
+    }
+  },
+  {
+    "role_id": "Q56477945",
+    "role_name": {
+      "lang:en": "Mayor of the City of Kwinana"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477942",
+    "organization_name": {
+      "lang:en": "Kwinana City Council"
+    }
+  },
+  {
+    "role_id": "Q56477948",
+    "role_name": {
+      "lang:en": "member of Kalamunda City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477947",
+    "organization_name": {
+      "lang:en": "Kalamunda City Council"
+    }
+  },
+  {
+    "role_id": "Q56477949",
+    "role_name": {
+      "lang:en": "Mayor of the City of Kalamunda"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477947",
+    "organization_name": {
+      "lang:en": "Kalamunda City Council"
     }
   },
   {

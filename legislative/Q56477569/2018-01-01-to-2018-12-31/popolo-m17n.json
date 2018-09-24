@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Mosman Council"
+      },
+      "id": "Q56477569",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56477569"
+        }
+      ],
+      "area_id": "Q13080916",
+      "seat_counts": {
+        "Q56477571": "7"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

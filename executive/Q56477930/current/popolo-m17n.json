@@ -1,0 +1,27 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Town of Bassendean Council"
+      },
+      "id": "Q56477930",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56477930"
+        }
+      ],
+      "area_id": "Q604332"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

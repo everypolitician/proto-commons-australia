@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Martin Haese"
+      },
+      "id": "Q18686537",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18686537"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Martin-Haese-Lord-Mayor-of-Adelaide-278632829004386"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "City of Adelaide"
+      },
+      "id": "Q1094063",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1094063"
+        }
+      ],
+      "area_id": "Q1094063"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18686537-e1f4a139-4ba5-d77b-2e88-09e4464b5e9d",
+      "person_id": "Q18686537",
+      "organization_id": "Q1094063",
+      "area_id": "Q1094063",
+      "start_date": "2014-11-18",
+      "role_superclass_code": "Q11902879",
+      "role_superclass": {
+        "lang:en": "Lord Mayor"
+      },
+      "role_code": "Q49031784",
+      "role": {
+        "lang:en": "Lord Mayor of Adelaide"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18686537-e1f4a139-4ba5-d77b-2e88-09e4464b5e9d",
+      "person_id": "Q18686537",
+      "organization_id": "Q1094063",
+      "area_id": "Q1094063",
+      "start_date": "2014-11-18",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor"
+      },
+      "role_code": "Q49031784",
+      "role": {
+        "lang:en": "Lord Mayor of Adelaide"
+      }
+    }
+  ]
+}

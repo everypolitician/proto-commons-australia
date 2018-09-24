@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Adelaide City Council"
+      },
+      "id": "Q56477697",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56477697"
+        }
+      ],
+      "area_id": "Q1094063",
+      "seat_counts": {
+        "Q56477698": null
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

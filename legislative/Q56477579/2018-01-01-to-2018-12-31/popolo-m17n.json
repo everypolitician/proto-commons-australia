@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Ku-ring-gai Council"
+      },
+      "id": "Q56477579",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56477579"
+        }
+      ],
+      "area_id": "Q133642",
+      "seat_counts": {
+        "Q56477580": "10"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

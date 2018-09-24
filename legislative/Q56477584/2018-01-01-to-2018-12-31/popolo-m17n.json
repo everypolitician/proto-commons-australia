@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Camden Council"
+      },
+      "id": "Q56477584",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56477584"
+        }
+      ],
+      "area_id": "Q979106",
+      "seat_counts": {
+        "Q56477585": "9"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

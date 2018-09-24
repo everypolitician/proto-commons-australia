@@ -992,21 +992,6 @@
     },
     {
       "name": {
-        "lang:en": "Brian Davis"
-      },
-      "id": "Q16095544",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16095544"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Bill Newton"
       },
       "id": "Q16095796",
@@ -3414,21 +3399,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q19874961"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "John Henry Mann"
-      },
-      "id": "Q19875367",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q19875367"
         }
       ],
       "links": [
@@ -9605,21 +9575,6 @@
     },
     {
       "name": {
-        "lang:en": "Barbara Stone"
-      },
-      "id": "Q4859342",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4859342"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Benjamin Cribb"
       },
       "id": "Q4888437",
@@ -11157,21 +11112,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q5981942"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Ian Rickuss"
-      },
-      "id": "Q5982716",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5982716"
         }
       ],
       "links": [
@@ -16958,19 +16898,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q16095544-FE1135D9-B1E2-4D37-ACB3-2B970F537265",
-      "person_id": "Q16095544",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q16095796-3857D34A-274D-4A8D-97B5-E22F6F4188CF",
       "person_id": "Q16095796",
       "organization_id": "Q6518214",
@@ -19131,19 +19058,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q19874961-792C8950-1E83-475F-831C-B102FB0F605F",
       "person_id": "Q19874961",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q19875367-5373FD1B-3CA5-4D9F-84D3-32A6BDB73940",
-      "person_id": "Q19875367",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -24575,19 +24489,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q4859342-3A31396E-73CD-4C26-8742-60AE94BF0322",
-      "person_id": "Q4859342",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q4888437-A806B98E-F360-447E-9E66-53896FE2F55F",
       "person_id": "Q4888437",
       "organization_id": "Q6518214",
@@ -25940,19 +25841,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5981942-2144BA0F-30A5-4644-91A5-8267808B1AE9",
       "person_id": "Q5981942",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5982716-E316E22A-B771-45D3-B83D-B31B54571C51",
-      "person_id": "Q5982716",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {

@@ -1,0 +1,27 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Canterbury-Bankstown Council"
+      },
+      "id": "Q56477652",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56477652"
+        }
+      ],
+      "area_id": "Q24070750"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

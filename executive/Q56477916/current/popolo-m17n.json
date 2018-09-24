@@ -1,0 +1,27 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Shire of Peppermint Grove Council"
+      },
+      "id": "Q56477916",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56477916"
+        }
+      ],
+      "area_id": "Q1469756"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

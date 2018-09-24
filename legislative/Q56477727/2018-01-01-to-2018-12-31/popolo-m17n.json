@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Unley City Council"
+      },
+      "id": "Q56477727",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56477727"
+        }
+      ],
+      "area_id": "Q1766439",
+      "seat_counts": {
+        "Q56477728": null
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

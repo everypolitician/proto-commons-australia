@@ -1,0 +1,55 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Gillian Aldridge"
+      },
+      "id": "Q5562186",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5562186"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "City of Salisbury"
+      },
+      "id": "Q947334",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q947334"
+        }
+      ],
+      "area_id": "Q947334"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5562186-016c172c-4a98-7145-af21-7ad542de3a19",
+      "person_id": "Q5562186",
+      "organization_id": "Q947334",
+      "area_id": "Q947334",
+      "start_date": "2008-03-25",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor"
+      },
+      "role_code": "Q55062908",
+      "role": {
+        "lang:en": "Mayor of Salisbury"
+      }
+    }
+  ]
+}

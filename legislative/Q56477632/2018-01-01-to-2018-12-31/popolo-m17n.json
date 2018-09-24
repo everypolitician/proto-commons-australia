@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Parramatta Council City Council"
+      },
+      "id": "Q56477632",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56477632"
+        }
+      ],
+      "area_id": "Q11079799",
+      "seat_counts": {
+        "Q56477633": null
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

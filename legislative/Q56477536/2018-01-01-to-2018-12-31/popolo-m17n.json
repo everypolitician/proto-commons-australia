@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Lake Macquarie City Council"
+      },
+      "id": "Q56477536",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56477536"
+        }
+      ],
+      "area_id": "Q606193",
+      "seat_counts": {
+        "Q56477537": "13"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

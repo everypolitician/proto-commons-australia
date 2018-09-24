@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Randwick City Council"
+      },
+      "id": "Q56477556",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56477556"
+        }
+      ],
+      "area_id": "Q1311882",
+      "seat_counts": {
+        "Q56477557": "15"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}
