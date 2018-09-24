@@ -232,122 +232,14 @@ WARNING: the district Spillett (Q26267294) wasn't found in the boundary data for
 WARNING: the district Fannie Bay (Q5356213) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
 WARNING: the district Araluen (Q5356196) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
 WARNING: the district Blain (Q5356200) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
-WARNING: Position Mayor of Adelaide (Q23059715) not in boundary associated_wikidata_positions
 WARNING: Position Lord Mayor of Adelaide (Q49031784) not in boundary associated_wikidata_positions
-WARNING: the district City of Adelaide (Q1094063) wasn't found in the boundary data for position Lord Mayor of Adelaide (Q49031784)
-WARNING: the district City of Adelaide (Q1094063) wasn't found in the boundary data for position Lord Mayor of Adelaide (Q49031784)
-WARNING: Position Mayor of Port Adelaide Enfield (Q51011795) not in boundary associated_wikidata_positions
-WARNING: the district City of Port Adelaide Enfield (Q1533526) wasn't found in the boundary data for position Mayor of Port Adelaide Enfield (Q51011795)
-WARNING: the district City of Port Adelaide Enfield (Q1533526) wasn't found in the boundary data for position Mayor of Port Adelaide Enfield (Q51011795)
-WARNING: Position Mayor of Unley (Q52064205) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Gawler (Q54806313) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Yarra (Q56477797) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Waverley Municipal Council (Q56477509) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Lane Cove Council (Q56477514) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Woollahra Municipal Council (Q56477519) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Ryde (Q56477524) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Strathfield Municipal Council (Q56477529) not in boundary associated_wikidata_positions
-WARNING: Position Lord Mayor of Sidney (Q56477534) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Lake Macquarie Council (Q56477538) not in boundary associated_wikidata_positions
-WARNING: Position Lord Mayor of City of Newcastle Council (Q56477544) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the Council of the Municipality of Kiama (Q56477548) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of North Sydney Council (Q56477554) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Randwick (Q56477558) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Penrith (Q56477562) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Hunter's Hill (Q56477566) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the Mosman Council (Q56477572) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Hornsby Shire (Q56477577) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Ku-ring-gai Council (Q56477582) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Camden (Q56477586) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the Municipality of Burwood (Q56477590) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Campbelltown (Q56477594) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Liverpool (Q56477598) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Canada Bay Council (Q56477602) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Blacktown (Q56477606) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Willoughby (Q56477610) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Fairfield (Q56477615) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Sutherland Shire (Q56477619) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Shellharbour (Q56477624) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Wollongong (Q56477628) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Parramatta Council (Q56477634) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Cumberland Council (Q56477638) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Georges River Council (Q56477642) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Northern Beaches Council (Q56477646) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Inner West Council (Q56477650) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Canterbury-Bankstown Council (Q56477654) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Bayside Council (Q56477658) not in boundary associated_wikidata_positions
 WARNING: Position Lord Mayor of Brisbane (Q29467089) not in boundary associated_wikidata_positions
 WARNING: the district City of Brisbane (Q917682) wasn't found in the boundary data for position Lord Mayor of Brisbane (Q29467089)
-WARNING: Position Mayor of Sunshine Coast Region (Q56477666) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Shire of Noosa (Q56477670) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Gold Coast City (Q56477674) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Tea Tree Gully (Q56477679) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of West Torrens (Q56477683) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Holdfast Bay (Q56477687) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Adelaide Hills Council (Q56477691) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Walkerville (Q56477695) not in boundary associated_wikidata_positions
 WARNING: Position Lord Mayor of Adelaide (Q49031784) not in boundary associated_wikidata_positions
 WARNING: the district City of Adelaide (Q1094063) wasn't found in the boundary data for position Lord Mayor of Adelaide (Q49031784)
 WARNING: the district City of Adelaide (Q1094063) wasn't found in the boundary data for position Lord Mayor of Adelaide (Q49031784)
-WARNING: Position Mayor of the City of Burnside (Q56477703) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Campbelltown (Q56477707) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Mitcham (Q56477711) not in boundary associated_wikidata_positions
 WARNING: Position Mayor of the City of Port Adelaide Enfield (Q56477715) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Prospect (Q56477719) not in boundary associated_wikidata_positions
 WARNING: Position Mayor of the City of Salisbury (Q56477725) not in boundary associated_wikidata_positions
 WARNING: Position Mayor of the City of Unley (Q56477729) not in boundary associated_wikidata_positions
 WARNING: Position Mayor of Gawler (Q56477733) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Charles Sturt (Q56477737) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Marion (Q56477741) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Norwood Payneham & St Peters (Q56477745) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Onkaparinga (Q56477749) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Playford (Q56477753) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Moonee Valley (Q56477757) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Moreland (Q56477761) not in boundary associated_wikidata_positions
 WARNING: Position Mayor of the City of Melbourne (Q56477765) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Glen Eira (Q56477769) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Bayside (Q56477773) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Banyule (Q56477777) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Brimbank (Q56477781) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Manningham (Q56477785) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Whitehorse (Q56477789) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Boroondara (Q56477793) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Stonnington (Q56477801) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Darebin (Q56477805) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Port Phillip (Q56477809) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Monash (Q56477813) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Kingston (Q56477818) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Maribyrnong (Q56477822) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Hobsons Bay (Q56477826) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Nedlands (Q56477830) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Rockingham (Q56477834) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Wanneroo (Q56477838) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Vincent (Q56477842) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Cockburn (Q56477846) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Melville (Q56477850) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Swan (Q56477854) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Bayswater (Q56477858) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Shire of Serpentine-Jarrahdale (Q56477862) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Victoria Park (Q56477866) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Canning (Q56477870) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of South Perth (Q56477874) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Shire of Mundaring (Q56477878) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Gosnells (Q56477882) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Armadale (Q56477886) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Stirling (Q56477890) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Belmont (Q56477894) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Claremont (Q56477898) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of East Fremantle (Q56477902) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Cambridge (Q56477906) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Joondalup (Q56477910) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Subiaco (Q56477914) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Shire of Peppermint Grove (Q56477918) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Mosman Park (Q56477923) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Cottesloe (Q56477928) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Bassendean (Q56477932) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Fremantle (Q56477936) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Perth (Q56477940) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Kwinana (Q56477945) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Kalamunda (Q56477949) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Salisbury (Q55062908) not in boundary associated_wikidata_positions
-WARNING: the district City of Salisbury (Q947334) wasn't found in the boundary data for position Mayor of Salisbury (Q55062908)
