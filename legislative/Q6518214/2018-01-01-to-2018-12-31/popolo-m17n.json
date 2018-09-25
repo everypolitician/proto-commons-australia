@@ -10265,21 +10265,6 @@
     },
     {
       "name": {
-        "lang:en": "David Kempton"
-      },
-      "id": "Q5235920",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5235920"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Deb Frecklington"
       },
       "id": "Q5247768",
@@ -14265,29 +14250,6 @@
       "parent_id": "Q408"
     },
     {
-      "id": "Q36687",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:au/state:vic"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q36687"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q132050"
-      ],
-      "type": {
-        "lang:en": "state of Australia"
-      },
-      "name": {
-        "lang:en": "Victoria"
-      },
-      "parent_id": "Q408"
-    },
-    {
       "id": "Q408",
       "identifiers": [
         {
@@ -14541,7 +14503,7 @@
       "parent_id": "Q36074"
     },
     {
-      "id": "Q5355186",
+      "id": "Q5355185",
       "identifiers": [
         {
           "scheme": "MS_FB",
@@ -14549,7 +14511,7 @@
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q5355186"
+          "identifier": "Q5355185"
         }
       ],
       "associated_wikidata_positions": [
@@ -15024,7 +14986,7 @@
       "parent_id": "Q36074"
     },
     {
-      "id": "Q5355531",
+      "id": "Q5355530",
       "identifiers": [
         {
           "scheme": "MS_FB",
@@ -15032,7 +14994,7 @@
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q5355531"
+          "identifier": "Q5355530"
         }
       ],
       "associated_wikidata_positions": [
@@ -25086,19 +25048,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5235263-7E7DCB04-2366-405B-9C7C-F51ECA3B8266",
       "person_id": "Q5235263",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5235920-50E793B3-CCCC-47F5-BA3B-992659D7DEA4",
-      "person_id": "Q5235920",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {

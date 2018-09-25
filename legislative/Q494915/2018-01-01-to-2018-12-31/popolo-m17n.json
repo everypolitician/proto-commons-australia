@@ -453,7 +453,167 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q26907714",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:act/slaed:act10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26907714"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6814365"
+      ],
+      "type": {
+        "lang:en": "electorate of the Australian Capital Territory"
+      },
+      "name": {
+        "lang:en": "Kurrajong"
+      },
+      "parent_id": "Q3258"
+    },
+    {
+      "id": "Q26907959",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:act/slaed:act9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26907959"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6814365"
+      ],
+      "type": {
+        "lang:en": "electorate of the Australian Capital Territory"
+      },
+      "name": {
+        "lang:en": "Yerrabi"
+      },
+      "parent_id": "Q3258"
+    },
+    {
+      "id": "Q26907990",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:act/slaed:act8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26907990"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6814365"
+      ],
+      "type": {
+        "lang:en": "electorate of the Australian Capital Territory"
+      },
+      "name": {
+        "lang:en": "Murrumbidgee"
+      },
+      "parent_id": "Q3258"
+    },
+    {
+      "id": "Q2973470",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:act/slaed:act7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973470"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6814365"
+      ],
+      "type": {
+        "lang:en": "electorate of the Australian Capital Territory"
+      },
+      "name": {
+        "lang:en": "Brindabella"
+      },
+      "parent_id": "Q3258"
+    },
+    {
+      "id": "Q2973614",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:act/slaed:act11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2973614"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6814365"
+      ],
+      "type": {
+        "lang:en": "electorate of the Australian Capital Territory"
+      },
+      "name": {
+        "lang:en": "Ginninderra"
+      },
+      "parent_id": "Q3258"
+    },
+    {
+      "id": "Q3258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:act"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q493649"
+      ],
+      "type": {
+        "lang:en": "territory of Australia"
+      },
+      "name": {
+        "lang:en": "Australian Capital Territory"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

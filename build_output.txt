@@ -39,34 +39,6 @@ WARNING: the district Launceston (Q5356227) wasn't found in the boundary data fo
 WARNING: the district Murchison (Q5356235) wasn't found in the boundary data for position Member of the Tasmanian Legislative Council (Q19299542)
 WARNING: the district McIntyre (Q38251647) wasn't found in the boundary data for position Member of the Tasmanian Legislative Council (Q19299542)
 WARNING: Position Member of the New South Wales Legislative Council (Q18810377) not in boundary associated_wikidata_positions
-WARNING: the district Mulgrave (Q5355730) wasn't found in the boundary data for position Member of the Victorian Legislative Assembly (Q18534408)
-WARNING: the district Richmond (Q5355896) wasn't found in the boundary data for position Member of the Victorian Legislative Assembly (Q18534408)
-WARNING: Position member of the Australian Capital Territory Legislative Assembly (Q6814365) not in boundary associated_wikidata_positions
-WARNING: the district Brindabella (Q2973470) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Brindabella (Q2973470) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Yerrabi (Q26907959) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Ginninderra (Q2973614) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Ginninderra (Q2973614) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Ginninderra (Q2973614) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Murrumbidgee (Q26907990) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Yerrabi (Q26907959) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Yerrabi (Q26907959) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Murrumbidgee (Q26907990) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Kurrajong (Q26907714) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Kurrajong (Q26907714) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Yerrabi (Q26907959) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Brindabella (Q2973470) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Kurrajong (Q26907714) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Yerrabi (Q26907959) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Kurrajong (Q26907714) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Brindabella (Q2973470) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Murrumbidgee (Q26907990) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Murrumbidgee (Q26907990) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Murrumbidgee (Q26907990) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Brindabella (Q2973470) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Kurrajong (Q26907714) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Ginninderra (Q2973614) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
-WARNING: the district Ginninderra (Q2973614) wasn't found in the boundary data for position member of the Australian Capital Territory Legislative Assembly (Q6814365)
 WARNING: Position member of Waverley Municipal Council (Q56477508) not in boundary associated_wikidata_positions
 WARNING: Position member of Lane Cove Council (Q56477513) not in boundary associated_wikidata_positions
 WARNING: Position member of Woollahra Municipal Council (Q56477518) not in boundary associated_wikidata_positions
@@ -171,10 +143,6 @@ WARNING: Position member of Fremantle City Council (Q56477935) not in boundary a
 WARNING: Position member of Perth City Council (Q56477939) not in boundary associated_wikidata_positions
 WARNING: Position member of Kwinana City Council (Q56477943) not in boundary associated_wikidata_positions
 WARNING: Position member of Kalamunda City Council (Q56477948) not in boundary associated_wikidata_positions
-WARNING: the district Ipswich (Q5355530) wasn't found in the boundary data for position Member of the Queensland Legislative Assembly (Q18526194)
-WARNING: the district Ipswich (Q5355530) wasn't found in the boundary data for position Member of the Queensland Legislative Assembly (Q18526194)
-WARNING: the district Burnett (Q5355185) wasn't found in the boundary data for position Member of the Queensland Legislative Assembly (Q18526194)
-WARNING: the district Burnett (Q5355185) wasn't found in the boundary data for position Member of the Queensland Legislative Assembly (Q18526194)
 WARNING: the district Gibson (Q38250827) wasn't found in the boundary data for position Member of the South Australian House of Assembly (Q18220900)
 WARNING: the district Black (Q38250839) wasn't found in the boundary data for position Member of the South Australian House of Assembly (Q18220900)
 WARNING: the district Hartley (Q5355492) wasn't found in the boundary data for position Member of the South Australian House of Assembly (Q18220900)
@@ -211,30 +179,7 @@ WARNING: the district Eastern Metropolitan Region (Q5330290) wasn't found in the
 WARNING: the district Western Victoria Region (Q7988421) wasn't found in the boundary data for position Member of the Victorian Legislative Council (Q19185341)
 WARNING: the district Northern Victoria Region (Q7059112) wasn't found in the boundary data for position Member of the Victorian Legislative Council (Q19185341)
 WARNING: the district Southern Metropolitan Region (Q7570135) wasn't found in the boundary data for position Member of the Victorian Legislative Council (Q19185341)
-WARNING: Position member of the Northern Territory Legislative Assembly (Q26998278) not in boundary associated_wikidata_positions
-WARNING: the district Barkly (Q5356198) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
-WARNING: the district Casuarina (Q5356204) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
-WARNING: the district Sanderson (Q5356251) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
-WARNING: the district Fong Lim (Q5356215) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
-WARNING: the district Namatjira (Q5356237) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
-WARNING: the district Brennan (Q5356202) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
-WARNING: the district Arnhem (Q5356197) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
-WARNING: the district Arafura (Q5356195) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
-WARNING: the district Karama (Q5356224) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
-WARNING: the district Braitling (Q5356201) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
-WARNING: the district Katherine (Q5356225) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
-WARNING: the district Port Darwin (Q5356246) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
-WARNING: the district Nhulunbuy (Q5356241) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
-WARNING: the district Stuart (Q5356252) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
-WARNING: the district Drysdale (Q5356210) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
-WARNING: the district Daly (Q5356206) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
-WARNING: the district Spillett (Q26267294) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
-WARNING: the district Fannie Bay (Q5356213) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
-WARNING: the district Araluen (Q5356196) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
-WARNING: the district Blain (Q5356200) wasn't found in the boundary data for position member of the Northern Territory Legislative Assembly (Q26998278)
 WARNING: Position Lord Mayor of Adelaide (Q49031784) not in boundary associated_wikidata_positions
-WARNING: Position Lord Mayor of Brisbane (Q29467089) not in boundary associated_wikidata_positions
-WARNING: the district City of Brisbane (Q917682) wasn't found in the boundary data for position Lord Mayor of Brisbane (Q29467089)
 WARNING: Position Lord Mayor of Adelaide (Q49031784) not in boundary associated_wikidata_positions
 WARNING: the district City of Adelaide (Q1094063) wasn't found in the boundary data for position Lord Mayor of Adelaide (Q49031784)
 WARNING: the district City of Adelaide (Q1094063) wasn't found in the boundary data for position Lord Mayor of Adelaide (Q49031784)

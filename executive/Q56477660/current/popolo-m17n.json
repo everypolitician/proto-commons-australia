@@ -49,7 +49,75 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q36074",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36074"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Queensland"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q917682",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q917682"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q29467089"
+      ],
+      "type": {
+        "lang:en": "local government area of Queensland"
+      },
+      "name": {
+        "lang:en": "City of Brisbane"
+      },
+      "parent_id": "Q36074"
+    }
   ],
   "memberships": [
     {

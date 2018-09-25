@@ -11449,29 +11449,6 @@
   ],
   "areas": [
     {
-      "id": "Q1073994",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/slaed:vic282"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1073994"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18534408"
-      ],
-      "type": {
-        "lang:en": "electoral district of Victoria"
-      },
-      "name": {
-        "lang:en": "Richmond"
-      },
-      "parent_id": "Q36687"
-    },
-    {
       "id": "Q14935126",
       "identifiers": [
         {
@@ -12967,7 +12944,7 @@
       "parent_id": "Q36687"
     },
     {
-      "id": "Q5355729",
+      "id": "Q5355730",
       "identifiers": [
         {
           "scheme": "MS_FB",
@@ -12975,7 +12952,7 @@
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q5355729"
+          "identifier": "Q5355730"
         }
       ],
       "associated_wikidata_positions": [
@@ -13216,6 +13193,29 @@
       },
       "name": {
         "lang:en": "Preston"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q5355896",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/slaed:vic282"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355896"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18534408"
+      ],
+      "type": {
+        "lang:en": "electoral district of Victoria"
+      },
+      "name": {
+        "lang:en": "Richmond"
       },
       "parent_id": "Q36687"
     },

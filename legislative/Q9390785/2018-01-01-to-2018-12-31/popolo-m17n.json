@@ -337,7 +337,627 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q26267294",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000086"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26267294"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Spillett"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q3235",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3235"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1072341"
+      ],
+      "type": {
+        "lang:en": "territory of Australia"
+      },
+      "name": {
+        "lang:en": "Northern Territory"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q5356195",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000069"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356195"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Arafura"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356196",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000078"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356196"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Araluen"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356197",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000062"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356197"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Arnhem"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356198",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000080"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356198"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Barkly"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356200",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000075"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356200"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Blain"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356201",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000065"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356201"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Braitling"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356202",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000070"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356202"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Brennan"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356204",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000067"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356204"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Casuarina"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000073"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Daly"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000076"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Drysdale"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356213",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000077"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356213"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Fannie Bay"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356215",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000079"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356215"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Fong Lim"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356218",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000071"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356218"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Goyder"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356223",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000074"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356223"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Johnston"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000063"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Karama"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356225",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000064"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356225"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Katherine"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356237",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000068"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356237"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Namatjira"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356239",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000066"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356239"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Nelson"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356241",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000081"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356241"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Nhulunbuy"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356242",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000072"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356242"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Nightcliff"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356246",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000084"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356246"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Port Darwin"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356251",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000082"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356251"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Sanderson"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356252",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000083"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356252"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Stuart"
+      },
+      "parent_id": "Q3235"
+    },
+    {
+      "id": "Q5356258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt/slaed:nt1000085"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26998278"
+      ],
+      "type": {
+        "lang:en": "electoral division of the Northern Territory"
+      },
+      "name": {
+        "lang:en": "Wanguri"
+      },
+      "parent_id": "Q3235"
+    }
   ],
   "memberships": [
     {
