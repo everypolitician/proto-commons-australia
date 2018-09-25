@@ -12,7 +12,7 @@
       "lang:en": "NAME"
     }
   },
-    {
+  {
     "directory": "states",
     "area_type_wikidata_item_id": "Q5852411",
     "associations": [
@@ -157,7 +157,7 @@
         "position_item_id": "Q18912794"
       }
     ],
-        "name_columns": {
+    "name_columns": {
       "lang:en": "NAME"
     }
   },
@@ -894,7 +894,7 @@
     "associations": [
       {
         "comment": "lord mayor of brisbane",
-        "position_item_id": "Q56477662"
+        "position_item_id": "Q29467089"
       }
     ],
     "name_columns": {
