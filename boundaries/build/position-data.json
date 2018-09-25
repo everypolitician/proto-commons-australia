@@ -256,6 +256,22 @@
     }
   },
   {
+    "role_id": "Q49031784",
+    "role_name": {
+      "lang:en": "Lord Mayor of Adelaide"
+    },
+    "generic_role_id": "Q11902879",
+    "generic_role_name": {
+      "lang:en": "Lord Mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477697",
+    "organization_name": {
+      "lang:en": "Adelaide City Council"
+    }
+  },
+  {
     "role_id": "Q56477508",
     "role_name": {
       "lang:en": "member of Waverley Municipal Council"
