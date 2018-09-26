@@ -1,0 +1,57 @@
+Local government area divisional boundaries - Queensland - 2016
+Identification
+Title: Local government area divisional boundaries - Queensland - 2016
+Alternative title: DP_2016_LGA_DIVISION_BOUNDARIES.zip
+Date: 2016-01-27 (publication)
+Presentation form code: mapDigital
+Description
+Abstract / Description:
+The spatial representation of local government division boundaries in Queensland for the purposes of the 2016 local government elections.
+Following the conclusion of the 2016 local government elections, these boundaries will become the current and actual boundaries for Queensland local government divisional areas.
+Additional Information:
+This spatial representation relates to the proposed electoral boundaries for the purposes of the 2016 local government elections.
+
+The following local governments with electoral divisions have had changes implemented to their divisional boundaries for the purposes of the 2016 local government elections; Brisbane City Council, Banana Shire Council, Bundaberg Regional Council, Cairns Regional Council, Fraser Coast Regional Council, Ipswich City Council, Isaac Regional Council, Logan City Council, Moreton Bay Regional Council, Redland City Council, Rockhampton Regional Council, Scenic Rim Regional Council, Sunshine Coast Regional Council, Tablelands Regional Council, Townsville City Council and Whitsunday Regional Council.
+
+The following local governments with electoral divisions which remain unchanged for the purposes of the 2016 local government elections are; Cassowary Coast Regional Council, Gold Coast City Council, Gympie Regional Council, North Burnett Regional Council, Northern Peninsula Area Regional Council, South Burnett Regional Council and Torres Strait Island Regional Council.
+Language: eng
+Character set: unknown
+Topic
+ISO topic category codes: boundaries, planningCadastre
+Spatial Data Information
+Spatial representation type: vector
+Coordinate Reference System EPSG code: EPSG:4283
+Title: EPSG Geodetic Parameter
+Dataset
+Date: 2007-07-16 (revision)
+Edition: Version 6.13
+Contacts
+Point of contact:
+Organisation: Department of Natural Resources, Mines and Energy
+Address:
+Email: melissa.brien@dnrme.qld.gov.au
+Owner:
+Organisation: Department of State Development, Manufacturing, Infrastructure and Planning
+Status
+Maintenance and update frequency: asNeeded
+Data / Resource Constraints
+Resource Access Level: -->
+Security classification (ISO 19115): restricted
+Copyright: (as use constraint)
+© State of Queensland (Department of Natural Resources, Mines and Energy) 2018
+Licence: (as use constraint)
+This material is licensed under a Creative Commons - Attribution 4.0 International licence.
+Creative Commons License
+The Department of Natural Resources, Mines and Energy requests attribution in the following manner:
+© State of Queensland (Department of Natural Resources, Mines and Energy) 2018
+Temporal and Spatial extents:
+Bounding box:
+West bounding longitude: 138
+East bounding longitude: 155
+South bounding latitude: -29.5
+North bounding latitude: -9
+Temporal extent:
+Start: 2016-03-20 End: 2016-03-20
+Data Quality
+Data quality scope:
+Level: dataset
