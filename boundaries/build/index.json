@@ -2179,5 +2179,1348 @@
       "match": "country:au/state:wa/lga:wa427",
       "column": "MS_FB"
     }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477946",
+    "associations": [
+      {
+        "comment": "member of kwinana city council",
+        "position_item_id": "Q56477943"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa425",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477734",
+    "associations": [
+      {
+        "comment": "member of town of gawler council",
+        "position_item_id": "Q56477732"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa85",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477941",
+    "associations": [
+      {
+        "comment": "member of perth city council",
+        "position_item_id": "Q56477939"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa423",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477933",
+    "associations": [
+      {
+        "comment": "member of town of bassendean council",
+        "position_item_id": "Q56477931"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa377",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477883",
+    "associations": [
+      {
+        "comment": "member of gosnells city council",
+        "position_item_id": "Q56477881"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa320",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477696",
+    "associations": [
+      {
+        "comment": "member of town of walkerville council",
+        "position_item_id": "Q56477694"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa154",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477919",
+    "associations": [
+      {
+        "comment": "member of shire of peppermint grove council",
+        "position_item_id": "Q56477917"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa374",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477573",
+    "associations": [
+      {
+        "comment": "member of mosman council",
+        "position_item_id": "Q56477571"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw232",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477591",
+    "associations": [
+      {
+        "comment": "member of burwood council",
+        "position_item_id": "Q56477589"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw268",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477603",
+    "associations": [
+      {
+        "comment": "member of canada bay city council",
+        "position_item_id": "Q56477601"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw282",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477530",
+    "associations": [
+      {
+        "comment": "member of strathfield municipal council",
+        "position_item_id": "Q56477527"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw196",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477595",
+    "associations": [
+      {
+        "comment": "member of campbelltown city council",
+        "position_item_id": "Q56477593"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw272",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477535",
+    "associations": [
+      {
+        "comment": "member of city of sydney council",
+        "position_item_id": "Q56477533"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw200",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477549",
+    "associations": [
+      {
+        "comment": "member of council of the municipality of kiama",
+        "position_item_id": "Q56477547"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw212",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477625",
+    "associations": [
+      {
+        "comment": "member of shellharbour city council",
+        "position_item_id": "Q56477623"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw306",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477704",
+    "associations": [
+      {
+        "comment": "member of burnside city council",
+        "position_item_id": "Q56477702"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa74",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477742",
+    "associations": [
+      {
+        "comment": "member of marion city council",
+        "position_item_id": "Q56477740"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa91",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477712",
+    "associations": [
+      {
+        "comment": "member of mitcham city council",
+        "position_item_id": "Q56477710"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa76",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477746",
+    "associations": [
+      {
+        "comment": "member of norwood payneham & st peters city council",
+        "position_item_id": "Q56477744"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa92",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477754",
+    "associations": [
+      {
+        "comment": "member of playford city council",
+        "position_item_id": "Q56477752"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa98",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477738",
+    "associations": [
+      {
+        "comment": "member of charles sturt city council",
+        "position_item_id": "Q56477736"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa90",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477688",
+    "associations": [
+      {
+        "comment": "member of holdfast bay city council",
+        "position_item_id": "Q56477686"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa105",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477680",
+    "associations": [
+      {
+        "comment": "member of tea tree gully city council",
+        "position_item_id": "Q56477678"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa101",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477750",
+    "associations": [
+      {
+        "comment": "member of onkaparinga city council",
+        "position_item_id": "Q56477748"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa93",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477684",
+    "associations": [
+      {
+        "comment": "member of west torrens city council",
+        "position_item_id": "Q56477682"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa102",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477726",
+    "associations": [
+      {
+        "comment": "member of salisbury city council",
+        "position_item_id": "Q56477722"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa82",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477720",
+    "associations": [
+      {
+        "comment": "member of prospect council",
+        "position_item_id": "Q56477718"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa81",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477692",
+    "associations": [
+      {
+        "comment": "member of adelaide hills council",
+        "position_item_id": "Q56477690"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa107",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477730",
+    "associations": [
+      {
+        "comment": "member of unley city council",
+        "position_item_id": "Q56477728"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa83",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477708",
+    "associations": [
+      {
+        "comment": "member of campbelltown city council",
+        "position_item_id": "Q56477706"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa75",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477700",
+    "associations": [
+      {
+        "comment": "member of adelaide city council",
+        "position_item_id": "Q56477698"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa73",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477716",
+    "associations": [
+      {
+        "comment": "member of port adelaide enfield city council",
+        "position_item_id": "Q56477714"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:sa/lga:sa78",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477794",
+    "associations": [
+      {
+        "comment": "member of boroondara city council",
+        "position_item_id": "Q56477792"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic201",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477806",
+    "associations": [
+      {
+        "comment": "member of darebin city council",
+        "position_item_id": "Q56477804"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic205",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477770",
+    "associations": [
+      {
+        "comment": "member of glen eira city council",
+        "position_item_id": "Q56477768"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic177",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477802",
+    "associations": [
+      {
+        "comment": "member of stonnington city council",
+        "position_item_id": "Q56477800"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic203",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477790",
+    "associations": [
+      {
+        "comment": "member of whitehorse city council",
+        "position_item_id": "Q56477788"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic196",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477798",
+    "associations": [
+      {
+        "comment": "member of yarra city council",
+        "position_item_id": "Q56477796"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic202",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477823",
+    "associations": [
+      {
+        "comment": "member of maribyrnong city council",
+        "position_item_id": "Q56477821"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic234",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477814",
+    "associations": [
+      {
+        "comment": "member of monash city council",
+        "position_item_id": "Q56477812"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic210",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477758",
+    "associations": [
+      {
+        "comment": "member of moonee valley city council",
+        "position_item_id": "Q56477756"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic121",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477762",
+    "associations": [
+      {
+        "comment": "member of moreland city council",
+        "position_item_id": "Q56477760"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic131",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477766",
+    "associations": [
+      {
+        "comment": "member of melbourne city council",
+        "position_item_id": "Q56477764"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic132",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477778",
+    "associations": [
+      {
+        "comment": "member of banyule city council",
+        "position_item_id": "Q56477776"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic188",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477782",
+    "associations": [
+      {
+        "comment": "member of brimbank city council",
+        "position_item_id": "Q56477780"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic189",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477819",
+    "associations": [
+      {
+        "comment": "member of kingston city council",
+        "position_item_id": "Q56477817"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic226",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477786",
+    "associations": [
+      {
+        "comment": "member of manningham city council",
+        "position_item_id": "Q56477784"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic195",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477827",
+    "associations": [
+      {
+        "comment": "member of hobsons bay city council",
+        "position_item_id": "Q56477825"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic235",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477810",
+    "associations": [
+      {
+        "comment": "member of port phillip city council",
+        "position_item_id": "Q56477808"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic208",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477774",
+    "associations": [
+      {
+        "comment": "member of bayside city council",
+        "position_item_id": "Q56477772"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:vic/lga:vic182",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477950",
+    "associations": [
+      {
+        "comment": "member of kalamunda city council",
+        "position_item_id": "Q56477948"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa427",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477937",
+    "associations": [
+      {
+        "comment": "member of fremantle city council",
+        "position_item_id": "Q56477935"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa416",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477929",
+    "associations": [
+      {
+        "comment": "member of town of cottesloe council",
+        "position_item_id": "Q56477927"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa376",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477831",
+    "associations": [
+      {
+        "comment": "member of nedlands city council",
+        "position_item_id": "Q56477829"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa307",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477915",
+    "associations": [
+      {
+        "comment": "member of subiaco city council",
+        "position_item_id": "Q56477913"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa373",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477875",
+    "associations": [
+      {
+        "comment": "member of south perth city council",
+        "position_item_id": "Q56477873"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa318",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477835",
+    "associations": [
+      {
+        "comment": "member of rockingham city council",
+        "position_item_id": "Q56477833"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa308",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477911",
+    "associations": [
+      {
+        "comment": "member of joondalup city council",
+        "position_item_id": "Q56477909"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa371",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477879",
+    "associations": [
+      {
+        "comment": "member of shire of mundaring council",
+        "position_item_id": "Q56477877"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa319",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477859",
+    "associations": [
+      {
+        "comment": "member of bayswater city council",
+        "position_item_id": "Q56477857"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa314",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477895",
+    "associations": [
+      {
+        "comment": "member of belmont city council",
+        "position_item_id": "Q56477893"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa360",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477887",
+    "associations": [
+      {
+        "comment": "member of armadale city council",
+        "position_item_id": "Q56477885"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa321",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477867",
+    "associations": [
+      {
+        "comment": "member of town of victoria park council",
+        "position_item_id": "Q56477865"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa316",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477871",
+    "associations": [
+      {
+        "comment": "member of canning city council",
+        "position_item_id": "Q56477869"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa317",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477855",
+    "associations": [
+      {
+        "comment": "member of swan city council",
+        "position_item_id": "Q56477853"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa313",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477843",
+    "associations": [
+      {
+        "comment": "member of vincent city council",
+        "position_item_id": "Q56477841"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa310",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477891",
+    "associations": [
+      {
+        "comment": "member of stirling city council",
+        "position_item_id": "Q56477889"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa334",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477903",
+    "associations": [
+      {
+        "comment": "member of town of east fremantle council",
+        "position_item_id": "Q56477901"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa369",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477899",
+    "associations": [
+      {
+        "comment": "member of town of claremont council",
+        "position_item_id": "Q56477897"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa368",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477851",
+    "associations": [
+      {
+        "comment": "member of melville city council",
+        "position_item_id": "Q56477849"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa312",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477847",
+    "associations": [
+      {
+        "comment": "member of cockburn city council",
+        "position_item_id": "Q56477845"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa311",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477907",
+    "associations": [
+      {
+        "comment": "member of town of cambridge council",
+        "position_item_id": "Q56477905"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa370",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477839",
+    "associations": [
+      {
+        "comment": "member of wanneroo city council",
+        "position_item_id": "Q56477837"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa309",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477924",
+    "associations": [
+      {
+        "comment": "member of town of mosman park council",
+        "position_item_id": "Q56477921"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa375",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477863",
+    "associations": [
+      {
+        "comment": "member of shire of serpentine-jarrahdale council",
+        "position_item_id": "Q56477861"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:wa/lga:wa315",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477663",
+    "associations": [
+      {
+        "comment": "member of brisbane city council",
+        "position_item_id": "Q56477661"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:qld/lga:qld21",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477667",
+    "associations": [
+      {
+        "comment": "member of sunshine coast region council",
+        "position_item_id": "Q56477665"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:qld/lga:qld295",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477675",
+    "associations": [
+      {
+        "comment": "member of gold coast city council",
+        "position_item_id": "Q56477673"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:qld/lga:qld63",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q56477671",
+    "associations": [
+      {
+        "comment": "member of shire of noosa council",
+        "position_item_id": "Q56477669"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:qld/lga:qld319",
+      "column": "MS_FB_PARE"
+    }
   }
 ]
