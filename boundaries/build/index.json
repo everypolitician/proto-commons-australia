@@ -3522,5 +3522,447 @@
       "match": "country:au/state:qld/lga:qld319",
       "column": "MS_FB_PARE"
     }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477651",
+    "associations": [
+      {
+        "comment": "member of inner west council",
+        "position_item_id": "Q56477649"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw331",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477655",
+    "associations": [
+      {
+        "comment": "member of canterbury-bankstown council",
+        "position_item_id": "Q56477653"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw332",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477520",
+    "associations": [
+      {
+        "comment": "member of woollahra municipal council",
+        "position_item_id": "Q56477518"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw180",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477659",
+    "associations": [
+      {
+        "comment": "member of bayside council",
+        "position_item_id": "Q56477657"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw335",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477643",
+    "associations": [
+      {
+        "comment": "member of georges river council",
+        "position_item_id": "Q56477641"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw325",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477511",
+    "associations": [
+      {
+        "comment": "member of waverley municipal council",
+        "position_item_id": "Q56477508"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw175",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477616",
+    "associations": [
+      {
+        "comment": "member of fairfield city council",
+        "position_item_id": "Q56477614"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw295",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477515",
+    "associations": [
+      {
+        "comment": "member of lane cove council",
+        "position_item_id": "Q56477513"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw177",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477525",
+    "associations": [
+      {
+        "comment": "member of city of ryde council",
+        "position_item_id": "Q56477523"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw181",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477559",
+    "associations": [
+      {
+        "comment": "member of randwick city council",
+        "position_item_id": "Q56477557"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw216",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477587",
+    "associations": [
+      {
+        "comment": "member of camden council",
+        "position_item_id": "Q56477585"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw264",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477583",
+    "associations": [
+      {
+        "comment": "member of ku-ring-gai council",
+        "position_item_id": "Q56477580"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw258",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477647",
+    "associations": [
+      {
+        "comment": "member of northern beaches council",
+        "position_item_id": "Q56477645"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw329",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477635",
+    "associations": [
+      {
+        "comment": "member of parramatta council city council",
+        "position_item_id": "Q56477633"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw314",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477540",
+    "associations": [
+      {
+        "comment": "member of lake macquarie city council",
+        "position_item_id": "Q56477537"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw206",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477563",
+    "associations": [
+      {
+        "comment": "member of penrith city council",
+        "position_item_id": "Q56477561"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw217",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477639",
+    "associations": [
+      {
+        "comment": "member of cumberland council",
+        "position_item_id": "Q56477637"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw315",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477611",
+    "associations": [
+      {
+        "comment": "member of willoughby city council",
+        "position_item_id": "Q56477609"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw294",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477568",
+    "associations": [
+      {
+        "comment": "member of hunters hill municipal council",
+        "position_item_id": "Q56477565"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw229",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477599",
+    "associations": [
+      {
+        "comment": "member of liverpool city council",
+        "position_item_id": "Q56477597"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw275",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477555",
+    "associations": [
+      {
+        "comment": "member of north sydney council",
+        "position_item_id": "Q56477553"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw213",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477545",
+    "associations": [
+      {
+        "comment": "member of newcastle city council",
+        "position_item_id": "Q56477543"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw207",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477607",
+    "associations": [
+      {
+        "comment": "member of blacktown city council",
+        "position_item_id": "Q56477605"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw283",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477630",
+    "associations": [
+      {
+        "comment": "member of wollongong city council",
+        "position_item_id": "Q56477627"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw310",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477578",
+    "associations": [
+      {
+        "comment": "member of hornsby shire council",
+        "position_item_id": "Q56477576"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw234",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards-no-geom",
+    "area_type_wikidata_item_id": "Q56477621",
+    "associations": [
+      {
+        "comment": "member of sutherland shire council",
+        "position_item_id": "Q56477618"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:au/state:nsw/lga:nsw298",
+      "column": "MS_FB_PARE"
+    }
   }
 ]
