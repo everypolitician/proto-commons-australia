@@ -6378,7 +6378,236 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q36687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Victoria"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q5330290",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/slced:vic228"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5330290"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19185341"
+      ],
+      "type": {
+        "lang:en": "electoral region of Victoria"
+      },
+      "name": {
+        "lang:en": "Eastern Metropolitan Region"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q5330554",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/slced:vic196"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5330554"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19185341"
+      ],
+      "type": {
+        "lang:en": "electoral region of Victoria"
+      },
+      "name": {
+        "lang:en": "Eastern Victoria Region"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q7058748",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/slced:vic247"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7058748"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19185341"
+      ],
+      "type": {
+        "lang:en": "electoral region of Victoria"
+      },
+      "name": {
+        "lang:en": "Northern Metropolitan Region"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q7059112",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/slced:vic200"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7059112"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19185341"
+      ],
+      "type": {
+        "lang:en": "electoral region of Victoria"
+      },
+      "name": {
+        "lang:en": "Northern Victoria Region"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q7567151",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/slced:vic226"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7567151"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19185341"
+      ],
+      "type": {
+        "lang:en": "electoral region of Victoria"
+      },
+      "name": {
+        "lang:en": "South Eastern Metropolitan Region"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q7570135",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/slced:vic243"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7570135"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19185341"
+      ],
+      "type": {
+        "lang:en": "electoral region of Victoria"
+      },
+      "name": {
+        "lang:en": "Southern Metropolitan Region"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q7988065",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/slced:vic222"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7988065"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19185341"
+      ],
+      "type": {
+        "lang:en": "electoral region of Victoria"
+      },
+      "name": {
+        "lang:en": "Western Metropolitan Region"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q7988421",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/slced:vic199"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7988421"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19185341"
+      ],
+      "type": {
+        "lang:en": "electoral region of Victoria"
+      },
+      "name": {
+        "lang:en": "Western Victoria Region"
+      },
+      "parent_id": "Q36687"
+    }
   ],
   "memberships": [
     {
