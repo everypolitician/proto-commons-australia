@@ -152,11 +152,6 @@ WARNING: the district King (Q28429886) wasn't found in the boundary data for pos
 WARNING: the district Narungga (Q28943085) wasn't found in the boundary data for position Member of the South Australian House of Assembly (Q18220900)
 WARNING: the district Elizabeth (Q5355372) wasn't found in the boundary data for position Member of the South Australian House of Assembly (Q18220900)
 WARNING: Position Member of the South Australian Legislative Council (Q18662245) not in boundary associated_wikidata_positions
-WARNING: the district Central No. 1 (Q51028908) wasn't found in the boundary data for position Member of the South Australian Legislative Council (Q18662245)
-WARNING: the district Midland (Q51034833) wasn't found in the boundary data for position Member of the South Australian Legislative Council (Q18662245)
-WARNING: the district Midland (Q51034833) wasn't found in the boundary data for position Member of the South Australian Legislative Council (Q18662245)
-WARNING: the district Midland (Q51034833) wasn't found in the boundary data for position Member of the South Australian Legislative Council (Q18662245)
-WARNING: Position Member of the South Australian Legislative Council (Q18662245) not in boundary associated_wikidata_positions
 WARNING: Position Member of the Victorian Legislative Council (Q19185341) not in boundary associated_wikidata_positions
 WARNING: the district Eastern Victoria Region (Q5330554) wasn't found in the boundary data for position Member of the Victorian Legislative Council (Q19185341)
 WARNING: the district Western Metropolitan Region (Q7988065) wasn't found in the boundary data for position Member of the Victorian Legislative Council (Q19185341)
@@ -179,12 +174,5 @@ WARNING: the district Eastern Metropolitan Region (Q5330290) wasn't found in the
 WARNING: the district Western Victoria Region (Q7988421) wasn't found in the boundary data for position Member of the Victorian Legislative Council (Q19185341)
 WARNING: the district Northern Victoria Region (Q7059112) wasn't found in the boundary data for position Member of the Victorian Legislative Council (Q19185341)
 WARNING: the district Southern Metropolitan Region (Q7570135) wasn't found in the boundary data for position Member of the Victorian Legislative Council (Q19185341)
-WARNING: Position Lord Mayor of Adelaide (Q49031784) not in boundary associated_wikidata_positions
-WARNING: Position Lord Mayor of Adelaide (Q49031784) not in boundary associated_wikidata_positions
-WARNING: the district City of Adelaide (Q1094063) wasn't found in the boundary data for position Lord Mayor of Adelaide (Q49031784)
-WARNING: the district City of Adelaide (Q1094063) wasn't found in the boundary data for position Lord Mayor of Adelaide (Q49031784)
-WARNING: Position Mayor of the City of Port Adelaide Enfield (Q56477715) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Salisbury (Q56477725) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Unley (Q56477729) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Gawler (Q56477733) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of the City of Melbourne (Q56477765) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Adelaide (Q23059715) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Melbourne (Q18720358) not in boundary associated_wikidata_positions

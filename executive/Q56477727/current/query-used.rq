@@ -8,7 +8,7 @@ SELECT DISTINCT
        ?role_superclass ?role_superclass_en
        ?org ?org_en ?org_jurisdiction
 WHERE {
-  VALUES ?role { wd:Q56477729 }
+  VALUES ?role { wd:Q52064205 }
   BIND(?role AS ?specific_role) .
   BIND(wd:Q56477727 AS ?org) .
   OPTIONAL {

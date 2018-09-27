@@ -208,6 +208,22 @@
     }
   },
   {
+    "role_id": "Q23782667",
+    "role_name": {
+      "lang:en": "Lord Mayor of Melbourne"
+    },
+    "generic_role_id": "Q11902879",
+    "generic_role_name": {
+      "lang:en": "Lord Mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477763",
+    "organization_name": {
+      "lang:en": "Melbourne City Council"
+    }
+  },
+  {
     "role_id": "Q26998278",
     "role_name": {
       "lang:en": "member of the Northern Territory Legislative Assembly"
@@ -221,6 +237,22 @@
     "organization_id": "Q9390785",
     "organization_name": {
       "lang:en": "Northern Territory Legislative Assembly"
+    }
+  },
+  {
+    "role_id": "Q27230596",
+    "role_name": {
+      "lang:en": "Premier of South Australia"
+    },
+    "generic_role_id": "Q7240389",
+    "generic_role_name": {
+      "lang:en": "premier of an Australian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q56459482",
+    "organization_name": {
+      "lang:en": "Office of the South Australian Productivity Commission"
     }
   },
   {
@@ -253,6 +285,54 @@
     "organization_id": "Q2028178",
     "organization_name": {
       "lang:en": "Cabinet of Australia"
+    }
+  },
+  {
+    "role_id": "Q47014912",
+    "role_name": {
+      "lang:en": "Mayor of Lake Macquarie"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477536",
+    "organization_name": {
+      "lang:en": "Lake Macquarie City Council"
+    }
+  },
+  {
+    "role_id": "Q49031784",
+    "role_name": {
+      "lang:en": "Lord Mayor of Adelaide"
+    },
+    "generic_role_id": "Q11902879",
+    "generic_role_name": {
+      "lang:en": "Lord Mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477697",
+    "organization_name": {
+      "lang:en": "Adelaide City Council"
+    }
+  },
+  {
+    "role_id": "Q51011795",
+    "role_name": {
+      "lang:en": "Mayor of Port Adelaide Enfield"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477713",
+    "organization_name": {
+      "lang:en": "Port Adelaide Enfield City Council"
     }
   },
   {
@@ -458,22 +538,6 @@
     },
     "role_level": "Q24238356",
     "role_type": "Q4175034",
-    "organization_id": "Q56477536",
-    "organization_name": {
-      "lang:en": "Lake Macquarie City Council"
-    }
-  },
-  {
-    "role_id": "Q56477538",
-    "role_name": {
-      "lang:en": "Mayor of the City of Lake Macquarie Council"
-    },
-    "generic_role_id": "Q30185",
-    "generic_role_name": {
-      "lang:en": "mayor"
-    },
-    "role_level": "Q24238356",
-    "role_type": null,
     "organization_id": "Q56477536",
     "organization_name": {
       "lang:en": "Lake Macquarie City Council"
@@ -1440,22 +1504,6 @@
     }
   },
   {
-    "role_id": "Q56477674",
-    "role_name": {
-      "lang:en": "Mayor of Gold Coast City"
-    },
-    "generic_role_id": "Q30185",
-    "generic_role_name": {
-      "lang:en": "mayor"
-    },
-    "role_level": "Q24238356",
-    "role_type": null,
-    "organization_id": "Q56477672",
-    "organization_name": {
-      "lang:en": "Gold Coast City Council"
-    }
-  },
-  {
     "role_id": "Q56477678",
     "role_name": {
       "lang:en": "member of Tea Tree Gully City Council"
@@ -1744,22 +1792,6 @@
     }
   },
   {
-    "role_id": "Q56477715",
-    "role_name": {
-      "lang:en": "Mayor of the City of Port Adelaide Enfield"
-    },
-    "generic_role_id": "Q30185",
-    "generic_role_name": {
-      "lang:en": "mayor"
-    },
-    "role_level": "Q24238356",
-    "role_type": null,
-    "organization_id": "Q56477713",
-    "organization_name": {
-      "lang:en": "Port Adelaide Enfield City Council"
-    }
-  },
-  {
     "role_id": "Q56477718",
     "role_name": {
       "lang:en": "member of Prospect Council"
@@ -1808,22 +1840,6 @@
     }
   },
   {
-    "role_id": "Q56477725",
-    "role_name": {
-      "lang:en": "Mayor of the City of Salisbury"
-    },
-    "generic_role_id": "Q30185",
-    "generic_role_name": {
-      "lang:en": "mayor"
-    },
-    "role_level": "Q24238356",
-    "role_type": null,
-    "organization_id": "Q56477721",
-    "organization_name": {
-      "lang:en": "Salisbury City Council"
-    }
-  },
-  {
     "role_id": "Q56477728",
     "role_name": {
       "lang:en": "member of Unley City Council"
@@ -1840,22 +1856,6 @@
     }
   },
   {
-    "role_id": "Q56477729",
-    "role_name": {
-      "lang:en": "Mayor of the City of Unley"
-    },
-    "generic_role_id": "Q30185",
-    "generic_role_name": {
-      "lang:en": "mayor"
-    },
-    "role_level": "Q24238356",
-    "role_type": null,
-    "organization_id": "Q56477727",
-    "organization_name": {
-      "lang:en": "Unley City Council"
-    }
-  },
-  {
     "role_id": "Q56477732",
     "role_name": {
       "lang:en": "member of Town of Gawler Council"
@@ -1866,22 +1866,6 @@
     },
     "role_level": "Q24238356",
     "role_type": "Q4175034",
-    "organization_id": "Q56477731",
-    "organization_name": {
-      "lang:en": "Town of Gawler Council"
-    }
-  },
-  {
-    "role_id": "Q56477733",
-    "role_name": {
-      "lang:en": "Mayor of Gawler"
-    },
-    "generic_role_id": "Q30185",
-    "generic_role_name": {
-      "lang:en": "mayor"
-    },
-    "role_level": "Q24238356",
-    "role_type": null,
     "organization_id": "Q56477731",
     "organization_name": {
       "lang:en": "Town of Gawler Council"
@@ -2122,22 +2106,6 @@
     },
     "role_level": "Q24238356",
     "role_type": "Q4175034",
-    "organization_id": "Q56477763",
-    "organization_name": {
-      "lang:en": "Melbourne City Council"
-    }
-  },
-  {
-    "role_id": "Q56477765",
-    "role_name": {
-      "lang:en": "Mayor of the City of Melbourne"
-    },
-    "generic_role_id": "Q30185",
-    "generic_role_name": {
-      "lang:en": "mayor"
-    },
-    "role_level": "Q24238356",
-    "role_type": null,
     "organization_id": "Q56477763",
     "organization_name": {
       "lang:en": "Melbourne City Council"
@@ -3581,6 +3549,22 @@
     "organization_id": "Q56477947",
     "organization_name": {
       "lang:en": "Kalamunda City Council"
+    }
+  },
+  {
+    "role_id": "Q6797856",
+    "role_name": {
+      "lang:en": "Mayor of the Gold Coast"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477672",
+    "organization_name": {
+      "lang:en": "Gold Coast City Council"
     }
   },
   {

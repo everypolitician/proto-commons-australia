@@ -1,6 +1,38 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "John Smith"
+      },
+      "id": "Q6258255",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6258255"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sally Capp"
+      },
+      "id": "Q7405097",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7405097"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/SallyCappOfficial"
+        }
+      ]
+    }
   ],
   "organizations": [
     {
@@ -19,9 +51,105 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1919098",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic132"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1919098"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q23782667"
+      ],
+      "type": {
+        "lang:en": "local government area of Victoria"
+      },
+      "name": {
+        "lang:en": "City of Melbourne"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q36687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Victoria"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6258255-133d44ac-4569-be29-eebe-8ed2a08f60ae",
+      "person_id": "Q6258255",
+      "organization_id": "Q56477763",
+      "area_id": "Q1919098",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor"
+      },
+      "role_code": "Q18720358",
+      "role": {
+        "lang:en": "Mayor of Melbourne"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7405097-95572352-4809-9b9a-beab-1e325a7c9b40",
+      "person_id": "Q7405097",
+      "organization_id": "Q56477763",
+      "area_id": "Q1919098",
+      "start_date": "2018-05-24",
+      "role_superclass_code": "Q11902879",
+      "role_superclass": {
+        "lang:en": "Lord Mayor"
+      },
+      "role_code": "Q23782667",
+      "role": {
+        "lang:en": "Lord Mayor of Melbourne"
+      }
+    }
   ]
 }
