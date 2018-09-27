@@ -26,28 +26,6 @@
     ]
   },
   {
-    "comment": "City of Unley",
-    "area_id": "Q1766439",
-    "executive_item_id": "Q1766439",
-    "positions": [
-      {
-        "comment": "Mayor of Unley",
-        "position_item_id": "Q52064205"
-      }
-    ]
-  },
-  {
-    "comment": "Town of Gawler",
-    "area_id": "Q1847617",
-    "executive_item_id": "Q1847617",
-    "positions": [
-      {
-        "comment": "Mayor of Gawler",
-        "position_item_id": "Q54806313"
-      }
-    ]
-  },
-  {
     "comment": "Cabinet of Australia",
     "area_id": "Q408",
     "executive_item_id": "Q2028178",
@@ -152,8 +130,8 @@
     "executive_item_id": "Q56477536",
     "positions": [
       {
-        "comment": "Mayor of the City of Lake Macquarie Council",
-        "position_item_id": "Q56477538"
+        "comment": "Mayor of Lake Macquarie",
+        "position_item_id": "Q47014912"
       }
     ]
   },
@@ -493,8 +471,8 @@
     "executive_item_id": "Q56477672",
     "positions": [
       {
-        "comment": "Mayor of Gold Coast City",
-        "position_item_id": "Q56477674"
+        "comment": "Mayor of the Gold Coast",
+        "position_item_id": "Q6797856"
       }
     ]
   },
@@ -603,8 +581,8 @@
     "executive_item_id": "Q56477713",
     "positions": [
       {
-        "comment": "Mayor of the City of Port Adelaide Enfield",
-        "position_item_id": "Q56477715"
+        "comment": "Mayor of Port Adelaide Enfield",
+        "position_item_id": "Q51011795"
       }
     ]
   },
@@ -625,8 +603,8 @@
     "executive_item_id": "Q56477721",
     "positions": [
       {
-        "comment": "Mayor of the City of Salisbury",
-        "position_item_id": "Q56477725"
+        "comment": "Mayor of Salisbury",
+        "position_item_id": "Q55062908"
       }
     ]
   },
@@ -636,8 +614,8 @@
     "executive_item_id": "Q56477727",
     "positions": [
       {
-        "comment": "Mayor of the City of Unley",
-        "position_item_id": "Q56477729"
+        "comment": "Mayor of Unley",
+        "position_item_id": "Q52064205"
       }
     ]
   },
@@ -648,7 +626,7 @@
     "positions": [
       {
         "comment": "Mayor of Gawler",
-        "position_item_id": "Q56477733"
+        "position_item_id": "Q54806313"
       }
     ]
   },
@@ -735,8 +713,12 @@
     "executive_item_id": "Q56477763",
     "positions": [
       {
-        "comment": "Mayor of the City of Melbourne",
-        "position_item_id": "Q56477765"
+        "comment": "Mayor of Melbourne",
+        "position_item_id": "Q18720358"
+      },
+      {
+        "comment": "Lord Mayor of Melbourne",
+        "position_item_id": "Q23782667"
       }
     ]
   },
