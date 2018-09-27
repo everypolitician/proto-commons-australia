@@ -34,8 +34,8 @@
     "area_type_wikidata_item_id": "Q5852411",
     "associations": [
       {
-        "comment": "governor",
-        "position_item_id": "Q132050"
+        "comment": "Governor of Victoria",
+        "position_item_id": "Q1571023"
       }
     ],
     "name_columns": {
@@ -51,8 +51,8 @@
     "area_type_wikidata_item_id": "Q5852411",
     "associations": [
       {
-        "comment": "governor",
-        "position_item_id": "Q132050"
+        "comment": "Governor of Queensland",
+        "position_item_id": "Q1467097"
       }
     ],
     "name_columns": {
@@ -85,8 +85,8 @@
     "area_type_wikidata_item_id": "Q5852411",
     "associations": [
       {
-        "comment": "governor",
-        "position_item_id": "Q132050"
+        "comment": "Governor of Western Australia",
+        "position_item_id": "Q1372518"
       }
     ],
     "name_columns": {
