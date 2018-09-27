@@ -306,7 +306,397 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q17021056",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/slced:tas2961"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17021056"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19299542"
+      ],
+      "type": {
+        "lang:en": "Tasmanian Legislative Council electoral division"
+      },
+      "name": {
+        "lang:en": "Pembroke"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q34366",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q34366"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527933"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Tasmania"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q38251647",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/slced:tas2963"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38251647"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19299542"
+      ],
+      "type": {
+        "lang:en": "Tasmanian Legislative Council electoral division"
+      },
+      "name": {
+        "lang:en": "McIntyre"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q38251649",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/slced:tas2964"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38251649"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19299542"
+      ],
+      "type": {
+        "lang:en": "Tasmanian Legislative Council electoral division"
+      },
+      "name": {
+        "lang:en": "Prosser"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q5356208",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/slced:tas2947"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356208"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19299542"
+      ],
+      "type": {
+        "lang:en": "Tasmanian Legislative Council electoral division"
+      },
+      "name": {
+        "lang:en": "Derwent"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q5356212",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/slced:tas2958"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356212"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19299542"
+      ],
+      "type": {
+        "lang:en": "Tasmanian Legislative Council electoral division"
+      },
+      "name": {
+        "lang:en": "Elwick"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q5356220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/slced:tas2960"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19299542"
+      ],
+      "type": {
+        "lang:en": "Tasmanian Legislative Council electoral division"
+      },
+      "name": {
+        "lang:en": "Hobart"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q5356221",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/slced:tas2946"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356221"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19299542"
+      ],
+      "type": {
+        "lang:en": "Tasmanian Legislative Council electoral division"
+      },
+      "name": {
+        "lang:en": "Huon"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q5356227",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/slced:tas2962"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356227"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19299542"
+      ],
+      "type": {
+        "lang:en": "Tasmanian Legislative Council electoral division"
+      },
+      "name": {
+        "lang:en": "Launceston"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q5356232",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/slced:tas2957"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356232"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19299542"
+      ],
+      "type": {
+        "lang:en": "Tasmanian Legislative Council electoral division"
+      },
+      "name": {
+        "lang:en": "Mersey"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q5356234",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/slced:tas2954"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356234"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19299542"
+      ],
+      "type": {
+        "lang:en": "Tasmanian Legislative Council electoral division"
+      },
+      "name": {
+        "lang:en": "Montgomery"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q5356235",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/slced:tas2944"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356235"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19299542"
+      ],
+      "type": {
+        "lang:en": "Tasmanian Legislative Council electoral division"
+      },
+      "name": {
+        "lang:en": "Murchison"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q5356240",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/slced:tas2959"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356240"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19299542"
+      ],
+      "type": {
+        "lang:en": "Tasmanian Legislative Council electoral division"
+      },
+      "name": {
+        "lang:en": "Nelson"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q5356247",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/slced:tas2955"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356247"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19299542"
+      ],
+      "type": {
+        "lang:en": "Tasmanian Legislative Council electoral division"
+      },
+      "name": {
+        "lang:en": "Rosevears"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q5356249",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/slced:tas2952"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356249"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19299542"
+      ],
+      "type": {
+        "lang:en": "Tasmanian Legislative Council electoral division"
+      },
+      "name": {
+        "lang:en": "Rumney"
+      },
+      "parent_id": "Q34366"
+    },
+    {
+      "id": "Q5356261",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:tas/slced:tas2956"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356261"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19299542"
+      ],
+      "type": {
+        "lang:en": "Tasmanian Legislative Council electoral division"
+      },
+      "name": {
+        "lang:en": "Windermere"
+      },
+      "parent_id": "Q34366"
+    }
   ],
   "memberships": [
     {
