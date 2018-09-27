@@ -19,7 +19,213 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1812769",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa91"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1812769"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477741"
+      ],
+      "type": {
+        "lang:en": "local government area of South Australia"
+      },
+      "name": {
+        "lang:en": "City of Marion"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q35715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q35715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27230596"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "South Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478625",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa91/ward:warracowie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478625"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477740"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Marion City Council"
+      },
+      "name": {
+        "lang:en": "Warracowie Ward"
+      },
+      "parent_id": "Q1812769"
+    },
+    {
+      "id": "Q56478626",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa91/ward:warriparinga"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478626"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477740"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Marion City Council"
+      },
+      "name": {
+        "lang:en": "Warriparinga Ward"
+      },
+      "parent_id": "Q1812769"
+    },
+    {
+      "id": "Q56478627",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa91/ward:woodlands"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478627"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477740"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Marion City Council"
+      },
+      "name": {
+        "lang:en": "Woodlands Ward"
+      },
+      "parent_id": "Q1812769"
+    },
+    {
+      "id": "Q56478640",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa91/ward:coastal"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478640"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477740"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Marion City Council"
+      },
+      "name": {
+        "lang:en": "Coastal Ward"
+      },
+      "parent_id": "Q1812769"
+    },
+    {
+      "id": "Q56478641",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa91/ward:mullawirra"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478641"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477740"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Marion City Council"
+      },
+      "name": {
+        "lang:en": "Mullawirra Ward"
+      },
+      "parent_id": "Q1812769"
+    },
+    {
+      "id": "Q56478649",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa91/ward:southern-hills"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478649"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477740"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Marion City Council"
+      },
+      "name": {
+        "lang:en": "Southern Hills Ward"
+      },
+      "parent_id": "Q1812769"
+    }
   ],
   "memberships": [
 

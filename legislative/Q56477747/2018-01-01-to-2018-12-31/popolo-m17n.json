@@ -19,7 +19,190 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1812778",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa93"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1812778"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477749"
+      ],
+      "type": {
+        "lang:en": "local government area of South Australia"
+      },
+      "name": {
+        "lang:en": "City of Onkaparinga"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q35715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q35715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27230596"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "South Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478652",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa93/ward:mid-south-coast"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478652"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477748"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Onkaparinga City Council"
+      },
+      "name": {
+        "lang:en": "Mid South Coast Ward"
+      },
+      "parent_id": "Q1812778"
+    },
+    {
+      "id": "Q56478656",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa93/ward:thalassa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478656"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477748"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Onkaparinga City Council"
+      },
+      "name": {
+        "lang:en": "Thalassa Ward"
+      },
+      "parent_id": "Q1812778"
+    },
+    {
+      "id": "Q56478672",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa93/ward:knox"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478672"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477748"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Onkaparinga City Council"
+      },
+      "name": {
+        "lang:en": "Knox Ward"
+      },
+      "parent_id": "Q1812778"
+    },
+    {
+      "id": "Q56478684",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa93/ward:pimpala"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478684"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477748"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Onkaparinga City Council"
+      },
+      "name": {
+        "lang:en": "Pimpala Ward"
+      },
+      "parent_id": "Q1812778"
+    },
+    {
+      "id": "Q56478764",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa93/ward:wine-coast"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478764"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477748"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Onkaparinga City Council"
+      },
+      "name": {
+        "lang:en": "Wine Coast Ward"
+      },
+      "parent_id": "Q1812778"
+    }
   ],
   "memberships": [
 

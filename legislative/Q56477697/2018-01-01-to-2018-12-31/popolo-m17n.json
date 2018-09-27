@@ -19,7 +19,144 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1094063",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1094063"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q49031784"
+      ],
+      "type": {
+        "lang:en": "local government area of South Australia"
+      },
+      "name": {
+        "lang:en": "City of Adelaide"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q35715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q35715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27230596"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "South Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478716",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa73/ward:central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478716"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477698"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Adelaide City Council"
+      },
+      "name": {
+        "lang:en": "Central Ward"
+      },
+      "parent_id": "Q1094063"
+    },
+    {
+      "id": "Q56478727",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa73/ward:north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478727"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477698"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Adelaide City Council"
+      },
+      "name": {
+        "lang:en": "North Ward"
+      },
+      "parent_id": "Q1094063"
+    },
+    {
+      "id": "Q56478730",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa73/ward:south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478730"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477698"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Adelaide City Council"
+      },
+      "name": {
+        "lang:en": "South Ward"
+      },
+      "parent_id": "Q1094063"
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,144 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1786648",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic121"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1786648"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477757"
+      ],
+      "type": {
+        "lang:en": "local government area of Victoria"
+      },
+      "name": {
+        "lang:en": "City of Moonee Valley"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q36687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Victoria"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478779",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic121/ward:buckley"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478779"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477756"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Moonee Valley City Council"
+      },
+      "name": {
+        "lang:en": "Buckley Ward"
+      },
+      "parent_id": "Q1786648"
+    },
+    {
+      "id": "Q56478780",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic121/ward:myrnong"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478780"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477756"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Moonee Valley City Council"
+      },
+      "name": {
+        "lang:en": "Myrnong Ward"
+      },
+      "parent_id": "Q1786648"
+    },
+    {
+      "id": "Q56478781",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic121/ward:rose-hill"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478781"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477756"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Moonee Valley City Council"
+      },
+      "name": {
+        "lang:en": "Rose Hill Ward"
+      },
+      "parent_id": "Q1786648"
+    }
   ],
   "memberships": [
 

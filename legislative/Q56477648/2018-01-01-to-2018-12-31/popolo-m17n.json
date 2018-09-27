@@ -19,7 +19,190 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q24067070",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw331"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24067070"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477650"
+      ],
+      "type": {
+        "lang:en": "local government area of New South Wales"
+      },
+      "name": {
+        "lang:en": "Inner West Council"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q3224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527950"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "New South Wales"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56682608",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw331/ward:ashfield"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682608"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477649"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Inner West Council"
+      },
+      "name": {
+        "lang:en": "Ashfield Ward"
+      },
+      "parent_id": "Q24067070"
+    },
+    {
+      "id": "Q56682609",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw331/ward:balmain"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682609"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477649"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Inner West Council"
+      },
+      "name": {
+        "lang:en": "Balmain Ward"
+      },
+      "parent_id": "Q24067070"
+    },
+    {
+      "id": "Q56682654",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw331/ward:leichhardt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682654"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477649"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Inner West Council"
+      },
+      "name": {
+        "lang:en": "Leichhardt Ward"
+      },
+      "parent_id": "Q24067070"
+    },
+    {
+      "id": "Q56682657",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw331/ward:marrickville"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682657"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477649"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Inner West Council"
+      },
+      "name": {
+        "lang:en": "Marrickville Ward"
+      },
+      "parent_id": "Q24067070"
+    },
+    {
+      "id": "Q56682695",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw331/ward:stanmore"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682695"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477649"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Inner West Council"
+      },
+      "name": {
+        "lang:en": "Stanmore Ward"
+      },
+      "parent_id": "Q24067070"
+    }
   ],
   "memberships": [
 

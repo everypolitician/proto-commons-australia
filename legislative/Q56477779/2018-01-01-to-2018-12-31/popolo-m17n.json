@@ -19,7 +19,167 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q36687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Victoria"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478795",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic189/ward:horseshoe-bend"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478795"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477780"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brimbank City Council"
+      },
+      "name": {
+        "lang:en": "Horseshoe Bend Ward"
+      },
+      "parent_id": "Q917261"
+    },
+    {
+      "id": "Q56478827",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic189/ward:grasslands"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478827"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477780"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brimbank City Council"
+      },
+      "name": {
+        "lang:en": "Grasslands Ward"
+      },
+      "parent_id": "Q917261"
+    },
+    {
+      "id": "Q56478828",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic189/ward:harvester"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478828"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477780"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brimbank City Council"
+      },
+      "name": {
+        "lang:en": "Harvester Ward"
+      },
+      "parent_id": "Q917261"
+    },
+    {
+      "id": "Q56478832",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic189/ward:taylors"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478832"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477780"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brimbank City Council"
+      },
+      "name": {
+        "lang:en": "Taylors Ward"
+      },
+      "parent_id": "Q917261"
+    },
+    {
+      "id": "Q917261",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic189"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q917261"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477781"
+      ],
+      "type": {
+        "lang:en": "local government area of Victoria"
+      },
+      "name": {
+        "lang:en": "City of Brimbank"
+      },
+      "parent_id": "Q36687"
+    }
   ],
   "memberships": [
 

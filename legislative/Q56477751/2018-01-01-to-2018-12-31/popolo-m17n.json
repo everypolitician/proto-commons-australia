@@ -19,7 +19,213 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q35715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q35715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27230596"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "South Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478630",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa98/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478630"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477752"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Playford City Council"
+      },
+      "name": {
+        "lang:en": "Ward 1"
+      },
+      "parent_id": "Q976355"
+    },
+    {
+      "id": "Q56478631",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa98/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478631"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477752"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Playford City Council"
+      },
+      "name": {
+        "lang:en": "Ward 3"
+      },
+      "parent_id": "Q976355"
+    },
+    {
+      "id": "Q56478643",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa98/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478643"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477752"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Playford City Council"
+      },
+      "name": {
+        "lang:en": "Ward 6"
+      },
+      "parent_id": "Q976355"
+    },
+    {
+      "id": "Q56478660",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa98/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478660"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477752"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Playford City Council"
+      },
+      "name": {
+        "lang:en": "Ward 2"
+      },
+      "parent_id": "Q976355"
+    },
+    {
+      "id": "Q56478661",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa98/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478661"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477752"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Playford City Council"
+      },
+      "name": {
+        "lang:en": "Ward 4"
+      },
+      "parent_id": "Q976355"
+    },
+    {
+      "id": "Q56478662",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa98/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478662"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477752"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Playford City Council"
+      },
+      "name": {
+        "lang:en": "Ward 5"
+      },
+      "parent_id": "Q976355"
+    },
+    {
+      "id": "Q976355",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa98"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q976355"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477753"
+      ],
+      "type": {
+        "lang:en": "local government area of South Australia"
+      },
+      "name": {
+        "lang:en": "City of Playford"
+      },
+      "parent_id": "Q35715"
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,190 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q30919",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw283"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30919"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477606"
+      ],
+      "type": {
+        "lang:en": "local government area of New South Wales"
+      },
+      "name": {
+        "lang:en": "City of Blacktown"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q3224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527950"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "New South Wales"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56682703",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw283/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682703"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477605"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Blacktown City Council"
+      },
+      "name": {
+        "lang:en": "Ward 1"
+      },
+      "parent_id": "Q30919"
+    },
+    {
+      "id": "Q56682706",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw283/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682706"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477605"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Blacktown City Council"
+      },
+      "name": {
+        "lang:en": "Ward 2"
+      },
+      "parent_id": "Q30919"
+    },
+    {
+      "id": "Q56682709",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw283/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682709"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477605"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Blacktown City Council"
+      },
+      "name": {
+        "lang:en": "Ward 3"
+      },
+      "parent_id": "Q30919"
+    },
+    {
+      "id": "Q56682712",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw283/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682712"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477605"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Blacktown City Council"
+      },
+      "name": {
+        "lang:en": "Ward 4"
+      },
+      "parent_id": "Q30919"
+    },
+    {
+      "id": "Q56682713",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw283/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682713"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477605"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Blacktown City Council"
+      },
+      "name": {
+        "lang:en": "Ward 5"
+      },
+      "parent_id": "Q30919"
+    }
   ],
   "memberships": [
 

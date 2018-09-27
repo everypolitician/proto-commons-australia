@@ -19,7 +19,167 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1490452",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa307"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1490452"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477830"
+      ],
+      "type": {
+        "lang:en": "local government area of Western Australia"
+      },
+      "name": {
+        "lang:en": "City of Nedlands"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q3206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Western Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478836",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa307/ward:melvista"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478836"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477829"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Nedlands City Council"
+      },
+      "name": {
+        "lang:en": "Melvista Ward"
+      },
+      "parent_id": "Q1490452"
+    },
+    {
+      "id": "Q56478844",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa307/ward:dalkeith"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478844"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477829"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Nedlands City Council"
+      },
+      "name": {
+        "lang:en": "Dalkeith Ward"
+      },
+      "parent_id": "Q1490452"
+    },
+    {
+      "id": "Q56478888",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa307/ward:hollywood"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478888"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477829"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Nedlands City Council"
+      },
+      "name": {
+        "lang:en": "Hollywood Ward"
+      },
+      "parent_id": "Q1490452"
+    },
+    {
+      "id": "Q56478905",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa307/ward:coastal"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478905"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477829"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Nedlands City Council"
+      },
+      "name": {
+        "lang:en": "Coastal Ward"
+      },
+      "parent_id": "Q1490452"
+    }
   ],
   "memberships": [
 

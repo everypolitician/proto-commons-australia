@@ -19,7 +19,190 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q24055697",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw315"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24055697"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477638"
+      ],
+      "type": {
+        "lang:en": "local government area of New South Wales"
+      },
+      "name": {
+        "lang:en": "Cumberland Council"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q3224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527950"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "New South Wales"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56682646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw315/ward:granville"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477637"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Cumberland Council"
+      },
+      "name": {
+        "lang:en": "Granville Ward"
+      },
+      "parent_id": "Q24055697"
+    },
+    {
+      "id": "Q56682647",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw315/ward:greystanes"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682647"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477637"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Cumberland Council"
+      },
+      "name": {
+        "lang:en": "Greystanes Ward"
+      },
+      "parent_id": "Q24055697"
+    },
+    {
+      "id": "Q56682680",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw315/ward:regents-park"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682680"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477637"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Cumberland Council"
+      },
+      "name": {
+        "lang:en": "Regents Park Ward"
+      },
+      "parent_id": "Q24055697"
+    },
+    {
+      "id": "Q56682688",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw315/ward:south-granville"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682688"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477637"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Cumberland Council"
+      },
+      "name": {
+        "lang:en": "South Granville Ward"
+      },
+      "parent_id": "Q24055697"
+    },
+    {
+      "id": "Q56682724",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw315/ward:wentworthville"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682724"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477637"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Cumberland Council"
+      },
+      "name": {
+        "lang:en": "Wentworthville Ward"
+      },
+      "parent_id": "Q24055697"
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,236 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q3206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Western Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478863",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa334/ward:coastal"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478863"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477889"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Stirling City Council"
+      },
+      "name": {
+        "lang:en": "Coastal Ward"
+      },
+      "parent_id": "Q606236"
+    },
+    {
+      "id": "Q56478870",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa334/ward:lawley"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478870"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477889"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Stirling City Council"
+      },
+      "name": {
+        "lang:en": "Lawley Ward"
+      },
+      "parent_id": "Q606236"
+    },
+    {
+      "id": "Q56478881",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa334/ward:inglewood"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478881"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477889"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Stirling City Council"
+      },
+      "name": {
+        "lang:en": "Inglewood Ward"
+      },
+      "parent_id": "Q606236"
+    },
+    {
+      "id": "Q56478889",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa334/ward:doubleview"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478889"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477889"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Stirling City Council"
+      },
+      "name": {
+        "lang:en": "Doubleview Ward"
+      },
+      "parent_id": "Q606236"
+    },
+    {
+      "id": "Q56478890",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa334/ward:hamersley"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478890"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477889"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Stirling City Council"
+      },
+      "name": {
+        "lang:en": "Hamersley Ward"
+      },
+      "parent_id": "Q606236"
+    },
+    {
+      "id": "Q56478892",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa334/ward:osborne"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478892"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477889"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Stirling City Council"
+      },
+      "name": {
+        "lang:en": "Osborne Ward"
+      },
+      "parent_id": "Q606236"
+    },
+    {
+      "id": "Q56478902",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa334/ward:balga"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478902"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477889"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Stirling City Council"
+      },
+      "name": {
+        "lang:en": "Balga Ward"
+      },
+      "parent_id": "Q606236"
+    },
+    {
+      "id": "Q606236",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa334"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q606236"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477890"
+      ],
+      "type": {
+        "lang:en": "local government area of Western Australia"
+      },
+      "name": {
+        "lang:en": "City of Stirling"
+      },
+      "parent_id": "Q3206"
+    }
   ],
   "memberships": [
 

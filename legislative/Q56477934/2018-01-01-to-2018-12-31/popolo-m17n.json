@@ -19,7 +19,213 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1455046",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa416"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1455046"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477936"
+      ],
+      "type": {
+        "lang:en": "local government area of Western Australia"
+      },
+      "name": {
+        "lang:en": "City of Fremantle"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q3206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Western Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478834",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa416/ward:city"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478834"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477935"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Fremantle City Council"
+      },
+      "name": {
+        "lang:en": "City Ward"
+      },
+      "parent_id": "Q1455046"
+    },
+    {
+      "id": "Q56478857",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa416/ward:east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478857"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477935"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Fremantle City Council"
+      },
+      "name": {
+        "lang:en": "East Ward"
+      },
+      "parent_id": "Q1455046"
+    },
+    {
+      "id": "Q56478861",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa416/ward:south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478861"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477935"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Fremantle City Council"
+      },
+      "name": {
+        "lang:en": "South Ward"
+      },
+      "parent_id": "Q1455046"
+    },
+    {
+      "id": "Q56478866",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa416/ward:beaconsfield"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478866"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477935"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Fremantle City Council"
+      },
+      "name": {
+        "lang:en": "Beaconsfield Ward"
+      },
+      "parent_id": "Q1455046"
+    },
+    {
+      "id": "Q56478873",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa416/ward:hilton"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478873"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477935"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Fremantle City Council"
+      },
+      "name": {
+        "lang:en": "Hilton Ward"
+      },
+      "parent_id": "Q1455046"
+    },
+    {
+      "id": "Q56478920",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa416/ward:north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478920"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477935"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Fremantle City Council"
+      },
+      "name": {
+        "lang:en": "North Ward"
+      },
+      "parent_id": "Q1455046"
+    }
   ],
   "memberships": [
 

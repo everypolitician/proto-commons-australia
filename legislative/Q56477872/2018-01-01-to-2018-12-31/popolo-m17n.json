@@ -19,7 +19,167 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1671784",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa318"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1671784"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477874"
+      ],
+      "type": {
+        "lang:en": "local government area of Western Australia"
+      },
+      "name": {
+        "lang:en": "City of South Perth"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q3206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Western Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478838",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa318/ward:manning"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478838"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477873"
+      ],
+      "type": {
+        "lang:en": "electoral ward of South Perth City Council"
+      },
+      "name": {
+        "lang:en": "Manning Ward"
+      },
+      "parent_id": "Q1671784"
+    },
+    {
+      "id": "Q56478840",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa318/ward:mill-point"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478840"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477873"
+      ],
+      "type": {
+        "lang:en": "electoral ward of South Perth City Council"
+      },
+      "name": {
+        "lang:en": "Mill Point Ward"
+      },
+      "parent_id": "Q1671784"
+    },
+    {
+      "id": "Q56478880",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa318/ward:moresby"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478880"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477873"
+      ],
+      "type": {
+        "lang:en": "electoral ward of South Perth City Council"
+      },
+      "name": {
+        "lang:en": "Moresby Ward"
+      },
+      "parent_id": "Q1671784"
+    },
+    {
+      "id": "Q56478924",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa318/ward:como"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478924"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477873"
+      ],
+      "type": {
+        "lang:en": "electoral ward of South Perth City Council"
+      },
+      "name": {
+        "lang:en": "Como Ward"
+      },
+      "parent_id": "Q1671784"
+    }
   ],
   "memberships": [
 

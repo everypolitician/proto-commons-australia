@@ -19,7 +19,190 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1818997",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw298"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1818997"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477619"
+      ],
+      "type": {
+        "lang:en": "local government area of New South Wales"
+      },
+      "name": {
+        "lang:en": "Sutherland Shire"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q3224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527950"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "New South Wales"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56682715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw298/ward:a"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477618"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Sutherland Shire Council"
+      },
+      "name": {
+        "lang:en": "Ward A"
+      },
+      "parent_id": "Q1818997"
+    },
+    {
+      "id": "Q56682717",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw298/ward:b"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682717"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477618"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Sutherland Shire Council"
+      },
+      "name": {
+        "lang:en": "Ward B"
+      },
+      "parent_id": "Q1818997"
+    },
+    {
+      "id": "Q56682719",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw298/ward:c"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682719"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477618"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Sutherland Shire Council"
+      },
+      "name": {
+        "lang:en": "Ward C"
+      },
+      "parent_id": "Q1818997"
+    },
+    {
+      "id": "Q56682720",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw298/ward:d"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682720"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477618"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Sutherland Shire Council"
+      },
+      "name": {
+        "lang:en": "Ward D"
+      },
+      "parent_id": "Q1818997"
+    },
+    {
+      "id": "Q56682721",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw298/ward:e"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682721"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477618"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Sutherland Shire Council"
+      },
+      "name": {
+        "lang:en": "Ward E"
+      },
+      "parent_id": "Q1818997"
+    }
   ],
   "memberships": [
 

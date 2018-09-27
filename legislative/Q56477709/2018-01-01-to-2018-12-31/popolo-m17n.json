@@ -19,7 +19,190 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1279553",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1279553"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477711"
+      ],
+      "type": {
+        "lang:en": "local government area of South Australia"
+      },
+      "name": {
+        "lang:en": "City of Mitcham"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q35715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q35715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27230596"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "South Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478628",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa76/ward:gault"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478628"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477710"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Mitcham City Council"
+      },
+      "name": {
+        "lang:en": "Gault Ward"
+      },
+      "parent_id": "Q1279553"
+    },
+    {
+      "id": "Q56478634",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa76/ward:overton"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478634"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477710"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Mitcham City Council"
+      },
+      "name": {
+        "lang:en": "Overton Ward"
+      },
+      "parent_id": "Q1279553"
+    },
+    {
+      "id": "Q56478736",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa76/ward:craigburn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478736"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477710"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Mitcham City Council"
+      },
+      "name": {
+        "lang:en": "Craigburn Ward"
+      },
+      "parent_id": "Q1279553"
+    },
+    {
+      "id": "Q56478737",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa76/ward:the-park"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478737"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477710"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Mitcham City Council"
+      },
+      "name": {
+        "lang:en": "The Park Ward"
+      },
+      "parent_id": "Q1279553"
+    },
+    {
+      "id": "Q56478753",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa76/ward:babbage"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478753"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477710"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Mitcham City Council"
+      },
+      "name": {
+        "lang:en": "Babbage Ward"
+      },
+      "parent_id": "Q1279553"
+    }
   ],
   "memberships": [
 

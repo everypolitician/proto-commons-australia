@@ -19,7 +19,259 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1066185",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa90"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1066185"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477737"
+      ],
+      "type": {
+        "lang:en": "local government area of South Australia"
+      },
+      "name": {
+        "lang:en": "City of Charles Sturt"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q35715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q35715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27230596"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "South Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478632",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa90/ward:grange"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478632"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477736"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Charles Sturt City Council"
+      },
+      "name": {
+        "lang:en": "Grange Ward"
+      },
+      "parent_id": "Q1066185"
+    },
+    {
+      "id": "Q56478635",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa90/ward:henley"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478635"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477736"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Charles Sturt City Council"
+      },
+      "name": {
+        "lang:en": "Henley Ward"
+      },
+      "parent_id": "Q1066185"
+    },
+    {
+      "id": "Q56478636",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa90/ward:hindmarsh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478636"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477736"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Charles Sturt City Council"
+      },
+      "name": {
+        "lang:en": "Hindmarsh Ward"
+      },
+      "parent_id": "Q1066185"
+    },
+    {
+      "id": "Q56478637",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa90/ward:woodville"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478637"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477736"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Charles Sturt City Council"
+      },
+      "name": {
+        "lang:en": "Woodville Ward"
+      },
+      "parent_id": "Q1066185"
+    },
+    {
+      "id": "Q56478644",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa90/ward:semaphore-park"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478644"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477736"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Charles Sturt City Council"
+      },
+      "name": {
+        "lang:en": "Semaphore Park Ward"
+      },
+      "parent_id": "Q1066185"
+    },
+    {
+      "id": "Q56478645",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa90/ward:west-woodville"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478645"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477736"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Charles Sturt City Council"
+      },
+      "name": {
+        "lang:en": "West Woodville Ward"
+      },
+      "parent_id": "Q1066185"
+    },
+    {
+      "id": "Q56478659",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa90/ward:findon"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478659"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477736"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Charles Sturt City Council"
+      },
+      "name": {
+        "lang:en": "Findon Ward"
+      },
+      "parent_id": "Q1066185"
+    },
+    {
+      "id": "Q56478762",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa90/ward:beverley"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478762"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477736"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Charles Sturt City Council"
+      },
+      "name": {
+        "lang:en": "Beverley Ward"
+      },
+      "parent_id": "Q1066185"
+    }
   ],
   "memberships": [
 

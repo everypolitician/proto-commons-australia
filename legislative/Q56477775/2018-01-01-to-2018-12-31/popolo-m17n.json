@@ -19,7 +19,236 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q36687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Victoria"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478792",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic188/ward:hawdon"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478792"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477776"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Banyule City Council"
+      },
+      "name": {
+        "lang:en": "Hawdon Ward"
+      },
+      "parent_id": "Q650144"
+    },
+    {
+      "id": "Q56478799",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic188/ward:ibbott"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478799"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477776"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Banyule City Council"
+      },
+      "name": {
+        "lang:en": "Ibbott Ward"
+      },
+      "parent_id": "Q650144"
+    },
+    {
+      "id": "Q56478806",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic188/ward:bakewell"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478806"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477776"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Banyule City Council"
+      },
+      "name": {
+        "lang:en": "Bakewell Ward"
+      },
+      "parent_id": "Q650144"
+    },
+    {
+      "id": "Q56478809",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic188/ward:beale"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478809"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477776"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Banyule City Council"
+      },
+      "name": {
+        "lang:en": "Beale Ward"
+      },
+      "parent_id": "Q650144"
+    },
+    {
+      "id": "Q56478812",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic188/ward:griffin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478812"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477776"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Banyule City Council"
+      },
+      "name": {
+        "lang:en": "Griffin Ward"
+      },
+      "parent_id": "Q650144"
+    },
+    {
+      "id": "Q56478813",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic188/ward:grimshaw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478813"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477776"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Banyule City Council"
+      },
+      "name": {
+        "lang:en": "Grimshaw Ward"
+      },
+      "parent_id": "Q650144"
+    },
+    {
+      "id": "Q56478817",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic188/ward:olympia"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478817"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477776"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Banyule City Council"
+      },
+      "name": {
+        "lang:en": "Olympia Ward"
+      },
+      "parent_id": "Q650144"
+    },
+    {
+      "id": "Q650144",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic188"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q650144"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477777"
+      ],
+      "type": {
+        "lang:en": "local government area of Victoria"
+      },
+      "name": {
+        "lang:en": "City of Banyule"
+      },
+      "parent_id": "Q36687"
+    }
   ],
   "memberships": [
 

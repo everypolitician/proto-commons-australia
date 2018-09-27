@@ -19,7 +19,144 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1409285",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic203"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1409285"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477801"
+      ],
+      "type": {
+        "lang:en": "local government area of Victoria"
+      },
+      "name": {
+        "lang:en": "City of Stonnington"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q36687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Victoria"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478769",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic203/ward:south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478769"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477800"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Stonnington City Council"
+      },
+      "name": {
+        "lang:en": "South Ward"
+      },
+      "parent_id": "Q1409285"
+    },
+    {
+      "id": "Q56478786",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic203/ward:north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478786"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477800"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Stonnington City Council"
+      },
+      "name": {
+        "lang:en": "North Ward"
+      },
+      "parent_id": "Q1409285"
+    },
+    {
+      "id": "Q56478793",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic203/ward:east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478793"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477800"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Stonnington City Council"
+      },
+      "name": {
+        "lang:en": "East Ward"
+      },
+      "parent_id": "Q1409285"
+    }
   ],
   "memberships": [
 

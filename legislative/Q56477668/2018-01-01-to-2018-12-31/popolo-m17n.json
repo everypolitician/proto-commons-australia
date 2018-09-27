@@ -19,7 +19,98 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1322992",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld319"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1322992"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477670"
+      ],
+      "type": {
+        "lang:en": "local government area of Queensland"
+      },
+      "name": {
+        "lang:en": "Shire of Noosa"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q36074",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36074"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Queensland"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56751610",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld319/lga-ed:electoral-district-of-noosa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56751610"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477669"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Shire of Noosa Council"
+      },
+      "name": {
+        "lang:en": "Electoral District of Noosa"
+      },
+      "parent_id": "Q1322992"
+    }
   ],
   "memberships": [
 

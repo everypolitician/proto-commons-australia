@@ -22,7 +22,144 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q3224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527950"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "New South Wales"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q32311",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw177"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q32311"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477514"
+      ],
+      "type": {
+        "lang:en": "local government area of New South Wales"
+      },
+      "name": {
+        "lang:en": "Municipality of Lane Cove"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56682623",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw177/ward:central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682623"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477513"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Lane Cove Council"
+      },
+      "name": {
+        "lang:en": "Central Ward"
+      },
+      "parent_id": "Q32311"
+    },
+    {
+      "id": "Q56682634",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw177/ward:east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682634"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477513"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Lane Cove Council"
+      },
+      "name": {
+        "lang:en": "East Ward"
+      },
+      "parent_id": "Q32311"
+    },
+    {
+      "id": "Q56682725",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw177/ward:west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682725"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477513"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Lane Cove Council"
+      },
+      "name": {
+        "lang:en": "West Ward"
+      },
+      "parent_id": "Q32311"
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,144 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q3224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527950"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "New South Wales"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56682704",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw310/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682704"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477627"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Wollongong City Council"
+      },
+      "name": {
+        "lang:en": "Ward 1"
+      },
+      "parent_id": "Q820296"
+    },
+    {
+      "id": "Q56682707",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw310/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682707"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477627"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Wollongong City Council"
+      },
+      "name": {
+        "lang:en": "Ward 2"
+      },
+      "parent_id": "Q820296"
+    },
+    {
+      "id": "Q56682710",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw310/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682710"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477627"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Wollongong City Council"
+      },
+      "name": {
+        "lang:en": "Ward 3"
+      },
+      "parent_id": "Q820296"
+    },
+    {
+      "id": "Q820296",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw310"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q820296"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477628"
+      ],
+      "type": {
+        "lang:en": "local government area of New South Wales"
+      },
+      "name": {
+        "lang:en": "City of Wollongong"
+      },
+      "parent_id": "Q3224"
+    }
   ],
   "memberships": [
 

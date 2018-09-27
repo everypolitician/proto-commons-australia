@@ -22,7 +22,144 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q114395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw213"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q114395"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477554"
+      ],
+      "type": {
+        "lang:en": "local government area of New South Wales"
+      },
+      "name": {
+        "lang:en": "North Sydney Council"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q3224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527950"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "New South Wales"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56682697",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw213/ward:tunks"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682697"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477553"
+      ],
+      "type": {
+        "lang:en": "electoral ward of North Sydney Council"
+      },
+      "name": {
+        "lang:en": "Tunks Ward"
+      },
+      "parent_id": "Q114395"
+    },
+    {
+      "id": "Q56682699",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw213/ward:victoria"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682699"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477553"
+      ],
+      "type": {
+        "lang:en": "electoral ward of North Sydney Council"
+      },
+      "name": {
+        "lang:en": "Victoria Ward"
+      },
+      "parent_id": "Q114395"
+    },
+    {
+      "id": "Q56682731",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw213/ward:wollstonecraft"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682731"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477553"
+      ],
+      "type": {
+        "lang:en": "electoral ward of North Sydney Council"
+      },
+      "name": {
+        "lang:en": "Wollstonecraft Ward"
+      },
+      "parent_id": "Q114395"
+    }
   ],
   "memberships": [
 

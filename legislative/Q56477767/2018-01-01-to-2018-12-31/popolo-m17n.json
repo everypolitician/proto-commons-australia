@@ -19,7 +19,144 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1530742",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic177"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1530742"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477769"
+      ],
+      "type": {
+        "lang:en": "local government area of Victoria"
+      },
+      "name": {
+        "lang:en": "City of Glen Eira"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q36687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Victoria"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478767",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic177/ward:rosstown"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478767"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477768"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Glen Eira City Council"
+      },
+      "name": {
+        "lang:en": "Rosstown Ward"
+      },
+      "parent_id": "Q1530742"
+    },
+    {
+      "id": "Q56478768",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic177/ward:tucker"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478768"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477768"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Glen Eira City Council"
+      },
+      "name": {
+        "lang:en": "Tucker Ward"
+      },
+      "parent_id": "Q1530742"
+    },
+    {
+      "id": "Q56478797",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic177/ward:camden"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478797"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477768"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Glen Eira City Council"
+      },
+      "name": {
+        "lang:en": "Camden Ward"
+      },
+      "parent_id": "Q1530742"
+    }
   ],
   "memberships": [
 

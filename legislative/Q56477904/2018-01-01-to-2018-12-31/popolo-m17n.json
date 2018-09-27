@@ -19,7 +19,121 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q3206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Western Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478896",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa370/ward:coast"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478896"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477905"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Town of Cambridge Council"
+      },
+      "name": {
+        "lang:en": "Coast Ward"
+      },
+      "parent_id": "Q736170"
+    },
+    {
+      "id": "Q56478901",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa370/ward:wembley"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478901"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477905"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Town of Cambridge Council"
+      },
+      "name": {
+        "lang:en": "Wembley Ward"
+      },
+      "parent_id": "Q736170"
+    },
+    {
+      "id": "Q736170",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa370"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q736170"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477906"
+      ],
+      "type": {
+        "lang:en": "local government area of Western Australia"
+      },
+      "name": {
+        "lang:en": "Town of Cambridge"
+      },
+      "parent_id": "Q3206"
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,98 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1855330",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa423"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1855330"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477940"
+      ],
+      "type": {
+        "lang:en": "local government area of Western Australia"
+      },
+      "name": {
+        "lang:en": "City of Perth"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q3206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Western Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56682677",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa423/lga-ed:perth-electoral-district"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682677"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477939"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Perth City Council"
+      },
+      "name": {
+        "lang:en": "Perth Electoral District"
+      },
+      "parent_id": "Q1855330"
+    }
   ],
   "memberships": [
 

@@ -22,7 +22,98 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q13080916",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw232"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13080916"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477572"
+      ],
+      "type": {
+        "lang:en": "local government area of New South Wales"
+      },
+      "name": {
+        "lang:en": "Municipality of Mosman"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q3224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527950"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "New South Wales"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56682661",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw232/lga-ed:mosman-electoral-district"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682661"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477571"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Mosman Council"
+      },
+      "name": {
+        "lang:en": "Mosman Electoral District"
+      },
+      "parent_id": "Q13080916"
+    }
   ],
   "memberships": [
 

@@ -22,7 +22,167 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q2299900",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw175"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2299900"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477509"
+      ],
+      "type": {
+        "lang:en": "local government area of New South Wales"
+      },
+      "name": {
+        "lang:en": "Waverley Municipal Council"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q3224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527950"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "New South Wales"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56682616",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw175/ward:bondi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682616"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477508"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Waverley Municipal Council"
+      },
+      "name": {
+        "lang:en": "Bondi Ward"
+      },
+      "parent_id": "Q2299900"
+    },
+    {
+      "id": "Q56682648",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw175/ward:hunter"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682648"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477508"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Waverley Municipal Council"
+      },
+      "name": {
+        "lang:en": "Hunter Ward"
+      },
+      "parent_id": "Q2299900"
+    },
+    {
+      "id": "Q56682653",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw175/ward:lawson"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682653"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477508"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Waverley Municipal Council"
+      },
+      "name": {
+        "lang:en": "Lawson Ward"
+      },
+      "parent_id": "Q2299900"
+    },
+    {
+      "id": "Q56682723",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw175/ward:waverley"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682723"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477508"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Waverley Municipal Council"
+      },
+      "name": {
+        "lang:en": "Waverley Ward"
+      },
+      "parent_id": "Q2299900"
+    }
   ],
   "memberships": [
 

@@ -22,7 +22,144 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q3224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527950"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "New South Wales"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56682637",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw206/ward:east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682637"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477537"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Lake Macquarie City Council"
+      },
+      "name": {
+        "lang:en": "East Ward"
+      },
+      "parent_id": "Q606193"
+    },
+    {
+      "id": "Q56682666",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw206/ward:north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682666"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477537"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Lake Macquarie City Council"
+      },
+      "name": {
+        "lang:en": "North Ward"
+      },
+      "parent_id": "Q606193"
+    },
+    {
+      "id": "Q56682727",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw206/ward:west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682727"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477537"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Lake Macquarie City Council"
+      },
+      "name": {
+        "lang:en": "West Ward"
+      },
+      "parent_id": "Q606193"
+    },
+    {
+      "id": "Q606193",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw206"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q606193"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47014912"
+      ],
+      "type": {
+        "lang:en": "local government area of New South Wales"
+      },
+      "name": {
+        "lang:en": "City of Lake Macquarie"
+      },
+      "parent_id": "Q3224"
+    }
   ],
   "memberships": [
 

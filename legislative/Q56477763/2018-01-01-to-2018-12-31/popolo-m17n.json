@@ -36,7 +36,98 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1919098",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic132"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1919098"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q23782667"
+      ],
+      "type": {
+        "lang:en": "local government area of Victoria"
+      },
+      "name": {
+        "lang:en": "City of Melbourne"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q36687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Victoria"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478787",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic132/ward:melbourne-city"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478787"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477764"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Melbourne City Council"
+      },
+      "name": {
+        "lang:en": "Melbourne City"
+      },
+      "parent_id": "Q1919098"
+    }
   ],
   "memberships": [
     {

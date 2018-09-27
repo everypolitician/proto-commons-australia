@@ -19,7 +19,190 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q26835506",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw335"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26835506"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477658"
+      ],
+      "type": {
+        "lang:en": "local government area of New South Wales"
+      },
+      "name": {
+        "lang:en": "Bayside Council"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q3224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527950"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "New South Wales"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56682614",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw335/ward:bexley"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682614"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477657"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Bayside Council"
+      },
+      "name": {
+        "lang:en": "Bexley Ward"
+      },
+      "parent_id": "Q26835506"
+    },
+    {
+      "id": "Q56682617",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw335/ward:botany-bay"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682617"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477657"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Bayside Council"
+      },
+      "name": {
+        "lang:en": "Botany Bay Ward"
+      },
+      "parent_id": "Q26835506"
+    },
+    {
+      "id": "Q56682658",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw335/ward:mascot"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682658"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477657"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Bayside Council"
+      },
+      "name": {
+        "lang:en": "Mascot Ward"
+      },
+      "parent_id": "Q26835506"
+    },
+    {
+      "id": "Q56682679",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw335/ward:port-botany"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682679"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477657"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Bayside Council"
+      },
+      "name": {
+        "lang:en": "Port Botany Ward"
+      },
+      "parent_id": "Q26835506"
+    },
+    {
+      "id": "Q56682682",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw335/ward:rockdale"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682682"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477657"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Bayside Council"
+      },
+      "name": {
+        "lang:en": "Rockdale Ward"
+      },
+      "parent_id": "Q26835506"
+    }
   ],
   "memberships": [
 

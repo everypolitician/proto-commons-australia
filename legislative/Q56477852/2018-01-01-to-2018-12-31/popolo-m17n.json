@@ -19,7 +19,190 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1506748",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa313"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1506748"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477854"
+      ],
+      "type": {
+        "lang:en": "local government area of Western Australia"
+      },
+      "name": {
+        "lang:en": "City of Swan"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q3206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Western Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478855",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa313/ward:altone"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478855"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477853"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Swan City Council"
+      },
+      "name": {
+        "lang:en": "Altone Ward"
+      },
+      "parent_id": "Q1506748"
+    },
+    {
+      "id": "Q56478922",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa313/ward:midland-guildford"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478922"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477853"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Swan City Council"
+      },
+      "name": {
+        "lang:en": "Midland-guildford Ward"
+      },
+      "parent_id": "Q1506748"
+    },
+    {
+      "id": "Q56478925",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa313/ward:swan-valley-gidg'up"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478925"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477853"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Swan City Council"
+      },
+      "name": {
+        "lang:en": "Swan Valley-gidg'up Ward"
+      },
+      "parent_id": "Q1506748"
+    },
+    {
+      "id": "Q56478931",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa313/ward:whiteman"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478931"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477853"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Swan City Council"
+      },
+      "name": {
+        "lang:en": "Whiteman Ward"
+      },
+      "parent_id": "Q1506748"
+    },
+    {
+      "id": "Q56478934",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa313/ward:pearce"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478934"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477853"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Swan City Council"
+      },
+      "name": {
+        "lang:en": "Pearce Ward"
+      },
+      "parent_id": "Q1506748"
+    }
   ],
   "memberships": [
 

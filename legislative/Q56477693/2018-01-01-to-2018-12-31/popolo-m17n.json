@@ -19,7 +19,98 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1521840",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa154"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1521840"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477695"
+      ],
+      "type": {
+        "lang:en": "local government area of South Australia"
+      },
+      "name": {
+        "lang:en": "Town of Walkerville"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q35715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q35715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27230596"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "South Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56682701",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa154/lga-ed:walkerville-electoral-district"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682701"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477694"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Town of Walkerville Council"
+      },
+      "name": {
+        "lang:en": "Walkerville Electoral District"
+      },
+      "parent_id": "Q1521840"
+    }
   ],
   "memberships": [
 

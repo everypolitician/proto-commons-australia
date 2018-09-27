@@ -19,7 +19,213 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q35715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q35715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27230596"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "South Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478629",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa92/ward:payneham"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478629"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477744"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Norwood Payneham & St Peters City Council"
+      },
+      "name": {
+        "lang:en": "Payneham Ward"
+      },
+      "parent_id": "Q905608"
+    },
+    {
+      "id": "Q56478651",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa92/ward:west-norwood/kent-town"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478651"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477744"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Norwood Payneham & St Peters City Council"
+      },
+      "name": {
+        "lang:en": "West Norwood/kent Town Ward"
+      },
+      "parent_id": "Q905608"
+    },
+    {
+      "id": "Q56478665",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa92/ward:st-peters"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478665"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477744"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Norwood Payneham & St Peters City Council"
+      },
+      "name": {
+        "lang:en": "St Peters Ward"
+      },
+      "parent_id": "Q905608"
+    },
+    {
+      "id": "Q56478666",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa92/ward:torrens"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478666"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477744"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Norwood Payneham & St Peters City Council"
+      },
+      "name": {
+        "lang:en": "Torrens Ward"
+      },
+      "parent_id": "Q905608"
+    },
+    {
+      "id": "Q56478708",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa92/ward:kensington/east-norwood"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478708"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477744"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Norwood Payneham & St Peters City Council"
+      },
+      "name": {
+        "lang:en": "Kensington/east Norwood Ward"
+      },
+      "parent_id": "Q905608"
+    },
+    {
+      "id": "Q56478709",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa92/ward:maylands/trinity"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478709"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477744"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Norwood Payneham & St Peters City Council"
+      },
+      "name": {
+        "lang:en": "Maylands/trinity Ward"
+      },
+      "parent_id": "Q905608"
+    },
+    {
+      "id": "Q905608",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa92"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q905608"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477745"
+      ],
+      "type": {
+        "lang:en": "local government area of South Australia"
+      },
+      "name": {
+        "lang:en": "City of Norwood Payneham & St Peters"
+      },
+      "parent_id": "Q35715"
+    }
   ],
   "memberships": [
 

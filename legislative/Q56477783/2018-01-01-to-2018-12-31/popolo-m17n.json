@@ -19,7 +19,144 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q36687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Victoria"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478804",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic195/ward:heide"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478804"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477784"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Manningham City Council"
+      },
+      "name": {
+        "lang:en": "Heide Ward"
+      },
+      "parent_id": "Q765334"
+    },
+    {
+      "id": "Q56478830",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic195/ward:koonung"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478830"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477784"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Manningham City Council"
+      },
+      "name": {
+        "lang:en": "Koonung Ward"
+      },
+      "parent_id": "Q765334"
+    },
+    {
+      "id": "Q56478831",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic195/ward:mullum-mullum"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478831"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477784"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Manningham City Council"
+      },
+      "name": {
+        "lang:en": "Mullum Mullum Ward"
+      },
+      "parent_id": "Q765334"
+    },
+    {
+      "id": "Q765334",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic195"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q765334"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477785"
+      ],
+      "type": {
+        "lang:en": "local government area of Victoria"
+      },
+      "name": {
+        "lang:en": "City of Manningham"
+      },
+      "parent_id": "Q36687"
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,190 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q11079799",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw314"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11079799"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477634"
+      ],
+      "type": {
+        "lang:en": "local government area of New South Wales"
+      },
+      "name": {
+        "lang:en": "City of Parramatta Council"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q3224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527950"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "New South Wales"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56682632",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw314/ward:dundas"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682632"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477633"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Parramatta Council City Council"
+      },
+      "name": {
+        "lang:en": "Dundas Ward"
+      },
+      "parent_id": "Q11079799"
+    },
+    {
+      "id": "Q56682640",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw314/ward:epping"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682640"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477633"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Parramatta Council City Council"
+      },
+      "name": {
+        "lang:en": "Epping Ward"
+      },
+      "parent_id": "Q11079799"
+    },
+    {
+      "id": "Q56682664",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw314/ward:north-rocks"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682664"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477633"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Parramatta Council City Council"
+      },
+      "name": {
+        "lang:en": "North Rocks Ward"
+      },
+      "parent_id": "Q11079799"
+    },
+    {
+      "id": "Q56682674",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw314/ward:parramatta"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682674"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477633"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Parramatta Council City Council"
+      },
+      "name": {
+        "lang:en": "Parramatta Ward"
+      },
+      "parent_id": "Q11079799"
+    },
+    {
+      "id": "Q56682683",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw314/ward:rosehill"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682683"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477633"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Parramatta Council City Council"
+      },
+      "name": {
+        "lang:en": "Rosehill Ward"
+      },
+      "parent_id": "Q11079799"
+    }
   ],
   "memberships": [
 

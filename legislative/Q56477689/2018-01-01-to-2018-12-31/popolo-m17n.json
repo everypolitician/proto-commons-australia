@@ -19,7 +19,213 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q353997",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q353997"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477691"
+      ],
+      "type": {
+        "lang:en": "local government area of South Australia"
+      },
+      "name": {
+        "lang:en": "Adelaide Hills Council"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q35715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q35715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27230596"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "South Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478695",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa107/ward:mt-lofty"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478695"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477690"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Adelaide Hills Council"
+      },
+      "name": {
+        "lang:en": "Mt Lofty Ward"
+      },
+      "parent_id": "Q353997"
+    },
+    {
+      "id": "Q56478739",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa107/ward:onkaparinga-valley"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478739"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477690"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Adelaide Hills Council"
+      },
+      "name": {
+        "lang:en": "Onkaparinga Valley Ward"
+      },
+      "parent_id": "Q353997"
+    },
+    {
+      "id": "Q56478740",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa107/ward:marble-hill"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478740"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477690"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Adelaide Hills Council"
+      },
+      "name": {
+        "lang:en": "Marble Hill Ward"
+      },
+      "parent_id": "Q353997"
+    },
+    {
+      "id": "Q56478743",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa107/ward:manoah"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478743"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477690"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Adelaide Hills Council"
+      },
+      "name": {
+        "lang:en": "Manoah Ward"
+      },
+      "parent_id": "Q353997"
+    },
+    {
+      "id": "Q56478745",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa107/ward:torrens-valley"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478745"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477690"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Adelaide Hills Council"
+      },
+      "name": {
+        "lang:en": "Torrens Valley Ward"
+      },
+      "parent_id": "Q353997"
+    },
+    {
+      "id": "Q56478754",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa107/ward:boorman"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478754"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477690"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Adelaide Hills Council"
+      },
+      "name": {
+        "lang:en": "Boorman Ward"
+      },
+      "parent_id": "Q353997"
+    }
   ],
   "memberships": [
 

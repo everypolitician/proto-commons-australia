@@ -19,7 +19,190 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q24069989",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw325"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24069989"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477642"
+      ],
+      "type": {
+        "lang:en": "local government area of New South Wales"
+      },
+      "name": {
+        "lang:en": "Georges River Council"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q3224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527950"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "New South Wales"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56682615",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw325/ward:blakehurst"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682615"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477641"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Georges River Council"
+      },
+      "name": {
+        "lang:en": "Blakehurst Ward"
+      },
+      "parent_id": "Q24069989"
+    },
+    {
+      "id": "Q56682649",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw325/ward:hurstville"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682649"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477641"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Georges River Council"
+      },
+      "name": {
+        "lang:en": "Hurstville Ward"
+      },
+      "parent_id": "Q24069989"
+    },
+    {
+      "id": "Q56682651",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw325/ward:kogarah-bay"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682651"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477641"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Georges River Council"
+      },
+      "name": {
+        "lang:en": "Kogarah Ward Bay"
+      },
+      "parent_id": "Q24069989"
+    },
+    {
+      "id": "Q56682660",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw325/ward:mortdale"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682660"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477641"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Georges River Council"
+      },
+      "name": {
+        "lang:en": "Mortdale Ward"
+      },
+      "parent_id": "Q24069989"
+    },
+    {
+      "id": "Q56682675",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw325/ward:peakhurst"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682675"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477641"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Georges River Council"
+      },
+      "name": {
+        "lang:en": "Peakhurst Ward"
+      },
+      "parent_id": "Q24069989"
+    }
   ],
   "memberships": [
 

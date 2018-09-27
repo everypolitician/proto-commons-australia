@@ -19,7 +19,305 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q36687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Victoria"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478765",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic201/ward:glenferrie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478765"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477792"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Boroondara City Council"
+      },
+      "name": {
+        "lang:en": "Glenferrie Ward"
+      },
+      "parent_id": "Q894060"
+    },
+    {
+      "id": "Q56478785",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic201/ward:junction"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478785"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477792"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Boroondara City Council"
+      },
+      "name": {
+        "lang:en": "Junction Ward"
+      },
+      "parent_id": "Q894060"
+    },
+    {
+      "id": "Q56478794",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic201/ward:maling"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478794"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477792"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Boroondara City Council"
+      },
+      "name": {
+        "lang:en": "Maling Ward"
+      },
+      "parent_id": "Q894060"
+    },
+    {
+      "id": "Q56478800",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic201/ward:bellevue"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478800"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477792"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Boroondara City Council"
+      },
+      "name": {
+        "lang:en": "Bellevue Ward"
+      },
+      "parent_id": "Q894060"
+    },
+    {
+      "id": "Q56478801",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic201/ward:studley"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478801"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477792"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Boroondara City Council"
+      },
+      "name": {
+        "lang:en": "Studley Ward"
+      },
+      "parent_id": "Q894060"
+    },
+    {
+      "id": "Q56478805",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic201/ward:lynden"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478805"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477792"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Boroondara City Council"
+      },
+      "name": {
+        "lang:en": "Lynden Ward"
+      },
+      "parent_id": "Q894060"
+    },
+    {
+      "id": "Q56478818",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic201/ward:maranoa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478818"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477792"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Boroondara City Council"
+      },
+      "name": {
+        "lang:en": "Maranoa Ward"
+      },
+      "parent_id": "Q894060"
+    },
+    {
+      "id": "Q56478822",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic201/ward:cotham"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478822"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477792"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Boroondara City Council"
+      },
+      "name": {
+        "lang:en": "Cotham Ward"
+      },
+      "parent_id": "Q894060"
+    },
+    {
+      "id": "Q56478823",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic201/ward:gardiner"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478823"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477792"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Boroondara City Council"
+      },
+      "name": {
+        "lang:en": "Gardiner Ward"
+      },
+      "parent_id": "Q894060"
+    },
+    {
+      "id": "Q56478824",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic201/ward:solway"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478824"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477792"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Boroondara City Council"
+      },
+      "name": {
+        "lang:en": "Solway Ward"
+      },
+      "parent_id": "Q894060"
+    },
+    {
+      "id": "Q894060",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic201"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q894060"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477793"
+      ],
+      "type": {
+        "lang:en": "local government area of Victoria"
+      },
+      "name": {
+        "lang:en": "City of Boroondara"
+      },
+      "parent_id": "Q36687"
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,167 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q3407718",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3407718"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477719"
+      ],
+      "type": {
+        "lang:en": "local government area of South Australia"
+      },
+      "name": {
+        "lang:en": "Prospect"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q35715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q35715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27230596"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "South Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478689",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa81/ward:central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478689"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477718"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Prospect Council"
+      },
+      "name": {
+        "lang:en": "Central Ward"
+      },
+      "parent_id": "Q3407718"
+    },
+    {
+      "id": "Q56478692",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa81/ward:east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478692"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477718"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Prospect Council"
+      },
+      "name": {
+        "lang:en": "East Ward"
+      },
+      "parent_id": "Q3407718"
+    },
+    {
+      "id": "Q56478693",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa81/ward:north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478693"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477718"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Prospect Council"
+      },
+      "name": {
+        "lang:en": "North Ward"
+      },
+      "parent_id": "Q3407718"
+    },
+    {
+      "id": "Q56478696",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa81/ward:west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478696"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477718"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Prospect Council"
+      },
+      "name": {
+        "lang:en": "West Ward"
+      },
+      "parent_id": "Q3407718"
+    }
   ],
   "memberships": [
 

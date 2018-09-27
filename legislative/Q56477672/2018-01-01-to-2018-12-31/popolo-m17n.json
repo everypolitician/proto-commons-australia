@@ -19,7 +19,397 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1069385",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1069385"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6797856"
+      ],
+      "type": {
+        "lang:en": "local government area of Queensland"
+      },
+      "name": {
+        "lang:en": "Gold Coast City"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q36074",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36074"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Queensland"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56751596",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld63/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56751596"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477673"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Gold Coast City Council"
+      },
+      "name": {
+        "lang:en": "Ward 1"
+      },
+      "parent_id": "Q1069385"
+    },
+    {
+      "id": "Q56751597",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld63/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56751597"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477673"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Gold Coast City Council"
+      },
+      "name": {
+        "lang:en": "Ward 10"
+      },
+      "parent_id": "Q1069385"
+    },
+    {
+      "id": "Q56751598",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld63/ward:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56751598"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477673"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Gold Coast City Council"
+      },
+      "name": {
+        "lang:en": "Ward 11"
+      },
+      "parent_id": "Q1069385"
+    },
+    {
+      "id": "Q56751599",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld63/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56751599"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477673"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Gold Coast City Council"
+      },
+      "name": {
+        "lang:en": "Ward 12"
+      },
+      "parent_id": "Q1069385"
+    },
+    {
+      "id": "Q56751600",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld63/ward:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56751600"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477673"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Gold Coast City Council"
+      },
+      "name": {
+        "lang:en": "Ward 13"
+      },
+      "parent_id": "Q1069385"
+    },
+    {
+      "id": "Q56751601",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld63/ward:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56751601"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477673"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Gold Coast City Council"
+      },
+      "name": {
+        "lang:en": "Ward 14"
+      },
+      "parent_id": "Q1069385"
+    },
+    {
+      "id": "Q56751602",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld63/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56751602"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477673"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Gold Coast City Council"
+      },
+      "name": {
+        "lang:en": "Ward 2"
+      },
+      "parent_id": "Q1069385"
+    },
+    {
+      "id": "Q56751603",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld63/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56751603"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477673"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Gold Coast City Council"
+      },
+      "name": {
+        "lang:en": "Ward 3"
+      },
+      "parent_id": "Q1069385"
+    },
+    {
+      "id": "Q56751604",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld63/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56751604"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477673"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Gold Coast City Council"
+      },
+      "name": {
+        "lang:en": "Ward 4"
+      },
+      "parent_id": "Q1069385"
+    },
+    {
+      "id": "Q56751605",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld63/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56751605"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477673"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Gold Coast City Council"
+      },
+      "name": {
+        "lang:en": "Ward 5"
+      },
+      "parent_id": "Q1069385"
+    },
+    {
+      "id": "Q56751606",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld63/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56751606"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477673"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Gold Coast City Council"
+      },
+      "name": {
+        "lang:en": "Ward 6"
+      },
+      "parent_id": "Q1069385"
+    },
+    {
+      "id": "Q56751607",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld63/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56751607"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477673"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Gold Coast City Council"
+      },
+      "name": {
+        "lang:en": "Ward 7"
+      },
+      "parent_id": "Q1069385"
+    },
+    {
+      "id": "Q56751608",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld63/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56751608"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477673"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Gold Coast City Council"
+      },
+      "name": {
+        "lang:en": "Ward 8"
+      },
+      "parent_id": "Q1069385"
+    },
+    {
+      "id": "Q56751609",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld63/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56751609"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477673"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Gold Coast City Council"
+      },
+      "name": {
+        "lang:en": "Ward 9"
+      },
+      "parent_id": "Q1069385"
+    }
   ],
   "memberships": [
 

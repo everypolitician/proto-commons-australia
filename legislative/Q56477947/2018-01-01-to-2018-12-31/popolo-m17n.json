@@ -19,7 +19,167 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1721949",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa427"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1721949"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477949"
+      ],
+      "type": {
+        "lang:en": "local government area of Western Australia"
+      },
+      "name": {
+        "lang:en": "City of Kalamunda"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q3206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Western Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478833",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa427/ward:south-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478833"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477948"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Kalamunda City Council"
+      },
+      "name": {
+        "lang:en": "South West Ward"
+      },
+      "parent_id": "Q1721949"
+    },
+    {
+      "id": "Q56478854",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa427/ward:south-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478854"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477948"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Kalamunda City Council"
+      },
+      "name": {
+        "lang:en": "South East Ward"
+      },
+      "parent_id": "Q1721949"
+    },
+    {
+      "id": "Q56478883",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa427/ward:north-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478883"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477948"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Kalamunda City Council"
+      },
+      "name": {
+        "lang:en": "North West Ward"
+      },
+      "parent_id": "Q1721949"
+    },
+    {
+      "id": "Q56478904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa427/ward:north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477948"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Kalamunda City Council"
+      },
+      "name": {
+        "lang:en": "North Ward"
+      },
+      "parent_id": "Q1721949"
+    }
   ],
   "memberships": [
 

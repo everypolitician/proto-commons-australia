@@ -19,7 +19,167 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q3224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527950"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "New South Wales"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56682659",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw294/ward:middle-harbour"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682659"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477609"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Willoughby City Council"
+      },
+      "name": {
+        "lang:en": "Middle Harbour Ward"
+      },
+      "parent_id": "Q634933"
+    },
+    {
+      "id": "Q56682662",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw294/ward:naremburn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682662"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477609"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Willoughby City Council"
+      },
+      "name": {
+        "lang:en": "Naremburn Ward"
+      },
+      "parent_id": "Q634933"
+    },
+    {
+      "id": "Q56682686",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw294/ward:sailors-bay"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682686"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477609"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Willoughby City Council"
+      },
+      "name": {
+        "lang:en": "Sailors Bay Ward"
+      },
+      "parent_id": "Q634933"
+    },
+    {
+      "id": "Q56682730",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw294/ward:willoughby-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682730"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477609"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Willoughby City Council"
+      },
+      "name": {
+        "lang:en": "Willoughby West Ward"
+      },
+      "parent_id": "Q634933"
+    },
+    {
+      "id": "Q634933",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw294"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q634933"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477610"
+      ],
+      "type": {
+        "lang:en": "local government area of New South Wales"
+      },
+      "name": {
+        "lang:en": "City of Willoughby"
+      },
+      "parent_id": "Q3224"
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,305 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1065035",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld295"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1065035"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477666"
+      ],
+      "type": {
+        "lang:en": "local government area of Queensland"
+      },
+      "name": {
+        "lang:en": "Sunshine Coast Region"
+      },
+      "parent_id": "Q36074"
+    },
+    {
+      "id": "Q36074",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36074"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Queensland"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56752505",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld295/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56752505"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477665"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Sunshine Coast Region Council"
+      },
+      "name": {
+        "lang:en": "Ward 1"
+      },
+      "parent_id": "Q1065035"
+    },
+    {
+      "id": "Q56752507",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld295/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56752507"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477665"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Sunshine Coast Region Council"
+      },
+      "name": {
+        "lang:en": "Ward 10"
+      },
+      "parent_id": "Q1065035"
+    },
+    {
+      "id": "Q56752508",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld295/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56752508"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477665"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Sunshine Coast Region Council"
+      },
+      "name": {
+        "lang:en": "Ward 2"
+      },
+      "parent_id": "Q1065035"
+    },
+    {
+      "id": "Q56752509",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld295/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56752509"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477665"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Sunshine Coast Region Council"
+      },
+      "name": {
+        "lang:en": "Ward 3"
+      },
+      "parent_id": "Q1065035"
+    },
+    {
+      "id": "Q56752510",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld295/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56752510"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477665"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Sunshine Coast Region Council"
+      },
+      "name": {
+        "lang:en": "Ward 4"
+      },
+      "parent_id": "Q1065035"
+    },
+    {
+      "id": "Q56752511",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld295/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56752511"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477665"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Sunshine Coast Region Council"
+      },
+      "name": {
+        "lang:en": "Ward 5"
+      },
+      "parent_id": "Q1065035"
+    },
+    {
+      "id": "Q56752512",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld295/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56752512"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477665"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Sunshine Coast Region Council"
+      },
+      "name": {
+        "lang:en": "Ward 6"
+      },
+      "parent_id": "Q1065035"
+    },
+    {
+      "id": "Q56752513",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld295/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56752513"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477665"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Sunshine Coast Region Council"
+      },
+      "name": {
+        "lang:en": "Ward 7"
+      },
+      "parent_id": "Q1065035"
+    },
+    {
+      "id": "Q56752514",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld295/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56752514"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477665"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Sunshine Coast Region Council"
+      },
+      "name": {
+        "lang:en": "Ward 8"
+      },
+      "parent_id": "Q1065035"
+    },
+    {
+      "id": "Q56752515",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld295/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56752515"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477665"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Sunshine Coast Region Council"
+      },
+      "name": {
+        "lang:en": "Ward 9"
+      },
+      "parent_id": "Q1065035"
+    }
   ],
   "memberships": [
 

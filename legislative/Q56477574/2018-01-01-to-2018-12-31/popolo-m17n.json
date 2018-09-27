@@ -22,7 +22,144 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q115549",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw234"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q115549"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477577"
+      ],
+      "type": {
+        "lang:en": "local government area of New South Wales"
+      },
+      "name": {
+        "lang:en": "Hornsby Shire"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q3224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527950"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "New South Wales"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56682714",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw234/ward:a"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682714"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477576"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Hornsby Shire Council"
+      },
+      "name": {
+        "lang:en": "Ward A"
+      },
+      "parent_id": "Q115549"
+    },
+    {
+      "id": "Q56682716",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw234/ward:b"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682716"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477576"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Hornsby Shire Council"
+      },
+      "name": {
+        "lang:en": "Ward B"
+      },
+      "parent_id": "Q115549"
+    },
+    {
+      "id": "Q56682718",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw234/ward:c"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682718"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477576"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Hornsby Shire Council"
+      },
+      "name": {
+        "lang:en": "Ward C"
+      },
+      "parent_id": "Q115549"
+    }
   ],
   "memberships": [
 

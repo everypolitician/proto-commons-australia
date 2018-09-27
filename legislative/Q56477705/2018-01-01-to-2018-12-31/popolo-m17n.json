@@ -19,7 +19,190 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1030580",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1030580"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477707"
+      ],
+      "type": {
+        "lang:en": "local government area of South Australia"
+      },
+      "name": {
+        "lang:en": "City of Campbelltown"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q35715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q35715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27230596"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "South Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478712",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa75/ward:hectorville"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478712"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477706"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Campbelltown City Council"
+      },
+      "name": {
+        "lang:en": "Hectorville Ward"
+      },
+      "parent_id": "Q1030580"
+    },
+    {
+      "id": "Q56478735",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa75/ward:river"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478735"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477706"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Campbelltown City Council"
+      },
+      "name": {
+        "lang:en": "River Ward"
+      },
+      "parent_id": "Q1030580"
+    },
+    {
+      "id": "Q56478750",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa75/ward:gorge"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478750"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477706"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Campbelltown City Council"
+      },
+      "name": {
+        "lang:en": "Gorge Ward"
+      },
+      "parent_id": "Q1030580"
+    },
+    {
+      "id": "Q56478751",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa75/ward:newton"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478751"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477706"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Campbelltown City Council"
+      },
+      "name": {
+        "lang:en": "Newton Ward"
+      },
+      "parent_id": "Q1030580"
+    },
+    {
+      "id": "Q56478752",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa75/ward:woodforde"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478752"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477706"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Campbelltown City Council"
+      },
+      "name": {
+        "lang:en": "Woodforde Ward"
+      },
+      "parent_id": "Q1030580"
+    }
   ],
   "memberships": [
 

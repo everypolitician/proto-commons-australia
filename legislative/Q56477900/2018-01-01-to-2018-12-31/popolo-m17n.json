@@ -19,7 +19,167 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q3206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Western Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478864",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa369/ward:richmond"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478864"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477901"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Town of East Fremantle Council"
+      },
+      "name": {
+        "lang:en": "Richmond Ward"
+      },
+      "parent_id": "Q604376"
+    },
+    {
+      "id": "Q56478865",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa369/ward:woodside"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478865"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477901"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Town of East Fremantle Council"
+      },
+      "name": {
+        "lang:en": "Woodside Ward"
+      },
+      "parent_id": "Q604376"
+    },
+    {
+      "id": "Q56478872",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa369/ward:preston-pt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478872"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477901"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Town of East Fremantle Council"
+      },
+      "name": {
+        "lang:en": "Preston Pt Ward"
+      },
+      "parent_id": "Q604376"
+    },
+    {
+      "id": "Q56478906",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa369/ward:plympton"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478906"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477901"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Town of East Fremantle Council"
+      },
+      "name": {
+        "lang:en": "Plympton Ward"
+      },
+      "parent_id": "Q604376"
+    },
+    {
+      "id": "Q604376",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa369"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q604376"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477902"
+      ],
+      "type": {
+        "lang:en": "local government area of Western Australia"
+      },
+      "name": {
+        "lang:en": "Town of East Fremantle"
+      },
+      "parent_id": "Q3206"
+    }
   ],
   "memberships": [
 

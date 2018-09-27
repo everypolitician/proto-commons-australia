@@ -19,7 +19,213 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1016835",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1016835"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477703"
+      ],
+      "type": {
+        "lang:en": "local government area of South Australia"
+      },
+      "name": {
+        "lang:en": "City of Burnside"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q35715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q35715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27230596"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "South Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478624",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa74/ward:rose-park-and-toorak-gardens"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478624"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477702"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Burnside City Council"
+      },
+      "name": {
+        "lang:en": "Rose Park And Toorak Gardens Ward"
+      },
+      "parent_id": "Q1016835"
+    },
+    {
+      "id": "Q56478731",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa74/ward:beaumont"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478731"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477702"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Burnside City Council"
+      },
+      "name": {
+        "lang:en": "Beaumont Ward"
+      },
+      "parent_id": "Q1016835"
+    },
+    {
+      "id": "Q56478746",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa74/ward:burnside"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478746"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477702"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Burnside City Council"
+      },
+      "name": {
+        "lang:en": "Burnside Ward"
+      },
+      "parent_id": "Q1016835"
+    },
+    {
+      "id": "Q56478747",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa74/ward:eastwood-and-glenunga"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478747"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477702"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Burnside City Council"
+      },
+      "name": {
+        "lang:en": "Eastwood And Glenunga Ward"
+      },
+      "parent_id": "Q1016835"
+    },
+    {
+      "id": "Q56478748",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa74/ward:kensington-gardens-and-magill"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478748"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477702"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Burnside City Council"
+      },
+      "name": {
+        "lang:en": "Kensington Gardens And Magill Ward"
+      },
+      "parent_id": "Q1016835"
+    },
+    {
+      "id": "Q56478749",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa74/ward:kensington-park"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478749"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477702"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Burnside City Council"
+      },
+      "name": {
+        "lang:en": "Kensington Park Ward"
+      },
+      "parent_id": "Q1016835"
+    }
   ],
   "memberships": [
 

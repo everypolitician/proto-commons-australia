@@ -19,7 +19,144 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1500830",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic226"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1500830"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477818"
+      ],
+      "type": {
+        "lang:en": "local government area of Victoria"
+      },
+      "name": {
+        "lang:en": "City of Kingston"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q36687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Victoria"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478803",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic226/ward:central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478803"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477817"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Kingston City Council"
+      },
+      "name": {
+        "lang:en": "Central Ward"
+      },
+      "parent_id": "Q1500830"
+    },
+    {
+      "id": "Q56478825",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic226/ward:north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478825"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477817"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Kingston City Council"
+      },
+      "name": {
+        "lang:en": "North Ward"
+      },
+      "parent_id": "Q1500830"
+    },
+    {
+      "id": "Q56478826",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic226/ward:south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478826"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477817"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Kingston City Council"
+      },
+      "name": {
+        "lang:en": "South Ward"
+      },
+      "parent_id": "Q1500830"
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,236 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q3206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Western Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478848",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa321/ward:minnawarra"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478848"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477885"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Armadale City Council"
+      },
+      "name": {
+        "lang:en": "Minnawarra Ward"
+      },
+      "parent_id": "Q606256"
+    },
+    {
+      "id": "Q56478850",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa321/ward:river"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478850"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477885"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Armadale City Council"
+      },
+      "name": {
+        "lang:en": "River Ward"
+      },
+      "parent_id": "Q606256"
+    },
+    {
+      "id": "Q56478852",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa321/ward:lake"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478852"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477885"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Armadale City Council"
+      },
+      "name": {
+        "lang:en": "Lake Ward"
+      },
+      "parent_id": "Q606256"
+    },
+    {
+      "id": "Q56478912",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa321/ward:palomino"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478912"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477885"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Armadale City Council"
+      },
+      "name": {
+        "lang:en": "Palomino Ward"
+      },
+      "parent_id": "Q606256"
+    },
+    {
+      "id": "Q56478913",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa321/ward:heron"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478913"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477885"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Armadale City Council"
+      },
+      "name": {
+        "lang:en": "Heron Ward"
+      },
+      "parent_id": "Q606256"
+    },
+    {
+      "id": "Q56478928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa321/ward:hills"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477885"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Armadale City Council"
+      },
+      "name": {
+        "lang:en": "Hills Ward"
+      },
+      "parent_id": "Q606256"
+    },
+    {
+      "id": "Q56478930",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa321/ward:ranford"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478930"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477885"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Armadale City Council"
+      },
+      "name": {
+        "lang:en": "Ranford Ward"
+      },
+      "parent_id": "Q606256"
+    },
+    {
+      "id": "Q606256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa321"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q606256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477886"
+      ],
+      "type": {
+        "lang:en": "local government area of Western Australia"
+      },
+      "name": {
+        "lang:en": "City of Armadale"
+      },
+      "parent_id": "Q3206"
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,167 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1857834",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa373"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1857834"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477914"
+      ],
+      "type": {
+        "lang:en": "local government area of Western Australia"
+      },
+      "name": {
+        "lang:en": "City of Subiaco"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q3206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Western Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478837",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa373/ward:south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478837"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477913"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Subiaco City Council"
+      },
+      "name": {
+        "lang:en": "South Ward"
+      },
+      "parent_id": "Q1857834"
+    },
+    {
+      "id": "Q56478845",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa373/ward:north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478845"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477913"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Subiaco City Council"
+      },
+      "name": {
+        "lang:en": "North Ward"
+      },
+      "parent_id": "Q1857834"
+    },
+    {
+      "id": "Q56478876",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa373/ward:central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478876"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477913"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Subiaco City Council"
+      },
+      "name": {
+        "lang:en": "Central Ward"
+      },
+      "parent_id": "Q1857834"
+    },
+    {
+      "id": "Q56478877",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa373/ward:east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478877"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477913"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Subiaco City Council"
+      },
+      "name": {
+        "lang:en": "East Ward"
+      },
+      "parent_id": "Q1857834"
+    }
   ],
   "memberships": [
 

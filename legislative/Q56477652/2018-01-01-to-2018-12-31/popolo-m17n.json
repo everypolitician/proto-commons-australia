@@ -19,7 +19,190 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q24070750",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw332"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24070750"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477654"
+      ],
+      "type": {
+        "lang:en": "local government area of New South Wales"
+      },
+      "name": {
+        "lang:en": "Canterbury-Bankstown Council"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q3224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527950"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "New South Wales"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56682610",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw332/ward:bankstown"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682610"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477653"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Canterbury-Bankstown Council"
+      },
+      "name": {
+        "lang:en": "Bankstown Ward"
+      },
+      "parent_id": "Q24070750"
+    },
+    {
+      "id": "Q56682611",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw332/ward:bass-hill"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682611"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477653"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Canterbury-Bankstown Council"
+      },
+      "name": {
+        "lang:en": "Bass Hill Ward"
+      },
+      "parent_id": "Q24070750"
+    },
+    {
+      "id": "Q56682622",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw332/ward:canterbury"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682622"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477653"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Canterbury-Bankstown Council"
+      },
+      "name": {
+        "lang:en": "Canterbury Ward"
+      },
+      "parent_id": "Q24070750"
+    },
+    {
+      "id": "Q56682681",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw332/ward:revesby"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682681"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477653"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Canterbury-Bankstown Council"
+      },
+      "name": {
+        "lang:en": "Revesby Ward"
+      },
+      "parent_id": "Q24070750"
+    },
+    {
+      "id": "Q56682684",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw332/ward:roselands"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682684"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477653"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Canterbury-Bankstown Council"
+      },
+      "name": {
+        "lang:en": "Roselands Ward"
+      },
+      "parent_id": "Q24070750"
+    }
   ],
   "memberships": [
 

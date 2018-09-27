@@ -19,7 +19,167 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1785372",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic210"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1785372"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477813"
+      ],
+      "type": {
+        "lang:en": "local government area of Victoria"
+      },
+      "name": {
+        "lang:en": "City of Monash"
+      },
+      "parent_id": "Q36687"
+    },
+    {
+      "id": "Q36687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Victoria"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478777",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic210/ward:glen-waverley"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478777"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477812"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Monash City Council"
+      },
+      "name": {
+        "lang:en": "Glen Waverley Ward"
+      },
+      "parent_id": "Q1785372"
+    },
+    {
+      "id": "Q56478778",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic210/ward:oakleigh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478778"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477812"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Monash City Council"
+      },
+      "name": {
+        "lang:en": "Oakleigh Ward"
+      },
+      "parent_id": "Q1785372"
+    },
+    {
+      "id": "Q56478788",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic210/ward:mount-waverley"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478788"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477812"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Monash City Council"
+      },
+      "name": {
+        "lang:en": "Mount Waverley Ward"
+      },
+      "parent_id": "Q1785372"
+    },
+    {
+      "id": "Q56478789",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:vic/lga:vic210/ward:mulgrave"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478789"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477812"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Monash City Council"
+      },
+      "name": {
+        "lang:en": "Mulgrave Ward"
+      },
+      "parent_id": "Q1785372"
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,673 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q27962544",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:chandler"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27962544"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Chandler Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28183849",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28183849"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Central Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28428153",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:bracken-ridge"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28428153"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Bracken Ridge Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28428154",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:doboy"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28428154"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Doboy Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943006",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:calamvale"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943006"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Calamvale Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943008",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:coorparoo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943008"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Coorparoo Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943009",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:the-gabba"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943009"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "The Gabba Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943011",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:deagon"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943011"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Deagon Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943046",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:tennyson"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943046"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Tennyson Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943049",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:enoggera"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943049"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Enoggera Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943070",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:forest-lake"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943070"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Forest Lake Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943071",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:holland-park"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943071"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Holland Park Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943072",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:jamboree"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943072"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Jamboree Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943073",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:marchant"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943073"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Marchant Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943074",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:mcdowall"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943074"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "McDowall Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943075",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:macgregor"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943075"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "MacGregor Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943076",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:moorooka"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943076"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Moorooka Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943077",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:morningside"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943077"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Morningside Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943078",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:northgate"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943078"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Northgate Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943079",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:paddington"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943079"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Paddington Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943080",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:pullenvale"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943080"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Pullenvale Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943081",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:runcorn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943081"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Runcorn Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943082",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:the-gap"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943082"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "The Gap Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943083",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:walter-taylor"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943083"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Walter Taylor Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943084",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:wynnum-manly"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943084"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Wynnum-Manly Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q28943097",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21/ward:hamilton"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943097"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477661"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Brisbane City Council"
+      },
+      "name": {
+        "lang:en": "Hamilton Ward"
+      },
+      "parent_id": "Q917682"
+    },
+    {
+      "id": "Q36074",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q36074"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Queensland"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q917682",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:qld/lga:qld21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q917682"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q29467089"
+      ],
+      "type": {
+        "lang:en": "local government area of Queensland"
+      },
+      "name": {
+        "lang:en": "City of Brisbane"
+      },
+      "parent_id": "Q36074"
+    }
   ],
   "memberships": [
 

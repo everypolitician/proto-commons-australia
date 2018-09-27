@@ -22,7 +22,167 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q3224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527950"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "New South Wales"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56682702",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw207/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682702"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477543"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Newcastle City Council"
+      },
+      "name": {
+        "lang:en": "Ward 1"
+      },
+      "parent_id": "Q820325"
+    },
+    {
+      "id": "Q56682705",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw207/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682705"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477543"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Newcastle City Council"
+      },
+      "name": {
+        "lang:en": "Ward 2"
+      },
+      "parent_id": "Q820325"
+    },
+    {
+      "id": "Q56682708",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw207/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682708"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477543"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Newcastle City Council"
+      },
+      "name": {
+        "lang:en": "Ward 3"
+      },
+      "parent_id": "Q820325"
+    },
+    {
+      "id": "Q56682711",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw207/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682711"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477543"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Newcastle City Council"
+      },
+      "name": {
+        "lang:en": "Ward 4"
+      },
+      "parent_id": "Q820325"
+    },
+    {
+      "id": "Q820325",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw207"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q820325"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477544"
+      ],
+      "type": {
+        "lang:en": "local government area of New South Wales"
+      },
+      "name": {
+        "lang:en": "City of Newcastle"
+      },
+      "parent_id": "Q3224"
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,167 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1660264",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa308"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1660264"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477834"
+      ],
+      "type": {
+        "lang:en": "local government area of Western Australia"
+      },
+      "name": {
+        "lang:en": "City of Rockingham"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q3206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Western Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478841",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa308/ward:rockingham"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478841"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477833"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Rockingham City Council"
+      },
+      "name": {
+        "lang:en": "Rockingham Ward"
+      },
+      "parent_id": "Q1660264"
+    },
+    {
+      "id": "Q56478884",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa308/ward:baldivis"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478884"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477833"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Rockingham City Council"
+      },
+      "name": {
+        "lang:en": "Baldivis Ward"
+      },
+      "parent_id": "Q1660264"
+    },
+    {
+      "id": "Q56478895",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa308/ward:safety-bay"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478895"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477833"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Rockingham City Council"
+      },
+      "name": {
+        "lang:en": "Safety Bay Ward"
+      },
+      "parent_id": "Q1660264"
+    },
+    {
+      "id": "Q56478923",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa308/ward:comet-bay"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478923"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477833"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Rockingham City Council"
+      },
+      "name": {
+        "lang:en": "Comet Bay Ward"
+      },
+      "parent_id": "Q1660264"
+    }
   ],
   "memberships": [
 

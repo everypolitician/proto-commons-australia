@@ -22,7 +22,190 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1623372",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw180"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1623372"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477519"
+      ],
+      "type": {
+        "lang:en": "local government area of New South Wales"
+      },
+      "name": {
+        "lang:en": "Woollahra Municipality"
+      },
+      "parent_id": "Q3224"
+    },
+    {
+      "id": "Q3224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527950"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "New South Wales"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56682613",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw180/ward:bellevue-hill"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682613"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477518"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Woollahra Municipal Council"
+      },
+      "name": {
+        "lang:en": "Bellevue Hill Ward"
+      },
+      "parent_id": "Q1623372"
+    },
+    {
+      "id": "Q56682629",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw180/ward:cooper"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682629"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477518"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Woollahra Municipal Council"
+      },
+      "name": {
+        "lang:en": "Cooper Ward"
+      },
+      "parent_id": "Q1623372"
+    },
+    {
+      "id": "Q56682631",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw180/ward:double-bay"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682631"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477518"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Woollahra Municipal Council"
+      },
+      "name": {
+        "lang:en": "Double Bay Ward"
+      },
+      "parent_id": "Q1623372"
+    },
+    {
+      "id": "Q56682672",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw180/ward:paddington"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682672"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477518"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Woollahra Municipal Council"
+      },
+      "name": {
+        "lang:en": "Paddington Ward"
+      },
+      "parent_id": "Q1623372"
+    },
+    {
+      "id": "Q56682698",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw/lga:nsw180/ward:vaucluse"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56682698"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477518"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Woollahra Municipal Council"
+      },
+      "name": {
+        "lang:en": "Vaucluse Ward"
+      },
+      "parent_id": "Q1623372"
+    }
   ],
   "memberships": [
 

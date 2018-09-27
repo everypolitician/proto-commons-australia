@@ -19,7 +19,167 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q3206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Western Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478846",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa314/ward:west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478846"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477857"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Bayswater City Council"
+      },
+      "name": {
+        "lang:en": "West Ward"
+      },
+      "parent_id": "Q606312"
+    },
+    {
+      "id": "Q56478860",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa314/ward:south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478860"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477857"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Bayswater City Council"
+      },
+      "name": {
+        "lang:en": "South Ward"
+      },
+      "parent_id": "Q606312"
+    },
+    {
+      "id": "Q56478911",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa314/ward:central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478911"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477857"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Bayswater City Council"
+      },
+      "name": {
+        "lang:en": "Central Ward"
+      },
+      "parent_id": "Q606312"
+    },
+    {
+      "id": "Q56478937",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa314/ward:north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478937"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477857"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Bayswater City Council"
+      },
+      "name": {
+        "lang:en": "North Ward"
+      },
+      "parent_id": "Q606312"
+    },
+    {
+      "id": "Q606312",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/lga:wa314"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q606312"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477858"
+      ],
+      "type": {
+        "lang:en": "local government area of Western Australia"
+      },
+      "name": {
+        "lang:en": "City of Bayswater"
+      },
+      "parent_id": "Q3206"
+    }
   ],
   "memberships": [
 
