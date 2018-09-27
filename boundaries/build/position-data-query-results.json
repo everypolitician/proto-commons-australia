@@ -591,6 +591,47 @@
     }, {
       "position" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23782667"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lord Mayor of Melbourne"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1919098"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Melbourne"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11902879"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lord Mayor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56477763"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Melbourne City Council"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q26998278"
       },
       "position_name_en" : {
@@ -714,6 +755,170 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Cabinet of Australia"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47014912"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor of Lake Macquarie"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q606193"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Lake Macquarie"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56477536"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lake Macquarie City Council"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49031784"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lord Mayor of Adelaide"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1094063"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Adelaide"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56477697"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Adelaide City Council"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49031784"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lord Mayor of Adelaide"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1094063"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Adelaide"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11902879"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lord Mayor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56477697"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Adelaide City Council"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51011795"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor of Port Adelaide Enfield"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1533526"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Port Adelaide Enfield"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56477713"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Port Adelaide Enfield City Council"
       }
     }, {
       "position" : {
@@ -1266,47 +1471,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56477536"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lake Macquarie City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56477538"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of the City of Lake Macquarie Council"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q606193"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "City of Lake Macquarie"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
       },
       "body" : {
         "type" : "uri",
@@ -3904,47 +4068,6 @@
     }, {
       "position" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56477674"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Gold Coast City"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1069385"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gold Coast City"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56477672"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gold Coast City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56477678"
       },
       "position_name_en" : {
@@ -4382,6 +4505,10 @@
         "type" : "literal",
         "value" : "member of Adelaide City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -4412,10 +4539,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Adelaide City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -4426,6 +4549,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "member of Burnside City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -4457,10 +4584,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Burnside City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -4513,6 +4636,10 @@
         "type" : "literal",
         "value" : "member of Campbelltown City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -4543,10 +4670,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Campbelltown City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -4599,6 +4722,10 @@
         "type" : "literal",
         "value" : "member of Mitcham City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -4629,10 +4756,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Mitcham City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -4685,6 +4808,10 @@
         "type" : "literal",
         "value" : "member of Port Adelaide Enfield City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -4715,51 +4842,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Port Adelaide Enfield City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56477715"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of the City of Port Adelaide Enfield"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1533526"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "City of Port Adelaide Enfield"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56477713"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Port Adelaide Enfield City Council"
       }
     }, {
       "position" : {
@@ -4770,6 +4852,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "member of Prospect Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -4801,10 +4887,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Prospect Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -4857,6 +4939,10 @@
         "type" : "literal",
         "value" : "member of Salisbury City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -4878,51 +4964,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56477721"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Salisbury City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56477725"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of the City of Salisbury"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q947334"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "City of Salisbury"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
       },
       "body" : {
         "type" : "uri",
@@ -4943,6 +4984,10 @@
         "type" : "literal",
         "value" : "member of Unley City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -4964,51 +5009,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "councillor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56477727"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Unley City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56477729"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of the City of Unley"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1766439"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "City of Unley"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
       },
       "body" : {
         "type" : "uri",
@@ -5029,6 +5029,10 @@
         "type" : "literal",
         "value" : "member of Town of Gawler Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -5059,51 +5063,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Town of Gawler Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56477733"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Gawler"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1847617"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Town of Gawler"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56477731"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Town of Gawler Council"
       }
     }, {
       "position" : {
@@ -5114,6 +5073,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "member of Charles Sturt City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -5145,10 +5108,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Charles Sturt City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -5201,6 +5160,10 @@
         "type" : "literal",
         "value" : "member of Marion City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -5231,10 +5194,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Marion City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -5287,6 +5246,10 @@
         "type" : "literal",
         "value" : "member of Norwood Payneham & St Peters City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -5317,10 +5280,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Norwood Payneham & St Peters City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -5373,6 +5332,10 @@
         "type" : "literal",
         "value" : "member of Onkaparinga City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -5403,10 +5366,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Onkaparinga City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -5459,6 +5418,10 @@
         "type" : "literal",
         "value" : "member of Playford City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -5489,10 +5452,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Playford City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -5545,6 +5504,10 @@
         "type" : "literal",
         "value" : "member of Moonee Valley City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -5575,10 +5538,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Moonee Valley City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -5631,6 +5590,10 @@
         "type" : "literal",
         "value" : "member of Moreland City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -5661,10 +5624,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Moreland City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -5717,6 +5676,10 @@
         "type" : "literal",
         "value" : "member of Melbourne City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -5747,51 +5710,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Melbourne City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56477765"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of the City of Melbourne"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1919098"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "City of Melbourne"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56477763"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Melbourne City Council"
       }
     }, {
       "position" : {
@@ -5802,6 +5720,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "member of Glen Eira City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -5833,10 +5755,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Glen Eira City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -5889,6 +5807,10 @@
         "type" : "literal",
         "value" : "member of Bayside City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -5919,10 +5841,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Bayside City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -5975,6 +5893,10 @@
         "type" : "literal",
         "value" : "member of Banyule City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -6005,10 +5927,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Banyule City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -6061,6 +5979,10 @@
         "type" : "literal",
         "value" : "member of Brimbank City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -6091,10 +6013,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Brimbank City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -6147,6 +6065,10 @@
         "type" : "literal",
         "value" : "member of Manningham City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -6177,10 +6099,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Manningham City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -6233,6 +6151,10 @@
         "type" : "literal",
         "value" : "member of Whitehorse City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -6263,10 +6185,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Whitehorse City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -6319,6 +6237,10 @@
         "type" : "literal",
         "value" : "member of Boroondara City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -6349,10 +6271,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Boroondara City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -6405,6 +6323,10 @@
         "type" : "literal",
         "value" : "member of Yarra City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -6435,10 +6357,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Yarra City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -6491,6 +6409,10 @@
         "type" : "literal",
         "value" : "member of Stonnington City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -6521,10 +6443,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Stonnington City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -6577,6 +6495,10 @@
         "type" : "literal",
         "value" : "member of Darebin City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -6607,10 +6529,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Darebin City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -6663,6 +6581,10 @@
         "type" : "literal",
         "value" : "member of Port Phillip City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -6693,10 +6615,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Port Phillip City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -6749,6 +6667,10 @@
         "type" : "literal",
         "value" : "member of Monash City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -6779,10 +6701,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Monash City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -6835,6 +6753,10 @@
         "type" : "literal",
         "value" : "member of Kingston City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -6865,10 +6787,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kingston City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -6921,6 +6839,10 @@
         "type" : "literal",
         "value" : "member of Maribyrnong City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -6951,10 +6873,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Maribyrnong City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -7007,6 +6925,10 @@
         "type" : "literal",
         "value" : "member of Hobsons Bay City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -7037,10 +6959,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hobsons Bay City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -7093,6 +7011,10 @@
         "type" : "literal",
         "value" : "member of Nedlands City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -7123,10 +7045,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Nedlands City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -7179,6 +7097,10 @@
         "type" : "literal",
         "value" : "member of Rockingham City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -7209,10 +7131,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rockingham City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -7265,6 +7183,10 @@
         "type" : "literal",
         "value" : "member of Wanneroo City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -7295,10 +7217,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Wanneroo City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -7351,6 +7269,10 @@
         "type" : "literal",
         "value" : "member of Vincent City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -7381,10 +7303,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Vincent City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -7437,6 +7355,10 @@
         "type" : "literal",
         "value" : "member of Cockburn City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -7467,10 +7389,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Cockburn City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -7523,6 +7441,10 @@
         "type" : "literal",
         "value" : "member of Melville City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -7553,10 +7475,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Melville City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -7609,6 +7527,10 @@
         "type" : "literal",
         "value" : "member of Swan City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -7639,10 +7561,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Swan City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -7695,6 +7613,10 @@
         "type" : "literal",
         "value" : "member of Bayswater City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -7725,10 +7647,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Bayswater City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -7781,6 +7699,10 @@
         "type" : "literal",
         "value" : "member of Shire of Serpentine-Jarrahdale Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -7811,10 +7733,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Shire of Serpentine-Jarrahdale Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -7867,6 +7785,10 @@
         "type" : "literal",
         "value" : "member of Town of Victoria Park Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -7897,10 +7819,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Town of Victoria Park Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -7953,6 +7871,10 @@
         "type" : "literal",
         "value" : "member of Canning City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -7983,10 +7905,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Canning City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -8039,6 +7957,10 @@
         "type" : "literal",
         "value" : "member of South Perth City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -8069,10 +7991,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "South Perth City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -8125,6 +8043,10 @@
         "type" : "literal",
         "value" : "member of Shire of Mundaring Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -8155,10 +8077,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Shire of Mundaring Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -8211,6 +8129,10 @@
         "type" : "literal",
         "value" : "member of Gosnells City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -8241,10 +8163,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Gosnells City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -8297,6 +8215,10 @@
         "type" : "literal",
         "value" : "member of Armadale City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -8327,10 +8249,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Armadale City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -8383,6 +8301,10 @@
         "type" : "literal",
         "value" : "member of Stirling City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -8413,10 +8335,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Stirling City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -8469,6 +8387,10 @@
         "type" : "literal",
         "value" : "member of Belmont City Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -8499,10 +8421,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Belmont City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -8555,6 +8473,10 @@
         "type" : "literal",
         "value" : "member of Town of Claremont Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -8585,10 +8507,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Town of Claremont Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -9662,6 +9580,47 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kalamunda City Council"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6797856"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor of the Gold Coast"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1069385"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gold Coast City"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56477672"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gold Coast City Council"
       }
     }, {
       "position" : {
