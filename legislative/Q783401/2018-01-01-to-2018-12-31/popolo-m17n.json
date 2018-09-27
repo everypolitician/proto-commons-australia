@@ -2408,7 +2408,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw4"
+          "identifier": "country:au/state:nsw/federal_electorate:calare"
         },
         {
           "scheme": "wikidata",
@@ -2431,7 +2431,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw28"
+          "identifier": "country:au/state:nsw/federal_electorate:farrer"
         },
         {
           "scheme": "wikidata",
@@ -2454,7 +2454,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw21"
+          "identifier": "country:au/state:nsw/federal_electorate:chifley"
         },
         {
           "scheme": "wikidata",
@@ -2477,7 +2477,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw9"
+          "identifier": "country:au/state:nsw/federal_electorate:eden-monaro"
         },
         {
           "scheme": "wikidata",
@@ -2500,7 +2500,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic30"
+          "identifier": "country:au/state:vic/federal_electorate:lalor"
         },
         {
           "scheme": "wikidata",
@@ -2523,7 +2523,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw50"
+          "identifier": "country:au/state:nsw/federal_electorate:mcmahon"
         },
         {
           "scheme": "wikidata",
@@ -2546,7 +2546,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/hor:sa4"
+          "identifier": "country:au/state:sa/federal_electorate:wakefield"
         },
         {
           "scheme": "wikidata",
@@ -2569,7 +2569,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw39"
+          "identifier": "country:au/state:nsw/federal_electorate:richmond"
         },
         {
           "scheme": "wikidata",
@@ -2592,7 +2592,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw33"
+          "identifier": "country:au/state:nsw/federal_electorate:macquarie"
         },
         {
           "scheme": "wikidata",
@@ -2615,7 +2615,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw17"
+          "identifier": "country:au/state:nsw/federal_electorate:warringah"
         },
         {
           "scheme": "wikidata",
@@ -2638,7 +2638,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld5"
+          "identifier": "country:au/state:qld/federal_electorate:mcpherson"
         },
         {
           "scheme": "wikidata",
@@ -2661,7 +2661,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic13"
+          "identifier": "country:au/state:vic/federal_electorate:deakin"
         },
         {
           "scheme": "wikidata",
@@ -2684,7 +2684,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw1"
+          "identifier": "country:au/state:nsw/federal_electorate:lindsay"
         },
         {
           "scheme": "wikidata",
@@ -2707,7 +2707,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic16"
+          "identifier": "country:au/state:vic/federal_electorate:mcmillan"
         },
         {
           "scheme": "wikidata",
@@ -2730,7 +2730,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/hor:sa5"
+          "identifier": "country:au/state:sa/federal_electorate:mayo"
         },
         {
           "scheme": "wikidata",
@@ -2753,7 +2753,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic3"
+          "identifier": "country:au/state:vic/federal_electorate:aston"
         },
         {
           "scheme": "wikidata",
@@ -2776,7 +2776,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw31"
+          "identifier": "country:au/state:nsw/federal_electorate:berowra"
         },
         {
           "scheme": "wikidata",
@@ -2799,7 +2799,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw34"
+          "identifier": "country:au/state:nsw/federal_electorate:hunter"
         },
         {
           "scheme": "wikidata",
@@ -2822,7 +2822,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld28"
+          "identifier": "country:au/state:qld/federal_electorate:griffith"
         },
         {
           "scheme": "wikidata",
@@ -2845,7 +2845,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw16"
+          "identifier": "country:au/state:nsw/federal_electorate:blaxland"
         },
         {
           "scheme": "wikidata",
@@ -2868,7 +2868,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw36"
+          "identifier": "country:au/state:nsw/federal_electorate:barton"
         },
         {
           "scheme": "wikidata",
@@ -2891,7 +2891,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic19"
+          "identifier": "country:au/state:vic/federal_electorate:mcewen"
         },
         {
           "scheme": "wikidata",
@@ -2914,7 +2914,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw18"
+          "identifier": "country:au/state:nsw/federal_electorate:bradfield"
         },
         {
           "scheme": "wikidata",
@@ -2937,7 +2937,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw32"
+          "identifier": "country:au/state:nsw/federal_electorate:cowper"
         },
         {
           "scheme": "wikidata",
@@ -2960,7 +2960,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld7"
+          "identifier": "country:au/state:qld/federal_electorate:oxley"
         },
         {
           "scheme": "wikidata",
@@ -2983,7 +2983,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw8"
+          "identifier": "country:au/state:nsw/federal_electorate:sydney"
         },
         {
           "scheme": "wikidata",
@@ -3006,7 +3006,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld18"
+          "identifier": "country:au/state:qld/federal_electorate:dawson"
         },
         {
           "scheme": "wikidata",
@@ -3029,7 +3029,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw26"
+          "identifier": "country:au/state:nsw/federal_electorate:grayndler"
         },
         {
           "scheme": "wikidata",
@@ -3052,7 +3052,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic8"
+          "identifier": "country:au/state:vic/federal_electorate:dunkley"
         },
         {
           "scheme": "wikidata",
@@ -3075,7 +3075,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic17"
+          "identifier": "country:au/state:vic/federal_electorate:melbourne"
         },
         {
           "scheme": "wikidata",
@@ -3098,7 +3098,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic12"
+          "identifier": "country:au/state:vic/federal_electorate:menzies"
         },
         {
           "scheme": "wikidata",
@@ -3121,7 +3121,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw37"
+          "identifier": "country:au/state:nsw/federal_electorate:cunningham"
         },
         {
           "scheme": "wikidata",
@@ -3144,7 +3144,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:tas/hor:tas4"
+          "identifier": "country:au/state:tas/federal_electorate:lyons"
         },
         {
           "scheme": "wikidata",
@@ -3167,7 +3167,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:wa/hor:wa26"
+          "identifier": "country:au/state:wa/federal_electorate:burt"
         },
         {
           "scheme": "wikidata",
@@ -3190,7 +3190,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw52"
+          "identifier": "country:au/state:nsw/federal_electorate:whitlam"
         },
         {
           "scheme": "wikidata",
@@ -3213,7 +3213,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/territory:act/hor:act4"
+          "identifier": "country:au/territory:act/federal_electorate:fenner"
         },
         {
           "scheme": "wikidata",
@@ -3236,7 +3236,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/hor:sa9"
+          "identifier": "country:au/state:sa/federal_electorate:port_adelaide"
         },
         {
           "scheme": "wikidata",
@@ -3259,7 +3259,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw10"
+          "identifier": "country:au/state:nsw/federal_electorate:banks"
         },
         {
           "scheme": "wikidata",
@@ -3282,7 +3282,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:tas/hor:tas1"
+          "identifier": "country:au/state:tas/federal_electorate:bass"
         },
         {
           "scheme": "wikidata",
@@ -3305,7 +3305,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/hor:sa10"
+          "identifier": "country:au/state:sa/federal_electorate:adelaide"
         },
         {
           "scheme": "wikidata",
@@ -3328,7 +3328,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/hor:sa7"
+          "identifier": "country:au/state:sa/federal_electorate:hindmarsh"
         },
         {
           "scheme": "wikidata",
@@ -3351,7 +3351,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic21"
+          "identifier": "country:au/state:vic/federal_electorate:indi"
         },
         {
           "scheme": "wikidata",
@@ -3374,7 +3374,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic36"
+          "identifier": "country:au/state:vic/federal_electorate:isaacs"
         },
         {
           "scheme": "wikidata",
@@ -3397,7 +3397,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic25"
+          "identifier": "country:au/state:vic/federal_electorate:ballarat"
         },
         {
           "scheme": "wikidata",
@@ -3420,7 +3420,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/hor:sa11"
+          "identifier": "country:au/state:sa/federal_electorate:barker"
         },
         {
           "scheme": "wikidata",
@@ -3443,7 +3443,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic9"
+          "identifier": "country:au/state:vic/federal_electorate:batman"
         },
         {
           "scheme": "wikidata",
@@ -3466,7 +3466,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic24"
+          "identifier": "country:au/state:vic/federal_electorate:bendigo"
         },
         {
           "scheme": "wikidata",
@@ -3489,7 +3489,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld19"
+          "identifier": "country:au/state:qld/federal_electorate:blair"
         },
         {
           "scheme": "wikidata",
@@ -3512,7 +3512,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld2"
+          "identifier": "country:au/state:qld/federal_electorate:bonner"
         },
         {
           "scheme": "wikidata",
@@ -3535,7 +3535,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/hor:sa1"
+          "identifier": "country:au/state:sa/federal_electorate:boothby"
         },
         {
           "scheme": "wikidata",
@@ -3558,7 +3558,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld3"
+          "identifier": "country:au/state:qld/federal_electorate:bowman"
         },
         {
           "scheme": "wikidata",
@@ -3581,7 +3581,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic35"
+          "identifier": "country:au/state:vic/federal_electorate:bruce"
         },
         {
           "scheme": "wikidata",
@@ -3604,7 +3604,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/territory:act/hor:act3"
+          "identifier": "country:au/territory:act/federal_electorate:canberra"
         },
         {
           "scheme": "wikidata",
@@ -3627,7 +3627,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic18"
+          "identifier": "country:au/state:vic/federal_electorate:calwell"
         },
         {
           "scheme": "wikidata",
@@ -3650,7 +3650,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:wa/hor:wa18"
+          "identifier": "country:au/state:wa/federal_electorate:canning"
         },
         {
           "scheme": "wikidata",
@@ -3673,7 +3673,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld24"
+          "identifier": "country:au/state:qld/federal_electorate:capricornia"
         },
         {
           "scheme": "wikidata",
@@ -3696,7 +3696,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic31"
+          "identifier": "country:au/state:vic/federal_electorate:casey"
         },
         {
           "scheme": "wikidata",
@@ -3719,7 +3719,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic32"
+          "identifier": "country:au/state:vic/federal_electorate:corio"
         },
         {
           "scheme": "wikidata",
@@ -3742,7 +3742,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic27"
+          "identifier": "country:au/state:vic/federal_electorate:corangamite"
         },
         {
           "scheme": "wikidata",
@@ -3765,7 +3765,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:wa/hor:wa19"
+          "identifier": "country:au/state:wa/federal_electorate:cowan"
         },
         {
           "scheme": "wikidata",
@@ -3788,7 +3788,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:wa/hor:wa20"
+          "identifier": "country:au/state:wa/federal_electorate:curtin"
         },
         {
           "scheme": "wikidata",
@@ -3811,7 +3811,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld10"
+          "identifier": "country:au/state:qld/federal_electorate:dickson"
         },
         {
           "scheme": "wikidata",
@@ -3834,7 +3834,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:wa/hor:wa21"
+          "identifier": "country:au/state:wa/federal_electorate:durack"
         },
         {
           "scheme": "wikidata",
@@ -3857,7 +3857,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld29"
+          "identifier": "country:au/state:qld/federal_electorate:fadden"
         },
         {
           "scheme": "wikidata",
@@ -3880,7 +3880,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld26"
+          "identifier": "country:au/state:qld/federal_electorate:fairfax"
         },
         {
           "scheme": "wikidata",
@@ -3903,7 +3903,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld27"
+          "identifier": "country:au/state:qld/federal_electorate:fisher"
         },
         {
           "scheme": "wikidata",
@@ -3926,7 +3926,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic20"
+          "identifier": "country:au/state:vic/federal_electorate:flinders"
         },
         {
           "scheme": "wikidata",
@@ -3949,7 +3949,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld12"
+          "identifier": "country:au/state:qld/federal_electorate:flynn"
         },
         {
           "scheme": "wikidata",
@@ -3972,7 +3972,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld23"
+          "identifier": "country:au/state:qld/federal_electorate:forde"
         },
         {
           "scheme": "wikidata",
@@ -3995,7 +3995,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:wa/hor:wa22"
+          "identifier": "country:au/state:wa/federal_electorate:forrest"
         },
         {
           "scheme": "wikidata",
@@ -4018,7 +4018,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw19"
+          "identifier": "country:au/state:nsw/federal_electorate:fowler"
         },
         {
           "scheme": "wikidata",
@@ -4041,7 +4041,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:tas/hor:tas3"
+          "identifier": "country:au/state:tas/federal_electorate:franklin"
         },
         {
           "scheme": "wikidata",
@@ -4064,7 +4064,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:wa/hor:wa23"
+          "identifier": "country:au/state:wa/federal_electorate:fremantle"
         },
         {
           "scheme": "wikidata",
@@ -4087,7 +4087,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic10"
+          "identifier": "country:au/state:vic/federal_electorate:gellibrand"
         },
         {
           "scheme": "wikidata",
@@ -4110,7 +4110,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw47"
+          "identifier": "country:au/state:nsw/federal_electorate:gilmore"
         },
         {
           "scheme": "wikidata",
@@ -4133,7 +4133,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic1"
+          "identifier": "country:au/state:vic/federal_electorate:gippsland"
         },
         {
           "scheme": "wikidata",
@@ -4156,7 +4156,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic37"
+          "identifier": "country:au/state:vic/federal_electorate:goldstein"
         },
         {
           "scheme": "wikidata",
@@ -4179,7 +4179,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic28"
+          "identifier": "country:au/state:vic/federal_electorate:gorton"
         },
         {
           "scheme": "wikidata",
@@ -4202,7 +4202,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw30"
+          "identifier": "country:au/state:nsw/federal_electorate:greenway"
         },
         {
           "scheme": "wikidata",
@@ -4225,7 +4225,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/hor:sa2"
+          "identifier": "country:au/state:sa/federal_electorate:grey"
         },
         {
           "scheme": "wikidata",
@@ -4248,7 +4248,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld21"
+          "identifier": "country:au/state:qld/federal_electorate:groom"
         },
         {
           "scheme": "wikidata",
@@ -4271,7 +4271,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:wa/hor:wa24"
+          "identifier": "country:au/state:wa/federal_electorate:hasluck"
         },
         {
           "scheme": "wikidata",
@@ -4294,7 +4294,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld15"
+          "identifier": "country:au/state:qld/federal_electorate:herbert"
         },
         {
           "scheme": "wikidata",
@@ -4317,7 +4317,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic7"
+          "identifier": "country:au/state:vic/federal_electorate:higgins"
         },
         {
           "scheme": "wikidata",
@@ -4340,7 +4340,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld8"
+          "identifier": "country:au/state:qld/federal_electorate:hinkler"
         },
         {
           "scheme": "wikidata",
@@ -4363,7 +4363,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic5"
+          "identifier": "country:au/state:vic/federal_electorate:holt"
         },
         {
           "scheme": "wikidata",
@@ -4386,7 +4386,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic34"
+          "identifier": "country:au/state:vic/federal_electorate:hotham"
         },
         {
           "scheme": "wikidata",
@@ -4409,7 +4409,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw11"
+          "identifier": "country:au/state:nsw/federal_electorate:hughes"
         },
         {
           "scheme": "wikidata",
@@ -4432,7 +4432,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw20"
+          "identifier": "country:au/state:nsw/federal_electorate:hume"
         },
         {
           "scheme": "wikidata",
@@ -4455,7 +4455,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic33"
+          "identifier": "country:au/state:vic/federal_electorate:jagajaga"
         },
         {
           "scheme": "wikidata",
@@ -4478,7 +4478,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld6"
+          "identifier": "country:au/state:qld/federal_electorate:kennedy"
         },
         {
           "scheme": "wikidata",
@@ -4501,7 +4501,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw3"
+          "identifier": "country:au/state:nsw/federal_electorate:kingsford_smith"
         },
         {
           "scheme": "wikidata",
@@ -4524,7 +4524,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic29"
+          "identifier": "country:au/state:vic/federal_electorate:kooyong"
         },
         {
           "scheme": "wikidata",
@@ -4547,7 +4547,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic23"
+          "identifier": "country:au/state:vic/federal_electorate:la_trobe"
         },
         {
           "scheme": "wikidata",
@@ -4570,7 +4570,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld9"
+          "identifier": "country:au/state:qld/federal_electorate:lilley"
         },
         {
           "scheme": "wikidata",
@@ -4593,7 +4593,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/territory:nt/hor:nt2"
+          "identifier": "country:au/territory:nt/federal_electorate:lingiari"
         },
         {
           "scheme": "wikidata",
@@ -4616,7 +4616,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld4"
+          "identifier": "country:au/state:qld/federal_electorate:longman"
         },
         {
           "scheme": "wikidata",
@@ -4639,7 +4639,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw14"
+          "identifier": "country:au/state:nsw/federal_electorate:lyne"
         },
         {
           "scheme": "wikidata",
@@ -4662,7 +4662,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw27"
+          "identifier": "country:au/state:nsw/federal_electorate:macarthur"
         },
         {
           "scheme": "wikidata",
@@ -4685,7 +4685,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/hor:sa6"
+          "identifier": "country:au/state:sa/federal_electorate:makin"
         },
         {
           "scheme": "wikidata",
@@ -4708,7 +4708,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic2"
+          "identifier": "country:au/state:vic/federal_electorate:mallee"
         },
         {
           "scheme": "wikidata",
@@ -4731,7 +4731,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld20"
+          "identifier": "country:au/state:qld/federal_electorate:maranoa"
         },
         {
           "scheme": "wikidata",
@@ -4754,7 +4754,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic6"
+          "identifier": "country:au/state:vic/federal_electorate:maribyrnong"
         },
         {
           "scheme": "wikidata",
@@ -4777,7 +4777,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic22"
+          "identifier": "country:au/state:vic/federal_electorate:melbourne_ports"
         },
         {
           "scheme": "wikidata",
@@ -4800,7 +4800,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw15"
+          "identifier": "country:au/state:nsw/federal_electorate:mitchell"
         },
         {
           "scheme": "wikidata",
@@ -4823,7 +4823,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld16"
+          "identifier": "country:au/state:qld/federal_electorate:moncrieff"
         },
         {
           "scheme": "wikidata",
@@ -4846,7 +4846,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:wa/hor:wa25"
+          "identifier": "country:au/state:wa/federal_electorate:moore"
         },
         {
           "scheme": "wikidata",
@@ -4869,7 +4869,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld17"
+          "identifier": "country:au/state:qld/federal_electorate:moreton"
         },
         {
           "scheme": "wikidata",
@@ -4892,7 +4892,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic11"
+          "identifier": "country:au/state:vic/federal_electorate:murray"
         },
         {
           "scheme": "wikidata",
@@ -4915,7 +4915,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw12"
+          "identifier": "country:au/state:nsw/federal_electorate:new_england"
         },
         {
           "scheme": "wikidata",
@@ -4938,7 +4938,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:wa/hor:wa27"
+          "identifier": "country:au/state:wa/federal_electorate:o~connor"
         },
         {
           "scheme": "wikidata",
@@ -4961,7 +4961,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw41"
+          "identifier": "country:au/state:nsw/federal_electorate:page"
         },
         {
           "scheme": "wikidata",
@@ -4984,7 +4984,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw38"
+          "identifier": "country:au/state:nsw/federal_electorate:parkes"
         },
         {
           "scheme": "wikidata",
@@ -5007,7 +5007,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw49"
+          "identifier": "country:au/state:nsw/federal_electorate:parramatta"
         },
         {
           "scheme": "wikidata",
@@ -5030,7 +5030,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:wa/hor:wa28"
+          "identifier": "country:au/state:wa/federal_electorate:pearce"
         },
         {
           "scheme": "wikidata",
@@ -5053,7 +5053,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:wa/hor:wa29"
+          "identifier": "country:au/state:wa/federal_electorate:perth"
         },
         {
           "scheme": "wikidata",
@@ -5076,7 +5076,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld22"
+          "identifier": "country:au/state:qld/federal_electorate:petrie"
         },
         {
           "scheme": "wikidata",
@@ -5099,7 +5099,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld11"
+          "identifier": "country:au/state:qld/federal_electorate:rankin"
         },
         {
           "scheme": "wikidata",
@@ -5122,7 +5122,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw42"
+          "identifier": "country:au/state:nsw/federal_electorate:reid"
         },
         {
           "scheme": "wikidata",
@@ -5145,7 +5145,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw5"
+          "identifier": "country:au/state:nsw/federal_electorate:robertson"
         },
         {
           "scheme": "wikidata",
@@ -5168,7 +5168,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld14"
+          "identifier": "country:au/state:qld/federal_electorate:ryan"
         },
         {
           "scheme": "wikidata",
@@ -5191,7 +5191,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic14"
+          "identifier": "country:au/state:vic/federal_electorate:scullin"
         },
         {
           "scheme": "wikidata",
@@ -5214,7 +5214,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw44"
+          "identifier": "country:au/state:nsw/federal_electorate:shortland"
         },
         {
           "scheme": "wikidata",
@@ -5237,7 +5237,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/territory:nt/hor:nt1"
+          "identifier": "country:au/territory:nt/federal_electorate:solomon"
         },
         {
           "scheme": "wikidata",
@@ -5260,7 +5260,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:wa/hor:wa30"
+          "identifier": "country:au/state:wa/federal_electorate:stirling"
         },
         {
           "scheme": "wikidata",
@@ -5283,7 +5283,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/hor:sa3"
+          "identifier": "country:au/state:sa/federal_electorate:sturt"
         },
         {
           "scheme": "wikidata",
@@ -5306,7 +5306,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:wa/hor:wa31"
+          "identifier": "country:au/state:wa/federal_electorate:swan"
         },
         {
           "scheme": "wikidata",
@@ -5329,7 +5329,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw22"
+          "identifier": "country:au/state:nsw/federal_electorate:north_sydney"
         },
         {
           "scheme": "wikidata",
@@ -5352,7 +5352,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:wa/hor:wa32"
+          "identifier": "country:au/state:wa/federal_electorate:tangney"
         },
         {
           "scheme": "wikidata",
@@ -5375,7 +5375,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic4"
+          "identifier": "country:au/state:vic/federal_electorate:wannon"
         },
         {
           "scheme": "wikidata",
@@ -5398,7 +5398,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw43"
+          "identifier": "country:au/state:nsw/federal_electorate:watson"
         },
         {
           "scheme": "wikidata",
@@ -5421,7 +5421,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw48"
+          "identifier": "country:au/state:nsw/federal_electorate:wentworth"
         },
         {
           "scheme": "wikidata",
@@ -5444,7 +5444,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw13"
+          "identifier": "country:au/state:nsw/federal_electorate:werriwa"
         },
         {
           "scheme": "wikidata",
@@ -5467,7 +5467,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld1"
+          "identifier": "country:au/state:qld/federal_electorate:wide_bay"
         },
         {
           "scheme": "wikidata",
@@ -5490,7 +5490,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic15"
+          "identifier": "country:au/state:vic/federal_electorate:wills"
         },
         {
           "scheme": "wikidata",
@@ -5513,7 +5513,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld30"
+          "identifier": "country:au/state:qld/federal_electorate:wright"
         },
         {
           "scheme": "wikidata",
@@ -5536,7 +5536,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw45"
+          "identifier": "country:au/state:nsw/federal_electorate:riverina"
         },
         {
           "scheme": "wikidata",
@@ -5559,7 +5559,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/hor:sa8"
+          "identifier": "country:au/state:sa/federal_electorate:kingston"
         },
         {
           "scheme": "wikidata",
@@ -5766,7 +5766,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw7"
+          "identifier": "country:au/state:nsw/federal_electorate:cook"
         },
         {
           "scheme": "wikidata",
@@ -5812,7 +5812,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw23"
+          "identifier": "country:au/state:nsw/federal_electorate:dobell"
         },
         {
           "scheme": "wikidata",
@@ -5835,7 +5835,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:vic/hor:vic26"
+          "identifier": "country:au/state:vic/federal_electorate:chisholm"
         },
         {
           "scheme": "wikidata",
@@ -5858,7 +5858,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld13"
+          "identifier": "country:au/state:qld/federal_electorate:leichhardt"
         },
         {
           "scheme": "wikidata",
@@ -5881,7 +5881,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw51"
+          "identifier": "country:au/state:nsw/federal_electorate:paterson"
         },
         {
           "scheme": "wikidata",
@@ -5904,7 +5904,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:tas/hor:tas5"
+          "identifier": "country:au/state:tas/federal_electorate:denison"
         },
         {
           "scheme": "wikidata",
@@ -5927,7 +5927,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw24"
+          "identifier": "country:au/state:nsw/federal_electorate:bennelong"
         },
         {
           "scheme": "wikidata",
@@ -5950,7 +5950,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:wa/hor:wa17"
+          "identifier": "country:au/state:wa/federal_electorate:brand"
         },
         {
           "scheme": "wikidata",
@@ -5973,7 +5973,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/hor:qld25"
+          "identifier": "country:au/state:qld/federal_electorate:brisbane"
         },
         {
           "scheme": "wikidata",
@@ -5996,7 +5996,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw46"
+          "identifier": "country:au/state:nsw/federal_electorate:mackellar"
         },
         {
           "scheme": "wikidata",
@@ -6019,7 +6019,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:tas/hor:tas2"
+          "identifier": "country:au/state:tas/federal_electorate:braddon"
         },
         {
           "scheme": "wikidata",
@@ -6042,7 +6042,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:nsw/hor:nsw29"
+          "identifier": "country:au/state:nsw/federal_electorate:newcastle"
         },
         {
           "scheme": "wikidata",
