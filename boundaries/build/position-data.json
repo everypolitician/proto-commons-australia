@@ -240,6 +240,22 @@
     }
   },
   {
+    "role_id": "Q27230596",
+    "role_name": {
+      "lang:en": "Premier of South Australia"
+    },
+    "generic_role_id": "Q7240389",
+    "generic_role_name": {
+      "lang:en": "premier of an Australian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q56459482",
+    "organization_name": {
+      "lang:en": "Office of the South Australian Productivity Commission"
+    }
+  },
+  {
     "role_id": "Q29467089",
     "role_name": {
       "lang:en": "Lord Mayor of Brisbane"
