@@ -399,7 +399,190 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q3206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q132050"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "Western Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q5356428",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slced:wa220"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356428"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19627913"
+      ],
+      "type": {
+        "lang:en": "electoral region of Western Australia"
+      },
+      "name": {
+        "lang:en": "Agricultural"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5356429",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slced:wa230"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356429"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19627913"
+      ],
+      "type": {
+        "lang:en": "electoral region of Western Australia"
+      },
+      "name": {
+        "lang:en": "East Metropolitan"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5356430",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slced:wa223"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356430"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19627913"
+      ],
+      "type": {
+        "lang:en": "electoral region of Western Australia"
+      },
+      "name": {
+        "lang:en": "Mining and Pastoral"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5356431",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slced:wa234"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356431"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19627913"
+      ],
+      "type": {
+        "lang:en": "electoral region of Western Australia"
+      },
+      "name": {
+        "lang:en": "North Metropolitan"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5356432",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slced:wa237"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356432"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19627913"
+      ],
+      "type": {
+        "lang:en": "electoral region of Western Australia"
+      },
+      "name": {
+        "lang:en": "South Metropolitan"
+      },
+      "parent_id": "Q3206"
+    },
+    {
+      "id": "Q5356433",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:wa/slced:wa217"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5356433"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19627913"
+      ],
+      "type": {
+        "lang:en": "electoral region of Western Australia"
+      },
+      "name": {
+        "lang:en": "South West"
+      },
+      "parent_id": "Q3206"
+    }
   ],
   "memberships": [
     {
