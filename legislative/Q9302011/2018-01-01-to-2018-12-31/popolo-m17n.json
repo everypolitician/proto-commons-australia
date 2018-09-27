@@ -3437,21 +3437,6 @@
     },
     {
       "name": {
-        "lang:en": "Robert Henry Williams"
-      },
-      "id": "Q22019626",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q22019626"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "William Williamson"
       },
       "id": "Q22019628",
@@ -9593,19 +9578,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q22019568-cb35906e-7d17-499a-9949-015b2b4af267",
       "person_id": "Q22019568",
-      "organization_id": "Q9302011",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q19185341",
-      "role": {
-        "lang:en": "Member of the Victorian Legislative Council"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q22019626-e70916bc-aa23-4810-932f-a40fe2e0829d",
-      "person_id": "Q22019626",
       "organization_id": "Q9302011",
       "role_superclass_code": "Q486839",
       "role_superclass": {

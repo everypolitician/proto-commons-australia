@@ -773,7 +773,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500038"
+          "identifier": "country:au/state:sa/shaed:dunstan"
         },
         {
           "scheme": "wikidata",
@@ -788,6 +788,52 @@
       },
       "name": {
         "lang:en": "Dunstan"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q28429886",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:king"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28429886"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "King"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q28943085",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:narungga"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28943085"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Narungga"
       },
       "parent_id": "Q35715"
     },
@@ -813,6 +859,98 @@
         "lang:en": "South Australia"
       },
       "parent_id": "Q408"
+    },
+    {
+      "id": "Q38250827",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:gibson"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38250827"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Gibson"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q38250838",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:hurtle-vale"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38250838"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Hurtle Vale"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q38250839",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:black"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38250839"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Black"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q38250841",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:badcoe"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38250841"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Badcoe"
+      },
+      "parent_id": "Q35715"
     },
     {
       "id": "Q408",
@@ -842,7 +980,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500025"
+          "identifier": "country:au/state:sa/shaed:adelaide"
         },
         {
           "scheme": "wikidata",
@@ -861,34 +999,11 @@
       "parent_id": "Q35715"
     },
     {
-      "id": "Q5355054",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500027"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5355054"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18220900"
-      ],
-      "type": {
-        "lang:en": "electoral district of South Australia"
-      },
-      "name": {
-        "lang:en": "Ashford"
-      },
-      "parent_id": "Q35715"
-    },
-    {
       "id": "Q5355144",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500026"
+          "identifier": "country:au/state:sa/shaed:bragg"
         },
         {
           "scheme": "wikidata",
@@ -907,34 +1022,11 @@
       "parent_id": "Q35715"
     },
     {
-      "id": "Q5355149",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500032"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5355149"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18220900"
-      ],
-      "type": {
-        "lang:en": "electoral district of South Australia"
-      },
-      "name": {
-        "lang:en": "Bright"
-      },
-      "parent_id": "Q35715"
-    },
-    {
       "id": "Q5355229",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500033"
+          "identifier": "country:au/state:sa/shaed:chaffey"
         },
         {
           "scheme": "wikidata",
@@ -957,7 +1049,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500034"
+          "identifier": "country:au/state:sa/shaed:cheltenham"
         },
         {
           "scheme": "wikidata",
@@ -980,7 +1072,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500035"
+          "identifier": "country:au/state:sa/shaed:colton"
         },
         {
           "scheme": "wikidata",
@@ -1003,7 +1095,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500036"
+          "identifier": "country:au/state:sa/shaed:croydon"
         },
         {
           "scheme": "wikidata",
@@ -1026,7 +1118,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500037"
+          "identifier": "country:au/state:sa/shaed:davenport"
         },
         {
           "scheme": "wikidata",
@@ -1049,7 +1141,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500041"
+          "identifier": "country:au/state:sa/shaed:elder"
         },
         {
           "scheme": "wikidata",
@@ -1068,11 +1160,34 @@
       "parent_id": "Q35715"
     },
     {
+      "id": "Q5355372",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/shaed:elizabeth"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5355372"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18220900"
+      ],
+      "type": {
+        "lang:en": "electoral district of South Australia"
+      },
+      "name": {
+        "lang:en": "Elizabeth"
+      },
+      "parent_id": "Q35715"
+    },
+    {
       "id": "Q5355377",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500042"
+          "identifier": "country:au/state:sa/shaed:enfield"
         },
         {
           "scheme": "wikidata",
@@ -1095,7 +1210,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500049"
+          "identifier": "country:au/state:sa/shaed:finniss"
         },
         {
           "scheme": "wikidata",
@@ -1114,34 +1229,11 @@
       "parent_id": "Q35715"
     },
     {
-      "id": "Q5355398",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500039"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5355398"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18220900"
-      ],
-      "type": {
-        "lang:en": "electoral district of South Australia"
-      },
-      "name": {
-        "lang:en": "Fisher"
-      },
-      "parent_id": "Q35715"
-    },
-    {
       "id": "Q5355404",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500046"
+          "identifier": "country:au/state:sa/shaed:flinders"
         },
         {
           "scheme": "wikidata",
@@ -1164,7 +1256,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500043"
+          "identifier": "country:au/state:sa/shaed:florey"
         },
         {
           "scheme": "wikidata",
@@ -1187,7 +1279,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500040"
+          "identifier": "country:au/state:sa/shaed:frome"
         },
         {
           "scheme": "wikidata",
@@ -1210,7 +1302,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500044"
+          "identifier": "country:au/state:sa/shaed:giles"
         },
         {
           "scheme": "wikidata",
@@ -1229,34 +1321,11 @@
       "parent_id": "Q35715"
     },
     {
-      "id": "Q5355467",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500048"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5355467"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18220900"
-      ],
-      "type": {
-        "lang:en": "electoral district of South Australia"
-      },
-      "name": {
-        "lang:en": "Goyder"
-      },
-      "parent_id": "Q35715"
-    },
-    {
       "id": "Q5355487",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500045"
+          "identifier": "country:au/state:sa/shaed:hammond"
         },
         {
           "scheme": "wikidata",
@@ -1275,15 +1344,15 @@
       "parent_id": "Q35715"
     },
     {
-      "id": "Q5355493",
+      "id": "Q5355492",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500028"
+          "identifier": "country:au/state:sa/shaed:hartley"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q5355493"
+          "identifier": "Q5355492"
         }
       ],
       "associated_wikidata_positions": [
@@ -1302,7 +1371,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500029"
+          "identifier": "country:au/state:sa/shaed:heysen"
         },
         {
           "scheme": "wikidata",
@@ -1325,7 +1394,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500030"
+          "identifier": "country:au/state:sa/shaed:kaurna"
         },
         {
           "scheme": "wikidata",
@@ -1348,7 +1417,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500031"
+          "identifier": "country:au/state:sa/shaed:kavel"
         },
         {
           "scheme": "wikidata",
@@ -1371,7 +1440,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500012"
+          "identifier": "country:au/state:sa/shaed:lee"
         },
         {
           "scheme": "wikidata",
@@ -1394,7 +1463,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500013"
+          "identifier": "country:au/state:sa/shaed:light"
         },
         {
           "scheme": "wikidata",
@@ -1413,34 +1482,11 @@
       "parent_id": "Q35715"
     },
     {
-      "id": "Q5355601",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500014"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5355601"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18220900"
-      ],
-      "type": {
-        "lang:en": "electoral district of South Australia"
-      },
-      "name": {
-        "lang:en": "Little Para"
-      },
-      "parent_id": "Q35715"
-    },
-    {
       "id": "Q5355616",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500015"
+          "identifier": "country:au/state:sa/shaed:mackillop"
         },
         {
           "scheme": "wikidata",
@@ -1463,7 +1509,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500016"
+          "identifier": "country:au/state:sa/shaed:mawson"
         },
         {
           "scheme": "wikidata",
@@ -1482,34 +1528,11 @@
       "parent_id": "Q35715"
     },
     {
-      "id": "Q5355674",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500002"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5355674"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18220900"
-      ],
-      "type": {
-        "lang:en": "electoral district of South Australia"
-      },
-      "name": {
-        "lang:en": "Mitchell"
-      },
-      "parent_id": "Q35715"
-    },
-    {
       "id": "Q5355696",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500017"
+          "identifier": "country:au/state:sa/shaed:morialta"
         },
         {
           "scheme": "wikidata",
@@ -1532,7 +1555,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500003"
+          "identifier": "country:au/state:sa/shaed:morphett"
         },
         {
           "scheme": "wikidata",
@@ -1555,7 +1578,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500004"
+          "identifier": "country:au/state:sa/shaed:mount-gambier"
         },
         {
           "scheme": "wikidata",
@@ -1574,34 +1597,11 @@
       "parent_id": "Q35715"
     },
     {
-      "id": "Q5355752",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500005"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5355752"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q18220900"
-      ],
-      "type": {
-        "lang:en": "electoral district of South Australia"
-      },
-      "name": {
-        "lang:en": "Napier"
-      },
-      "parent_id": "Q35715"
-    },
-    {
       "id": "Q5355773",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500006"
+          "identifier": "country:au/state:sa/shaed:newland"
         },
         {
           "scheme": "wikidata",
@@ -1624,7 +1624,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500022"
+          "identifier": "country:au/state:sa/shaed:playford"
         },
         {
           "scheme": "wikidata",
@@ -1647,7 +1647,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500007"
+          "identifier": "country:au/state:sa/shaed:port-adelaide"
         },
         {
           "scheme": "wikidata",
@@ -1670,7 +1670,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500023"
+          "identifier": "country:au/state:sa/shaed:ramsay"
         },
         {
           "scheme": "wikidata",
@@ -1693,7 +1693,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500024"
+          "identifier": "country:au/state:sa/shaed:reynell"
         },
         {
           "scheme": "wikidata",
@@ -1716,7 +1716,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500008"
+          "identifier": "country:au/state:sa/shaed:schubert"
         },
         {
           "scheme": "wikidata",
@@ -1739,7 +1739,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500009"
+          "identifier": "country:au/state:sa/shaed:stuart"
         },
         {
           "scheme": "wikidata",
@@ -1762,7 +1762,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500010"
+          "identifier": "country:au/state:sa/shaed:taylor"
         },
         {
           "scheme": "wikidata",
@@ -1785,7 +1785,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500011"
+          "identifier": "country:au/state:sa/shaed:torrens"
         },
         {
           "scheme": "wikidata",
@@ -1808,7 +1808,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500018"
+          "identifier": "country:au/state:sa/shaed:unley"
         },
         {
           "scheme": "wikidata",
@@ -1831,7 +1831,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500019"
+          "identifier": "country:au/state:sa/shaed:waite"
         },
         {
           "scheme": "wikidata",
@@ -1854,7 +1854,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500020"
+          "identifier": "country:au/state:sa/shaed:west-torrens"
         },
         {
           "scheme": "wikidata",
@@ -1877,7 +1877,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/shaed:sa18500021"
+          "identifier": "country:au/state:sa/shaed:wright"
         },
         {
           "scheme": "wikidata",

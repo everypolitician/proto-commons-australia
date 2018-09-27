@@ -103,13 +103,5 @@ WARNING: Position member of Fremantle City Council (Q56477935) not in boundary a
 WARNING: Position member of Perth City Council (Q56477939) not in boundary associated_wikidata_positions
 WARNING: Position member of Kwinana City Council (Q56477943) not in boundary associated_wikidata_positions
 WARNING: Position member of Kalamunda City Council (Q56477948) not in boundary associated_wikidata_positions
-WARNING: the district Gibson (Q38250827) wasn't found in the boundary data for position Member of the South Australian House of Assembly (Q18220900)
-WARNING: the district Black (Q38250839) wasn't found in the boundary data for position Member of the South Australian House of Assembly (Q18220900)
-WARNING: the district Hartley (Q5355492) wasn't found in the boundary data for position Member of the South Australian House of Assembly (Q18220900)
-WARNING: the district Hurtle Vale (Q38250838) wasn't found in the boundary data for position Member of the South Australian House of Assembly (Q18220900)
-WARNING: the district Badcoe (Q38250841) wasn't found in the boundary data for position Member of the South Australian House of Assembly (Q18220900)
-WARNING: the district King (Q28429886) wasn't found in the boundary data for position Member of the South Australian House of Assembly (Q18220900)
-WARNING: the district Narungga (Q28943085) wasn't found in the boundary data for position Member of the South Australian House of Assembly (Q18220900)
-WARNING: the district Elizabeth (Q5355372) wasn't found in the boundary data for position Member of the South Australian House of Assembly (Q18220900)
 WARNING: Position Mayor of Adelaide (Q23059715) not in boundary associated_wikidata_positions
 WARNING: Position Mayor of Melbourne (Q18720358) not in boundary associated_wikidata_positions
