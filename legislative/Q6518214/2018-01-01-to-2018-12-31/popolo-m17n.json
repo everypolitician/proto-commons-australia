@@ -11090,21 +11090,6 @@
     },
     {
       "name": {
-        "lang:en": "Ian Kaye"
-      },
-      "id": "Q5981942",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5981942"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Ian Walker"
       },
       "id": "Q5983179",
@@ -25777,19 +25762,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5980893-8C2083D3-39ED-48EA-8606-986AE7D5E408",
       "person_id": "Q5980893",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5981942-2144BA0F-30A5-4644-91A5-8267808B1AE9",
-      "person_id": "Q5981942",
       "organization_id": "Q6518214",
       "role_superclass_code": "Q486839",
       "role_superclass": {

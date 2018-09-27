@@ -1,6 +1,23 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:en": "Tom Tate"
+      },
+      "id": "Q22813354",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22813354"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/MayorTomTate"
+        }
+      ]
+    }
   ],
   "organizations": [
     {
@@ -16,6 +33,19 @@
         }
       ],
       "area_id": "Q1069385"
+    },
+    {
+      "name": {
+        "lang:en": "Liberal Party of Australia"
+      },
+      "id": "Q241149",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q241149"
+        }
+      ]
     }
   ],
   "areas": [
@@ -32,7 +62,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q56477674"
+        "Q6797856"
       ],
       "type": {
         "lang:en": "local government area of Queensland"
@@ -90,6 +120,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22813354-529e0201-4606-59ca-0786-0661361d595e",
+      "person_id": "Q22813354",
+      "on_behalf_of_id": "Q241149",
+      "organization_id": "Q56477672",
+      "area_id": "Q1069385",
+      "start_date": "2012-04-28",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor"
+      },
+      "role_code": "Q6797856",
+      "role": {
+        "lang:en": "Mayor of the Gold Coast"
+      }
+    }
   ]
 }
