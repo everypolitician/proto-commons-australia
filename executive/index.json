@@ -1,31 +1,5 @@
 [
   {
-    "comment": "City of Adelaide",
-    "area_id": "Q1094063",
-    "executive_item_id": "Q1094063",
-    "positions": [
-      {
-        "comment": "Mayor of Adelaide",
-        "position_item_id": "Q23059715"
-      },
-      {
-        "comment": "Lord Mayor of Adelaide",
-        "position_item_id": "Q49031784"
-      }
-    ]
-  },
-  {
-    "comment": "City of Port Adelaide Enfield",
-    "area_id": "Q1533526",
-    "executive_item_id": "Q1533526",
-    "positions": [
-      {
-        "comment": "Mayor of Port Adelaide Enfield",
-        "position_item_id": "Q51011795"
-      }
-    ]
-  },
-  {
     "comment": "Cabinet of Australia",
     "area_id": "Q408",
     "executive_item_id": "Q2028178",
@@ -55,6 +29,17 @@
       {
         "comment": "Mayor of the City of Yarra",
         "position_item_id": "Q56477797"
+      }
+    ]
+  },
+  {
+    "comment": "Executive Council of New South Wales",
+    "area_id": "Q3224",
+    "executive_item_id": "Q5419824",
+    "positions": [
+      {
+        "comment": "Premier of New South Wales",
+        "position_item_id": "Q13527950"
       }
     ]
   },
@@ -1207,13 +1192,68 @@
     ]
   },
   {
-    "comment": "City of Salisbury",
-    "area_id": "Q947334",
-    "executive_item_id": "Q947334",
+    "comment": "office of the Premier of Victoria",
+    "area_id": "Q36687",
+    "executive_item_id": "Q56762206",
     "positions": [
       {
-        "comment": "Mayor of Salisbury",
-        "position_item_id": "Q55062908"
+        "comment": "Premier of Victoria",
+        "position_item_id": "Q13527909"
+      }
+    ]
+  },
+  {
+    "comment": "office of the Premier of Queensland",
+    "area_id": "Q36074",
+    "executive_item_id": "Q56762214",
+    "positions": [
+      {
+        "comment": "Premier of Queensland",
+        "position_item_id": "Q13526082"
+      }
+    ]
+  },
+  {
+    "comment": "office of the Premier of Tasmania",
+    "area_id": "Q34366",
+    "executive_item_id": "Q56762296",
+    "positions": [
+      {
+        "comment": "Premier of Tasmania",
+        "position_item_id": "Q13527933"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of Western Australia",
+    "area_id": "Q3206",
+    "executive_item_id": "Q56762686",
+    "positions": [
+      {
+        "comment": "Premier of Western Australia",
+        "position_item_id": "Q1550276"
+      }
+    ]
+  },
+  {
+    "comment": "Ministry of the Australian Capital Territory",
+    "area_id": "Q3258",
+    "executive_item_id": "Q56762847",
+    "positions": [
+      {
+        "comment": "Chief Minister of the Australian Capital Territory",
+        "position_item_id": "Q493649"
+      }
+    ]
+  },
+  {
+    "comment": "Department of the Chief Minister",
+    "area_id": "Q3235",
+    "executive_item_id": "Q56762950",
+    "positions": [
+      {
+        "comment": "Chief Minister of the Northern Territory",
+        "position_item_id": "Q1072341"
       }
     ]
   }
