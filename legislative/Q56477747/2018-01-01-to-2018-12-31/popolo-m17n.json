@@ -1,6 +1,20 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Hazel Wainwright"
+      },
+      "id": "Q54087632",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54087632"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -16,6 +30,32 @@
         }
       ],
       "area_id": "Q1812778"
+    },
+    {
+      "name": {
+        "lang:en": "independent politician"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nick Xenophon's SA-BEST"
+      },
+      "id": "Q39046104",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q39046104"
+        }
+      ]
     }
   ],
   "areas": [
@@ -205,6 +245,33 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54087632-ca97b294-4b77-dccd-bd4f-e88b4533f039",
+      "person_id": "Q54087632",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q56477747",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477748",
+      "role": {
+        "lang:en": "member of Onkaparinga City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54087632-ca97b294-4b77-dccd-bd4f-e88b4533f039",
+      "person_id": "Q54087632",
+      "on_behalf_of_id": "Q39046104",
+      "organization_id": "Q56477747",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477748",
+      "role": {
+        "lang:en": "member of Onkaparinga City Council"
+      }
+    }
   ]
 }

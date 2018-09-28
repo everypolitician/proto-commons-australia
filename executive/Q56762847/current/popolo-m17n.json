@@ -1,0 +1,113 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Andrew Barr"
+      },
+      "id": "Q4756289",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4756289"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Ministry of the Australian Capital Territory"
+      },
+      "id": "Q56762847",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56762847"
+        }
+      ],
+      "area_id": "Q3258"
+    },
+    {
+      "name": {
+        "lang:en": "Australian Labor Party"
+      },
+      "id": "Q216082",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q216082"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q3258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:act"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q493649"
+      ],
+      "type": {
+        "lang:en": "territory of Australia"
+      },
+      "name": {
+        "lang:en": "Australian Capital Territory"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4756289-061eec9b-4e8b-74c1-ff57-6fe59e3c9bc3",
+      "person_id": "Q4756289",
+      "on_behalf_of_id": "Q216082",
+      "organization_id": "Q56762847",
+      "start_date": "2014-12-11",
+      "role_superclass_code": "Q1670755",
+      "role_superclass": {
+        "lang:en": "Chief Minister"
+      },
+      "role_code": "Q493649",
+      "role": {
+        "lang:en": "Chief Minister of the Australian Capital Territory"
+      }
+    }
+  ]
+}

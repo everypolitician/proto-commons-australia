@@ -1,23 +1,6 @@
 {
   "persons": [
-    {
-      "name": {
-        "lang:en": "Martin Haese"
-      },
-      "id": "Q18686537",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q18686537"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/Martin-Haese-Lord-Mayor-of-Adelaide-278632829004386"
-        }
-      ]
-    }
+
   ],
   "organizations": [
     {
@@ -36,106 +19,9 @@
     }
   ],
   "areas": [
-    {
-      "id": "Q1094063",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/lga:sa73"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1094063"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q49031784"
-      ],
-      "type": {
-        "lang:en": "local government area of South Australia"
-      },
-      "name": {
-        "lang:en": "City of Adelaide"
-      },
-      "parent_id": "Q35715"
-    },
-    {
-      "id": "Q35715",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:au/state:sa"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q35715"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q27230596"
-      ],
-      "type": {
-        "lang:en": "state of Australia"
-      },
-      "name": {
-        "lang:en": "South Australia"
-      },
-      "parent_id": "Q408"
-    },
-    {
-      "id": "Q408",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:au"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q408"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q319145"
-      ],
-      "type": {
-        "lang:en": "country"
-      },
-      "name": {
-        "lang:en": "Commonwealth of Australia"
-      },
-      "parent_id": null
-    }
+
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q18686537-e1f4a139-4ba5-d77b-2e88-09e4464b5e9d",
-      "person_id": "Q18686537",
-      "organization_id": "Q1094063",
-      "area_id": "Q1094063",
-      "start_date": "2014-11-18",
-      "role_superclass_code": "Q11902879",
-      "role_superclass": {
-        "lang:en": "Lord Mayor"
-      },
-      "role_code": "Q49031784",
-      "role": {
-        "lang:en": "Lord Mayor of Adelaide"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q18686537-e1f4a139-4ba5-d77b-2e88-09e4464b5e9d",
-      "person_id": "Q18686537",
-      "organization_id": "Q1094063",
-      "area_id": "Q1094063",
-      "start_date": "2014-11-18",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:en": "mayor"
-      },
-      "role_code": "Q49031784",
-      "role": {
-        "lang:en": "Lord Mayor of Adelaide"
-      }
-    }
+
   ]
 }

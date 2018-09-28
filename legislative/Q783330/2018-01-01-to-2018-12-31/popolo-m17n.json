@@ -1288,6 +1288,45 @@
           "identifier": "Q1065320"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:en": "Australian Labor Party"
+      },
+      "id": "Q216082",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q216082"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Liberal Party of Australia"
+      },
+      "id": "Q241149",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q241149"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "National Party of Australia"
+      },
+      "id": "Q946040",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q946040"
+        }
+      ]
     }
   ],
   "areas": [
@@ -1639,6 +1678,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16202391-B3C9DA22-B7EE-4577-ACAD-E5DF0E932103",
       "person_id": "Q16202391",
+      "on_behalf_of_id": "Q946040",
       "organization_id": "Q783330",
       "area_id": "Q56649111",
       "start_date": "2014-07-01",
@@ -1955,6 +1995,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q29373184-f8df419f-4c66-8329-14a0-6291ef362c9d",
       "person_id": "Q29373184",
+      "on_behalf_of_id": "Q241149",
       "organization_id": "Q783330",
       "area_id": "Q56649110",
       "start_date": "2017-04-19",
@@ -1985,6 +2026,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q36913535-ff89ba6b-48e0-b8c8-3d91-ccf0b2a84835",
       "person_id": "Q36913535",
+      "on_behalf_of_id": "Q241149",
       "organization_id": "Q783330",
       "area_id": "Q56649104",
       "start_date": "2017-08-16",
@@ -2045,6 +2087,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q442238-4fa152fd-462f-0643-5cdf-6227002342c7",
       "person_id": "Q442238",
+      "on_behalf_of_id": "Q216082",
       "organization_id": "Q783330",
       "area_id": "Q56649105",
       "start_date": "2018-02-14",
@@ -2271,6 +2314,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5158602-55605BBC-181B-483D-BA9F-5C981180028B",
       "person_id": "Q5158602",
+      "on_behalf_of_id": "Q241149",
       "organization_id": "Q783330",
       "area_id": "Q56649105",
       "start_date": "2005-05-05",

@@ -303,6 +303,19 @@
       "seat_counts": {
         "Q19299542": "15"
       }
+    },
+    {
+      "name": {
+        "lang:en": "independent politician"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
+        }
+      ]
     }
   ],
   "areas": [
@@ -894,6 +907,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6846936-39a04a49-406f-1b22-cd6d-c798ac825190",
       "person_id": "Q6846936",
+      "on_behalf_of_id": "Q327591",
       "organization_id": "Q2994121",
       "area_id": "Q5356232",
       "start_date": "2009-05-02",

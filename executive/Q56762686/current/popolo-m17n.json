@@ -2,19 +2,19 @@
   "persons": [
     {
       "name": {
-        "lang:en": "Martin Haese"
+        "lang:en": "Mark McGowan"
       },
-      "id": "Q18686537",
+      "id": "Q16197112",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q18686537"
+          "identifier": "Q16197112"
         }
       ],
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/Martin-Haese-Lord-Mayor-of-Adelaide-278632829004386"
+          "url": "https://www.facebook.com/MarkMcGowanMP"
         }
       ]
     }
@@ -22,63 +22,53 @@
   "organizations": [
     {
       "name": {
-        "lang:en": "Adelaide City Council"
+        "lang:en": "Cabinet of Western Australia"
       },
-      "id": "Q56477697",
+      "id": "Q56762686",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q56477697"
+          "identifier": "Q56762686"
         }
       ],
-      "area_id": "Q1094063"
+      "area_id": "Q3206"
+    },
+    {
+      "name": {
+        "lang:en": "Australian Labor Party"
+      },
+      "id": "Q216082",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q216082"
+        }
+      ]
     }
   ],
   "areas": [
     {
-      "id": "Q1094063",
+      "id": "Q3206",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/lga:sa73"
+          "identifier": "country:au/state:wa"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q1094063"
+          "identifier": "Q3206"
         }
       ],
       "associated_wikidata_positions": [
-        "Q49031784"
-      ],
-      "type": {
-        "lang:en": "local government area of South Australia"
-      },
-      "name": {
-        "lang:en": "City of Adelaide"
-      },
-      "parent_id": "Q35715"
-    },
-    {
-      "id": "Q35715",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:au/state:sa"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q35715"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q27230596"
+        "Q1550276"
       ],
       "type": {
         "lang:en": "state of Australia"
       },
       "name": {
-        "lang:en": "South Australia"
+        "lang:en": "Western Australia"
       },
       "parent_id": "Q408"
     },
@@ -108,18 +98,19 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q18686537-e1f4a139-4ba5-d77b-2e88-09e4464b5e9d",
-      "person_id": "Q18686537",
-      "organization_id": "Q56477697",
-      "area_id": "Q1094063",
-      "start_date": "2014-11-18",
-      "role_superclass_code": "Q11902879",
+      "id": "http://www.wikidata.org/entity/statement/Q16197112-04f14f30-4489-da66-ce89-a12331e3eb88",
+      "person_id": "Q16197112",
+      "on_behalf_of_id": "Q216082",
+      "organization_id": "Q56762686",
+      "area_id": "Q3206",
+      "start_date": "2017-03-17",
+      "role_superclass_code": "Q7240389",
       "role_superclass": {
-        "lang:en": "Lord Mayor"
+        "lang:en": "premier of an Australian state"
       },
-      "role_code": "Q49031784",
+      "role_code": "Q1550276",
       "role": {
-        "lang:en": "Lord Mayor of Adelaide"
+        "lang:en": "Premier of Western Australia"
       }
     }
   ]

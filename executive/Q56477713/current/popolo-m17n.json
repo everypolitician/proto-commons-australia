@@ -33,19 +33,6 @@
     },
     {
       "name": {
-        "lang:en": "Liberal Party of Australia"
-      },
-      "id": "Q241149",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q241149"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Nick Xenophon's SA-BEST"
       },
       "id": "Q39046104",
@@ -133,29 +120,13 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q51011874-3aae8dc5-4740-59c8-e659-48e315f2c93e",
       "person_id": "Q51011874",
-      "on_behalf_of_id": "Q241149",
-      "organization_id": "Q56477713",
-      "area_id": "Q1533526",
-      "start_date": "2006-01-01",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:en": "mayor"
-      },
-      "role_code": "Q51011795",
-      "role": {
-        "lang:en": "Mayor of Port Adelaide Enfield"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q51011874-3aae8dc5-4740-59c8-e659-48e315f2c93e",
-      "person_id": "Q51011874",
       "on_behalf_of_id": "Q39046104",
       "organization_id": "Q56477713",
       "area_id": "Q1533526",
       "start_date": "2006-01-01",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q11902879",
       "role_superclass": {
-        "lang:en": "mayor"
+        "lang:en": "Lord Mayor"
       },
       "role_code": "Q51011795",
       "role": {

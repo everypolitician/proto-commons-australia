@@ -1,6 +1,23 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:en": "Vicki Howard"
+      },
+      "id": "Q28839666",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28839666"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/VickiHowardBCC"
+        }
+      ]
+    }
   ],
   "organizations": [
     {
@@ -16,6 +33,19 @@
         }
       ],
       "area_id": "Q917682"
+    },
+    {
+      "name": {
+        "lang:en": "Liberal National Party of Queensland"
+      },
+      "id": "Q1822905",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1822905"
+        }
+      ]
     }
   ],
   "areas": [
@@ -630,7 +660,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q1467097"
+        "Q13526082"
       ],
       "type": {
         "lang:en": "state of Australia"
@@ -688,6 +718,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28839666-e9603ca1-4eaa-4fa3-0ff1-fbb89dfce8ac",
+      "person_id": "Q28839666",
+      "on_behalf_of_id": "Q1822905",
+      "organization_id": "Q56477660",
+      "area_id": "Q28183849",
+      "start_date": "2012-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477661",
+      "role": {
+        "lang:en": "member of Brisbane City Council"
+      }
+    }
   ]
 }

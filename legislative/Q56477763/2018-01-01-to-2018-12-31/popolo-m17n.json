@@ -72,7 +72,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q1571023"
+        "Q13527909"
       ],
       "type": {
         "lang:en": "state of Australia"
@@ -134,6 +134,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q56557190-8f190e5f-4cf5-eef8-6148-75bc82f0dd92",
       "person_id": "Q56557190",
       "organization_id": "Q56477763",
+      "area_id": "Q56478787",
       "start_date": "2016-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {

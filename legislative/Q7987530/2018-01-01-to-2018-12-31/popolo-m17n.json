@@ -8440,6 +8440,19 @@
           "identifier": "Q241149"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:en": "National Party of Western Australia"
+      },
+      "id": "Q6974821",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6974821"
+        }
+      ]
     }
   ],
   "areas": [
@@ -8617,7 +8630,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q1372518"
+        "Q1550276"
       ],
       "type": {
         "lang:en": "state of Australia"
@@ -16222,6 +16235,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6827105-52084C18-4B2B-40C9-A7D1-92CE3EB9062C",
       "person_id": "Q6827105",
+      "on_behalf_of_id": "Q6974821",
       "organization_id": "Q7987530",
       "area_id": "Q5355227",
       "start_date": "2013-03-21",

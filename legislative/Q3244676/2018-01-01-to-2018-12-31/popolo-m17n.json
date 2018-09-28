@@ -10089,6 +10089,19 @@
       "seat_counts": {
         "Q18810377": "42"
       }
+    },
+    {
+      "name": {
+        "lang:en": "National Party of Australia"
+      },
+      "id": "Q946040",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q946040"
+        }
+      ]
     }
   ],
   "areas": [
@@ -11289,7 +11302,9 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q19879829-3fd85273-4dc0-78f4-8d94-4e0b0eaa336b",
       "person_id": "Q19879829",
+      "on_behalf_of_id": "Q946040",
       "organization_id": "Q3244676",
+      "area_id": "Q56396127",
       "start_date": "2015-03-28",
       "role_superclass_code": "Q486839",
       "role_superclass": {

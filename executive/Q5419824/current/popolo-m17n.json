@@ -2,19 +2,19 @@
   "persons": [
     {
       "name": {
-        "lang:en": "Martin Haese"
+        "lang:en": "Gladys Berejiklian"
       },
-      "id": "Q18686537",
+      "id": "Q5566385",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q18686537"
+          "identifier": "Q5566385"
         }
       ],
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/Martin-Haese-Lord-Mayor-of-Adelaide-278632829004386"
+          "url": "https://www.facebook.com/gladysnsw"
         }
       ]
     }
@@ -22,63 +22,53 @@
   "organizations": [
     {
       "name": {
-        "lang:en": "Adelaide City Council"
+        "lang:en": "Executive Council of New South Wales"
       },
-      "id": "Q56477697",
+      "id": "Q5419824",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q56477697"
+          "identifier": "Q5419824"
         }
       ],
-      "area_id": "Q1094063"
+      "area_id": "Q3224"
+    },
+    {
+      "name": {
+        "lang:en": "Liberal Party of Australia"
+      },
+      "id": "Q241149",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q241149"
+        }
+      ]
     }
   ],
   "areas": [
     {
-      "id": "Q1094063",
+      "id": "Q3224",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:sa/lga:sa73"
+          "identifier": "country:au/state:nsw"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q1094063"
+          "identifier": "Q3224"
         }
       ],
       "associated_wikidata_positions": [
-        "Q49031784"
-      ],
-      "type": {
-        "lang:en": "local government area of South Australia"
-      },
-      "name": {
-        "lang:en": "City of Adelaide"
-      },
-      "parent_id": "Q35715"
-    },
-    {
-      "id": "Q35715",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:au/state:sa"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q35715"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q27230596"
+        "Q13527950"
       ],
       "type": {
         "lang:en": "state of Australia"
       },
       "name": {
-        "lang:en": "South Australia"
+        "lang:en": "New South Wales"
       },
       "parent_id": "Q408"
     },
@@ -108,18 +98,19 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q18686537-e1f4a139-4ba5-d77b-2e88-09e4464b5e9d",
-      "person_id": "Q18686537",
-      "organization_id": "Q56477697",
-      "area_id": "Q1094063",
-      "start_date": "2014-11-18",
-      "role_superclass_code": "Q11902879",
+      "id": "http://www.wikidata.org/entity/statement/Q5566385-b0fb3672-4651-3161-ae96-b672c4904599",
+      "person_id": "Q5566385",
+      "on_behalf_of_id": "Q241149",
+      "organization_id": "Q5419824",
+      "area_id": "Q3224",
+      "start_date": "2017-01-23",
+      "role_superclass_code": "Q7240389",
       "role_superclass": {
-        "lang:en": "Lord Mayor"
+        "lang:en": "premier of an Australian state"
       },
-      "role_code": "Q49031784",
+      "role_code": "Q13527950",
       "role": {
-        "lang:en": "Lord Mayor of Adelaide"
+        "lang:en": "Premier of New South Wales"
       }
     }
   ]

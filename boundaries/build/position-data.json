@@ -1,5 +1,101 @@
 [
   {
+    "role_id": "Q1072341",
+    "role_name": {
+      "lang:en": "Chief Minister of the Northern Territory"
+    },
+    "generic_role_id": "Q1670755",
+    "generic_role_name": {
+      "lang:en": "Chief Minister"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q56762950",
+    "organization_name": {
+      "lang:en": "Department of the Chief Minister"
+    }
+  },
+  {
+    "role_id": "Q13526082",
+    "role_name": {
+      "lang:en": "Premier of Queensland"
+    },
+    "generic_role_id": "Q7240389",
+    "generic_role_name": {
+      "lang:en": "premier of an Australian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q56762214",
+    "organization_name": {
+      "lang:en": "office of the Premier of Queensland"
+    }
+  },
+  {
+    "role_id": "Q13527909",
+    "role_name": {
+      "lang:en": "Premier of Victoria"
+    },
+    "generic_role_id": "Q7240389",
+    "generic_role_name": {
+      "lang:en": "premier of an Australian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q56762206",
+    "organization_name": {
+      "lang:en": "office of the Premier of Victoria"
+    }
+  },
+  {
+    "role_id": "Q13527933",
+    "role_name": {
+      "lang:en": "Premier of Tasmania"
+    },
+    "generic_role_id": "Q7240389",
+    "generic_role_name": {
+      "lang:en": "premier of an Australian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q56762296",
+    "organization_name": {
+      "lang:en": "office of the Premier of Tasmania"
+    }
+  },
+  {
+    "role_id": "Q13527950",
+    "role_name": {
+      "lang:en": "Premier of New South Wales"
+    },
+    "generic_role_id": "Q7240389",
+    "generic_role_name": {
+      "lang:en": "premier of an Australian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q3112564",
+    "organization_name": {
+      "lang:en": "Government of New South Wales"
+    }
+  },
+  {
+    "role_id": "Q1550276",
+    "role_name": {
+      "lang:en": "Premier of Western Australia"
+    },
+    "generic_role_id": "Q7240389",
+    "generic_role_name": {
+      "lang:en": "premier of an Australian state"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q56762686",
+    "organization_name": {
+      "lang:en": "Cabinet of Western Australia"
+    }
+  },
+  {
     "role_id": "Q18220900",
     "role_name": {
       "lang:en": "Member of the South Australian House of Assembly"
@@ -160,6 +256,22 @@
     }
   },
   {
+    "role_id": "Q19346403",
+    "role_name": {
+      "lang:en": "Lord Mayor of Sydney"
+    },
+    "generic_role_id": "Q11902879",
+    "generic_role_name": {
+      "lang:en": "Lord Mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477532",
+    "organization_name": {
+      "lang:en": "City of Sydney Council"
+    }
+  },
+  {
     "role_id": "Q19597471",
     "role_name": {
       "lang:en": "Member of the Parliament of South Australia"
@@ -260,9 +372,9 @@
     "role_name": {
       "lang:en": "Lord Mayor of Brisbane"
     },
-    "generic_role_id": "Q30185",
+    "generic_role_id": "Q11902879",
     "generic_role_name": {
-      "lang:en": "mayor"
+      "lang:en": "Lord Mayor"
     },
     "role_level": "Q24238356",
     "role_type": null,
@@ -320,9 +432,41 @@
     }
   },
   {
+    "role_id": "Q493649",
+    "role_name": {
+      "lang:en": "Chief Minister of the Australian Capital Territory"
+    },
+    "generic_role_id": "Q1670755",
+    "generic_role_name": {
+      "lang:en": "Chief Minister"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q56762847",
+    "organization_name": {
+      "lang:en": "Ministry of the Australian Capital Territory"
+    }
+  },
+  {
     "role_id": "Q51011795",
     "role_name": {
       "lang:en": "Mayor of Port Adelaide Enfield"
+    },
+    "generic_role_id": "Q11902879",
+    "generic_role_name": {
+      "lang:en": "Lord Mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477713",
+    "organization_name": {
+      "lang:en": "Port Adelaide Enfield City Council"
+    }
+  },
+  {
+    "role_id": "Q52064205",
+    "role_name": {
+      "lang:en": "Mayor of Unley"
     },
     "generic_role_id": "Q30185",
     "generic_role_name": {
@@ -330,9 +474,41 @@
     },
     "role_level": "Q24238356",
     "role_type": null,
-    "organization_id": "Q56477713",
+    "organization_id": "Q56477727",
     "organization_name": {
-      "lang:en": "Port Adelaide Enfield City Council"
+      "lang:en": "Unley City Council"
+    }
+  },
+  {
+    "role_id": "Q54806313",
+    "role_name": {
+      "lang:en": "Mayor of Gawler"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477731",
+    "organization_name": {
+      "lang:en": "Town of Gawler Council"
+    }
+  },
+  {
+    "role_id": "Q55062908",
+    "role_name": {
+      "lang:en": "Mayor of Salisbury"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56477721",
+    "organization_name": {
+      "lang:en": "Salisbury City Council"
     }
   },
   {
@@ -506,22 +682,6 @@
     },
     "role_level": "Q24238356",
     "role_type": "Q4175034",
-    "organization_id": "Q56477532",
-    "organization_name": {
-      "lang:en": "City of Sydney Council"
-    }
-  },
-  {
-    "role_id": "Q56477534",
-    "role_name": {
-      "lang:en": "Lord Mayor of Sidney"
-    },
-    "generic_role_id": "Q30185",
-    "generic_role_name": {
-      "lang:en": "mayor"
-    },
-    "role_level": "Q24238356",
-    "role_type": null,
     "organization_id": "Q56477532",
     "organization_name": {
       "lang:en": "City of Sydney Council"
@@ -1778,7 +1938,7 @@
   {
     "role_id": "Q56477714",
     "role_name": {
-      "lang:en": "member of Port Adelaide Enfield City Council"
+      "lang:en": "Member of Port Adelaide Enfield City Council"
     },
     "generic_role_id": "Q708492",
     "generic_role_name": {

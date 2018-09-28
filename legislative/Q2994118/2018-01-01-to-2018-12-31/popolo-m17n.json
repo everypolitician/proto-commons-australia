@@ -396,6 +396,19 @@
       "seat_counts": {
         "Q19627913": "36"
       }
+    },
+    {
+      "name": {
+        "lang:en": "Greens Western Australia"
+      },
+      "id": "Q5604429",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5604429"
+        }
+      ]
     }
   ],
   "areas": [
@@ -412,7 +425,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q1372518"
+        "Q1550276"
       ],
       "type": {
         "lang:en": "state of Australia"
@@ -839,6 +852,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q30122086-509378f4-4e1f-ced3-3695-4427d868daec",
       "person_id": "Q30122086",
+      "on_behalf_of_id": "Q5604429",
       "organization_id": "Q2994118",
       "area_id": "Q5356433",
       "start_date": "2017-05-22",
