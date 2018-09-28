@@ -5787,6 +5787,15 @@
         "type" : "literal",
         "value" : "2002-11-30T00:00:00Z"
       },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q216082"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Australian Labor Party"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "lily.dambrosio.7"

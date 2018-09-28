@@ -6,65 +6,70 @@
     "bindings" : [ {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3497534-bebe30d8-4c80-5f56-a802-988064eb957f"
+        "value" : "http://www.wikidata.org/entity/statement/Q5566385-b0fb3672-4651-3161-ae96-b672c4904599"
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3497534"
+        "value" : "http://www.wikidata.org/entity/Q5566385"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Clover Moore"
+        "value" : "Gladys Berejiklian"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q241149"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal Party of Australia"
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1094194"
+        "value" : "http://www.wikidata.org/entity/Q3224"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "City of Sydney"
+        "value" : "New South Wales"
       },
       "role" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19346403"
+        "value" : "http://www.wikidata.org/entity/Q13527950"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Lord Mayor of Sydney"
+        "value" : "Premier of New South Wales"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2004-03-27T00:00:00Z"
+        "value" : "2017-01-23T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
-        "value" : "clovermooresydney"
+        "value" : "gladysnsw"
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11902879"
+        "value" : "http://www.wikidata.org/entity/Q7240389"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Lord Mayor"
+        "value" : "premier of an Australian state"
       },
       "org" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56477532"
+        "value" : "http://www.wikidata.org/entity/Q5419824"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "City of Sydney Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1094194"
+        "value" : "Executive Council of New South Wales"
       }
     } ]
   }

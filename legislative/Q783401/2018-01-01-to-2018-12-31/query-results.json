@@ -2618,6 +2618,15 @@
       "facebook" : {
         "type" : "literal",
         "value" : "TrentZimmerman"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q241149"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal Party of Australia"
       }
     }, {
       "district" : {
@@ -4887,6 +4896,15 @@
       "facebook" : {
         "type" : "literal",
         "value" : "JoelFitzgibbonMP"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q216082"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Australian Labor Party"
       }
     }, {
       "district" : {
@@ -5215,6 +5233,15 @@
       "facebook" : {
         "type" : "literal",
         "value" : "jennymacklinmp"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q216082"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Australian Labor Party"
       }
     }, {
       "district" : {
@@ -7279,6 +7306,15 @@
       "facebook" : {
         "type" : "literal",
         "value" : "JasonClareMP"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q216082"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Australian Labor Party"
       }
     }, {
       "district" : {
@@ -7785,6 +7821,15 @@
       "facebook" : {
         "type" : "literal",
         "value" : "KarenAndrewsMP"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q241149"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal Party of Australia"
       }
     }, {
       "district" : {

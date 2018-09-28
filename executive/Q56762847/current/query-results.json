@@ -6,65 +6,61 @@
     "bindings" : [ {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3497534-bebe30d8-4c80-5f56-a802-988064eb957f"
+        "value" : "http://www.wikidata.org/entity/statement/Q4756289-061eec9b-4e8b-74c1-ff57-6fe59e3c9bc3"
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3497534"
+        "value" : "http://www.wikidata.org/entity/Q4756289"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Clover Moore"
+        "value" : "Andrew Barr"
       },
-      "district" : {
+      "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1094194"
+        "value" : "http://www.wikidata.org/entity/Q216082"
       },
-      "district_name_en" : {
+      "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "City of Sydney"
+        "value" : "Australian Labor Party"
       },
       "role" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19346403"
+        "value" : "http://www.wikidata.org/entity/Q493649"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Lord Mayor of Sydney"
+        "value" : "Chief Minister of the Australian Capital Territory"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2004-03-27T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "clovermooresydney"
+        "value" : "2014-12-11T00:00:00Z"
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11902879"
+        "value" : "http://www.wikidata.org/entity/Q1670755"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Lord Mayor"
+        "value" : "Chief Minister"
       },
       "org" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56477532"
+        "value" : "http://www.wikidata.org/entity/Q56762847"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "City of Sydney Council"
+        "value" : "Ministry of the Australian Capital Territory"
       },
       "org_jurisdiction" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1094194"
+        "value" : "http://www.wikidata.org/entity/Q3258"
       }
     } ]
   }
