@@ -21828,6 +21828,19 @@
       "seat_counts": {
         "Q19202748": "93"
       }
+    },
+    {
+      "name": {
+        "lang:en": "Australian Labor Party"
+      },
+      "id": "Q216082",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q216082"
+        }
+      ]
     }
   ],
   "areas": [
@@ -36677,6 +36690,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5622695-74283352-B154-478F-A626-5DB7130F1149",
       "person_id": "Q5622695",
+      "on_behalf_of_id": "Q216082",
       "organization_id": "Q9390783",
       "area_id": "Q5355391",
       "start_date": "2011-03-26",

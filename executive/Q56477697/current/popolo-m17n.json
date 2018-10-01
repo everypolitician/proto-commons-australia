@@ -121,21 +121,6 @@
       "role": {
         "lang:en": "Lord Mayor of Adelaide"
       }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q18686537-e1f4a139-4ba5-d77b-2e88-09e4464b5e9d",
-      "person_id": "Q18686537",
-      "organization_id": "Q56477697",
-      "area_id": "Q1094063",
-      "start_date": "2014-11-18",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:en": "mayor"
-      },
-      "role_code": "Q49031784",
-      "role": {
-        "lang:en": "Lord Mayor of Adelaide"
-      }
     }
   ]
 }

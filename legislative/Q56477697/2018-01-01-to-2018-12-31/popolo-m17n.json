@@ -1,6 +1,20 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Houssam Abiad"
+      },
+      "id": "Q19664870",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19664870"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -16,6 +30,19 @@
         }
       ],
       "area_id": "Q1094063"
+    },
+    {
+      "name": {
+        "lang:en": "Liberal Party of Australia (South Australian Division)"
+      },
+      "id": "Q23198434",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23198434"
+        }
+      ]
     }
   ],
   "areas": [
@@ -159,6 +186,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19664870-0810bbfb-4007-d3db-2e38-014409005f00",
+      "person_id": "Q19664870",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q56477697",
+      "area_id": "Q56478716",
+      "start_date": "2010-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477698",
+      "role": {
+        "lang:en": "member of Adelaide City Council"
+      }
+    }
   ]
 }

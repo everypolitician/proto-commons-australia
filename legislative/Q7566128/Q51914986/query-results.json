@@ -1539,6 +1539,15 @@
         "type" : "literal",
         "value" : "2006-03-18T00:00:00Z"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52048109"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Council district of South Australia"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "RussellWortleyALP"

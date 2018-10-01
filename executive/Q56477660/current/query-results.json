@@ -55,12 +55,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
+        "value" : "http://www.wikidata.org/entity/Q11902879"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "mayor"
+        "value" : "Lord Mayor"
       },
       "org" : {
         "type" : "uri",

@@ -875,6 +875,15 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Mersey"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q327591"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "independent politician"
       }
     }, {
       "statement" : {

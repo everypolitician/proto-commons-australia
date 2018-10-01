@@ -62,7 +62,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q1467097"
+        "Q13526082"
       ],
       "type": {
         "lang:en": "state of Australia"
@@ -127,9 +127,9 @@
       "organization_id": "Q56477660",
       "area_id": "Q917682",
       "start_date": "2011-04-07",
-      "role_superclass_code": "Q30185",
+      "role_superclass_code": "Q11902879",
       "role_superclass": {
-        "lang:en": "mayor"
+        "lang:en": "Lord Mayor"
       },
       "role_code": "Q29467089",
       "role": {

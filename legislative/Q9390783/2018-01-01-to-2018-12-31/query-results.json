@@ -49111,6 +49111,15 @@
       "facebook" : {
         "type" : "literal",
         "value" : "GuyZangariForFairfield"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q216082"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Australian Labor Party"
       }
     }, {
       "statement" : {

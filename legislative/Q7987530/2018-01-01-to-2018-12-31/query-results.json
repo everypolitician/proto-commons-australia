@@ -24829,6 +24829,15 @@
       "facebook" : {
         "type" : "literal",
         "value" : "MiaDaviesMLA"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6974821"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Party of Western Australia"
       }
     }, {
       "statement" : {

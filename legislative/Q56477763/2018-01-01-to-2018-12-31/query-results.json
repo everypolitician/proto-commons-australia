@@ -4,6 +4,19 @@
   },
   "results" : {
     "bindings" : [ {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56478787"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Melbourne city"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56557190-8f190e5f-4cf5-eef8-6148-75bc82f0dd92"
+      },
       "role_superclass" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q708492"
@@ -39,10 +52,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Melbourne City Council"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q56557190-8f190e5f-4cf5-eef8-6148-75bc82f0dd92"
       },
       "org_jurisdiction" : {
         "type" : "uri",

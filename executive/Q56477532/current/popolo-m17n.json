@@ -1,6 +1,23 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:en": "Clover Moore"
+      },
+      "id": "Q3497534",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3497534"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/clovermooresydney"
+        }
+      ]
+    }
   ],
   "organizations": [
     {
@@ -32,7 +49,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q56477534"
+        "Q19346403"
       ],
       "type": {
         "lang:en": "local government area of New South Wales"
@@ -90,6 +107,20 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3497534-bebe30d8-4c80-5f56-a802-988064eb957f",
+      "person_id": "Q3497534",
+      "organization_id": "Q56477532",
+      "area_id": "Q1094194",
+      "start_date": "2004-03-27",
+      "role_superclass_code": "Q11902879",
+      "role_superclass": {
+        "lang:en": "Lord Mayor"
+      },
+      "role_code": "Q19346403",
+      "role": {
+        "lang:en": "Lord Mayor of Sydney"
+      }
+    }
   ]
 }

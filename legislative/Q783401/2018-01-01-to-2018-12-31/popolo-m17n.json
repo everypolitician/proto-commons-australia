@@ -2400,6 +2400,32 @@
       "seat_counts": {
         "Q18912794": "150"
       }
+    },
+    {
+      "name": {
+        "lang:en": "Australian Labor Party"
+      },
+      "id": "Q216082",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q216082"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Liberal Party of Australia"
+      },
+      "id": "Q241149",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q241149"
+        }
+      ]
     }
   ],
   "areas": [
@@ -5590,7 +5616,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q1372518"
+        "Q1550276"
       ],
       "type": {
         "lang:en": "state of Australia"
@@ -5728,7 +5754,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q1467097"
+        "Q13526082"
       ],
       "type": {
         "lang:en": "state of Australia"
@@ -5751,7 +5777,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q1571023"
+        "Q13527909"
       ],
       "type": {
         "lang:en": "state of Australia"
@@ -6661,6 +6687,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q21680762-c7e2ec4b-4feb-914d-386f-1cc3a5d36173",
       "person_id": "Q21680762",
+      "on_behalf_of_id": "Q241149",
       "organization_id": "Q783401",
       "area_id": "Q2973863",
       "start_date": "2015-12-05",
@@ -7191,6 +7218,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3180236-7563D7B3-EE1B-4B2F-955F-CE5A5640EBD8",
       "person_id": "Q3180236",
+      "on_behalf_of_id": "Q216082",
       "organization_id": "Q783401",
       "area_id": "Q1074124",
       "start_date": "1996-03-02",
@@ -7266,6 +7294,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q434649-4429A64B-A8E4-4E4D-9E9A-C4911624A8F9",
       "person_id": "Q434649",
+      "on_behalf_of_id": "Q216082",
       "organization_id": "Q783401",
       "area_id": "Q2973662",
       "start_date": "1996-03-02",
@@ -7746,6 +7775,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6162219-F7F32E23-5383-4A40-8FE5-B8BFACA76DCC",
       "person_id": "Q6162219",
+      "on_behalf_of_id": "Q216082",
       "organization_id": "Q783401",
       "area_id": "Q1074143",
       "start_date": "2007-11-24",
@@ -7864,6 +7894,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6369482-b0402b18-4b95-8206-9d30-7920fd470963",
       "person_id": "Q6369482",
+      "on_behalf_of_id": "Q241149",
       "organization_id": "Q783401",
       "area_id": "Q1074030",
       "start_date": "2010-08-21",

@@ -9605,21 +9605,6 @@
     },
     {
       "name": {
-        "lang:en": "Betty Kiernan"
-      },
-      "id": "Q4898879",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4898879"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Bill Baumann"
       },
       "id": "Q4908062",
@@ -13794,6 +13779,19 @@
       "seat_counts": {
         "Q18526194": "93"
       }
+    },
+    {
+      "name": {
+        "lang:en": "Australian Labor Party"
+      },
+      "id": "Q216082",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q216082"
+        }
+      ]
     }
   ],
   "areas": [
@@ -14224,7 +14222,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q1467097"
+        "Q13526082"
       ],
       "type": {
         "lang:en": "state of Australia"
@@ -24462,19 +24460,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q4898879-083D205A-2376-41FE-8249-9C195DE4B6A6",
-      "person_id": "Q4898879",
-      "organization_id": "Q6518214",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18526194",
-      "role": {
-        "lang:en": "Member of the Queensland Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q4908062-492DE8DB-0D64-44B8-AFA0-60F260F642E9",
       "person_id": "Q4908062",
       "organization_id": "Q6518214",
@@ -28121,6 +28106,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q8062364-5faa2b19-4d92-8bdb-b426-8f49ea055bb1",
       "person_id": "Q8062364",
+      "on_behalf_of_id": "Q216082",
       "organization_id": "Q6518214",
       "area_id": "Q5355888",
       "start_date": "2014-02-22",

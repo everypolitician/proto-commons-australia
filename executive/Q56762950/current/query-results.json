@@ -6,57 +6,61 @@
     "bindings" : [ {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5562186-016c172c-4a98-7145-af21-7ad542de3a19"
+        "value" : "http://www.wikidata.org/entity/statement/Q6830839-da83bcc8-4e2a-124d-b323-c19917aa4119"
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5562186"
+        "value" : "http://www.wikidata.org/entity/Q6830839"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gillian Aldridge"
+        "value" : "Michael Gunner"
       },
-      "district" : {
+      "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q947334"
+        "value" : "http://www.wikidata.org/entity/Q216082"
       },
-      "district_name_en" : {
+      "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "City of Salisbury"
+        "value" : "Australian Labor Party"
       },
       "role" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q55062908"
+        "value" : "http://www.wikidata.org/entity/Q1072341"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mayor of Salisbury"
+        "value" : "Chief Minister of the Northern Territory"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2008-03-25T00:00:00Z"
+        "value" : "2016-08-31T00:00:00Z"
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
+        "value" : "http://www.wikidata.org/entity/Q1670755"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "mayor"
+        "value" : "Chief Minister"
       },
       "org" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q947334"
+        "value" : "http://www.wikidata.org/entity/Q56762950"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "City of Salisbury"
+        "value" : "Department of the Chief Minister"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3235"
       }
     } ]
   }

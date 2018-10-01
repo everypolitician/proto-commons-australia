@@ -6360,6 +6360,19 @@
       "seat_counts": {
         "Q19185341": "40"
       }
+    },
+    {
+      "name": {
+        "lang:en": "Australian Labor Party"
+      },
+      "id": "Q216082",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q216082"
+        }
+      ]
     }
   ],
   "areas": [
@@ -6376,7 +6389,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q1571023"
+        "Q13527909"
       ],
       "type": {
         "lang:en": "state of Australia"
@@ -11322,6 +11335,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6399696-AA574C6D-E33C-4E3E-B55E-C6CA0A31E195",
       "person_id": "Q6399696",
+      "on_behalf_of_id": "Q216082",
       "organization_id": "Q9302011",
       "area_id": "Q7988065",
       "start_date": "2006-11-25",

@@ -4383,6 +4383,24 @@
         "type" : "literal",
         "value" : "2015-03-28T00:00:00Z"
       },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q946040"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Party of Australia"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56396127"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Council District of New South Wales"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "bronnie.taylor"

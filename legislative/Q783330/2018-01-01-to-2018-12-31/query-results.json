@@ -4,6 +4,15 @@
   },
   "results" : {
     "bindings" : [ {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56649108"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tasmania"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q14201517-4BDB8133-798C-4965-9C22-68FC4C938873"
@@ -57,17 +66,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2015-08-19T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649108"
+        "value" : "http://www.wikidata.org/entity/Q56649105"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tasmania"
-      }
-    }, {
+        "value" : "New South Wales"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16149378-43737572-4E7D-4D17-81FB-480AF7FEF6D8"
@@ -121,17 +130,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2014-07-01T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649105"
+        "value" : "http://www.wikidata.org/entity/Q56649111"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "New South Wales"
-      }
-    }, {
+        "value" : "Queensland"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16152123-eb568cd9-4bec-7583-2282-90ef5e6c0ddc"
@@ -186,21 +195,21 @@
         "type" : "literal",
         "value" : "2017-11-10T00:00:00Z"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649111"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Queensland"
-      },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-08-27T00:00:00Z"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56649104"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Western Australia"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16185446-97419524-0216-493A-990B-721C604D3FB1"
@@ -254,17 +263,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2013-05-15T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649104"
+        "value" : "http://www.wikidata.org/entity/Q56649111"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Western Australia"
-      }
-    }, {
+        "value" : "Queensland"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16189433-61BCD445-8184-4FF7-868E-09571340ECC0"
@@ -318,17 +327,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2014-02-11T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649111"
+        "value" : "http://www.wikidata.org/entity/Q56649108"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Queensland"
-      }
-    }, {
+        "value" : "Tasmania"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16189453-4EB29E27-1401-49D9-BBE9-0D86C181FB81"
@@ -382,17 +391,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2005-07-01T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649108"
+        "value" : "http://www.wikidata.org/entity/Q56649105"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tasmania"
-      }
-    }, {
+        "value" : "New South Wales"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16191011-FADAB84C-505E-40CE-8E56-EEC5B33ADCBC"
@@ -446,17 +455,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "1997-04-09T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649105"
+        "value" : "http://www.wikidata.org/entity/Q56649108"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "New South Wales"
-      }
-    }, {
+        "value" : "Tasmania"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16191279-6F72DB8E-D771-4B59-9F83-88B64385B6FF"
@@ -510,17 +519,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2011-07-01T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649108"
+        "value" : "http://www.wikidata.org/entity/Q56649112"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tasmania"
-      }
-    }, {
+        "value" : "Victoria"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16193816-3F5868AB-91E2-44B7-B107-B82CD17FB077"
@@ -574,17 +583,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2014-07-01T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649112"
+        "value" : "http://www.wikidata.org/entity/Q56649111"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Victoria"
-      }
-    }, {
+        "value" : "Queensland"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16202391-B3C9DA22-B7EE-4577-ACAD-E5DF0E932103"
@@ -639,20 +648,29 @@
         "type" : "literal",
         "value" : "2014-07-01T00:00:00Z"
       },
-      "district" : {
+      "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649111"
+        "value" : "http://www.wikidata.org/entity/Q946040"
       },
-      "district_name_en" : {
+      "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Queensland"
+        "value" : "National Party of Australia"
       },
       "facebook" : {
         "type" : "literal",
         "value" : "SenatorCanavan"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56649105"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New South Wales"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16206062-F3FD1D29-241D-4479-B7B2-6813A0E94F92"
@@ -707,21 +725,21 @@
         "type" : "literal",
         "value" : "2013-08-21T00:00:00Z"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649105"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New South Wales"
-      },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-01-25T00:00:00Z"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56649112"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Victoria"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q1639334-07A0A9E1-B75B-4BFC-84FE-7E0A94E41F6E"
@@ -775,17 +793,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "1993-04-28T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649112"
+        "value" : "http://www.wikidata.org/entity/Q56649105"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Victoria"
-      }
-    }, {
+        "value" : "New South Wales"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16728926-642c9b13-48a9-90e5-3d10-660acdaeab94"
@@ -839,7 +857,8 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-08-15T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56649105"
@@ -848,8 +867,7 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New South Wales"
-      }
-    }, {
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16732210-7831F322-9AA7-444B-AE66-CCDFE66EB31C"
@@ -904,20 +922,20 @@
         "type" : "literal",
         "value" : "2015-05-06T00:00:00Z"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649105"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New South Wales"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "jennymcallisteralp"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56649111"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Queensland"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16732314-FE453613-20B4-451D-B29A-AC4AF8B1920A"
@@ -971,17 +989,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2014-07-01T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649111"
+        "value" : "http://www.wikidata.org/entity/Q56649104"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Queensland"
-      }
-    }, {
+        "value" : "Western Australia"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16735152-2EDE9F01-0D0B-4921-97BF-3B84A53FE555"
@@ -1035,17 +1053,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2014-07-01T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649104"
+        "value" : "http://www.wikidata.org/entity/Q56649111"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Western Australia"
-      }
-    }, {
+        "value" : "Queensland"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q17285485-D7717754-6580-49F0-9ADF-219F466A2DC3"
@@ -1099,17 +1117,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2014-07-01T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649111"
+        "value" : "http://www.wikidata.org/entity/Q56649104"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Queensland"
-      }
-    }, {
+        "value" : "Western Australia"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q1813692-86EF0AAA-72D0-41AB-914F-D95C2F17CC31"
@@ -1163,17 +1181,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2007-06-19T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649104"
+        "value" : "http://www.wikidata.org/entity/Q56649112"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Western Australia"
-      }
-    }, {
+        "value" : "Victoria"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q186010-CAC72A79-6681-4B7D-8566-38E1FB89F406"
@@ -1227,17 +1245,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2011-07-01T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649112"
+        "value" : "http://www.wikidata.org/entity/Q56649111"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Victoria"
-      }
-    }, {
+        "value" : "Queensland"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q18719336-44538f9e-4c99-8642-b352-6f1a82639cb7"
@@ -1291,17 +1309,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-07-02T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649111"
+        "value" : "http://www.wikidata.org/entity/Q56649104"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Queensland"
-      }
-    }, {
+        "value" : "Western Australia"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q1872184-01310183-4915-422d-24ec-ed7f8cec05ab"
@@ -1355,7 +1373,8 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-07-02T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56649104"
@@ -1364,8 +1383,7 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Western Australia"
-      }
-    }, {
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2125232-B675F195-786F-4868-9F63-18360354204B"
@@ -1419,17 +1437,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2005-07-01T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649104"
+        "value" : "http://www.wikidata.org/entity/Q56649110"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Western Australia"
-      }
-    }, {
+        "value" : "South Australia"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2224379-04C74032-2211-4A0B-8C86-D56CD2E870D4"
@@ -1483,17 +1501,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2008-07-01T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649110"
+        "value" : "http://www.wikidata.org/entity/Q56649112"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "South Australia"
-      }
-    }, {
+        "value" : "Victoria"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q23016290-0b9bf0a2-43c3-79d9-5d1f-7f272dc3f92f"
@@ -1547,17 +1565,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-09T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649112"
+        "value" : "http://www.wikidata.org/entity/Q56649108"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Victoria"
-      }
-    }, {
+        "value" : "Tasmania"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q25268390-89d2219a-42ea-9d3d-3c8f-0e7240abf3c0"
@@ -1611,17 +1629,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-07-01T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649108"
+        "value" : "http://www.wikidata.org/entity/Q56649110"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tasmania"
-      }
-    }, {
+        "value" : "South Australia"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q25324894-2b28072c-4ca9-8af3-e867-4fa62540525a"
@@ -1675,17 +1693,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-07-02T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649110"
+        "value" : "http://www.wikidata.org/entity/Q56649112"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "South Australia"
-      }
-    }, {
+        "value" : "Victoria"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q26703243-2378fdc5-4925-7625-9b16-a6437d53562c"
@@ -1739,17 +1757,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-07-02T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649112"
+        "value" : "http://www.wikidata.org/entity/Q56649105"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Victoria"
-      }
-    }, {
+        "value" : "New South Wales"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q26703252-9ed6a310-4211-1948-497e-b4e7c1d8e455"
@@ -1803,17 +1821,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-07-02T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649105"
+        "value" : "http://www.wikidata.org/entity/Q56649112"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "New South Wales"
-      }
-    }, {
+        "value" : "Victoria"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q27450592-bec52a46-4ac0-68e1-4d2b-324577915962"
@@ -1867,17 +1885,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-10-25T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649112"
+        "value" : "http://www.wikidata.org/entity/Q56649104"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Victoria"
-      }
-    }, {
+        "value" : "Western Australia"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q28922735-bdc3649e-48ab-7cc1-1374-efdf44f0c0d1"
@@ -1931,17 +1949,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-03-10T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649104"
+        "value" : "http://www.wikidata.org/entity/Q56649110"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Western Australia"
-      }
-    }, {
+        "value" : "South Australia"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q29373184-f8df419f-4c66-8329-14a0-6291ef362c9d"
@@ -1996,20 +2014,29 @@
         "type" : "literal",
         "value" : "2017-04-19T00:00:00Z"
       },
-      "district" : {
+      "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649110"
+        "value" : "http://www.wikidata.org/entity/Q241149"
       },
-      "district_name_en" : {
+      "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "South Australia"
+        "value" : "Liberal Party of Australia"
       },
       "facebook" : {
         "type" : "literal",
         "value" : "LucyGichuhiAustralia"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56649104"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Western Australia"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q33139188-c4f3be90-418c-9d28-d636-5adc8adafa53"
@@ -2063,7 +2090,8 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-11-10T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56649104"
@@ -2072,8 +2100,7 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Western Australia"
-      }
-    }, {
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q36913535-ff89ba6b-48e0-b8c8-3d91-ccf0b2a84835"
@@ -2128,20 +2155,29 @@
         "type" : "literal",
         "value" : "2017-08-16T00:00:00Z"
       },
-      "district" : {
+      "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649104"
+        "value" : "http://www.wikidata.org/entity/Q241149"
       },
-      "district_name_en" : {
+      "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Western Australia"
+        "value" : "Liberal Party of Australia"
       },
       "facebook" : {
         "type" : "literal",
         "value" : "SenatorSladeBrockman"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56649111"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Queensland"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q42893791-cf0edc59-453c-00da-bc85-06265fe8ce06"
@@ -2195,17 +2231,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-11-10T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649111"
+        "value" : "http://www.wikidata.org/entity/Q56649110"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Queensland"
-      }
-    }, {
+        "value" : "South Australia"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q43109080-adb2d485-4da9-6437-4c9a-ba455ba4e0f6"
@@ -2259,7 +2295,8 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-11-14T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56649110"
@@ -2268,8 +2305,7 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "South Australia"
-      }
-    }, {
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4354299-FD90623A-0CA3-4176-ADEE-6DE3863A9C40"
@@ -2323,17 +2359,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2006-05-04T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649110"
+        "value" : "http://www.wikidata.org/entity/Q56649105"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "South Australia"
-      }
-    }, {
+        "value" : "New South Wales"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q442238-4fa152fd-462f-0643-5cdf-6227002342c7"
@@ -2388,20 +2424,29 @@
         "type" : "literal",
         "value" : "2018-02-14T00:00:00Z"
       },
-      "district" : {
+      "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649105"
+        "value" : "http://www.wikidata.org/entity/Q216082"
       },
-      "district_name_en" : {
+      "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "New South Wales"
+        "value" : "Australian Labor Party"
       },
       "facebook" : {
         "type" : "literal",
         "value" : "SenatorKeneally"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56649110"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australia"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q456759-66722519-5765-4C3D-B17E-57DA0A6EFA77"
@@ -2455,17 +2500,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2002-07-01T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649110"
+        "value" : "http://www.wikidata.org/entity/Q56649107"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "South Australia"
-      }
-    }, {
+        "value" : "Australian Capital Territory"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q463507-C616B1B4-CD2B-44DD-ABA0-B15E98D2A4E9"
@@ -2520,21 +2565,21 @@
         "type" : "literal",
         "value" : "2015-03-25T00:00:00Z"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649107"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Australian Capital Territory"
-      },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-05-09T00:00:00Z"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56649111"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Queensland"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q466220-8a89f4c2-47d9-207e-7e20-2f82e3aeee27"
@@ -2588,17 +2633,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-07-02T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649111"
+        "value" : "http://www.wikidata.org/entity/Q56649110"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Queensland"
-      }
-    }, {
+        "value" : "South Australia"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4717023-A516F885-D971-4E5E-BA48-5B2B501AD5DF"
@@ -2652,7 +2697,8 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2011-07-01T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56649110"
@@ -2661,8 +2707,7 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "South Australia"
-      }
-    }, {
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4768766-8045D240-CF23-4446-B0F0-7835F734010E"
@@ -2716,17 +2761,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2012-09-05T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649110"
+        "value" : "http://www.wikidata.org/entity/Q56649108"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "South Australia"
-      }
-    }, {
+        "value" : "Tasmania"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4768857-82812857-1397-4EB1-8658-1D4C57BB87EC"
@@ -2780,17 +2825,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2011-07-01T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649108"
+        "value" : "http://www.wikidata.org/entity/Q56649105"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tasmania"
-      }
-    }, {
+        "value" : "New South Wales"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4800293-AB0B06AA-FF83-4E58-B57A-CDDBD7AC61DA"
@@ -2844,17 +2889,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2011-11-02T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649105"
+        "value" : "http://www.wikidata.org/entity/Q56649108"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "New South Wales"
-      }
-    }, {
+        "value" : "Tasmania"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q48152466-5f39ebcc-4353-1332-b9ea-7b5fd59ccb9a"
@@ -2908,17 +2953,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-02-09T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649108"
+        "value" : "http://www.wikidata.org/entity/Q56649110"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tasmania"
-      }
-    }, {
+        "value" : "South Australia"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q48885543-990594f3-4ece-94c8-ae61-d02e77e0cc3d"
@@ -2972,17 +3017,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-02-16T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649110"
+        "value" : "http://www.wikidata.org/entity/Q56649112"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "South Australia"
-      }
-    }, {
+        "value" : "Victoria"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4966734-D67892DF-9B62-4696-8C5A-EC96EB5E15B4"
@@ -3036,17 +3081,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2011-07-01T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649112"
+        "value" : "http://www.wikidata.org/entity/Q56649108"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Victoria"
-      }
-    }, {
+        "value" : "Tasmania"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5044273-FA5B8760-D0E8-441F-A08D-FB2848462723"
@@ -3100,7 +3145,8 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2005-08-25T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56649108"
@@ -3109,8 +3155,7 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tasmania"
-      }
-    }, {
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5053981-D3FACD29-E24F-4E4B-B588-B46B1ED2EF33"
@@ -3164,17 +3209,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2008-07-01T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649108"
+        "value" : "http://www.wikidata.org/entity/Q56649111"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tasmania"
-      }
-    }, {
+        "value" : "Queensland"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50808634-e6941953-4320-7357-f39a-44a8ef2a0eba"
@@ -3228,7 +3273,8 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-03-21T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56649111"
@@ -3237,8 +3283,7 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Queensland"
-      }
-    }, {
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5125267-EB27940E-C6DE-4DD5-999C-7D760843A344"
@@ -3293,20 +3338,20 @@
         "type" : "literal",
         "value" : "2002-07-01T00:00:00Z"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649111"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Queensland"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "SenatorClaireMoore"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56649105"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New South Wales"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5158602-55605BBC-181B-483D-BA9F-5C981180028B"
@@ -3361,20 +3406,29 @@
         "type" : "literal",
         "value" : "2005-05-05T00:00:00Z"
       },
-      "district" : {
+      "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649105"
+        "value" : "http://www.wikidata.org/entity/Q241149"
       },
-      "district_name_en" : {
+      "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "New South Wales"
+        "value" : "Liberal Party of Australia"
       },
       "facebook" : {
         "type" : "literal",
         "value" : "SenatorCFW"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56649108"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tasmania"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5231953-EBDF8CF8-F130-46BC-8F4D-C9FFF6D44B5D"
@@ -3428,17 +3482,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2007-08-30T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649108"
+        "value" : "http://www.wikidata.org/entity/Q56649110"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tasmania"
-      }
-    }, {
+        "value" : "South Australia"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5233587-807DB633-40C9-4078-9F13-8FB5D10BBD5B"
@@ -3492,17 +3546,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2011-07-01T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649110"
+        "value" : "http://www.wikidata.org/entity/Q56649104"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "South Australia"
-      }
-    }, {
+        "value" : "Western Australia"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5246470-72C123F7-A47F-4B09-A0EE-9E3043FAC9F3"
@@ -3556,17 +3610,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2012-05-02T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649104"
+        "value" : "http://www.wikidata.org/entity/Q56649105"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Western Australia"
-      }
-    }, {
+        "value" : "New South Wales"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5248341-0973C183-8420-4FC0-9753-5381A457DA05"
@@ -3620,17 +3674,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2013-11-13T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649105"
+        "value" : "http://www.wikidata.org/entity/Q56649112"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "New South Wales"
-      }
-    }, {
+        "value" : "Victoria"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5263246-4d87f197-41f2-6009-430a-c125847f840d"
@@ -3684,17 +3738,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-07-02T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649112"
+        "value" : "http://www.wikidata.org/entity/Q56649110"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Victoria"
-      }
-    }, {
+        "value" : "South Australia"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5292594-cb543c4b-4625-6309-dadc-5c7bca0cc00d"
@@ -3748,17 +3802,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-07-02T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649110"
+        "value" : "http://www.wikidata.org/entity/Q56649105"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "South Australia"
-      }
-    }, {
+        "value" : "New South Wales"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5300344-85BB8641-88EC-4767-ADA7-FD2B6A6EEC8D"
@@ -3813,20 +3867,20 @@
         "type" : "literal",
         "value" : "2008-07-01T00:00:00Z"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649105"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New South Wales"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "senator.doug.cameron"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56649107"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Australian Capital Territory"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q53960880-89daa5b2-4afe-bab3-5611-2188a566d71f"
@@ -3880,17 +3934,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-05-23T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649107"
+        "value" : "http://www.wikidata.org/entity/Q56649112"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Australian Capital Territory"
-      }
-    }, {
+        "value" : "Victoria"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5528211-92021E32-FF28-4A93-9D4F-0901AAF5AB15"
@@ -3944,17 +3998,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2002-07-01T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649112"
+        "value" : "http://www.wikidata.org/entity/Q56649111"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Victoria"
-      }
-    }, {
+        "value" : "Queensland"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5537216-FFC7898E-32B5-404C-BEF6-A3F436C8E140"
@@ -4009,21 +4063,21 @@
         "type" : "literal",
         "value" : "2000-05-16T00:00:00Z"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649111"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Queensland"
-      },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-02-08T00:00:00Z"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56649104"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Western Australia"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5569124-4D9B3AA7-4841-4751-802B-FA95C4449861"
@@ -4077,7 +4131,8 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2005-07-01T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56649104"
@@ -4086,8 +4141,7 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Western Australia"
-      }
-    }, {
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q572783-50039488-FCC1-4916-83B7-8BBE231844A3"
@@ -4141,17 +4195,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2008-07-01T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649104"
+        "value" : "http://www.wikidata.org/entity/Q56649111"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Western Australia"
-      }
-    }, {
+        "value" : "Queensland"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5982140-4F4E7671-6FA3-4556-B474-F9177D48E573"
@@ -4205,17 +4259,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "1990-07-01T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649111"
+        "value" : "http://www.wikidata.org/entity/Q56649112"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Queensland"
-      }
-    }, {
+        "value" : "Victoria"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6110750-bc266007-4e34-b084-254e-6be16334d2fd"
@@ -4269,17 +4323,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2008-05-08T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649112"
+        "value" : "http://www.wikidata.org/entity/Q56649105"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Victoria"
-      }
-    }, {
+        "value" : "New South Wales"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6196985-33a212a0-4b2a-6181-ccd2-68bf981242e3"
@@ -4333,7 +4387,8 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-12-22T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56649105"
@@ -4342,8 +4397,7 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "New South Wales"
-      }
-    }, {
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6264317-0D0EA973-B7EB-464B-99B7-ACD2BEAC6F72"
@@ -4397,15 +4451,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2008-07-01T00:00:00Z"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649105"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New South Wales"
       }
     }, {
       "statement" : {
@@ -4458,6 +4503,15 @@
         "value" : "76"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56649111"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Queensland"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6489515-d6881d4d-468d-bf37-f67e-1531c75b9e5a"
@@ -4511,17 +4565,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-09-06T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649111"
+        "value" : "http://www.wikidata.org/entity/Q56649105"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Queensland"
-      }
-    }, {
+        "value" : "New South Wales"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6514788-4193C746-F652-4FFC-BEC8-6588FD5FFBEB"
@@ -4576,21 +4630,21 @@
         "type" : "literal",
         "value" : "2011-07-01T00:00:00Z"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649105"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "New South Wales"
-      },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-08-15T00:00:00Z"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56649106"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Northern Territory"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6741359-6731df09-40a9-688b-4743-a0daa9645383"
@@ -4644,17 +4698,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-07-02T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649106"
+        "value" : "http://www.wikidata.org/entity/Q56649112"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Northern Territory"
-      }
-    }, {
+        "value" : "Victoria"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6880868-40EC2944-5F60-48AB-8D9C-2C49EB8EEE83"
@@ -4708,17 +4762,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2004-03-31T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649112"
+        "value" : "http://www.wikidata.org/entity/Q56649111"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Victoria"
-      }
-    }, {
+        "value" : "Queensland"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6939517-ba63dcd9-4b74-e81d-17f5-384832e6bfde"
@@ -4772,17 +4826,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-07-02T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649111"
+        "value" : "http://www.wikidata.org/entity/Q56649106"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Queensland"
-      }
-    }, {
+        "value" : "Northern Territory"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7032631-24208159-140B-4A79-B17F-BAABCBF86EE9"
@@ -4837,20 +4891,20 @@
         "type" : "literal",
         "value" : "2001-11-10T00:00:00Z"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649106"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Northern Territory"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "SenatorNigelScullion"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56649104"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Western Australia"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7146371-14688a09-4daa-830f-f4c6-ec24bf8b77b4"
@@ -4904,17 +4958,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-02T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649104"
+        "value" : "http://www.wikidata.org/entity/Q56649108"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Western Australia"
-      }
-    }, {
+        "value" : "Tasmania"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7177677-5B6C53B5-40D1-4289-BF9C-774894C3B619"
@@ -4968,7 +5022,8 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2012-06-20T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56649108"
@@ -4977,8 +5032,7 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tasmania"
-      }
-    }, {
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7324825-e371b170-40b1-bbd8-0902-a987f90f5588"
@@ -5032,17 +5086,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-02-09T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649108"
+        "value" : "http://www.wikidata.org/entity/Q56649112"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tasmania"
-      }
-    }, {
+        "value" : "Victoria"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7437180-27511B08-AE5E-4628-9B51-2796379374F1"
@@ -5096,15 +5150,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2008-07-01T00:00:00Z"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649112"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Victoria"
       }
     }, {
       "statement" : {
@@ -5162,6 +5207,15 @@
         "value" : "2017-11-13T00:00:00Z"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56649110"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australia"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7518284-07FC7C48-8467-4E13-AC4D-200AF403A0F1"
@@ -5215,17 +5269,17 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2007-05-03T00:00:00Z"
-      },
+      }
+    }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649110"
+        "value" : "http://www.wikidata.org/entity/Q56649107"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "South Australia"
-      }
-    }, {
+        "value" : "Australian Capital Territory"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8068367-DA3F8640-5952-4FFE-B4A3-7C6601AD5A1C"
@@ -5280,15 +5334,6 @@
         "type" : "literal",
         "value" : "2013-09-07T00:00:00Z"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649107"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Australian Capital Territory"
-      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1065320"
@@ -5299,6 +5344,15 @@
         "value" : "Coalition"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56649108"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tasmania"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q964840-E43461BB-F85B-4356-AB95-6603F8546D18"
@@ -5352,15 +5406,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "1994-02-22T00:00:00Z"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56649108"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tasmania"
       }
     } ]
   }

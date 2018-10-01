@@ -1127,6 +1127,15 @@
         "type" : "literal",
         "value" : "2017-05-22T00:00:00Z"
       },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5604429"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greens Western Australia"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "dianeforsouthwest"

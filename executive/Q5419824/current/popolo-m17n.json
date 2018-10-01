@@ -1,0 +1,117 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Gladys Berejiklian"
+      },
+      "id": "Q5566385",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5566385"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/gladysnsw"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Executive Council of New South Wales"
+      },
+      "id": "Q5419824",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5419824"
+        }
+      ],
+      "area_id": "Q3224"
+    },
+    {
+      "name": {
+        "lang:en": "Liberal Party of Australia"
+      },
+      "id": "Q241149",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q241149"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q3224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:nsw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13527950"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "New South Wales"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5566385-b0fb3672-4651-3161-ae96-b672c4904599",
+      "person_id": "Q5566385",
+      "on_behalf_of_id": "Q241149",
+      "organization_id": "Q5419824",
+      "area_id": "Q3224",
+      "start_date": "2017-01-23",
+      "role_superclass_code": "Q7240389",
+      "role_superclass": {
+        "lang:en": "premier of an Australian state"
+      },
+      "role_code": "Q13527950",
+      "role": {
+        "lang:en": "Premier of New South Wales"
+      }
+    }
+  ]
+}

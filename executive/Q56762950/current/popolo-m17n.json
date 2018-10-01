@@ -1,0 +1,113 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Michael Gunner"
+      },
+      "id": "Q6830839",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6830839"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Department of the Chief Minister"
+      },
+      "id": "Q56762950",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56762950"
+        }
+      ],
+      "area_id": "Q3235"
+    },
+    {
+      "name": {
+        "lang:en": "Australian Labor Party"
+      },
+      "id": "Q216082",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q216082"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q3235",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/territory:nt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3235"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1072341"
+      ],
+      "type": {
+        "lang:en": "territory of Australia"
+      },
+      "name": {
+        "lang:en": "Northern Territory"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6830839-da83bcc8-4e2a-124d-b323-c19917aa4119",
+      "person_id": "Q6830839",
+      "on_behalf_of_id": "Q216082",
+      "organization_id": "Q56762950",
+      "start_date": "2016-08-31",
+      "role_superclass_code": "Q1670755",
+      "role_superclass": {
+        "lang:en": "Chief Minister"
+      },
+      "role_code": "Q1072341",
+      "role": {
+        "lang:en": "Chief Minister of the Northern Territory"
+      }
+    }
+  ]
+}
