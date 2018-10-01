@@ -2240,21 +2240,6 @@
     },
     {
       "name": {
-        "lang:en": "Reg Tubby"
-      },
-      "id": "Q24578767",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q24578767"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "William Leonard Baker"
       },
       "id": "Q24578824",
@@ -11807,19 +11792,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q24565877-F3827931-DD9B-4A3A-B72C-D0CBC03ADCB1",
       "person_id": "Q24565877",
-      "organization_id": "Q7987530",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q20165902",
-      "role": {
-        "lang:en": "Member of the Western Australian Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q24578767-97899837-9291-47AC-B98E-71C28775E290",
-      "person_id": "Q24578767",
       "organization_id": "Q7987530",
       "role_superclass_code": "Q486839",
       "role_superclass": {
