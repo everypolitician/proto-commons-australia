@@ -116,9 +116,9 @@
     "role_name": {
       "lang:en": "Member of the Queensland Legislative Assembly"
     },
-    "generic_role_id": "Q486839",
+    "generic_role_id": "Q5230427",
     "generic_role_name": {
-      "lang:en": "member of parliament"
+      "lang:en": "member of a legislative assembly"
     },
     "role_level": "Q10864048",
     "role_type": "Q4175034",
@@ -164,9 +164,9 @@
     "role_name": {
       "lang:en": "Member of the New South Wales Legislative Council"
     },
-    "generic_role_id": "Q486839",
+    "generic_role_id": "Q56844145",
     "generic_role_name": {
-      "lang:en": "member of parliament"
+      "lang:en": "member of a legislative council"
     },
     "role_level": "Q10864048",
     "role_type": "Q4175034",
@@ -196,9 +196,9 @@
     "role_name": {
       "lang:en": "Member of the Tasmanian House of Assembly"
     },
-    "generic_role_id": "Q486839",
+    "generic_role_id": "Q19299327",
     "generic_role_name": {
-      "lang:en": "member of parliament"
+      "lang:en": "Member of Parliament of Tasmania"
     },
     "role_level": "Q10864048",
     "role_type": "Q4175034",
@@ -212,9 +212,9 @@
     "role_name": {
       "lang:en": "Member of the Victorian Legislative Council"
     },
-    "generic_role_id": "Q486839",
+    "generic_role_id": "Q56844145",
     "generic_role_name": {
-      "lang:en": "member of parliament"
+      "lang:en": "member of a legislative council"
     },
     "role_level": "Q10864048",
     "role_type": "Q4175034",
@@ -228,9 +228,9 @@
     "role_name": {
       "lang:en": "Member of the New South Wales Legislative Assembly"
     },
-    "generic_role_id": "Q486839",
+    "generic_role_id": "Q5230427",
     "generic_role_name": {
-      "lang:en": "member of parliament"
+      "lang:en": "member of a legislative assembly"
     },
     "role_level": "Q10864048",
     "role_type": "Q4175034",
@@ -244,9 +244,9 @@
     "role_name": {
       "lang:en": "Member of the Tasmanian Legislative Council"
     },
-    "generic_role_id": "Q486839",
+    "generic_role_id": "Q19299327",
     "generic_role_name": {
-      "lang:en": "member of parliament"
+      "lang:en": "Member of Parliament of Tasmania"
     },
     "role_level": "Q10864048",
     "role_type": "Q4175034",
@@ -292,9 +292,9 @@
     "role_name": {
       "lang:en": "Member of the Western Australian Legislative Council"
     },
-    "generic_role_id": "Q486839",
+    "generic_role_id": "Q56844145",
     "generic_role_name": {
-      "lang:en": "member of parliament"
+      "lang:en": "member of a legislative council"
     },
     "role_level": "Q10864048",
     "role_type": "Q4175034",
@@ -308,9 +308,9 @@
     "role_name": {
       "lang:en": "Member of the Western Australian Legislative Assembly"
     },
-    "generic_role_id": "Q486839",
+    "generic_role_id": "Q5230427",
     "generic_role_name": {
-      "lang:en": "member of parliament"
+      "lang:en": "member of a legislative assembly"
     },
     "role_level": "Q10864048",
     "role_type": "Q4175034",
@@ -340,9 +340,9 @@
     "role_name": {
       "lang:en": "member of the Northern Territory Legislative Assembly"
     },
-    "generic_role_id": "Q486839",
+    "generic_role_id": "Q5230427",
     "generic_role_name": {
-      "lang:en": "member of parliament"
+      "lang:en": "member of a legislative assembly"
     },
     "role_level": "Q10864048",
     "role_type": "Q4175034",
