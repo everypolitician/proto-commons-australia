@@ -966,9 +966,9 @@
       "organization_id": "Q9390785",
       "area_id": "Q5356198",
       "start_date": "2008-08-09",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative assembly"
       },
       "role_code": "Q26998278",
       "role": {
@@ -981,9 +981,9 @@
       "organization_id": "Q9390785",
       "area_id": "Q5356204",
       "start_date": "2014-10-18",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative assembly"
       },
       "role_code": "Q26998278",
       "role": {
@@ -996,9 +996,9 @@
       "organization_id": "Q9390785",
       "area_id": "Q5356251",
       "start_date": "2016-08-27",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative assembly"
       },
       "role_code": "Q26998278",
       "role": {
@@ -1011,9 +1011,9 @@
       "organization_id": "Q9390785",
       "area_id": "Q5356215",
       "start_date": "2016-08-27",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative assembly"
       },
       "role_code": "Q26998278",
       "role": {
@@ -1026,9 +1026,9 @@
       "organization_id": "Q9390785",
       "area_id": "Q5356237",
       "start_date": "2016-08-27",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative assembly"
       },
       "role_code": "Q26998278",
       "role": {
@@ -1041,9 +1041,9 @@
       "organization_id": "Q9390785",
       "area_id": "Q5356202",
       "start_date": "2016-08-27",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative assembly"
       },
       "role_code": "Q26998278",
       "role": {
@@ -1056,9 +1056,9 @@
       "organization_id": "Q9390785",
       "area_id": "Q5356197",
       "start_date": "2016-08-27",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative assembly"
       },
       "role_code": "Q26998278",
       "role": {
@@ -1071,9 +1071,9 @@
       "organization_id": "Q9390785",
       "area_id": "Q5356195",
       "start_date": "2016-08-27",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative assembly"
       },
       "role_code": "Q26998278",
       "role": {
@@ -1086,9 +1086,9 @@
       "organization_id": "Q9390785",
       "area_id": "Q5356224",
       "start_date": "2016-08-27",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative assembly"
       },
       "role_code": "Q26998278",
       "role": {
@@ -1101,9 +1101,9 @@
       "organization_id": "Q9390785",
       "area_id": "Q5356201",
       "start_date": "2016-08-27",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative assembly"
       },
       "role_code": "Q26998278",
       "role": {
@@ -1116,9 +1116,9 @@
       "organization_id": "Q9390785",
       "area_id": "Q5356225",
       "start_date": "2016-08-27",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative assembly"
       },
       "role_code": "Q26998278",
       "role": {
@@ -1131,9 +1131,9 @@
       "organization_id": "Q9390785",
       "area_id": "Q5356246",
       "start_date": "2016-08-27",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative assembly"
       },
       "role_code": "Q26998278",
       "role": {
@@ -1146,9 +1146,9 @@
       "organization_id": "Q9390785",
       "area_id": "Q5356241",
       "start_date": "2016-08-27",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative assembly"
       },
       "role_code": "Q26998278",
       "role": {
@@ -1161,9 +1161,9 @@
       "organization_id": "Q9390785",
       "area_id": "Q5356252",
       "start_date": "2016-08-27",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative assembly"
       },
       "role_code": "Q26998278",
       "role": {
@@ -1176,9 +1176,9 @@
       "organization_id": "Q9390785",
       "area_id": "Q5356210",
       "start_date": "2016-08-27",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative assembly"
       },
       "role_code": "Q26998278",
       "role": {
@@ -1191,9 +1191,9 @@
       "organization_id": "Q9390785",
       "area_id": "Q5356206",
       "start_date": "2012-08-25",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative assembly"
       },
       "role_code": "Q26998278",
       "role": {
@@ -1206,9 +1206,9 @@
       "organization_id": "Q9390785",
       "area_id": "Q26267294",
       "start_date": "2016-08-27",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative assembly"
       },
       "role_code": "Q26998278",
       "role": {
@@ -1221,9 +1221,9 @@
       "organization_id": "Q9390785",
       "area_id": "Q5356213",
       "start_date": "2008-08-09",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative assembly"
       },
       "role_code": "Q26998278",
       "role": {
@@ -1236,9 +1236,9 @@
       "organization_id": "Q9390785",
       "area_id": "Q5356196",
       "start_date": "2010-10-09",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative assembly"
       },
       "role_code": "Q26998278",
       "role": {
@@ -1252,9 +1252,9 @@
       "organization_id": "Q9390785",
       "area_id": "Q5356200",
       "start_date": "2016-08-27",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q5230427",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative assembly"
       },
       "role_code": "Q26998278",
       "role": {

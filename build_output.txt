@@ -1,2 +1,1 @@
-WARNING: Position Mayor of Adelaide (Q23059715) not in boundary associated_wikidata_positions
 WARNING: Position Mayor of Melbourne (Q18720358) not in boundary associated_wikidata_positions

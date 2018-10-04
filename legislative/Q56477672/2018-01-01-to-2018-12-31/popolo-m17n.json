@@ -123,7 +123,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/lga:qld63/ward:1"
+          "identifier": "country:au/state:qld/lga:qld63/division:1"
         },
         {
           "scheme": "wikidata",
@@ -137,7 +137,7 @@
         "lang:en": "electoral ward of Gold Coast City Council"
       },
       "name": {
-        "lang:en": "Ward 1"
+        "lang:en": "Division 1"
       },
       "parent_id": "Q1069385"
     },
@@ -146,7 +146,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/lga:qld63/ward:10"
+          "identifier": "country:au/state:qld/lga:qld63/division:10"
         },
         {
           "scheme": "wikidata",
@@ -160,7 +160,7 @@
         "lang:en": "electoral ward of Gold Coast City Council"
       },
       "name": {
-        "lang:en": "Ward 10"
+        "lang:en": "Division 10"
       },
       "parent_id": "Q1069385"
     },
@@ -169,7 +169,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/lga:qld63/ward:11"
+          "identifier": "country:au/state:qld/lga:qld63/division:11"
         },
         {
           "scheme": "wikidata",
@@ -183,7 +183,7 @@
         "lang:en": "electoral ward of Gold Coast City Council"
       },
       "name": {
-        "lang:en": "Ward 11"
+        "lang:en": "Division 11"
       },
       "parent_id": "Q1069385"
     },
@@ -192,7 +192,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/lga:qld63/ward:12"
+          "identifier": "country:au/state:qld/lga:qld63/division:12"
         },
         {
           "scheme": "wikidata",
@@ -206,7 +206,7 @@
         "lang:en": "electoral ward of Gold Coast City Council"
       },
       "name": {
-        "lang:en": "Ward 12"
+        "lang:en": "Division 12"
       },
       "parent_id": "Q1069385"
     },
@@ -215,7 +215,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/lga:qld63/ward:13"
+          "identifier": "country:au/state:qld/lga:qld63/division:13"
         },
         {
           "scheme": "wikidata",
@@ -229,7 +229,7 @@
         "lang:en": "electoral ward of Gold Coast City Council"
       },
       "name": {
-        "lang:en": "Ward 13"
+        "lang:en": "Division 13"
       },
       "parent_id": "Q1069385"
     },
@@ -238,7 +238,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/lga:qld63/ward:14"
+          "identifier": "country:au/state:qld/lga:qld63/division:14"
         },
         {
           "scheme": "wikidata",
@@ -252,7 +252,7 @@
         "lang:en": "electoral ward of Gold Coast City Council"
       },
       "name": {
-        "lang:en": "Ward 14"
+        "lang:en": "Division 14"
       },
       "parent_id": "Q1069385"
     },
@@ -261,7 +261,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/lga:qld63/ward:2"
+          "identifier": "country:au/state:qld/lga:qld63/division:2"
         },
         {
           "scheme": "wikidata",
@@ -275,7 +275,7 @@
         "lang:en": "electoral ward of Gold Coast City Council"
       },
       "name": {
-        "lang:en": "Ward 2"
+        "lang:en": "Division 2"
       },
       "parent_id": "Q1069385"
     },
@@ -284,7 +284,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/lga:qld63/ward:3"
+          "identifier": "country:au/state:qld/lga:qld63/division:3"
         },
         {
           "scheme": "wikidata",
@@ -298,7 +298,7 @@
         "lang:en": "electoral ward of Gold Coast City Council"
       },
       "name": {
-        "lang:en": "Ward 3"
+        "lang:en": "Division 3"
       },
       "parent_id": "Q1069385"
     },
@@ -307,7 +307,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/lga:qld63/ward:4"
+          "identifier": "country:au/state:qld/lga:qld63/division:4"
         },
         {
           "scheme": "wikidata",
@@ -321,7 +321,7 @@
         "lang:en": "electoral ward of Gold Coast City Council"
       },
       "name": {
-        "lang:en": "Ward 4"
+        "lang:en": "Division 4"
       },
       "parent_id": "Q1069385"
     },
@@ -330,7 +330,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/lga:qld63/ward:5"
+          "identifier": "country:au/state:qld/lga:qld63/division:5"
         },
         {
           "scheme": "wikidata",
@@ -344,7 +344,7 @@
         "lang:en": "electoral ward of Gold Coast City Council"
       },
       "name": {
-        "lang:en": "Ward 5"
+        "lang:en": "Division 5"
       },
       "parent_id": "Q1069385"
     },
@@ -353,7 +353,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/lga:qld63/ward:6"
+          "identifier": "country:au/state:qld/lga:qld63/division:6"
         },
         {
           "scheme": "wikidata",
@@ -367,7 +367,7 @@
         "lang:en": "electoral ward of Gold Coast City Council"
       },
       "name": {
-        "lang:en": "Ward 6"
+        "lang:en": "Division 6"
       },
       "parent_id": "Q1069385"
     },
@@ -376,7 +376,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/lga:qld63/ward:7"
+          "identifier": "country:au/state:qld/lga:qld63/division:7"
         },
         {
           "scheme": "wikidata",
@@ -390,7 +390,7 @@
         "lang:en": "electoral ward of Gold Coast City Council"
       },
       "name": {
-        "lang:en": "Ward 7"
+        "lang:en": "Division 7"
       },
       "parent_id": "Q1069385"
     },
@@ -399,7 +399,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/lga:qld63/ward:8"
+          "identifier": "country:au/state:qld/lga:qld63/division:8"
         },
         {
           "scheme": "wikidata",
@@ -413,7 +413,7 @@
         "lang:en": "electoral ward of Gold Coast City Council"
       },
       "name": {
-        "lang:en": "Ward 8"
+        "lang:en": "Division 8"
       },
       "parent_id": "Q1069385"
     },
@@ -422,7 +422,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:au/state:qld/lga:qld63/ward:9"
+          "identifier": "country:au/state:qld/lga:qld63/division:9"
         },
         {
           "scheme": "wikidata",
@@ -436,7 +436,7 @@
         "lang:en": "electoral ward of Gold Coast City Council"
       },
       "name": {
-        "lang:en": "Ward 9"
+        "lang:en": "Division 9"
       },
       "parent_id": "Q1069385"
     }

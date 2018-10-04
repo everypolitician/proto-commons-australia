@@ -602,9 +602,9 @@
       "id": "http://www.wikidata.org/entity/statement/Q16043809-decf9f0c-4220-c7b8-7396-9fe11e93fc09",
       "person_id": "Q16043809",
       "organization_id": "Q2994118",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -617,9 +617,9 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356428",
       "start_date": "2013-04-05",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -632,9 +632,9 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356429",
       "start_date": "2013-05-22",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -647,9 +647,9 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356428",
       "start_date": "2013-05-22",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -662,9 +662,9 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356431",
       "start_date": "2015-04-21",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -675,9 +675,9 @@
       "id": "http://www.wikidata.org/entity/statement/Q24206361-20d1a354-45bd-b7a1-2830-d61cd6d52740",
       "person_id": "Q24206361",
       "organization_id": "Q2994118",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -690,9 +690,9 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356430",
       "start_date": "2017-05-22",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -705,9 +705,9 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356429",
       "start_date": "2017-05-22",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -720,9 +720,9 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356428",
       "start_date": "2017-05-22",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -735,9 +735,9 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356432",
       "start_date": "2017-05-22",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -750,9 +750,9 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356432",
       "start_date": "2017-05-22",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -765,9 +765,9 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356431",
       "start_date": "2017-05-22",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -780,9 +780,9 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356433",
       "start_date": "2017-05-22",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -795,9 +795,9 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356429",
       "start_date": "2017-05-22",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -810,9 +810,9 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356429",
       "start_date": "2017-05-22",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -825,9 +825,9 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356430",
       "start_date": "2017-05-22",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -840,9 +840,9 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356428",
       "start_date": "2017-05-22",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -856,9 +856,9 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356433",
       "start_date": "2017-05-22",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -871,9 +871,9 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356431",
       "start_date": "2017-05-22",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -886,9 +886,9 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356429",
       "start_date": "2005-05-22",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -899,9 +899,9 @@
       "id": "http://www.wikidata.org/entity/statement/Q6228781-E832C0BC-0DCC-4C06-830B-767907F148B7",
       "person_id": "Q6228781",
       "organization_id": "Q2994118",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -914,9 +914,9 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356432",
       "start_date": "2001-05-22",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -927,9 +927,9 @@
       "id": "http://www.wikidata.org/entity/statement/Q7369472-21714640-49e1-8dad-0993-35d9d33d8391",
       "person_id": "Q7369472",
       "organization_id": "Q2994118",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -942,9 +942,9 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356433",
       "start_date": "2005-05-22",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
@@ -957,9 +957,9 @@
       "organization_id": "Q2994118",
       "area_id": "Q5356430",
       "start_date": "2013-05-22",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q56844145",
       "role_superclass": {
-        "lang:en": "member of parliament"
+        "lang:en": "member of a legislative council"
       },
       "role_code": "Q19627913",
       "role": {
