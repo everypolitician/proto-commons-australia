@@ -10,12 +10,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -60,12 +60,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -103,6 +103,11 @@
         "type" : "literal",
         "value" : "36"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-04-05T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356428"
@@ -111,11 +116,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Agricultural"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-04-05T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -124,12 +124,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -167,6 +167,11 @@
         "type" : "literal",
         "value" : "36"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-05-22T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356429"
@@ -175,11 +180,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "East Metropolitan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -188,12 +188,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -231,6 +231,11 @@
         "type" : "literal",
         "value" : "36"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-05-22T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356428"
@@ -239,11 +244,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Agricultural"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -252,12 +252,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -295,6 +295,11 @@
         "type" : "literal",
         "value" : "36"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-04-21T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356431"
@@ -303,11 +308,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "North Metropolitan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-04-21T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -316,12 +316,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -366,12 +366,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -409,6 +409,11 @@
         "type" : "literal",
         "value" : "36"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356430"
@@ -417,11 +422,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Mining and Pastoral"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -430,12 +430,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -473,6 +473,11 @@
         "type" : "literal",
         "value" : "36"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356429"
@@ -481,11 +486,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "East Metropolitan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -494,12 +494,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -537,6 +537,11 @@
         "type" : "literal",
         "value" : "36"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356428"
@@ -545,11 +550,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Agricultural"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -558,12 +558,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -601,6 +601,11 @@
         "type" : "literal",
         "value" : "36"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356432"
@@ -609,11 +614,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "South Metropolitan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -622,12 +622,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -665,6 +665,11 @@
         "type" : "literal",
         "value" : "36"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356432"
@@ -673,11 +678,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "South Metropolitan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -686,12 +686,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -729,6 +729,11 @@
         "type" : "literal",
         "value" : "36"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356431"
@@ -737,11 +742,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "North Metropolitan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -750,12 +750,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -793,6 +793,11 @@
         "type" : "literal",
         "value" : "36"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356433"
@@ -801,11 +806,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "South West"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -814,12 +814,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -857,6 +857,11 @@
         "type" : "literal",
         "value" : "36"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356429"
@@ -865,11 +870,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "East Metropolitan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -878,12 +878,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -921,6 +921,11 @@
         "type" : "literal",
         "value" : "36"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356429"
@@ -929,11 +934,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "East Metropolitan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -942,12 +942,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -985,6 +985,11 @@
         "type" : "literal",
         "value" : "36"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356430"
@@ -993,11 +998,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Mining and Pastoral"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1006,12 +1006,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -1049,6 +1049,11 @@
         "type" : "literal",
         "value" : "36"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356428"
@@ -1057,11 +1062,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Agricultural"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1070,12 +1070,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -1113,6 +1113,11 @@
         "type" : "literal",
         "value" : "36"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356433"
@@ -1121,11 +1126,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "South West"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
       },
       "party" : {
         "type" : "uri",
@@ -1147,12 +1147,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -1190,6 +1190,11 @@
         "type" : "literal",
         "value" : "36"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-05-22T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356431"
@@ -1198,11 +1203,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "North Metropolitan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1211,12 +1211,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -1254,6 +1254,11 @@
         "type" : "literal",
         "value" : "36"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2005-05-22T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356429"
@@ -1262,11 +1267,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "East Metropolitan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2005-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1275,12 +1275,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -1325,12 +1325,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -1368,6 +1368,11 @@
         "type" : "literal",
         "value" : "36"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2001-05-22T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356432"
@@ -1376,11 +1381,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "South Metropolitan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2001-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1389,12 +1389,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -1439,12 +1439,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -1482,6 +1482,11 @@
         "type" : "literal",
         "value" : "36"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2005-05-22T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356433"
@@ -1490,11 +1495,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "South West"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2005-05-22T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1503,12 +1503,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "role" : {
         "type" : "uri",
@@ -1546,6 +1546,11 @@
         "type" : "literal",
         "value" : "36"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-05-22T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5356430"
@@ -1554,11 +1559,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Mining and Pastoral"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-05-22T00:00:00Z"
       }
     } ]
   }

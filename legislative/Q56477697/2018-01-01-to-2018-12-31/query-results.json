@@ -60,7 +60,7 @@
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Adelaide City Council"
+        "value" : "Corporation of the City of Adelaide"
       },
       "org_jurisdiction" : {
         "type" : "uri",

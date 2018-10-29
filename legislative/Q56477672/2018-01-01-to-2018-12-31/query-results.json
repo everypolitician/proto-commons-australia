@@ -24,7 +24,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ward 4"
+        "value" : "Division 4"
       },
       "role_superclass" : {
         "type" : "uri",
