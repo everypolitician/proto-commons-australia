@@ -19,7 +19,7 @@
   "organizations": [
     {
       "name": {
-        "lang:en": "Port Adelaide Enfield City Council"
+        "lang:en": "City of Port Adelaide Enfield"
       },
       "id": "Q56477713",
       "classification": "branch",
@@ -124,9 +124,9 @@
       "organization_id": "Q56477713",
       "area_id": "Q1533526",
       "start_date": "2006-01-01",
-      "role_superclass_code": "Q11902879",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:en": "Lord Mayor"
+        "lang:en": "mayor"
       },
       "role_code": "Q51011795",
       "role": {

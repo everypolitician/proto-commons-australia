@@ -116,9 +116,9 @@
     "role_name": {
       "lang:en": "Member of the Queensland Legislative Assembly"
     },
-    "generic_role_id": "Q486839",
+    "generic_role_id": "Q5230427",
     "generic_role_name": {
-      "lang:en": "member of parliament"
+      "lang:en": "member of a legislative assembly"
     },
     "role_level": "Q10864048",
     "role_type": "Q4175034",
@@ -164,9 +164,9 @@
     "role_name": {
       "lang:en": "Member of the New South Wales Legislative Council"
     },
-    "generic_role_id": "Q486839",
+    "generic_role_id": "Q56844145",
     "generic_role_name": {
-      "lang:en": "member of parliament"
+      "lang:en": "member of a legislative council"
     },
     "role_level": "Q10864048",
     "role_type": "Q4175034",
@@ -196,9 +196,9 @@
     "role_name": {
       "lang:en": "Member of the Tasmanian House of Assembly"
     },
-    "generic_role_id": "Q486839",
+    "generic_role_id": "Q19299327",
     "generic_role_name": {
-      "lang:en": "member of parliament"
+      "lang:en": "Member of Parliament of Tasmania"
     },
     "role_level": "Q10864048",
     "role_type": "Q4175034",
@@ -212,9 +212,9 @@
     "role_name": {
       "lang:en": "Member of the Victorian Legislative Council"
     },
-    "generic_role_id": "Q486839",
+    "generic_role_id": "Q56844145",
     "generic_role_name": {
-      "lang:en": "member of parliament"
+      "lang:en": "member of a legislative council"
     },
     "role_level": "Q10864048",
     "role_type": "Q4175034",
@@ -228,9 +228,9 @@
     "role_name": {
       "lang:en": "Member of the New South Wales Legislative Assembly"
     },
-    "generic_role_id": "Q486839",
+    "generic_role_id": "Q5230427",
     "generic_role_name": {
-      "lang:en": "member of parliament"
+      "lang:en": "member of a legislative assembly"
     },
     "role_level": "Q10864048",
     "role_type": "Q4175034",
@@ -244,9 +244,9 @@
     "role_name": {
       "lang:en": "Member of the Tasmanian Legislative Council"
     },
-    "generic_role_id": "Q486839",
+    "generic_role_id": "Q19299327",
     "generic_role_name": {
-      "lang:en": "member of parliament"
+      "lang:en": "Member of Parliament of Tasmania"
     },
     "role_level": "Q10864048",
     "role_type": "Q4175034",
@@ -292,9 +292,9 @@
     "role_name": {
       "lang:en": "Member of the Western Australian Legislative Council"
     },
-    "generic_role_id": "Q486839",
+    "generic_role_id": "Q56844145",
     "generic_role_name": {
-      "lang:en": "member of parliament"
+      "lang:en": "member of a legislative council"
     },
     "role_level": "Q10864048",
     "role_type": "Q4175034",
@@ -308,9 +308,9 @@
     "role_name": {
       "lang:en": "Member of the Western Australian Legislative Assembly"
     },
-    "generic_role_id": "Q486839",
+    "generic_role_id": "Q5230427",
     "generic_role_name": {
-      "lang:en": "member of parliament"
+      "lang:en": "member of a legislative assembly"
     },
     "role_level": "Q10864048",
     "role_type": "Q4175034",
@@ -340,9 +340,9 @@
     "role_name": {
       "lang:en": "member of the Northern Territory Legislative Assembly"
     },
-    "generic_role_id": "Q486839",
+    "generic_role_id": "Q5230427",
     "generic_role_name": {
-      "lang:en": "member of parliament"
+      "lang:en": "member of a legislative assembly"
     },
     "role_level": "Q10864048",
     "role_type": "Q4175034",
@@ -428,7 +428,7 @@
     "role_type": null,
     "organization_id": "Q56477697",
     "organization_name": {
-      "lang:en": "Adelaide City Council"
+      "lang:en": "Corporation of the City of Adelaide"
     }
   },
   {
@@ -452,15 +452,31 @@
     "role_name": {
       "lang:en": "Mayor of Port Adelaide Enfield"
     },
-    "generic_role_id": "Q11902879",
+    "generic_role_id": "Q30185",
     "generic_role_name": {
-      "lang:en": "Lord Mayor"
+      "lang:en": "mayor"
     },
     "role_level": "Q24238356",
     "role_type": null,
     "organization_id": "Q56477713",
     "organization_name": {
-      "lang:en": "Port Adelaide Enfield City Council"
+      "lang:en": "City of Port Adelaide Enfield"
+    }
+  },
+  {
+    "role_id": "Q51879339",
+    "role_name": {
+      "lang:en": "Speaker of the South Australian House of Assembly"
+    },
+    "generic_role_id": "Q1758037",
+    "generic_role_name": {
+      "lang:en": "speaker"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q7566117",
+    "organization_name": {
+      "lang:en": "South Australian House of Assembly"
     }
   },
   {
@@ -1836,7 +1852,7 @@
     "role_type": "Q4175034",
     "organization_id": "Q56477697",
     "organization_name": {
-      "lang:en": "Adelaide City Council"
+      "lang:en": "Corporation of the City of Adelaide"
     }
   },
   {
@@ -1948,7 +1964,7 @@
     "role_type": "Q4175034",
     "organization_id": "Q56477713",
     "organization_name": {
-      "lang:en": "Port Adelaide Enfield City Council"
+      "lang:en": "City of Port Adelaide Enfield"
     }
   },
   {
@@ -3712,6 +3728,22 @@
     }
   },
   {
+    "role_id": "Q56876060",
+    "role_name": {
+      "lang:en": "Alderman of Port Adelaide Enfield City Council"
+    },
+    "generic_role_id": "Q3364526",
+    "generic_role_name": {
+      "lang:en": "alderman"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56477713",
+    "organization_name": {
+      "lang:en": "City of Port Adelaide Enfield"
+    }
+  },
+  {
     "role_id": "Q6797856",
     "role_name": {
       "lang:en": "Mayor of the Gold Coast"
@@ -3757,6 +3789,22 @@
     "organization_id": "Q783330",
     "organization_name": {
       "lang:en": "Senate of Australia"
+    }
+  },
+  {
+    "role_id": "Q7241370",
+    "role_name": {
+      "lang:en": "President of the South Australian Legislative Council"
+    },
+    "generic_role_id": "Q1758037",
+    "generic_role_name": {
+      "lang:en": "speaker"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q7566128",
+    "organization_name": {
+      "lang:en": "South Australian Legislative Council"
     }
   }
 ]

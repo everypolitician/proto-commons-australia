@@ -4823,21 +4823,6 @@
     },
     {
       "name": {
-        "lang:en": "Lot Diffey"
-      },
-      "id": "Q22017753",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q22017753"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "James Dillon"
       },
       "id": "Q22017763",
@@ -7781,21 +7766,6 @@
     },
     {
       "name": {
-        "lang:en": "Doug Jennings"
-      },
-      "id": "Q5300604",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5300604"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Dympna Beard"
       },
       "id": "Q5318865",
@@ -8868,21 +8838,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q6221041"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "John Bowser"
-      },
-      "id": "Q6222719",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6222719"
         }
       ],
       "links": [
@@ -17776,19 +17731,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q22017753-95A51931-1522-4B46-BB06-C51811BA7E8D",
-      "person_id": "Q22017753",
-      "organization_id": "Q4386693",
-      "role_superclass_code": "Q5230427",
-      "role_superclass": {
-        "lang:en": "member of a legislative assembly"
-      },
-      "role_code": "Q18534408",
-      "role": {
-        "lang:en": "Member of the Victorian Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q22017763-AB25CE6E-D6AD-43A6-9B44-4F84DEA4A0BA",
       "person_id": "Q22017763",
       "organization_id": "Q4386693",
@@ -20377,19 +20319,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q5300604-54440218-2D33-4F98-A8D7-DDCC94B1AE95",
-      "person_id": "Q5300604",
-      "organization_id": "Q4386693",
-      "role_superclass_code": "Q5230427",
-      "role_superclass": {
-        "lang:en": "member of a legislative assembly"
-      },
-      "role_code": "Q18534408",
-      "role": {
-        "lang:en": "Member of the Victorian Legislative Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q5318865-D839ACEB-7ED9-412F-B98C-3083E9430878",
       "person_id": "Q5318865",
       "organization_id": "Q4386693",
@@ -21327,19 +21256,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q6221041-5BA197E1-7DFB-4B25-99BA-04B0D965984E",
       "person_id": "Q6221041",
-      "organization_id": "Q4386693",
-      "role_superclass_code": "Q5230427",
-      "role_superclass": {
-        "lang:en": "member of a legislative assembly"
-      },
-      "role_code": "Q18534408",
-      "role": {
-        "lang:en": "Member of the Victorian Legislative Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q6222719-101471FC-4161-4D78-B89A-C880F5947DE6",
-      "person_id": "Q6222719",
       "organization_id": "Q4386693",
       "role_superclass_code": "Q5230427",
       "role_superclass": {

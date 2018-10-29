@@ -83,36 +83,6 @@
     },
     {
       "name": {
-        "lang:en": "Willie Kelly"
-      },
-      "id": "Q15999472",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q15999472"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Trevor Evans"
-      },
-      "id": "Q16093723",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16093723"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Cathy McGowan"
       },
       "id": "Q16185462",
@@ -1668,21 +1638,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q6163809"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "John Kirwan"
-      },
-      "id": "Q6243236",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6243236"
         }
       ],
       "links": [
@@ -6119,6 +6074,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q1281683-13D2F8E2-AA67-4909-8B20-4818E527920C",
+      "person_id": "Q1281683",
+      "organization_id": "Q783401",
+      "area_id": "Q817830",
+      "start_date": "2010-08-21",
+      "end_date": "2017-11-11",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18912794",
+      "role": {
+        "lang:en": "Member of the Australian House of Representatives"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q1281683-8e23a367-46ec-4b7d-50e7-18002ca2e083",
       "person_id": "Q1281683",
       "organization_id": "Q783401",
@@ -6154,32 +6125,6 @@
       "organization_id": "Q783401",
       "area_id": "Q2973440",
       "start_date": "2018-03-17",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18912794",
-      "role": {
-        "lang:en": "Member of the Australian House of Representatives"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q15999472-bc64e118-80c7-4b62-b9a6-a069c0903e31",
-      "person_id": "Q15999472",
-      "organization_id": "Q783401",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18912794",
-      "role": {
-        "lang:en": "Member of the Australian House of Representatives"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q16093723-ce4321c7-2a60-4576-b588-cd82e23efd4e",
-      "person_id": "Q16093723",
-      "organization_id": "Q783401",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
@@ -7473,6 +7418,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q4861362-44E3A5D2-15EA-44CC-9E5F-7FB071C4D4A1",
+      "person_id": "Q4861362",
+      "organization_id": "Q783401",
+      "area_id": "Q2973794",
+      "start_date": "2013-09-07",
+      "end_date": "2017-10-27",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18912794",
+      "role": {
+        "lang:en": "Member of the Australian House of Representatives"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q4861362-77513246-4a4c-20a3-aa4f-bb411a7e7a14",
       "person_id": "Q4861362",
       "organization_id": "Q783401",
@@ -7794,19 +7755,6 @@
       "organization_id": "Q783401",
       "area_id": "Q2973715",
       "start_date": "2013-09-07",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament"
-      },
-      "role_code": "Q18912794",
-      "role": {
-        "lang:en": "Member of the Australian House of Representatives"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q6243236-b3e2899a-76c8-4182-8568-a0488ebafb6c",
-      "person_id": "Q6243236",
-      "organization_id": "Q783401",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament"
