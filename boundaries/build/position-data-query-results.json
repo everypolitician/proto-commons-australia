@@ -274,12 +274,12 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19597471"
+        "value" : "http://www.wikidata.org/entity/Q5230427"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Member of the Parliament of South Australia"
+        "value" : "member of a legislative assembly"
       },
       "body" : {
         "type" : "uri",
@@ -319,12 +319,12 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of a legislative assembly"
+        "value" : "Member of the Parliament of South Australia"
       },
       "body" : {
         "type" : "uri",
@@ -634,12 +634,12 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19299327"
+        "value" : "http://www.wikidata.org/entity/Q5230427"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Member of Parliament of Tasmania"
+        "value" : "member of a legislative assembly"
       },
       "body" : {
         "type" : "uri",
@@ -679,12 +679,12 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
+        "value" : "http://www.wikidata.org/entity/Q19299327"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of a legislative assembly"
+        "value" : "Member of Parliament of Tasmania"
       },
       "body" : {
         "type" : "uri",

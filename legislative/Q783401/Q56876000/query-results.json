@@ -195,14 +195,14 @@
         "type" : "literal",
         "value" : "2010-08-21T00:00:00Z"
       },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "John.Alexander.MP"
-      },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-11-11T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "John.Alexander.MP"
       }
     }, {
       "district" : {
@@ -10263,14 +10263,14 @@
         "type" : "literal",
         "value" : "2004-10-09T00:00:00Z"
       },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "malcolmturnbull"
-      },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-08-31T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "malcolmturnbull"
       }
     }, {
       "district" : {
