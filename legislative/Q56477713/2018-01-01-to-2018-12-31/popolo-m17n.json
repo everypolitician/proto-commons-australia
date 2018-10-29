@@ -239,12 +239,42 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:en": "Anne-Marie Hubycz"
+      },
+      "id": "Q56875481",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56875481"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jenny Bradbrook"
+      },
+      "id": "Q56875717",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56875717"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
     {
       "name": {
-        "lang:en": "Port Adelaide Enfield City Council"
+        "lang:en": "City of Port Adelaide Enfield"
       },
       "id": "Q56477713",
       "classification": "branch",
@@ -532,8 +562,26 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q52149987-E8321B2C-8F1C-4665-8A07-42FE509DFCE0",
       "person_id": "Q52149987",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478755",
+      "start_date": "1997-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52149987-E8321B2C-8F1C-4665-8A07-42FE509DFCE0",
+      "person_id": "Q52149987",
       "on_behalf_of_id": "Q39046104",
       "organization_id": "Q56477713",
+      "area_id": "Q56478755",
+      "start_date": "1997-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor"
@@ -548,6 +596,8 @@
       "person_id": "Q56812861",
       "on_behalf_of_id": "Q21003570",
       "organization_id": "Q56477713",
+      "area_id": "Q56478755",
+      "start_date": "2010-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor"
@@ -562,6 +612,8 @@
       "person_id": "Q56813024",
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q56477713",
+      "area_id": "Q56478755",
+      "start_date": "2006-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor"
@@ -576,6 +628,8 @@
       "person_id": "Q56813052",
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q56477713",
+      "area_id": "Q56478756",
+      "start_date": "2000-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor"
@@ -590,6 +644,8 @@
       "person_id": "Q56813080",
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q56477713",
+      "area_id": "Q56478756",
+      "start_date": "2014-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor"
@@ -604,6 +660,8 @@
       "person_id": "Q56813119",
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q56477713",
+      "area_id": "Q56478757",
+      "start_date": "2006-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor"
@@ -618,6 +676,8 @@
       "person_id": "Q56813294",
       "on_behalf_of_id": "Q21003570",
       "organization_id": "Q56477713",
+      "area_id": "Q56478757",
+      "start_date": "2014-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor"
@@ -632,6 +692,8 @@
       "person_id": "Q56813354",
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q56477713",
+      "area_id": "Q56478758",
+      "start_date": "2003-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor"
@@ -646,6 +708,8 @@
       "person_id": "Q56813423",
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q56477713",
+      "area_id": "Q56478758",
+      "start_date": "2014-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor"
@@ -660,6 +724,8 @@
       "person_id": "Q56813490",
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q56477713",
+      "area_id": "Q56478759",
+      "start_date": "2014-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor"
@@ -674,6 +740,8 @@
       "person_id": "Q56813541",
       "on_behalf_of_id": "Q21003570",
       "organization_id": "Q56477713",
+      "area_id": "Q56478759",
+      "start_date": "2014-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor"
@@ -688,6 +756,8 @@
       "person_id": "Q56813598",
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q56477713",
+      "area_id": "Q56478759",
+      "start_date": "2014-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor"
@@ -702,6 +772,8 @@
       "person_id": "Q56813675",
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q56477713",
+      "area_id": "Q56478760",
+      "start_date": "2014-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor"
@@ -716,6 +788,8 @@
       "person_id": "Q56813848",
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q56477713",
+      "area_id": "Q56478760",
+      "start_date": "2003-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor"
@@ -730,6 +804,8 @@
       "person_id": "Q56813910",
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q56477713",
+      "area_id": "Q56478744",
+      "start_date": "2006-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor"
@@ -744,6 +820,40 @@
       "person_id": "Q56813968",
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q56477713",
+      "area_id": "Q56478744",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56875481-35afc553-4a52-c5aa-5297-be5fdfb16c10",
+      "person_id": "Q56875481",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478757",
+      "start_date": "2003-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56875717-66e47071-49f4-1961-e69e-029e2f063169",
+      "person_id": "Q56875717",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478756",
+      "start_date": "2000-01-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor"

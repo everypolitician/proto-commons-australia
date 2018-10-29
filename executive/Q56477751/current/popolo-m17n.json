@@ -1,6 +1,20 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Glenn Docherty"
+      },
+      "id": "Q5568777",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5568777"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -16,6 +30,19 @@
         }
       ],
       "area_id": "Q976355"
+    },
+    {
+      "name": {
+        "lang:en": "Liberal Party of Australia (South Australian Division)"
+      },
+      "id": "Q23198434",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23198434"
+        }
+      ]
     }
   ],
   "areas": [
@@ -90,6 +117,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5568777-fe60f754-4067-b36c-5963-d3de27d9a67f",
+      "person_id": "Q5568777",
+      "on_behalf_of_id": "Q23198434",
+      "organization_id": "Q56477751",
+      "area_id": "Q976355",
+      "start_date": "2010-11-23",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56477753",
+      "role": {
+        "lang:en": "Mayor of the City of Playford"
+      }
+    }
   ]
 }
