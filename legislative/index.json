@@ -715,19 +715,6 @@
     ]
   },
   {
-    "comment": "City of Port Adelaide Enfield",
-    "house_item_id": "Q56477713",
-    "seat_count": null,
-    "area_id": "Q1533526",
-    "position_item_id": "Q56876060",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
     "comment": "Prospect Council",
     "house_item_id": "Q56477717",
     "seat_count": null,
