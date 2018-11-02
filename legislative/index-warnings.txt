@@ -26,7 +26,6 @@ WARNING: no seat count found for the legislature Burnside City Council
 WARNING: no seat count found for the legislature Campbelltown City Council
 WARNING: no seat count found for the legislature Mitcham City Council
 WARNING: no seat count found for the legislature City of Port Adelaide Enfield
-WARNING: no seat count found for the legislature City of Port Adelaide Enfield
 WARNING: no seat count found for the legislature Prospect Council
 WARNING: no seat count found for the legislature Salisbury City Council
 WARNING: no seat count found for the legislature Unley City Council
