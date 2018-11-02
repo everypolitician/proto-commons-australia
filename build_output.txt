@@ -1,2 +1,0 @@
-WARNING: Position Alderman of Port Adelaide Enfield City Council (Q56876060) not in boundary associated_wikidata_positions
-WARNING: Position Mayor of Melbourne (Q18720358) not in boundary associated_wikidata_positions

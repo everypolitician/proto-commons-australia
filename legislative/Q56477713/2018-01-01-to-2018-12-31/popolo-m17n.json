@@ -1,6 +1,275 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Carol Martin"
+      },
+      "id": "Q52149987",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52149987"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Iammarrone"
+      },
+      "id": "Q56812861",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56812861"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Peter McKay"
+      },
+      "id": "Q56813024",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56813024"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tony Barca"
+      },
+      "id": "Q56813052",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56813052"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paul Russell"
+      },
+      "id": "Q56813080",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56813080"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mark Basham"
+      },
+      "id": "Q56813119",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56813119"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Matt Osborn"
+      },
+      "id": "Q56813294",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56813294"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Peter Jamieson"
+      },
+      "id": "Q56813354",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56813354"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Vanessa McCluskey"
+      },
+      "id": "Q56813423",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56813423"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Croci"
+      },
+      "id": "Q56813490",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56813490"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kim Dinh"
+      },
+      "id": "Q56813541",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56813541"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Guy Wilcock"
+      },
+      "id": "Q56813598",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56813598"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Claire Boan"
+      },
+      "id": "Q56813675",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56813675"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ray Guscott"
+      },
+      "id": "Q56813848",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56813848"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Helen Wright"
+      },
+      "id": "Q56813910",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56813910"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michelle Hogan"
+      },
+      "id": "Q56813968",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56813968"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Anne-Marie Hubycz"
+      },
+      "id": "Q56875481",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56875481"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jenny Bradbrook"
+      },
+      "id": "Q56875717",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56875717"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
     {
@@ -16,12 +285,583 @@
         }
       ],
       "area_id": "Q1533526"
+    },
+    {
+      "name": {
+        "lang:en": "Australian Labor Party (South Australian Branch)"
+      },
+      "id": "Q21003570",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21003570"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "independent politician"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nick Xenophon's SA-BEST"
+      },
+      "id": "Q39046104",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q39046104"
+        }
+      ]
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1533526",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1533526"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51011795"
+      ],
+      "type": {
+        "lang:en": "local government area of South Australia"
+      },
+      "name": {
+        "lang:en": "City of Port Adelaide Enfield"
+      },
+      "parent_id": "Q35715"
+    },
+    {
+      "id": "Q35715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q35715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q27230596"
+      ],
+      "type": {
+        "lang:en": "state of Australia"
+      },
+      "name": {
+        "lang:en": "South Australia"
+      },
+      "parent_id": "Q408"
+    },
+    {
+      "id": "Q408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q319145"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Commonwealth of Australia"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56478744",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa78/ward:semaphore"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478744"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477714"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Port Adelaide Enfield City Council"
+      },
+      "name": {
+        "lang:en": "Semaphore Ward"
+      },
+      "parent_id": "Q1533526"
+    },
+    {
+      "id": "Q56478755",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa78/ward:enfield"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478755"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477714"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Port Adelaide Enfield City Council"
+      },
+      "name": {
+        "lang:en": "Enfield Ward"
+      },
+      "parent_id": "Q1533526"
+    },
+    {
+      "id": "Q56478756",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa78/ward:klemzig"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478756"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477714"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Port Adelaide Enfield City Council"
+      },
+      "name": {
+        "lang:en": "Klemzig Ward"
+      },
+      "parent_id": "Q1533526"
+    },
+    {
+      "id": "Q56478757",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa78/ward:northfield"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478757"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477714"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Port Adelaide Enfield City Council"
+      },
+      "name": {
+        "lang:en": "Northfield Ward"
+      },
+      "parent_id": "Q1533526"
+    },
+    {
+      "id": "Q56478758",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa78/ward:outer-harbor"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478758"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477714"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Port Adelaide Enfield City Council"
+      },
+      "name": {
+        "lang:en": "Outer Harbor Ward"
+      },
+      "parent_id": "Q1533526"
+    },
+    {
+      "id": "Q56478759",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa78/ward:parks"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478759"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477714"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Port Adelaide Enfield City Council"
+      },
+      "name": {
+        "lang:en": "Parks Ward"
+      },
+      "parent_id": "Q1533526"
+    },
+    {
+      "id": "Q56478760",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:au/state:sa/lga:sa78/ward:port-adelaide"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56478760"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56477714"
+      ],
+      "type": {
+        "lang:en": "electoral ward of Port Adelaide Enfield City Council"
+      },
+      "name": {
+        "lang:en": "Port Adelaide Ward"
+      },
+      "parent_id": "Q1533526"
+    }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52149987-E8321B2C-8F1C-4665-8A07-42FE509DFCE0",
+      "person_id": "Q52149987",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478755",
+      "start_date": "1997-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52149987-E8321B2C-8F1C-4665-8A07-42FE509DFCE0",
+      "person_id": "Q52149987",
+      "on_behalf_of_id": "Q39046104",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478755",
+      "start_date": "1997-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56812861-b84e01df-40f5-3085-7ec8-506b7a1b5455",
+      "person_id": "Q56812861",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478755",
+      "start_date": "2010-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56813024-25c05e47-4cf7-83b3-4354-16c1da5ed82c",
+      "person_id": "Q56813024",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478755",
+      "start_date": "2006-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56813052-37997a85-4380-6732-2b34-684d215df30e",
+      "person_id": "Q56813052",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478756",
+      "start_date": "2000-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56813080-9463f047-4e19-18a0-30f3-f97d6ef248b4",
+      "person_id": "Q56813080",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478756",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56813119-192e0937-48b4-a898-0df9-90164c22b3e6",
+      "person_id": "Q56813119",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478757",
+      "start_date": "2006-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56813294-d531ef5c-4deb-27c1-f55e-5770bb373970",
+      "person_id": "Q56813294",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478757",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56813354-96355cb4-430d-68a6-f57c-a2c454a2059f",
+      "person_id": "Q56813354",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478758",
+      "start_date": "2003-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56813423-9125237b-4792-ccf7-111a-b74f85d1a1ee",
+      "person_id": "Q56813423",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478758",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56813490-8a20ac0d-4afc-2606-7295-3e1d2b6ccee5",
+      "person_id": "Q56813490",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478759",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56813541-392ec19f-43a4-1be7-cdf0-984ae508d396",
+      "person_id": "Q56813541",
+      "on_behalf_of_id": "Q21003570",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478759",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56813598-acf749b4-4aaa-b019-a870-b7539b79af9b",
+      "person_id": "Q56813598",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478759",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56813675-82a0d8ab-4db8-9100-58f7-bf7394c6037f",
+      "person_id": "Q56813675",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478760",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56813848-e94dc063-4a38-5a0c-dce3-8a87dfc94a23",
+      "person_id": "Q56813848",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478760",
+      "start_date": "2003-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56813910-f882c3ef-423a-149d-933c-22ee0ec459f7",
+      "person_id": "Q56813910",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478744",
+      "start_date": "2006-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56813968-912cd3a5-43a6-eff0-883b-ea6f8add014f",
+      "person_id": "Q56813968",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478744",
+      "start_date": "2014-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56875481-35afc553-4a52-c5aa-5297-be5fdfb16c10",
+      "person_id": "Q56875481",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478757",
+      "start_date": "2003-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56875717-66e47071-49f4-1961-e69e-029e2f063169",
+      "person_id": "Q56875717",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q56477713",
+      "area_id": "Q56478756",
+      "start_date": "2000-01-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56477714",
+      "role": {
+        "lang:en": "Member of Port Adelaide Enfield City Council"
+      }
+    }
   ]
 }

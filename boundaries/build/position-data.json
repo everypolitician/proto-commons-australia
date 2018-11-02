@@ -362,9 +362,9 @@
     },
     "role_level": "Q10864048",
     "role_type": null,
-    "organization_id": "Q56459482",
+    "organization_id": "Q19872854",
     "organization_name": {
-      "lang:en": "Office of the South Australian Productivity Commission"
+      "lang:en": "Department of the Premier and Cabinet"
     }
   },
   {
@@ -3725,22 +3725,6 @@
     "organization_id": "Q56477947",
     "organization_name": {
       "lang:en": "Kalamunda City Council"
-    }
-  },
-  {
-    "role_id": "Q56876060",
-    "role_name": {
-      "lang:en": "Alderman of Port Adelaide Enfield City Council"
-    },
-    "generic_role_id": "Q3364526",
-    "generic_role_name": {
-      "lang:en": "alderman"
-    },
-    "role_level": "Q24238356",
-    "role_type": "Q4175034",
-    "organization_id": "Q56477713",
-    "organization_name": {
-      "lang:en": "City of Port Adelaide Enfield"
     }
   },
   {
