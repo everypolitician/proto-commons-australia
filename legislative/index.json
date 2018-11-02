@@ -650,7 +650,7 @@
     ]
   },
   {
-    "comment": "Adelaide City Council",
+    "comment": "Corporation of the City of Adelaide",
     "house_item_id": "Q56477697",
     "seat_count": null,
     "area_id": "Q1094063",
@@ -702,11 +702,24 @@
     ]
   },
   {
-    "comment": "Port Adelaide Enfield City Council",
+    "comment": "City of Port Adelaide Enfield",
     "house_item_id": "Q56477713",
     "seat_count": null,
     "area_id": "Q1533526",
     "position_item_id": "Q56477714",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "City of Port Adelaide Enfield",
+    "house_item_id": "Q56477713",
+    "seat_count": null,
+    "area_id": "Q1533526",
+    "position_item_id": "Q56876060",
     "terms": [
       {
         "start_date": "2018-01-01",
@@ -1463,22 +1476,6 @@
     "position_item_id": "Q18220900",
     "terms": [
       {
-        "comment": "Members of the South Australian House of Assembly, 1993–1997",
-        "term_item_id": "Q6814759"
-      },
-      {
-        "comment": "Members of the South Australian House of Assembly, 1989–1993",
-        "term_item_id": "Q6814761"
-      },
-      {
-        "comment": "Members of the South Australian House of Assembly, 1997–2002",
-        "term_item_id": "Q6814762"
-      },
-      {
-        "comment": "Members of the South Australian House of Assembly, 2002–2006",
-        "term_item_id": "Q6814764"
-      },
-      {
         "comment": "Members of the South Australian House of Assembly, 2006–2010",
         "term_item_id": "Q6814766"
       },
@@ -1509,8 +1506,8 @@
     "position_item_id": "Q6814428",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "45th Parliament of Australia",
+        "term_item_id": "Q56876000"
       }
     ]
   },
@@ -1522,8 +1519,8 @@
     "position_item_id": "Q18912794",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "45th Parliament of Australia",
+        "term_item_id": "Q56876000"
       }
     ]
   },
