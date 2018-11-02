@@ -2,21 +2,6 @@
   "persons": [
     {
       "name": {
-        "lang:en": "John Smith"
-      },
-      "id": "Q6258255",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6258255"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Sally Capp"
       },
       "id": "Q7405097",
@@ -122,20 +107,6 @@
     }
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q6258255-133d44ac-4569-be29-eebe-8ed2a08f60ae",
-      "person_id": "Q6258255",
-      "organization_id": "Q56477763",
-      "area_id": "Q1919098",
-      "role_superclass_code": "Q30185",
-      "role_superclass": {
-        "lang:en": "mayor"
-      },
-      "role_code": "Q18720358",
-      "role": {
-        "lang:en": "Mayor of Melbourne"
-      }
-    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7405097-95572352-4809-9b9a-beab-1e325a7c9b40",
       "person_id": "Q7405097",

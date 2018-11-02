@@ -200,6 +200,21 @@
     },
     {
       "name": {
+        "lang:en": "Jacqui Lambie"
+      },
+      "id": "Q16731201",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16731201"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Jenny McAllister"
       },
       "id": "Q16732210",
@@ -353,6 +368,21 @@
     },
     {
       "name": {
+        "lang:en": "Scott Ludlam"
+      },
+      "id": "Q2260949",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2260949"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "James Paterson"
       },
       "id": "Q23016290",
@@ -360,6 +390,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q23016290"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Stephen Conroy"
+      },
+      "id": "Q2344980",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2344980"
         }
       ],
       "links": [
@@ -398,6 +443,36 @@
     },
     {
       "name": {
+        "lang:en": "Skye Kakoschke-Moore"
+      },
+      "id": "Q25350752",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25350752"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rod Culleton"
+      },
+      "id": "Q26703083",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703083"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Jane Hume"
       },
       "id": "Q26703243",
@@ -420,6 +495,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q26703252"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Malcolm Roberts"
+      },
+      "id": "Q26848575",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26848575"
         }
       ],
       "links": [
@@ -707,6 +797,21 @@
     },
     {
       "name": {
+        "lang:en": "Bob Day"
+      },
+      "id": "Q4932238",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4932238"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Bridget McKenzie"
       },
       "id": "Q4966734",
@@ -759,6 +864,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q50808634"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chris Back"
+      },
+      "id": "Q5105780",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5105780"
         }
       ],
       "links": [
@@ -825,6 +945,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q5233587"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "David Johnston"
+      },
+      "id": "Q5235713",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5235713"
         }
       ],
       "links": [
@@ -918,6 +1053,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q53960880"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fiona Nash"
+      },
+      "id": "Q5451092",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5451092"
         }
       ],
       "links": [
@@ -1046,21 +1196,6 @@
     },
     {
       "name": {
-        "lang:en": "Josiah Symon"
-      },
-      "id": "Q6290634",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6290634"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Larissa Waters"
       },
       "id": "Q6489515",
@@ -1128,6 +1263,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q6939517"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nick Xenophon"
+      },
+      "id": "Q7028174",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7028174"
         }
       ],
       "links": [
@@ -1229,6 +1379,21 @@
     },
     {
       "name": {
+        "lang:en": "Stephen Parry"
+      },
+      "id": "Q7610200",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7610200"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Zed Seselja"
       },
       "id": "Q8068367",
@@ -1286,6 +1451,19 @@
         {
           "scheme": "wikidata",
           "identifier": "Q1065320"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Centre Alliance"
+      },
+      "id": "Q19876280",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19876280"
         }
       ]
     },
@@ -1738,6 +1916,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16731201-44187A96-66E5-4E4E-BBC6-4F84A9851583",
+      "person_id": "Q16731201",
+      "organization_id": "Q783330",
+      "area_id": "Q56649108",
+      "start_date": "2014-07-01",
+      "end_date": "2017-11-14",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q6814428",
+      "role": {
+        "lang:en": "Member of the Australian Senate"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q16732210-7831F322-9AA7-444B-AE66-CCDFE66EB31C",
       "person_id": "Q16732210",
       "organization_id": "Q783330",
@@ -1888,11 +2082,43 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q2260949-4FC78045-DC9D-40C7-A53B-80F01753F40A",
+      "person_id": "Q2260949",
+      "organization_id": "Q783330",
+      "area_id": "Q56649104",
+      "start_date": "2008-07-01",
+      "end_date": "2017-07-14",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q6814428",
+      "role": {
+        "lang:en": "Member of the Australian Senate"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q23016290-0b9bf0a2-43c3-79d9-5d1f-7f272dc3f92f",
       "person_id": "Q23016290",
       "organization_id": "Q783330",
       "area_id": "Q56649112",
       "start_date": "2016-03-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q6814428",
+      "role": {
+        "lang:en": "Member of the Australian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2344980-AD1554CC-43DB-4FE2-9AA7-DB9FB88D2ABE",
+      "person_id": "Q2344980",
+      "organization_id": "Q783330",
+      "area_id": "Q56649112",
+      "start_date": "1996-04-30",
+      "end_date": "2016-09-30",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator"
@@ -1933,6 +2159,38 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q25350752-a6568d12-4d12-f811-e516-003acdacce80",
+      "person_id": "Q25350752",
+      "organization_id": "Q783330",
+      "area_id": "Q56649110",
+      "start_date": "2016-07-02",
+      "end_date": "2017-11-22",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q6814428",
+      "role": {
+        "lang:en": "Member of the Australian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703083-fbd8bd52-4b89-35ec-f5cb-a836d601c82f",
+      "person_id": "Q26703083",
+      "organization_id": "Q783330",
+      "area_id": "Q56649104",
+      "start_date": "2016-07-02",
+      "end_date": "2017-01-11",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q6814428",
+      "role": {
+        "lang:en": "Member of the Australian Senate"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q26703243-2378fdc5-4925-7625-9b16-a6437d53562c",
       "person_id": "Q26703243",
       "organization_id": "Q783330",
@@ -1953,6 +2211,22 @@
       "organization_id": "Q783330",
       "area_id": "Q56649105",
       "start_date": "2016-07-02",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q6814428",
+      "role": {
+        "lang:en": "Member of the Australian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26848575-e9d76552-40a6-e584-edad-69bcad6be46d",
+      "person_id": "Q26848575",
+      "organization_id": "Q783330",
+      "area_id": "Q56649111",
+      "start_date": "2016-07-02",
+      "end_date": "2017-10-27",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator"
@@ -2237,6 +2511,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q4932238-0AD273BE-7EBA-4CA7-B3B7-C73C801CB79C",
+      "person_id": "Q4932238",
+      "organization_id": "Q783330",
+      "area_id": "Q56649110",
+      "start_date": "2014-07-01",
+      "end_date": "2016-11-01",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q6814428",
+      "role": {
+        "lang:en": "Member of the Australian Senate"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q4966734-D67892DF-9B62-4696-8C5A-EC96EB5E15B4",
       "person_id": "Q4966734",
       "organization_id": "Q783330",
@@ -2287,6 +2577,22 @@
       "organization_id": "Q783330",
       "area_id": "Q56649111",
       "start_date": "2018-03-21",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q6814428",
+      "role": {
+        "lang:en": "Member of the Australian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5105780-22C0D89D-56E7-4A42-A2B3-BA800F212112",
+      "person_id": "Q5105780",
+      "organization_id": "Q783330",
+      "area_id": "Q56649104",
+      "start_date": "2009-03-12",
+      "end_date": "2017-07-31",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator"
@@ -2348,6 +2654,22 @@
       "organization_id": "Q783330",
       "area_id": "Q56649110",
       "start_date": "2011-07-01",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q6814428",
+      "role": {
+        "lang:en": "Member of the Australian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5235713-671A38B2-F3E0-4064-A3E4-408C34C91E64",
+      "person_id": "Q5235713",
+      "organization_id": "Q783330",
+      "area_id": "Q56649104",
+      "start_date": "2002-07-01",
+      "end_date": "2017-07-02",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator"
@@ -2438,6 +2760,22 @@
       "organization_id": "Q783330",
       "area_id": "Q56649107",
       "start_date": "2018-05-23",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q6814428",
+      "role": {
+        "lang:en": "Member of the Australian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5451092-83A095D2-C44E-4695-BC9F-1C8848156CF4",
+      "person_id": "Q5451092",
+      "organization_id": "Q783330",
+      "area_id": "Q56649105",
+      "start_date": "2005-07-01",
+      "end_date": "2017-10-27",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator"
@@ -2569,9 +2907,12 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q6290634-1f9f30c9-4b06-24c8-6249-b3debd49517d",
-      "person_id": "Q6290634",
+      "id": "http://www.wikidata.org/entity/statement/Q6489515-3F567B74-486B-4EAE-B29E-B38016EDC86F",
+      "person_id": "Q6489515",
       "organization_id": "Q783330",
+      "area_id": "Q56649111",
+      "start_date": "2011-07-01",
+      "end_date": "2017-07-18",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator"
@@ -2648,6 +2989,23 @@
       "organization_id": "Q783330",
       "area_id": "Q56649111",
       "start_date": "2016-07-02",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q6814428",
+      "role": {
+        "lang:en": "Member of the Australian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7028174-F0CF7980-1C24-4796-B895-7BA93964DE32",
+      "person_id": "Q7028174",
+      "on_behalf_of_id": "Q19876280",
+      "organization_id": "Q783330",
+      "area_id": "Q56649110",
+      "start_date": "2008-07-01",
+      "end_date": "2017-10-31",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator"
@@ -2752,6 +3110,37 @@
       "organization_id": "Q783330",
       "area_id": "Q56649110",
       "start_date": "2007-05-03",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q6814428",
+      "role": {
+        "lang:en": "Member of the Australian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7610200-80ceb067-452f-4e22-de02-95d58359185b",
+      "person_id": "Q7610200",
+      "organization_id": "Q783330",
+      "start_date": "2014-07-07",
+      "end_date": "2017-11-02",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q6814428",
+      "role": {
+        "lang:en": "Member of the Australian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7610200-B76646BB-7758-4728-BB84-AC2AC2BFEFAC",
+      "person_id": "Q7610200",
+      "organization_id": "Q783330",
+      "area_id": "Q56649108",
+      "start_date": "2005-07-01",
+      "end_date": "2017-11-02",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator"

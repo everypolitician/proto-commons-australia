@@ -36,14 +36,14 @@
     },
     {
       "name": {
-        "lang:en": "Australian Labor Party"
+        "lang:en": "Australian Labor Party (Victorian Branch)"
       },
-      "id": "Q216082",
+      "id": "Q25210911",
       "classification": "party",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q216082"
+          "identifier": "Q25210911"
         }
       ]
     }
@@ -100,7 +100,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5216414-43FFA924-265A-4C14-9FAD-14593CF5248B",
       "person_id": "Q5216414",
-      "on_behalf_of_id": "Q216082",
+      "on_behalf_of_id": "Q25210911",
       "organization_id": "Q56762206",
       "area_id": "Q36687",
       "start_date": "2014-12-04",
