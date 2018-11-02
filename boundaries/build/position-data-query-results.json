@@ -274,12 +274,12 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19597471"
+        "value" : "http://www.wikidata.org/entity/Q5230427"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Member of the Parliament of South Australia"
+        "value" : "member of a legislative assembly"
       },
       "body" : {
         "type" : "uri",
@@ -319,12 +319,12 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of a legislative assembly"
+        "value" : "Member of the Parliament of South Australia"
       },
       "body" : {
         "type" : "uri",
@@ -454,12 +454,12 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19597471"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Member of the Parliament of South Australia"
+        "value" : "member of a legislative council"
       },
       "body" : {
         "type" : "uri",
@@ -499,12 +499,12 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56844145"
+        "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of a legislative council"
+        "value" : "Member of the Parliament of South Australia"
       },
       "body" : {
         "type" : "uri",
@@ -634,12 +634,12 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19299327"
+        "value" : "http://www.wikidata.org/entity/Q5230427"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Member of Parliament of Tasmania"
+        "value" : "member of a legislative assembly"
       },
       "body" : {
         "type" : "uri",
@@ -679,12 +679,12 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5230427"
+        "value" : "http://www.wikidata.org/entity/Q19299327"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of a legislative assembly"
+        "value" : "Member of Parliament of Tasmania"
       },
       "body" : {
         "type" : "uri",
@@ -1175,12 +1175,12 @@
       },
       "body" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56459482"
+        "value" : "http://www.wikidata.org/entity/Q19872854"
       },
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Office of the South Australian Productivity Commission"
+        "value" : "Department of the Premier and Cabinet"
       }
     }, {
       "position" : {
@@ -1257,12 +1257,12 @@
       },
       "body" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19872854"
+        "value" : "http://www.wikidata.org/entity/Q56459482"
       },
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Department of the Premier and Cabinet"
+        "value" : "Office of the South Australian Productivity Commission"
       }
     }, {
       "position" : {
@@ -10342,51 +10342,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kalamunda City Council"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56876060"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alderman of Port Adelaide Enfield City Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q24238356"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1533526"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Port Adelaide Enfield"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3364526"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "alderman"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56477713"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "City of Port Adelaide Enfield"
       }
     }, {
       "position" : {

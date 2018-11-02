@@ -4,6 +4,15 @@
   },
   "results" : {
     "bindings" : [ {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2973470"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brindabella"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16186680-32b6e88d-4ecc-0c1d-37fc-da10bd64e24b"
@@ -53,6 +62,12 @@
         "type" : "literal",
         "value" : "25"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2012-10-31T00:00:00Z"
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2973470"
@@ -62,12 +77,6 @@
         "type" : "literal",
         "value" : "Brindabella"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2012-10-31T00:00:00Z"
-      }
-    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16194647-058fa4fd-4543-ad9a-f9bd-042a8ac16ee1"
@@ -117,21 +126,21 @@
         "type" : "literal",
         "value" : "25"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2973470"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brindabella"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2013-06-28T00:00:00Z"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26907959"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yerrabi"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q18808590-b072006d-4cf2-273c-ec57-07353d71e387"
@@ -181,15 +190,6 @@
         "type" : "literal",
         "value" : "25"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26907959"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yerrabi"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -200,6 +200,15 @@
         "value" : "MeeganFitzharrisMLA"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2973614"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ginninderra"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q23001033-f4ddfe3c-413a-9758-72a9-bc7ca5c72fc6"
@@ -249,6 +258,12 @@
         "type" : "literal",
         "value" : "25"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-10-22T00:00:00Z"
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2973614"
@@ -258,12 +273,6 @@
         "type" : "literal",
         "value" : "Ginninderra"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-10-22T00:00:00Z"
-      }
-    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q27557641-85ff37a9-451c-9479-0be6-04bf16729dab"
@@ -313,6 +322,12 @@
         "type" : "literal",
         "value" : "25"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-10-15T00:00:00Z"
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2973614"
@@ -322,12 +337,6 @@
         "type" : "literal",
         "value" : "Ginninderra"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-10-15T00:00:00Z"
-      }
-    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q27617121-d6e1d857-4900-157c-ad00-962700254edf"
@@ -377,21 +386,21 @@
         "type" : "literal",
         "value" : "25"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2973614"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ginninderra"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-10-15T00:00:00Z"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26907990"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Murrumbidgee"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q27617205-3cc0a81a-4890-284e-e37c-5f6d4d9f8778"
@@ -441,21 +450,21 @@
         "type" : "literal",
         "value" : "25"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26907990"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Murrumbidgee"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-10-15T00:00:00Z"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26907959"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yerrabi"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q27617251-02cf13b0-4045-681b-5a69-ac6757e1f5e4"
@@ -505,6 +514,12 @@
         "type" : "literal",
         "value" : "25"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-10-15T00:00:00Z"
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q26907959"
@@ -514,12 +529,6 @@
         "type" : "literal",
         "value" : "Yerrabi"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-10-15T00:00:00Z"
-      }
-    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q27617310-55418db9-4453-4d6b-9c55-1dcd1ef6ed79"
@@ -569,21 +578,21 @@
         "type" : "literal",
         "value" : "25"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26907959"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yerrabi"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-10-15T00:00:00Z"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26907990"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Murrumbidgee"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q27617364-28558d69-48db-b829-5b79-3b8e9dd0ea1c"
@@ -633,21 +642,21 @@
         "type" : "literal",
         "value" : "25"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26907990"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Murrumbidgee"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-10-15T00:00:00Z"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26907714"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kurrajong"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q27617429-3758191d-461d-efb8-5107-c9b49b610aff"
@@ -697,6 +706,12 @@
         "type" : "literal",
         "value" : "25"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-10-15T00:00:00Z"
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q26907714"
@@ -706,12 +721,6 @@
         "type" : "literal",
         "value" : "Kurrajong"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-10-15T00:00:00Z"
-      }
-    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q27617468-0dae899d-4de9-27da-040c-70dd91b2a8dc"
@@ -761,21 +770,21 @@
         "type" : "literal",
         "value" : "25"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26907714"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kurrajong"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-10-15T00:00:00Z"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26907959"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yerrabi"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q27734316-21e6bb36-4c35-de18-978d-355b0f2e538f"
@@ -825,21 +834,21 @@
         "type" : "literal",
         "value" : "25"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26907959"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yerrabi"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-10-15T00:00:00Z"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2973470"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brindabella"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q27734319-df4c3e2a-4f1f-6121-8c8c-0554ace08949"
@@ -888,15 +897,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "25"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2973470"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brindabella"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -954,6 +954,15 @@
         "value" : "25"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26907714"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kurrajong"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q45261853-6559f272-481f-fe2d-2b87-4357a17b1adf"
@@ -1003,21 +1012,21 @@
         "type" : "literal",
         "value" : "25"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26907714"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kurrajong"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-12-13T00:00:00Z"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26907959"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yerrabi"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4727271-4d808ceb-4c0e-9277-c903-ab542a7237c6"
@@ -1067,21 +1076,21 @@
         "type" : "literal",
         "value" : "25"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26907959"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yerrabi"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-10-15T00:00:00Z"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26907714"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kurrajong"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4756289-9f3a56a6-447a-addc-a555-17edae3fb84f"
@@ -1131,21 +1140,21 @@
         "type" : "literal",
         "value" : "25"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26907714"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kurrajong"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-10-15T00:00:00Z"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2973470"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brindabella"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4758834-bb2fa52f-4c3c-b6de-c996-5b89b960c9bd"
@@ -1194,15 +1203,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "25"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2973470"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brindabella"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1260,6 +1260,15 @@
         "value" : "25"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26907990"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Murrumbidgee"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5045130-4611b6a7-44ee-ab7d-1410-e3a86ea97300"
@@ -1309,15 +1318,6 @@
         "type" : "literal",
         "value" : "25"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26907990"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Murrumbidgee"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -1328,6 +1328,15 @@
         "value" : "carolinelecouteur"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26907990"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Murrumbidgee"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5565206-e77267aa-40f8-0826-24af-d63c8a79c3be"
@@ -1376,15 +1385,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "25"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26907990"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Murrumbidgee"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1446,6 +1446,15 @@
         "value" : "25"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26907990"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Murrumbidgee"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6181435-a03da7e7-41d1-30e1-f312-138e65fff057"
@@ -1495,21 +1504,21 @@
         "type" : "literal",
         "value" : "25"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26907990"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Murrumbidgee"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-10-15T00:00:00Z"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2973470"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brindabella"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6297054-dc243148-47d1-ac9c-e0b8-d00cee791762"
@@ -1559,21 +1568,21 @@
         "type" : "literal",
         "value" : "25"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2973470"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brindabella"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2008-10-29T00:00:00Z"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26907714"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kurrajong"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7488240-013d9195-4ec5-619a-60ea-ac4b3b8604ec"
@@ -1623,21 +1632,21 @@
         "type" : "literal",
         "value" : "25"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26907714"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kurrajong"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2008-10-18T00:00:00Z"
       }
     }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2973614"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ginninderra"
+      },
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7925392-068933a0-467f-0ab9-89d2-e3935a05e205"
@@ -1687,6 +1696,12 @@
         "type" : "literal",
         "value" : "25"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2001-10-20T00:00:00Z"
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2973614"
@@ -1696,12 +1711,6 @@
         "type" : "literal",
         "value" : "Ginninderra"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2001-10-20T00:00:00Z"
-      }
-    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q8062355-2758b6cb-40ef-8368-9a90-78eb1c1e53ff"
@@ -1750,15 +1759,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "25"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2973614"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ginninderra"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
