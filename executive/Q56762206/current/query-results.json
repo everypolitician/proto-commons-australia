@@ -19,12 +19,12 @@
       },
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q216082"
+        "value" : "http://www.wikidata.org/entity/Q25210911"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Australian Labor Party"
+        "value" : "Australian Labor Party (Victorian Branch)"
       },
       "district" : {
         "type" : "uri",

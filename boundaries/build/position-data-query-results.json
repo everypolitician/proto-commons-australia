@@ -274,6 +274,51 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7566117"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australian House of Assembly"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18220900"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the South Australian House of Assembly"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35715"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australia"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "position_superclass_en" : {
@@ -319,12 +364,12 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q5230427"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative assembly"
       },
       "body" : {
         "type" : "uri",
@@ -409,6 +454,51 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56844145"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative council"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7566128"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australian Legislative Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18662245"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the South Australian Legislative Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35715"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australia"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q19597471"
       },
       "position_superclass_en" : {
@@ -454,12 +544,12 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "body" : {
         "type" : "uri",
@@ -544,12 +634,57 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q5230427"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867120"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tasmanian House of Assembly"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19007285"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Tasmanian House of Assembly"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34366"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tasmania"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19299327"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Parliament of Tasmania"
       },
       "body" : {
         "type" : "uri",
@@ -589,12 +724,12 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "body" : {
         "type" : "uri",
@@ -634,12 +769,12 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q5230427"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative assembly"
       },
       "body" : {
         "type" : "uri",
@@ -679,12 +814,57 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q19299327"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of Parliament of Tasmania"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2994121"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tasmanian Legislative Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19299542"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Tasmanian Legislative Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34366"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tasmania"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56844145"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative council"
       },
       "body" : {
         "type" : "uri",
@@ -810,12 +990,12 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q56844145"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative council"
       },
       "body" : {
         "type" : "uri",
@@ -855,12 +1035,12 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q5230427"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative assembly"
       },
       "body" : {
         "type" : "uri",
@@ -941,12 +1121,12 @@
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q5230427"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "member of a legislative assembly"
       },
       "body" : {
         "type" : "uri",
@@ -995,12 +1175,12 @@
       },
       "body" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56459482"
+        "value" : "http://www.wikidata.org/entity/Q19872854"
       },
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Office of the South Australian Productivity Commission"
+        "value" : "Department of the Premier and Cabinet"
       }
     }, {
       "position" : {
@@ -1077,12 +1257,12 @@
       },
       "body" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19872854"
+        "value" : "http://www.wikidata.org/entity/Q56459482"
       },
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Department of the Premier and Cabinet"
+        "value" : "Office of the South Australian Productivity Commission"
       }
     }, {
       "position" : {
@@ -1246,7 +1426,7 @@
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Adelaide City Council"
+        "value" : "Corporation of the City of Adelaide"
       }
     }, {
       "position" : {
@@ -1310,16 +1490,16 @@
       "admin_area_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "City of Port Adelaide Enfield"
+        "value" : "Port Adelaide Enfield"
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11902879"
+        "value" : "http://www.wikidata.org/entity/Q30185"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Lord Mayor"
+        "value" : "mayor"
       },
       "body" : {
         "type" : "uri",
@@ -1328,7 +1508,97 @@
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Port Adelaide Enfield City Council"
+        "value" : "City of Port Adelaide Enfield"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51879339"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Speaker of the South Australian House of Assembly"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35715"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australia"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18220900"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the South Australian House of Assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7566117"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australian House of Assembly"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51879339"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Speaker of the South Australian House of Assembly"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35715"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australia"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1758037"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "speaker"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7566117"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australian House of Assembly"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -4047,6 +4317,10 @@
         "type" : "literal",
         "value" : "member of Inner West Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -4077,10 +4351,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Inner West Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -4133,6 +4403,10 @@
         "type" : "literal",
         "value" : "member of Canterbury-Bankstown Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -4163,10 +4437,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Canterbury-Bankstown Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -4219,6 +4489,10 @@
         "type" : "literal",
         "value" : "member of Bayside Council"
       },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q24238356"
@@ -4249,10 +4523,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Bayside Council"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       }
     }, {
       "position" : {
@@ -5030,7 +5300,7 @@
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Adelaide City Council"
+        "value" : "Corporation of the City of Adelaide"
       }
     }, {
       "position" : {
@@ -5315,7 +5585,7 @@
       "admin_area_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "City of Port Adelaide Enfield"
+        "value" : "Port Adelaide Enfield"
       },
       "positionSuperclass" : {
         "type" : "uri",
@@ -5333,7 +5603,7 @@
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Port Adelaide Enfield City Council"
+        "value" : "City of Port Adelaide Enfield"
       }
     }, {
       "position" : {
@@ -10203,6 +10473,96 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Senate of Australia"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7241370"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of the South Australian Legislative Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35715"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australia"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18662245"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the South Australian Legislative Council"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7566128"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australian Legislative Council"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7241370"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of the South Australian Legislative Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35715"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australia"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1758037"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "speaker"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7566128"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Australian Legislative Council"
       }
     } ]
   }
